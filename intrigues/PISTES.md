@@ -2,10 +2,10 @@
 
 ## Préparation hors-jeu
 - [x] Définir le passé.
-- [ ] Définir l'identité et l'histoire.
-- [ ] Répartir les attributs et compétences.
-- [ ] Valider les qualités, faiblesses et moyens de départ.
-- [ ] Ouvrir la première scène de jeu.
+- [x] Définir l'identité, la motivation et le contexte de départ (détails historiques secondaires ouverts).
+- [x] Répartir les attributs et compétences.
+- [x] Valider les qualités, faiblesses et moyens de départ (zero to hero : seuls vêtements chauds).
+- [x] Ouvrir la première scène de jeu (tour 0012).
 
 ## Objectifs personnels établis pendant la création
 

@@ -3,10 +3,10 @@
   "campagne": "Les Cendres du Monde",
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
-  "phase": "creation_personnage",
-  "etape_creation": "finalisation_depart",
-  "tour": 11,
-  "derniere_decision_id": "tour-0011",
+  "phase": "jeu",
+  "etape_creation": "terminee",
+  "tour": 12,
+  "derniere_decision_id": "tour-0012",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -15,12 +15,12 @@
   },
   "localisation": {
     "region": "Suisse romande / région lémanique",
-    "lieu_precis": null,
+    "lieu_precis": "Forêt, emplacement précis inconnu",
     "coordonnees": null
   },
   "conditions": {
     "meteo": null,
-    "luminosite": null,
+    "luminosite": "matin",
     "menaces_immediates": []
   },
   "progression": {
@@ -32,14 +32,16 @@
       "pnj-kubra"
     ],
     "factions_connues": [],
-    "lieux_visites": []
+    "lieux_visites": [
+      "lieu-foret-001"
+    ]
   },
-  "chapitre_actuel": null,
-  "derniere_scene_canonique": null,
-  "prochaine_action": "Ouvrir la première scène le matin après une nuit en forêt : couple momentanément en sécurité, vêtements chauds, sans armes ni vivres, sans inventer de position exacte.",
+  "chapitre_actuel": "chapitre-001",
+  "derniere_scene_canonique": "recit/chapitre-001/scene-001.md",
+  "prochaine_action": "Première action libre de Nighttug, dans la forêt après la nuit passée avec Kubra.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
-    "statut": "creation_personnage_en_cours"
+    "statut": "partie_en_cours"
   }
 }

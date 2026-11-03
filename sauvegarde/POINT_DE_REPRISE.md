@@ -1,18 +1,22 @@
 # Point de reprise — Les Cendres du Monde
-<!-- TOUR_COURANT: 11 -->
+<!-- TOUR_COURANT: 12 -->
 
-## État de la campagne
-Tour 0011 ; phase création du personnage, première scène non ouverte. Nighttug, 31 ans, et son épouse Kubra ont fui un campement attaqué par des ennemis supérieurs en nombre et en équipement. Aucune action n'a été jouée.
-Les caractéristiques et compétences chiffrées sont celles de personnage/PERSONNAGE.json.
+## Situation canonique
+- **Tour :** 0012 ; dernière décision : tour-0012.
+- **Phase :** jeu ; création terminée, chapitre 001, scène 001 ouverte.
+- **Scène :** recit/chapitre-001/scene-001.md.
+- **Année :** 2043 ; matin, date et heure exactes inconnues ; hiver approchant.
+- **Lieu :** forêt non identifiée de la région lémanique, position exacte inconnue.
+- **Contexte :** après un raid de leur campement, Nighttug et Kubra se sont enfuis discrètement, puis ont passé la nuit en forêt. Ils sont momentanément en sécurité, sans menace immédiate identifiée.
+- **Inventaire :** seuls les vêtements chauds portés par chacun ; aucun aliment, eau en réserve, arme, outil ou autre équipement.
+- **État physique :** non chiffré ; ne pas inventer de blessure, ni de fatigue précise, ni de santé parfaite.
+- **Ambition :** rester un duo indépendant, trouver à se ravitailler, créer des liens commerciaux prudents et découvrir un refuge sûr.
+- **Faiblesses validées au tour 0011 :** méfiance excessive, indépendance obstinée, sang-froid fragilisé lorsque Kubra est sérieusement menacée. La logique et la rapidité de décision sont des qualités.
+- **Caractéristiques et compétences :** consulter uniquement personnage/PERSONNAGE.json.
+- **Temps écoulé depuis le début du jeu :** zéro minute ; aucune action ni aucun jet encore résolu.
 
-## Trois faiblesses validées
-- Méfiance excessive envers les inconnus.
-- Indépendance obstinée : difficulté à compter sur une aide extérieure.
-- Sang-froid fragilisé lorsqu'un danger sérieux et crédible menace Kubra.
-La logique et la décision rapide restent des qualités. Les faiblesses sont contextuelles et ne forcent aucune action.
-
-## Point de départ à enregistrer au tour 0012
-Après avoir fui le campement, le couple a passé la nuit en forêt. Le jeu commence lorsqu'ils sont momentanément en sécurité. Ils portent des vêtements chauds mais n'ont ni nourriture, ni eau en réserve, ni arme. L'emplacement précis, la météo, l'heure exacte et leur état physique chiffré sont inconnus. Inscrire les vêtements chauds dans l'inventaire du duo tout en conservant les autres ressources à zéro. Créer alors la première scène et passer en phase « jeu ».
+## Continuité
+Kubra demeure le PNJ compagnon de Nighttug. Les deux ont passé la nuit dans la forêt. Leur position précise, la météo, les assaillants et leur éventuelle présence sont inconnus. Les vêtements portés sont les seules possessions du duo ; inventaire maître dans sauvegarde/INVENTAIRE.json. Les scènes ne doivent pas anticiper les actions du joueur.
 
 ## PROCHAINE INTERACTION
-Publier la décision explicite d'ouverture au tour 0012 en commit atomique. Introduire la scène matinale en forêt et laisser le joueur agir.
+Présenter la scène d'ouverture au matin, dans la forêt, puis demander librement la première action de Nighttug. Consigner cette action et ses conséquences dans le tour 0013 et un commit GitHub dédié.

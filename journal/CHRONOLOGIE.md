@@ -67,3 +67,9 @@
 - **Décision :** trois faiblesses confirmées : méfiance excessive, indépendance obstinée et sang-froid fragilisé si Kubra affronte un danger sérieux.
 - **Limites :** la logique et les décisions rapides restent des qualités ; aucun contrôle automatique des actions, aucun malus non justifié.
 - **Temps fictif :** zéro ; la première scène n'est pas encore ouverte.
+
+## Partie — Tour 0012 : Ouverture de la première scène (2043, matin)
+- Après leur fuite du campement, Nighttug et Kubra ont passé la nuit en forêt. Ils sont momentanément en sécurité, sans menace immédiate identifiée.
+- Ils portent chacun des vêtements chauds. Ils n'ont ni vivres, ni eau en réserve, ni arme, ni autre équipement.
+- Première scène créée dans `recit/chapitre-001/scene-001.md`. Lieu exact et états physiques chiffrés non définis.
+- **Temps écoulé depuis l'ouverture :** 0 minute, aucun jet ni action jouée.
