@@ -1,0 +1,14 @@
+{
+  "schema_version": "2.0",
+  "statut": "non_defini",
+  "objets": [],
+  "consommables": {
+    "eau_potable_l": null,
+    "nourriture_portions": null,
+    "soins_unites": null
+  },
+  "charge": {
+    "capacite_kg": null
+  },
+  "notes": "Une quantité ne doit jamais apparaître deux fois dans les objets et les consommables. Les masses inconnues ne sont pas égales à zéro."
+}

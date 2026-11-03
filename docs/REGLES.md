@@ -16,7 +16,7 @@
 - Suivre eau, nourriture, matériel utilisable, masse transportée, fatigue et état physique selon les valeurs réellement établies en jeu.
 - Ne pas inventer de quantités initiales avant l'achèvement de la création du personnage.
 - La dégradation, la récupération et les effets de manque sont progressifs et circonstanciels ; pas de pertes arbitraires.
-- Les conséquences et les états durables doivent être consignés dans ETAT.json et le journal.
+- Les conséquences et les états durables sont consignés dans leur source maîtresse : contexte dans ETAT.json, état physique et capacités dans PERSONNAGE.json, équipement et stocks dans INVENTAIRE.json, puis dans le journal. Voir docs/SCHEMA.md.
 
 ## Tests d'incertitude (base d20)
 - Aucun jet pour les actions triviales ou impossibles : le MJ explique les résultats logiques.
@@ -40,3 +40,7 @@
 - Ne pas modifier rétroactivement des faits pour sauver ou punir le joueur.
 - Corriger publiquement les erreurs de continuité et les consigner si nécessaire.
 - L'histoire n'est pas destinée à conduire forcément à une fin particulière.
+
+## Sauvegarde V2
+- Les documents narratifs en Markdown ne sont pas une seconde source des valeurs numériques.
+- Chaque décision validée ajoute un tour et un commit GitHub unique, après vérification de la cohérence.

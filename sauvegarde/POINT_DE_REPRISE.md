@@ -1,19 +1,22 @@
 # Point de reprise — Les Cendres du Monde
+<!-- TOUR_COURANT: 0 -->
 
-## État certifié
-- **Phase :** création du personnage, étape 1 — choix du passé.
-- **Tour :** 0.
-- **Dernière décision sauvegardée :** aucune.
-- **Personnage :** non créé ; aucun passé, nom ou équipement sélectionné.
-- **Lieu et heure fictifs :** non fixés. Le cadre général est la Suisse romande en 2043.
-- **Dernière scène canonique :** aucune. Le prologue général n'est pas une scène jouée.
-- **Dernière sauvegarde :** commit d'installation du dispositif ; consulter le HEAD actuel de `main`.
+## État certifié — V2
+- **Tour :** 0. **Phase :** création du personnage, choix du passé.
+- **Décisions validées :** aucune.
+- **Personnage :** non créé. Source de vérité : [PERSONNAGE.json](../personnage/PERSONNAGE.json).
+- **Équipement :** non défini. Source de vérité : [INVENTAIRE.json](INVENTAIRE.json).
+- **Date et lieu fictifs précis :** non déterminés. Cadre : Suisse romande en 2043.
+- **Scènes :** aucune scène jouée ; aucun chapitre commencé.
 
-## Ce que le joueur a demandé
-Univers post-apocalyptique ; règles de simulation exigeante ; narration immersive et détaillée ; MJ impartial ; suivi des conséquences ; sauvegarde GitHub après **chaque choix** pour permettre une reprise dans une nouvelle conversation.
+## Instructions de reprise
+Lire en priorité ETAT.json, PERSONNAGE.json, INVENTAIRE.json, docs/PROTOCOLE_MJ.md, puis les dernières décisions et scènes. Vérifier le HEAD de main. Le résumé Markdown ne remplace pas les données JSON.
 
-## Éléments à ne pas inventer
-Aucune décision de personnage n'a été actée. L'interface de choix affichait « technicien » comme sélection initiale par défaut, mais le joueur n'a pas validé cette proposition. Les lieux d'exemple (auberge, Valdren) ne font pas partie de la fiction canonique.
+## Contexte établi
+Univers post-apocalyptique, simulation exigeante, narration immersive et détaillée. La Rupture date d'environ 2032 ; l'hiver approche. Le joueur a demandé un commit GitHub pour chaque choix validé.
+
+## Important
+Le passé technicien affiché par défaut dans l'interface précédente n'a pas été validé. L'auberge de Valdren était un exemple hors campagne. Aucune décision de personnage n'est actée.
 
 ## PROCHAINE INTERACTION
-Demander au joueur de choisir le passé du personnage : **technicien**, **secouriste**, **éclaireur**, **négociateur**, ou **passé personnalisé**. Après sa réponse, consigner **tour 1** et sauvegarder la décision dans GitHub avant de poursuivre la création (identité, histoire, etc.). Ne pas commencer l'aventure jouable tant que la fiche et les ressources de départ ne sont pas validées.
+Demander au joueur de choisir son passé : **technicien**, **secouriste**, **éclaireur**, **négociateur** ou **personnalisé**. Sauvegarder sa réponse en **tour 1**, dans un unique commit. Ne pas ouvrir de scène jouable avant la validation complète de la fiche.

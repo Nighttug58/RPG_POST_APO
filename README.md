@@ -1,45 +1,52 @@
 # RPG_POST_APO — Les Cendres du Monde
 
-Campagne de jeu de rôle narratif post-apocalyptique, dirigée par ChatGPT et pilotée par les décisions du joueur.
+Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-> **État :** création du personnage non commencée. **Aucune décision de personnage n'est encore validée.**
+**État : tour 0 — création du personnage non commencée, aucun passé sélectionné.**
 
-## Concept
+## Architecture V2
 
-- **Univers :** Suisse romande, année fictive 2043 ; onze ans après « La Rupture » (2032).
-- **Ambiance :** immersive, détaillée, survie post-apocalyptique.
-- **Système :** simulation exigeante, ressources limitées, conséquences persistantes, sans protection scénaristique automatique.
-- **Joueur :** décide librement des intentions, paroles et actions du protagoniste.
-- **Maître du jeu (MJ) :** décrit le monde et interprète les PNJ, arbitre les conséquences, tient les journaux et sauvegarde après chaque décision validée.
-
-## Documents de référence
-
-| Fichier | Rôle |
+| Répertoire | Contenu |
 | --- | --- |
-| [sauvegarde/POINT_DE_REPRISE.md](sauvegarde/POINT_DE_REPRISE.md) | **À lire en premier** pour reprendre la partie |
-| [sauvegarde/ETAT.json](sauvegarde/ETAT.json) | État courant structuré du jeu |
-| [personnage/FICHE.md](personnage/FICHE.md) | Identité, histoire et caractéristiques |
-| [personnage/INVENTAIRE.md](personnage/INVENTAIRE.md) | Équipement, ressources et charges |
-| [journal/CHRONOLOGIE.md](journal/CHRONOLOGIE.md) | Récit factuel et journal chronologique |
-| [journal/DECISIONS.jsonl](journal/DECISIONS.jsonl) | Historique des décisions du joueur |
-| [journal/JETS.jsonl](journal/JETS.jsonl) | Historique des tests et tirages |
-| [intrigues/PISTES.md](intrigues/PISTES.md) | Objectifs, pistes, promesses et enjeux |
-| [canon/MONDE.md](canon/MONDE.md) | Éléments établis de l'univers |
-| [canon/PNJ.md](canon/PNJ.md) | Personnages non joueurs connus |
-| [canon/LIEUX.md](canon/LIEUX.md) | Lieux explorés et connus |
-| [canon/FACTIONS.md](canon/FACTIONS.md) | Groupes et relations |
-| [docs/REGLES.md](docs/REGLES.md) | Principes et mécanique de simulation |
-| [docs/PROTOCOLE_MJ.md](docs/PROTOCOLE_MJ.md) | Règles de continuité, sauvegarde et reprise |
+| `docs/` | Règles, protocole MJ et contrat de données |
+| `canon/` | Monde établi, PNJ, lieux et factions connus |
+| `personnage/` | Identité et capacités structurées, portrait biographique |
+| `sauvegarde/` | État présent, inventaire et point de reprise |
+| `journal/` | Historique des décisions, jets et chronologie |
+| `recit/` | Index, chapitres et scènes vécues |
+| `intrigues/` | Pistes, missions et objectifs |
+| `scripts/` et `.github/workflows/` | Contrôles automatiques des sauvegardes |
+| `mj/` | Avertissement : aucune information secrète n'est à stocker dans un dépôt public |
 
-## Reprendre une partie
+### Sources maîtresses
+- [ETAT.json](sauvegarde/ETAT.json) : phase, tour, date, lieu, environnement, progression.
+- [PERSONNAGE.json](personnage/PERSONNAGE.json) : identité, attributs, compétences, santé et besoins.
+- [INVENTAIRE.json](sauvegarde/INVENTAIRE.json) : objets, ressources et capacité de charge.
+- [DECISIONS.jsonl](journal/DECISIONS.jsonl) : un choix validé par ligne, immuable.
+- [JETS.jsonl](journal/JETS.jsonl) : jets réellement effectués.
+- [INDEX.md](recit/INDEX.md) : chapitres et scènes, avec une fiche par scène.
+- [POINT_DE_REPRISE.md](sauvegarde/POINT_DE_REPRISE.md) : **à lire en premier** en ouvrant une nouvelle conversation.
 
-1. Ouvrir une conversation avec accès GitHub au dépôt `Nighttug58/RPG_POST_APO`.
-2. Demander : « Reprends la campagne Les Cendres du Monde depuis GitHub. Lis le point de reprise, l'état de jeu et les règles avant de raconter la suite. »
-3. Le MJ relit les fichiers pertinents, vérifie la dernière décision sauvegardée et reprend **sans inventer** les informations manquantes.
-4. Chaque décision suivante est enregistrée par un nouveau commit sur `main`.
+Les fichiers Markdown de personnage et d'inventaire renvoient aux JSON plutôt que de dupliquer les quantités.
 
-**Règle fondamentale :** GitHub est la source de vérité persistante. Les scènes racontées mais non sauvegardées doivent être signalées comme telles, et ne sont pas considérées comme confirmées lors d'une reprise.
+### Règles et continuité
+- [Règles de simulation](docs/REGLES.md)
+- [Protocole de commits et reprise](docs/PROTOCOLE_MJ.md)
+- [Schéma de données V2](docs/SCHEMA.md)
+- [Chronologie](journal/CHRONOLOGIE.md)
+- [Canon du monde](canon/MONDE.md), [PNJ](canon/PNJ.md), [lieux](canon/LIEUX.md), [factions](canon/FACTIONS.md)
+- [Pistes](intrigues/PISTES.md)
 
-Le MJ ne doit ni attribuer une action au joueur sans instruction, ni révéler des éléments secrets du monde au joueur à partir de notes internes.
+## Reprendre la campagne
+Avec l'accès GitHub connecté, envoyer :
 
-*Dépôt initialisé le 3 novembre 2026 (date réelle).*
+> Reprends Les Cendres du Monde depuis Nighttug58/RPG_POST_APO. Lis le point de reprise, l'état, le personnage, l'inventaire, les règles, les dernières décisions et les scènes récentes, puis continue au dernier tour committé.
+
+**Un choix de jeu validé = un commit** nommé `jeu(tour-XXXX): ...`. Une intervention hors-jeu ne change pas le tour. Le MJ ne promet jamais de commits en arrière-plan et signale explicitement tout échec GitHub.
+
+## Vérification
+Lancer `python3 scripts/valider_sauvegarde.py`. Un workflow GitHub Actions vérifie automatiquement le dépôt après les modifications. La validation structurelle ne remplace pas le contrôle de cohérence du récit.
+
+**Confidentialité :** le dépôt est public, donc les secrets du MJ seraient visibles. Les coulisses non révélées ne sont pas archivées ici. Il faudrait un dépôt privé distinct pour cela.
+
+Création initiale : 3 novembre 2026. Migration V2 : sans avancer le temps fictif ni les décisions.

@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "statut": "non_cree",
+  "identifiant": "protagoniste",
+  "identite": {
+    "nom": null,
+    "age": null,
+    "passe": null,
+    "origine": null,
+    "motivation": null
+  },
+  "caracteristiques": {
+    "force": null,
+    "agilite": null,
+    "perception": null,
+    "intelligence": null,
+    "volonte": null,
+    "relations": null
+  },
+  "competences": null,
+  "traits": {
+    "qualites": [],
+    "faiblesses": []
+  },
+  "etat_physique": {
+    "sante": null,
+    "blessures": [],
+    "fatigue": null,
+    "faim": null,
+    "hydratation": null
+  },
+  "progression": {
+    "experience": null,
+    "capacites_speciales": [],
+    "notes": []
+  }
+}

@@ -1,20 +1,5 @@
-# Inventaire du protagoniste
+# Inventaire — ancien point d'entrée
 
-**Statut :** non défini ; aucun équipement de départ validé.
+Les objets, consommables et capacités de transport sont conservés **uniquement** dans [sauvegarde/INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
-| Objet | Quantité | État | Masse totale | Emplacement | Notes |
-| --- | ---: | --- | ---: | --- | --- |
-| *À déterminer lors de la création* | — | — | — | — | — |
-
-## Ressources
-- Eau potable : *non attribuée*
-- Nourriture : *non attribuée*
-- Fournitures médicales : *non attribuées*
-- Autres consommables : *non attribués*
-- Monnaie / moyens d'échange : *non définis*
-
-## Charge
-- Masse portée : *inconnue*
-- Capacité pratique : *à déterminer selon le personnage et le matériel*
-
-Ne pas convertir « inconnu » en zéro. Après chaque changement, reporter les quantités exactes en ETAT.json et vérifier la cohérence.
+Ce fichier est conservé pour la compatibilité des liens historiques. N'y recopier aucune quantité.

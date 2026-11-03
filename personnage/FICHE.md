@@ -1,34 +1,17 @@
-# Fiche du personnage principal
+# Portrait narratif du protagoniste
 
-**Statut : À créer — création suspendue avant le choix du passé.**
+**Statut :** non créé ; aucune décision validée.
 
-## Identité
-- Nom : *non défini*
-- Âge : *non défini*
-- Origine / passé : *non choisi*
-- Histoire personnelle : *non définie*
-- Motivation : *non définie*
+Ce dossier rassemble la biographie, les souvenirs, les relations et les motivations rédigées. Les attributs, compétences et besoins chiffrés ont pour **seule source de vérité** [PERSONNAGE.json](PERSONNAGE.json). Les équipements et ressources sont dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
-## Caractéristiques (échelle 1 à 5)
-- Force : *non attribuée*
-- Agilité : *non attribuée*
-- Perception : *non attribuée*
-- Intelligence : *non attribuée*
-- Volonté : *non attribuée*
-- Relations : *non attribuée*
+## Histoire personnelle
+*À définir avec le joueur.*
 
-## Compétences (échelle 0 à 3)
-*Aucune compétence ni valeur attribuée pour le moment.*
+## Motivations et dilemmes
+*À définir.*
 
-## Qualités, faiblesses, connaissances
-*À déterminer durant la création.*
+## Relations et souvenirs
+*Aucun élément établi.*
 
-## État actuel
-- Santé / blessures : *non fixé*
-- Fatigue / repos : *non fixé*
-- Faim / hydratation : *non fixé*
-- Lieu actuel : *non fixé*
-- Objectifs personnels : *non fixés*
-
-## Prochaine étape
-Choisir librement le passé : **technicien**, **secouriste**, **éclaireur**, **négociateur**, ou **passé personnalisé**. Ne pas présumer que « technicien » est choisi uniquement parce qu'une interface proposait ce choix par défaut.
+## Étape suivante
+Choisir un passé : technicien, secouriste, éclaireur, négociateur ou personnalisé. Aucun choix n'a encore été confirmé.

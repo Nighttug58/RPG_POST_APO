@@ -1,9 +1,7 @@
-# COULISSES DU MJ — SPOILERS POTENTIELS
+# Espace MJ — avertissement
 
-> ATTENTION : ce fichier est dans un dépôt GitHub **public**. Son contenu peut être lu par n'importe qui. Ne pas le consulter si l'on veut éviter d'éventuels spoilers.
+**Ce dépôt GitHub est public.** Le dossier `mj/` ne protège aucune information.
 
-## État initial
-Aucune intrigue secrète, motivation cachée, carte confidentielle ou issue prédéterminée n'a été établie.
+Ne stocker ici aucun secret d'intrigue non découvert, motivation cachée de PNJ, mot de passe ou renseignement personnel sensible. Les faits publics, rumeurs connues et décisions du joueur sont archivés dans `canon/`, `journal/` et `recit/`.
 
-## Continuité
-Consigner ici seulement les éléments fictionnels déjà décidés par le MJ et indispensables à une résolution future : intentions hors champ de PNJ, engagements crédibles, actions en cours et causalités non encore vues par le protagoniste. Les secrets inventés ne doivent pas contredire le canon. Éviter toute divulgation en narration avant leur découverte ; ne jamais inscrire de données personnelles réelles.
+Si des secrets de MJ doivent être conservés entre les sessions sans être lisibles par le joueur, il faudra créer **séparément un dépôt privé**. Ce n'est pas configuré pour le moment.

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "campagne": "Les Cendres du Monde",
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
@@ -18,28 +18,10 @@
     "lieu_precis": null,
     "coordonnees": null
   },
-  "personnage": {
-    "cree": false,
-    "nom": null,
-    "age": null,
-    "passe": null,
-    "caracteristiques": null,
-    "competences": null,
-    "etat_sante": null,
-    "fatigue": null,
-    "hydratation": null,
-    "faim": null
-  },
-  "inventaire": {
-    "defini": false,
-    "objets": [],
-    "masse_kg": null,
-    "capacite_kg": null
-  },
-  "ressources": {
-    "eau_litres": null,
-    "nourriture_portions": null,
-    "autres": null
+  "conditions": {
+    "meteo": null,
+    "luminosite": null,
+    "menaces_immediates": []
   },
   "progression": {
     "objectifs_actifs": [],
@@ -48,15 +30,12 @@
     "factions_connues": [],
     "lieux_visites": []
   },
-  "conditions": {
-    "meteo": null,
-    "luminosite": null,
-    "menaces_immediates": []
-  },
+  "chapitre_actuel": null,
   "derniere_scene_canonique": null,
   "prochaine_action": "Choisir le passé du personnage parmi technicien, secouriste, éclaireur, négociateur ou personnalisé",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
+    "version_architecture": "2.0",
     "statut": "initialisee_avant_premier_choix"
   }
 }
