@@ -1,6 +1,6 @@
 # Portrait narratif du protagoniste
 
-**Statut :** création en cours. Passé personnalisé validé au **tour 0001**.
+**Statut :** création en cours. Passé personnalisé validé au **tour 0001** ; nom **Nighttug** validé au **tour 0002**.
 
 Les attributs, compétences et états chiffrés ont pour seule source [PERSONNAGE.json](PERSONNAGE.json). L'équipement et les ressources sont dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
@@ -17,11 +17,11 @@ Avant la Rupture, le protagoniste était **dessinateur 3D**, avec des connaissan
 Cette description est le profil narratif choisi, pas une attribution de niveaux chiffrés. La formation et les expériences à l'origine de certains savoir-faire restent à développer, sans présumer d'un passé militaire ni d'une appartenance à un groupe. La simulation exigeante imposera des limites et des situations où le protagoniste peut échouer.
 
 ## Identité et histoire personnelle
-- Nom / surnom : *non défini*
+- Nom / surnom : **Nighttug** (tour 0002)
 - Âge : *non défini*
 - Provenance : *non définie*
 - Relations et motivation : *non définies*
 - Parcours entre la Rupture et 2043 : *à construire avec le joueur*
 
 ## Prochaine étape
-Choisir le **nom ou le surnom** du protagoniste, puis poursuivre l'identité et la répartition des attributs.
+Définir **l'âge de Nighttug**, puis préciser son histoire personnelle et répartir les attributs.

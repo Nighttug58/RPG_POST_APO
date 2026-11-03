@@ -4,9 +4,9 @@
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
   "phase": "creation_personnage",
-  "etape_creation": "identite",
-  "tour": 1,
-  "derniere_decision_id": "tour-0001",
+  "etape_creation": "identite_age",
+  "tour": 2,
+  "derniere_decision_id": "tour-0002",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -32,7 +32,7 @@
   },
   "chapitre_actuel": null,
   "derniere_scene_canonique": null,
-  "prochaine_action": "Choisir le nom ou surnom du protagoniste, puis préciser son âge et son histoire personnelle.",
+  "prochaine_action": "Choisir l'âge fictif du protagoniste Nighttug, puis poursuivre l'identité et son histoire.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",

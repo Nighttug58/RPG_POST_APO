@@ -16,3 +16,8 @@
 - **Décision :** passé personnalisé validé. Ancien dessinateur 3D, connaissances approfondies en informatique ; grande taille, force et endurance ; logique, prudence, sens exceptionnel de l'orientation et bonne vision spatiale ; bases de cuisine et de soins ; connaissances en combat, infiltration et discrétion revendiquées.
 - **Résultat :** ces traits constituent le portrait narratif. Les niveaux chiffrés, le nom, l'âge, le parcours et l'équipement restent à définir.
 - **Temps fictif :** 0 minute. Aucune scène de campagne encore ouverte.
+
+## Création de personnage — Tour 0002 (hors-jeu, 2026-11-03)
+- **Décision :** le protagoniste s'appelle **Nighttug**.
+- **Résultat :** nom validé ; âge, origine géographique, histoire, motivations, valeurs de caractéristiques et équipement encore à définir.
+- **Temps fictif :** 0 minute. Aucune scène de campagne ouverte.

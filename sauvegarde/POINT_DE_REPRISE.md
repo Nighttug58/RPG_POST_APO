@@ -1,23 +1,23 @@
 # Point de reprise — Les Cendres du Monde
-<!-- TOUR_COURANT: 1 -->
+<!-- TOUR_COURANT: 2 -->
 
 ## État certifié — V2
-- **Tour :** 1 ; **dernière décision :** tour-0001.
-- **Phase :** création du personnage, prochaine étape : identité.
-- **Passé validé :** ancien dessinateur 3D, avec connaissances approfondies en informatique.
-- **Profil déclaré :** grande taille, force et endurance ; intelligence logique, vigilance et prudence ; excellent sens de l'orientation et représentation spatiale ; notions de cuisine et rudiments de soins ; connaissances accrues revendiquées en combat, infiltration et discrétion.
-- **Scores et équipement :** non attribués. **Nom, âge, histoire et motivations :** encore indéfinis.
-- **Temps fictif écoulé :** 0 ; aucune scène jouée ni chapitre ouvert.
+- **Tour :** 2 ; **dernière décision :** tour-0002.
+- **Phase :** création du personnage ; prochaine étape : choix de l'âge.
+- **Nom validé :** Nighttug (tour 0002).
+- **Passé validé :** ancien dessinateur 3D disposant de connaissances approfondies en informatique (tour 0001).
+- **Profil déclaré :** grande taille, force, endurance, intelligence logique et prudence ; excellent sens de l'orientation et visualisation spatiale ; notions de cuisine, soins rudimentaires et connaissances accrues revendiquées en combat, infiltration et discrétion.
+- **Non attribués :** âge, provenance, motivations, attributs/compétences chiffrés, équipement et ressources.
+- **Temps fictif :** aucun temps écoulé ; aucune scène jouée ni chapitre ouvert.
 
 ## Sources maîtresses
-- `sauvegarde/ETAT.json` : tour, phase et contexte.
-- `personnage/PERSONNAGE.json` : passé, traits et caractéristiques à venir.
-- `sauvegarde/INVENTAIRE.json` : inventaire encore non défini.
-- `journal/DECISIONS.jsonl` : décision originale du tour 0001.
-- `personnage/FICHE.md` : portrait narratif détaillé.
+- `sauvegarde/ETAT.json` : tour, phase et situation.
+- `personnage/PERSONNAGE.json` : nom, passé, traits, valeurs futures.
+- `sauvegarde/INVENTAIRE.json` : équipements et consommables (non attribués).
+- `journal/DECISIONS.jsonl` : deux choix validés ; `personnage/FICHE.md` : portrait narratif.
 
-## À respecter
-Le passé et les aptitudes décrites sont validés narrativement. Les **niveaux chiffrés**, l'équilibrage et les limites doivent être fixés à l'étape prévue, sans accorder de succès automatique. Ne pas inventer d'origine militaire, de formation ou de rencontre. Le personnage ne participe à aucune scène avant la validation de sa création.
+## Continuité
+Les aptitudes du tour 0001 sont des descriptions narratives, pas encore des bonus chiffrés ou des garanties de réussite. Ne pas inventer d'histoire militaire, de circonstances d'acquisition des compétences, ni de scènes d'aventure tant que le personnage n'est pas créé.
 
 ## PROCHAINE INTERACTION
-Demander au joueur le **nom ou le surnom du personnage**. Enregistrer le choix explicite comme **tour 0002** avec un nouveau commit GitHub, puis préciser l'âge et l'histoire personnelle.
+Demander **l'âge du personnage fictif Nighttug**. Une réponse explicite sera sauvegardée comme **tour 0003** dans un unique commit GitHub. Poursuivre ensuite la provenance, la biographie et les caractéristiques.
