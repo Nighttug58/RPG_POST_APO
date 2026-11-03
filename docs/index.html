@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#161d1c">
+  <meta name="description" content="Tableau de bord du personnage et de l'inventaire — Les Cendres du Monde.">
+  <title>Les Cendres du Monde — Tableau de bord</title>
+  <link rel="stylesheet" href="./dashboard.css">
+  <script src="./dashboard.js" defer></script>
+</head>
+<body>
+  <main class="shell">
+    <header class="masthead">
+      <div>
+        <p class="eyebrow">RPG POST-APO · DOSSIER DE SURVIE</p>
+        <h1>Les Cendres du Monde</h1>
+        <p class="lead">Fiche de personnage et inventaire synchronisés avec les fichiers JSON publics du dépôt GitHub.</p>
+      </div>
+      <button type="button" id="refresh" class="primary">Actualiser les données</button>
+    </header>
+
+    <div id="status" class="status" role="status" aria-live="polite">Chargement des sauvegardes…</div>
+    <section id="summary" class="summary" aria-label="Situation du jeu"></section>
+
+    <nav class="tabs" aria-label="Catégorie de la fiche">
+      <button type="button" id="tab-personnage" role="tab" aria-controls="panel-personnage" aria-selected="true" tabindex="0">Personnage</button>
+      <button type="button" id="tab-inventaire" role="tab" aria-controls="panel-inventaire" aria-selected="false" tabindex="-1">Inventaire</button>
+    </nav>
+    <section id="panel-personnage" role="tabpanel" aria-labelledby="tab-personnage" class="panel"></section>
+    <section id="panel-inventaire" role="tabpanel" aria-labelledby="tab-inventaire" class="panel" hidden></section>
+
+    <footer class="foot">
+      <p>Les valeurs « Non défini » représentent des données non encore choisies, pas des valeurs nulles de jeu.</p>
+      <p>Lecture seule : aucune modification n'est envoyée vers GitHub. Pour modifier la sauvegarde, prends une décision dans notre conversation.</p>
+      <p><a href="https://github.com/Nighttug58/RPG_POST_APO">Dépôt GitHub</a> · <a href="https://github.com/Nighttug58/RPG_POST_APO/blob/main/sauvegarde/ETAT.json">État JSON</a> · <a href="https://github.com/Nighttug58/RPG_POST_APO/blob/main/personnage/PERSONNAGE.json">Personnage JSON</a> · <a href="https://github.com/Nighttug58/RPG_POST_APO/blob/main/sauvegarde/INVENTAIRE.json">Inventaire JSON</a></p>
+    </footer>
+  </main>
+</body>
+</html>
