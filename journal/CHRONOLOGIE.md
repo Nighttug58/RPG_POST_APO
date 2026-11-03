@@ -26,3 +26,8 @@
 - **Décision :** Nighttug a **31 ans en 2043**.
 - **Conséquence :** il avait environ 20 ans à la Rupture en 2032. Sa date de naissance exacte n'est pas fixée.
 - **Suite :** définir sa provenance, puis son histoire. Aucun temps fictif écoulé, aucune scène ouverte.
+
+## Création de personnage — Tour 0004 (hors-jeu, 2026-11-03)
+- **Décision :** Nighttug vient de **Şarkışla (Sivas, Turquie)**, est **petit-fils d'immigré** et s'est installé à **Lausanne à 10 ans**, où il a habité depuis.
+- **Conséquence :** parcours géographique et familial partiellement fixé ; les détails de migration, sa nationalité et son parcours après la Rupture restent ouverts.
+- **Temps fictif :** 0 minute. Aucune scène de campagne encore ouverte.

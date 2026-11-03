@@ -19,9 +19,12 @@ Cette description est le profil narratif choisi, pas une attribution de niveaux 
 ## Identité et histoire personnelle
 - Nom / surnom : **Nighttug** (tour 0002)
 - Âge : **31 ans en 2043** (tour 0003)
-- Provenance : *non définie*
+- Provenance : **Şarkışla, province de Sivas, Turquie**, ville d'origine déclarée (tour 0004).
+- Histoire familiale : **petit-fils d'immigré** ; autres détails non précisés.
+- Installation à Lausanne : **à 10 ans** ; Nighttug y a toujours habité depuis, jusqu'en 2043.
+- Date d'installation : *non fixée précisément* (environ 2022 selon l'âge en 2043).
 - Relations et motivation : *non définies*
-- Parcours entre la Rupture et 2043 : *à construire avec le joueur*
+- Parcours entre la Rupture et 2043 : *à construire avec le joueur*, avec Lausanne comme lieu de résidence permanent.
 
 ## Prochaine étape
-Préciser **la provenance de Nighttug** (ville ou région d'origine), puis son histoire personnelle et répartir les attributs.
+Définir **comment Nighttug a vécu les onze années depuis la Rupture à Lausanne**, puis préciser ses motivations et équilibrer ses caractéristiques.
