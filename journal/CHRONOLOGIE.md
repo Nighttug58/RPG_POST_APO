@@ -36,3 +36,8 @@
 - Nighttug était employé chez LEMO, et jouait à Escape from Tarkov pendant son temps libre. Les périodes exactes restent à définir.
 - Il s'est marié avec Kubra à 28 ans (vers 2040). La situation actuelle de Kubra reste à établir.
 - Temps fictif écoulé : 0 minute. Aucune scène encore ouverte.
+
+## Création du personnage — Tour 0006 (hors-jeu, 2026-11-03)
+- **Décision :** Nighttug et Kubra font route ensemble, unis et solidaires, avec la volonté commune d'accomplir quelque chose d'important dans les terres désolées.
+- **Résultat :** Kubra devient un PNJ important et leur ambition partagée un objectif personnel encore non précisé. Aucun lieu précis, compétence de Kubra ou mission concrète n'est imposé.
+- **Temps fictif :** 0 minute ; aucune scène encore jouée.

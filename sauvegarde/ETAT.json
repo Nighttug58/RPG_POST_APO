@@ -4,9 +4,9 @@
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
   "phase": "creation_personnage",
-  "etape_creation": "identite_situation_conjoint",
-  "tour": 5,
-  "derniere_decision_id": "tour-0005",
+  "etape_creation": "objectifs_communs",
+  "tour": 6,
+  "derniere_decision_id": "tour-0006",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -24,15 +24,19 @@
     "menaces_immediates": []
   },
   "progression": {
-    "objectifs_actifs": [],
+    "objectifs_actifs": [
+      "objectif-commun-001"
+    ],
     "pistes_ouvertes": [],
-    "pnj_connus": [],
+    "pnj_connus": [
+      "pnj-kubra"
+    ],
     "factions_connues": [],
     "lieux_visites": []
   },
   "chapitre_actuel": null,
   "derniere_scene_canonique": null,
-  "prochaine_action": "Déterminer la situation de Kubra en 2043, puis compléter l'histoire du protagoniste après la Rupture.",
+  "prochaine_action": "Définir ce que Nighttug et Kubra veulent construire ou accomplir ensemble dans les terres désolées.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
