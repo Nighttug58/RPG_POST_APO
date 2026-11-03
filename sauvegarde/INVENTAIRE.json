@@ -1,14 +1,14 @@
 {
   "schema_version": "2.0",
-  "statut": "non_defini",
+  "statut": "defini",
   "objets": [],
   "consommables": {
-    "eau_potable_l": null,
-    "nourriture_portions": null,
-    "soins_unites": null
+    "eau_potable_l": 0,
+    "nourriture_portions": 0,
+    "soins_unites": 0
   },
   "charge": {
     "capacite_kg": null
   },
-  "notes": "Une quantité ne doit jamais apparaître deux fois dans les objets et les consommables. Les masses inconnues ne sont pas égales à zéro."
+  "notes": "Tour 0010 — Départ « zero to hero » après la fuite discrète du campement attaqué : Nighttug et Kubra n'ont emporté aucun équipement ni provision. Les vêtements éventuellement portés ne sont pas détaillés et n'apportent aucun avantage de jeu. Aucun matériel n'a été récupéré. Capacité de charge non fixée. Ceci est l'inventaire de départ du duo, pas une description de toutes leurs possessions antérieures."
 }

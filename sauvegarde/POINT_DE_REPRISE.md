@@ -1,18 +1,20 @@
 # Point de reprise — Les Cendres du Monde
-<!-- TOUR_COURANT: 9 -->
+<!-- TOUR_COURANT: 10 -->
 
-## État confirmé
-- Tour : 0009 ; dernière décision : tour-0009.
-- Phase : création du personnage, étape suivante : faiblesses et limites.
-- Nighttug : 31 ans en 2043, originaire de Şarkışla (Sivas), résident de longue date à Lausanne, ancien dessinateur 3D et employé de LEMO.
-- Kubra : épouse et partenaire de route ; tous deux souhaitent rester indépendants, trouver un refuge sûr et établir des liens commerciaux prudents.
-- Caractéristiques : six scores établis au tour 0008, total de 20 points. Source : personnage/PERSONNAGE.json.
-- Compétences : informatique 3 ; conception technique 2 ; orientation 2 ; discrétion 2 ; combat 2 ; survie 1 ; premiers soins 1 ; cuisine 1 ; négociation 1. Neuf compétences, 15 points, validées au tour 0009.
-- Faiblesses : non définies ; état physique et inventaire : non attribués.
-- Temps fictif écoulé : zéro ; aucune scène ouverte.
+## Campagne et état du duo
+- Tour 0010, dernière décision tour-0010. Phase : création du personnage, aucune scène jouée.
+- Nighttug, 31 ans en 2043, ancien dessinateur 3D et employé chez LEMO, résidant à Lausanne depuis ses dix ans ; épouse Kubra, avec qui il voyage.
+- Le duo souhaite rester indépendant, rechercher des liens commerciaux prudents et un refuge sécurisé.
+- Les caractéristiques et neuf compétences ont été validées aux tours 0008 et 0009 ; seules les valeurs de personnage/PERSONNAGE.json font autorité.
 
-## Règles de continuité
-Lire les fichiers maîtres sauvegarde/ETAT.json, personnage/PERSONNAGE.json, sauvegarde/INVENTAIRE.json et journal/DECISIONS.jsonl avant toute décision. Les statistiques n'impliquent aucune réussite automatique ; aucune aptitude chiffrée n'a encore été attribuée à Kubra.
+## Prologue immédiatement avant le début de la journée
+Le campement de Nighttug et Kubra a été attaqué par des ennemis supérieurs en nombre et en armement. Ils n'ont pas pu défendre le camp et se sont échappés immédiatement et discrètement.
+Ils partent en « zero to hero » : aucun équipement emporté, aucun objet, aucune eau, nourriture ou unité de soins en réserve (voir sauvegarde/INVENTAIRE.json). Les vêtements éventuellement portés et leur état n'ont pas été détaillés. Le lieu précis, l'identité des assaillants, la présence éventuelle de poursuivants et leur état physique ne sont pas fixés.
+Ce prologue est un fait de passé immédiat convenu pendant la création ; aucune action de jeu ni jet n'a été effectué. Temps fictif écoulé en création : zéro.
+
+## Décisions encore ouvertes
+Les trois faiblesses discutées restent des propositions et ne sont **pas** validées : méfiance excessive, indépendance obstinée, sang-froid fragilisé en cas de danger sérieux pour Kubra.
+Ne pas attribuer de blessures, fatigue, poursuite actuelle, endroit ou ressources sans décision fondée.
 
 ## PROCHAINE INTERACTION
-Proposer au joueur des faiblesses et limitations cohérentes avec le profil de Nighttug, puis recueillir son choix explicite. Sauvegarder la décision comme tour 0010 avec un commit atomique sur main.
+Revenir à la validation éventuelle des trois faiblesses de Nighttug. Puis définir l'état physique et le lieu précis d'ouverture avant de lancer la première scène. Enregistrer chaque décision explicitement validée dans un commit unique.

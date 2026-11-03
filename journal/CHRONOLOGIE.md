@@ -56,3 +56,9 @@
 - **Décision :** neuf compétences spécialisées validées pour un total de 15 points. Les niveaux précis figurent dans `personnage/PERSONNAGE.json` (source maîtresse).
 - **Suite :** définir les limites et faiblesses de Nighttug, puis les moyens de départ et l'équipement.
 - **Temps fictif :** zéro ; aucune scène jouée.
+
+## Création du personnage — Tour 0010 (prologue avant la première scène)
+- Juste avant le début de la journée, le campement de Nighttug et Kubra a été attaqué par des adversaires plus nombreux et mieux armés ; aucune défense n'était possible.
+- Le couple s'est enfui immédiatement et discrètement. Aucun combat n'est joué ou simulé.
+- Départ « zero to hero » : aucun équipement ni provision emportés ; détails du lieu, des assaillants et de l'état physique non encore définis.
+- Les faiblesses proposées n'ont pas été validées. Temps de jeu écoulé : zéro minute ; première scène non ouverte.

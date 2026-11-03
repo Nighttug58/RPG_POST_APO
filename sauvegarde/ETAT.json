@@ -5,8 +5,8 @@
   "branche": "main",
   "phase": "creation_personnage",
   "etape_creation": "faiblesses",
-  "tour": 9,
-  "derniere_decision_id": "tour-0009",
+  "tour": 10,
+  "derniere_decision_id": "tour-0010",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -36,7 +36,7 @@
   },
   "chapitre_actuel": null,
   "derniere_scene_canonique": null,
-  "prochaine_action": "Faire choisir ou valider les faiblesses et limites de Nighttug, puis préparer ses moyens et ressources de départ.",
+  "prochaine_action": "Faire valider explicitement les trois faiblesses encore proposées ; ensuite fixer l'état physique et le lieu précis d'ouverture après la fuite du campement. Le démarrage sans équipement et les provisions à zéro sont déjà validés.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
