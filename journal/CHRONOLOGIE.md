@@ -41,3 +41,9 @@
 - **Décision :** Nighttug et Kubra font route ensemble, unis et solidaires, avec la volonté commune d'accomplir quelque chose d'important dans les terres désolées.
 - **Résultat :** Kubra devient un PNJ important et leur ambition partagée un objectif personnel encore non précisé. Aucun lieu précis, compétence de Kubra ou mission concrète n'est imposé.
 - **Temps fictif :** 0 minute ; aucune scène encore jouée.
+
+## Création du personnage — Tour 0007 (hors-jeu, 2026-11-03)
+- **Décision :** Nighttug et Kubra choisissent de survivre de manière indépendante, avec une vigilance inspirée par l'ambiance d'Escape from Tarkov, sans confiance accordée d'avance aux étrangers.
+- **Projet commun :** aucune adhésion à une communauté ; créer des contacts commerciaux prudents avec des marchands et rechercher un lieu sûr pour vivre à deux.
+- **Limites :** les liens marchands et le refuge sont des objectifs, non des acquis ; aucune compétence militaire ni menace concrète n'est ajoutée par ce choix.
+- **Temps fictif :** 0 minute ; aucune scène commencée.

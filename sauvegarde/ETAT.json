@@ -4,9 +4,9 @@
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
   "phase": "creation_personnage",
-  "etape_creation": "objectifs_communs",
-  "tour": 6,
-  "derniere_decision_id": "tour-0006",
+  "etape_creation": "caracteristiques",
+  "tour": 7,
+  "derniere_decision_id": "tour-0007",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -36,7 +36,7 @@
   },
   "chapitre_actuel": null,
   "derniere_scene_canonique": null,
-  "prochaine_action": "Définir ce que Nighttug et Kubra veulent construire ou accomplir ensemble dans les terres désolées.",
+  "prochaine_action": "Proposer puis faire valider une répartition équilibrée des six caractéristiques du personnage Nighttug, sans les attribuer avant accord du joueur.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",

@@ -7,7 +7,7 @@
     "age": 31,
     "passe": "personnalise",
     "origine": "Ancien dessinateur 3D disposant de connaissances approfondies en informatique.",
-    "motivation": "Accomplir avec Kubra quelque chose d'important dans les terres désolées ; la nature du projet reste à déterminer.",
+    "motivation": "Survivre avec Kubra dans les terres désolées en restant indépendants de toute communauté, établir des relations commerciales prudentes avec des marchands et trouver un refuge sécurisé.",
     "provenance": "Şarkışla, province de Sivas, Turquie",
     "histoire_familiale": "Petit-fils d'immigré ; détails familiaux non précisés.",
     "age_arrivee_lausanne": 10,
@@ -19,6 +19,14 @@
       "age_lors_du_mariage": 28,
       "annee_approximative": 2040,
       "situation_actuelle": "Ensemble en 2043, voyageant ensemble ; solidarité et soutien mutuels affirmés."
+    },
+    "doctrine_survie": {
+      "priorite": "Survie de Nighttug et Kubra, prudence constante face aux risques.",
+      "confiance": "Méfiance absolue envers les inconnus ; Kubra demeure le lien de confiance établi.",
+      "autonomie": "Ne rejoindre aucune communauté.",
+      "commerce": "Entretenir des liens avec des marchands sans dépendre d'eux ni supposer qu'ils sont fiables.",
+      "abri": "Chercher un lieu sûr pour s'abriter durablement.",
+      "style": "Attitude vigilante inspirée de l'ambiance d'Escape from Tarkov, sans présumer d'une expérience militaire ni de menaces omniprésentes."
     }
   },
   "caracteristiques": {
@@ -58,7 +66,8 @@
       "Tour 0003 : âge de 31 ans validé pour l'année 2043. Environ 20 ans lors de la Rupture en 2032, selon sa date exacte encore indéfinie. Naissance vers 2011–2012 (non fixée).",
       "Tour 0004 : originaire de Şarkışla (Sivas), avec une histoire familiale de petit-fils d'immigré ; arrivé à Lausanne à l'âge de 10 ans et y a toujours habité depuis. La date exacte de cette arrivée, la nationalité et les détails familiaux ne sont pas fixés.",
       "Tour 0005 : employé chez LEMO à une période non déterminée, joueur d'Escape from Tarkov pendant son temps libre, marié à Kubra à 28 ans (vers 2040). La vie conjugale en 2043 et les circonstances du mariage ne sont pas encore décrites.",
-      "Tour 0006 : Nighttug et Kubra font route ensemble en 2043 ; couple uni et solidaire, ils ont l'ambition partagée de réaliser quelque chose d'important. Aucun objectif concret ni emplacement de départ n'est fixé."
+      "Tour 0006 : Nighttug et Kubra font route ensemble en 2043 ; couple uni et solidaire, ils ont l'ambition partagée de réaliser quelque chose d'important. Aucun objectif concret ni emplacement de départ n'est fixé.",
+      "Tour 0007 : Nighttug et Kubra privilégient leur survie et leur autonomie, refusent l'appartenance à une communauté, restent extrêmement méfiants envers tout inconnu, envisagent des contacts marchands prudents et recherchent un refuge sûr. Les menaces et capacités réelles ne sont pas prédéterminées."
     ]
   }
 }

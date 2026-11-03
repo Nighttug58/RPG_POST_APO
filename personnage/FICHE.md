@@ -1,6 +1,6 @@
 # Portrait narratif du protagoniste
 
-**Création en cours — tour 0006.**
+**Création en cours — tour 0007.**
 
 La source chiffrée de l'identité et des aptitudes reste [PERSONNAGE.json](PERSONNAGE.json). L'inventaire est dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
@@ -26,7 +26,7 @@ Ces aptitudes ne sont pas encore des niveaux chiffrés. Une expérience de jeu v
 La période exacte chez LEMO, les conditions de vie depuis 2032 et les circonstances du mariage n'ont pas encore été décrites.
 
 ## Projet partagé
-Nighttug et Kubra sont décidés à **faire quelque chose d'important de leur vie dans les terres désolées**. L'objectif concret n'est pas encore défini, pas plus que leur itinéraire précis. Ils avancent ensemble, avec une solidarité réciproque affirmée.
+Nighttug et Kubra ont choisi un **mode de survie autonome et vigilant**. Ils se font confiance mutuellement mais **ne veulent accorder aucune confiance aux inconnus** sans raison établie. Ils refusent d'adhérer à une communauté, souhaitent établir des **relations commerciales prudentes avec des marchands** et **trouver un refuge sûr** pour vivre à deux. Leur façon d'aborder les risques s'inspire de l'ambiance d'Escape from Tarkov, sans garantir des talents militaires ni supposer qu'un bruit annonce forcément un danger. Aucun marchand ni abri particulier n'a encore été identifié.
 
 ## Prochaine étape
-Définir **quel projet important Nighttug et Kubra souhaitent réaliser ensemble**, puis poursuivre leur parcours depuis la Rupture et équilibrer les caractéristiques.
+Proposer une **répartition équilibrée des six caractéristiques RPG** et demander au joueur de la valider ou de la modifier. Les compétences et équipements suivront.

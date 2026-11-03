@@ -9,12 +9,16 @@
 
 ## Objectifs personnels établis pendant la création
 
-### objectif-commun-001 — Projet commun de Nighttug et Kubra
-- **Statut :** intention validée, projet concret non choisi.
-- **Fondement :** tour 0006.
-- **Objectif narratif :** Nighttug et Kubra veulent donner une importance à leur vie dans les terres désolées, ensemble.
-- **À définir :** la réalisation concrète envisagée, son coût, ses risques, ses alliés et le point de départ.
-- **Attention :** ce n'est ni une mission déjà acceptée ni une destinée assurée.
+### objectif-commun-001 — Survivre en autonomie avec Kubra
+- **Statut :** objectif commun actif ; aucun résultat encore obtenu.
+- **Fondement :** solidarité du couple (tour 0006), doctrine détaillée (tour 0007).
+- **Priorité :** assurer la survie de Nighttug et Kubra dans les terres désolées.
+- **Position :** rester un duo indépendant, sans appartenir à une communauté ; très grande méfiance envers les inconnus.
+- **Sous-objectif A — Contacts :** construire au fil des rencontres des relations commerciales prudentes avec des marchands ; **aucun contact marchand encore acquis**.
+- **Sous-objectif B — Refuge :** trouver un lieu de vie plus sûr pour le couple ; **aucun refuge encore identifié ou possédé**.
+- **Méthode :** rester attentifs à l'environnement, préserver leur entraide et choisir librement leurs actions ; une vigilance constante ne signifie pas que chaque bruit est une menace avérée.
+- **À définir en jeu :** ressources, lieux, marchands, opportunités, difficultés et conséquences.
+- **Attention :** ce n'est pas une mission prédestinée ; le couple peut ajuster ses priorités.
 
 ## Pistes de l'aventure
 *Aucune piste ni mission intradiégétique découverte pour le moment.*
