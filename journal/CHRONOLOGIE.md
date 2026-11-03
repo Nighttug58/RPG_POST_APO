@@ -51,3 +51,8 @@
 ## Tour 0008 — Création
 - Validation des six caractéristiques du protagoniste. Voir PERSONNAGE.json pour les valeurs.
 - Compétences non attribuées ; aucune scène jouée.
+
+## Création du personnage — Tour 0009 (hors-jeu, 2026-11-03)
+- **Décision :** neuf compétences spécialisées validées pour un total de 15 points. Les niveaux précis figurent dans `personnage/PERSONNAGE.json` (source maîtresse).
+- **Suite :** définir les limites et faiblesses de Nighttug, puis les moyens de départ et l'équipement.
+- **Temps fictif :** zéro ; aucune scène jouée.
