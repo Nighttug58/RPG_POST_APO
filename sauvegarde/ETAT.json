@@ -4,9 +4,9 @@
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
   "phase": "creation_personnage",
-  "etape_creation": "identite_age",
-  "tour": 2,
-  "derniere_decision_id": "tour-0002",
+  "etape_creation": "identite_provenance",
+  "tour": 3,
+  "derniere_decision_id": "tour-0003",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -32,7 +32,7 @@
   },
   "chapitre_actuel": null,
   "derniere_scene_canonique": null,
-  "prochaine_action": "Choisir l'âge fictif du protagoniste Nighttug, puis poursuivre l'identité et son histoire.",
+  "prochaine_action": "Définir la provenance de Nighttug avant la Rupture (ville ou région d'origine) et poursuivre son parcours.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",

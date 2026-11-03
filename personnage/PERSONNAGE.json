@@ -4,7 +4,7 @@
   "identifiant": "protagoniste",
   "identite": {
     "nom": "Nighttug",
-    "age": null,
+    "age": 31,
     "passe": "personnalise",
     "origine": "Ancien dessinateur 3D disposant de connaissances approfondies en informatique.",
     "motivation": null
@@ -42,7 +42,8 @@
     "capacites_speciales": [],
     "notes": [
       "Tour 0001 : passé personnalisé validé. Ex-dessinateur 3D, informatique approfondie ; grande taille, force et endurance ; raisonnement logique et prudent ; sens de l'orientation et visualisation de l'espace remarquables ; cuisine de base et soins rudimentaires ; combat et infiltration/discrétion revendiqués.",
-      "Ce passé est narrativement fixé ; les scores chiffrés et les limites/contreparties seront définis à l'étape des caractéristiques. Aucune réussite automatique."
+      "Ce passé est narrativement fixé ; les scores chiffrés et les limites/contreparties seront définis à l'étape des caractéristiques. Aucune réussite automatique.",
+      "Tour 0003 : âge de 31 ans validé pour l'année 2043. Environ 20 ans lors de la Rupture en 2032, selon sa date exacte encore indéfinie. Naissance vers 2011–2012 (non fixée)."
     ]
   }
 }

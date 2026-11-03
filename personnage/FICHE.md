@@ -1,6 +1,6 @@
 # Portrait narratif du protagoniste
 
-**Statut :** création en cours. Passé personnalisé validé au **tour 0001** ; nom **Nighttug** validé au **tour 0002**.
+**Statut :** création en cours. Passé personnalisé validé au **tour 0001** ; nom **Nighttug** validé au **tour 0002** ; âge **31 ans en 2043** validé au **tour 0003**.
 
 Les attributs, compétences et états chiffrés ont pour seule source [PERSONNAGE.json](PERSONNAGE.json). L'équipement et les ressources sont dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
@@ -18,10 +18,10 @@ Cette description est le profil narratif choisi, pas une attribution de niveaux 
 
 ## Identité et histoire personnelle
 - Nom / surnom : **Nighttug** (tour 0002)
-- Âge : *non défini*
+- Âge : **31 ans en 2043** (tour 0003)
 - Provenance : *non définie*
 - Relations et motivation : *non définies*
 - Parcours entre la Rupture et 2043 : *à construire avec le joueur*
 
 ## Prochaine étape
-Définir **l'âge de Nighttug**, puis préciser son histoire personnelle et répartir les attributs.
+Préciser **la provenance de Nighttug** (ville ou région d'origine), puis son histoire personnelle et répartir les attributs.
