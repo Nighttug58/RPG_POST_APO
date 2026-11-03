@@ -20,6 +20,9 @@
 - **À définir en jeu :** ressources, lieux, marchands, opportunités, difficultés et conséquences.
 - **Attention :** ce n'est pas une mission prédestinée ; le couple peut ajuster ses priorités.
 
+### objectif-ravitaillement-001 — Ravitaillement
+Objectif actif au tour 0013 : obtenir eau potable et nourriture. Un cours d'eau a été trouvé, sans potabilité établie.
+
 ## Pistes de l'aventure
 *Aucune piste ni mission intradiégétique découverte pour le moment.*
 

@@ -5,17 +5,18 @@
   "branche": "main",
   "phase": "jeu",
   "etape_creation": "terminee",
-  "tour": 12,
-  "derniere_decision_id": "tour-0012",
+  "tour": 13,
+  "derniere_decision_id": "tour-0013",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
     "heure": null,
-    "saison": "hiver_approche"
+    "saison": "hiver_approche",
+    "minutes_ecoulees_depuis_ouverture": 25
   },
   "localisation": {
     "region": "Suisse romande / région lémanique",
-    "lieu_precis": "Forêt, emplacement précis inconnu",
+    "lieu_precis": "Berge d'un ruisseau en forêt au nord de Lausanne, proche du secteur Sauvabelin–La Sallaz",
     "coordonnees": null
   },
   "conditions": {
@@ -25,7 +26,8 @@
   },
   "progression": {
     "objectifs_actifs": [
-      "objectif-commun-001"
+      "objectif-commun-001",
+      "objectif-ravitaillement-001"
     ],
     "pistes_ouvertes": [],
     "pnj_connus": [
@@ -33,12 +35,13 @@
     ],
     "factions_connues": [],
     "lieux_visites": [
-      "lieu-foret-001"
+      "lieu-foret-001",
+      "lieu-ruisseau-001"
     ]
   },
   "chapitre_actuel": "chapitre-001",
   "derniere_scene_canonique": "recit/chapitre-001/scene-001.md",
-  "prochaine_action": "Première action libre de Nighttug, dans la forêt après la nuit passée avec Kubra.",
+  "prochaine_action": "Le duo atteint la berge d'un ruisseau. Eau non vérifiée potable ; nourriture à chercher. Attendre le choix du joueur.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",

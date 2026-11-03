@@ -73,3 +73,10 @@
 - Ils portent chacun des vêtements chauds. Ils n'ont ni vivres, ni eau en réserve, ni arme, ni autre équipement.
 - Première scène créée dans `recit/chapitre-001/scene-001.md`. Lieu exact et états physiques chiffrés non définis.
 - **Temps écoulé depuis l'ouverture :** 0 minute, aucun jet ni action jouée.
+
+## Partie — Tour 0013 : Première marche vers le sud (2043, matin)
+- Nighttug situe l'ancien campement vers La Sallaz avant Sauvabelin et se repère approximativement dans la forêt au nord de Lausanne.
+- Il guide Kubra vers le sud à la recherche d'un ruisseau, avec la nourriture et l'eau comme priorités.
+- Après 25 minutes à pied, ils atteignent la berge d'un petit cours d'eau ; aucune nourriture trouvée et potabilité non vérifiée. Pas d'assaillants visibles.
+- Des branches mortes sont présentes dans le sous-bois, sans ressource de défense comptabilisée ni usage résolu.
+- Aucun jet ; nouvelle position approximative consignée dans ETAT.json.

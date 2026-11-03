@@ -5,6 +5,8 @@
 | ID | Lieu | Statut | Description établie | Dernière visite |
 | --- | --- | --- | --- | --- |
 | — | Région lémanique, Suisse romande | Région générale du cadre | Monde post-Rupture fragmenté | — |
-| lieu-foret-001 | Forêt non identifiée | Lieu d'ouverture | Nighttug et Kubra ont passé la nuit sur place et s'y trouvent momentanément en sécurité, après la fuite du campement | Tour 0012 |
+| lieu-foret-001 | Forêt au nord de Lausanne | Lieu d'ouverture | Nighttug et Kubra ont passé la nuit sur place, après leur fuite. Leur ancien camp se situait vers La Sallaz, avant Sauvabelin ; point exact inconnu. | Tour 0012 |
+
+| lieu-ruisseau-001 | Petit cours d'eau dans les bois au nord de Lausanne | Découvert au tour 0013 | Le duo l'a atteint après 25 minutes de marche vers le sud. Eau observée, potabilité non évaluée. Proximité du secteur La Sallaz–Sauvabelin ; coordonnées et nom exact inconnus. | Tour 0013 |
 
 Ajouter chaque lieu important avec une identité stable, sa situation observable, les ressources réellement connues, les risques observés et les changements provoqués par le joueur. Ne pas inventer de contenu non rencontré.
