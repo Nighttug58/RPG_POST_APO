@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "campagne": "Les Cendres du Monde",
+  "depot": "Nighttug58/RPG_POST_APO",
+  "branche": "main",
+  "phase": "creation_personnage",
+  "etape_creation": "choix_passe",
+  "tour": 0,
+  "derniere_decision_id": null,
+  "date_jeu": {
+    "annee": 2043,
+    "date_iso": null,
+    "heure": null,
+    "saison": "hiver_approche"
+  },
+  "localisation": {
+    "region": "Suisse romande / région lémanique",
+    "lieu_precis": null,
+    "coordonnees": null
+  },
+  "personnage": {
+    "cree": false,
+    "nom": null,
+    "age": null,
+    "passe": null,
+    "caracteristiques": null,
+    "competences": null,
+    "etat_sante": null,
+    "fatigue": null,
+    "hydratation": null,
+    "faim": null
+  },
+  "inventaire": {
+    "defini": false,
+    "objets": [],
+    "masse_kg": null,
+    "capacite_kg": null
+  },
+  "ressources": {
+    "eau_litres": null,
+    "nourriture_portions": null,
+    "autres": null
+  },
+  "progression": {
+    "objectifs_actifs": [],
+    "pistes_ouvertes": [],
+    "pnj_connus": [],
+    "factions_connues": [],
+    "lieux_visites": []
+  },
+  "conditions": {
+    "meteo": null,
+    "luminosite": null,
+    "menaces_immediates": []
+  },
+  "derniere_scene_canonique": null,
+  "prochaine_action": "Choisir le passé du personnage parmi technicien, secouriste, éclaireur, négociateur ou personnalisé",
+  "sauvegarde": {
+    "date_reelle_initialisation": "2026-11-03",
+    "statut": "initialisee_avant_premier_choix"
+  }
+}
