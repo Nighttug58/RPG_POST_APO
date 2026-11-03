@@ -34,3 +34,17 @@ Le soir arrive. Dans l'abri qui les protège partiellement du vent, la faim est 
 Nighttug et Kubra finissent par s'endormir. Leur nouvel abri est discret, mais la recherche de nourriture et d'eau potable reste inachevée.
 
 **Résolution :** 6 jets de dés, consignés dans `journal/JETS.jsonl`. Temps du tour : 480 minutes. Temps cumulé depuis l'ouverture : 505 minutes. Pas de réussite automatique pour les actions complexes.
+
+## Tour 0015 — La première flamme
+
+**Lendemain, 05:00.** Il fait encore nuit au campement discret. Nighttug et Kubra se réveillent après plusieurs heures de repos. La faim et la soif sont devenues insistantes : leur tentative de ravitaillement de la veille n'a pas suffi à leur fournir eau potable ou repas.
+
+Nighttug reprend l'initiative du feu. Il fabrique un second archet à friction, tâche qu'il connaît depuis longtemps, puis invite Kubra à participer. Malgré les échecs précédents, leurs efforts conjoints finissent par produire un foyer entretenu.
+
+**Test de Survie :** d20 = 13 ; bonus total +5 (Intelligence +1, Survie +1, expérience +1, aide de Kubra +2) ; total 18 contre difficulté 14 : **réussite**.
+
+À **05:20**, un petit feu brûle dans le campement. Il apporte chaleur et une possibilité nouvelle pour les prochaines tâches. Nighttug n'a cependant pas encore cuit le canard ni rendu l'eau du ruisseau potable. Le feu ne suffit pas à garantir la salubrité de l'eau et le dispositif de filtration de la veille est toujours non fiable.
+
+La scène s'interrompt avant toute nouvelle action de Nighttug. Le couple doit encore décider quoi faire de son feu, de sa prise non cuite et du problème de l'eau.
+
+**Temps du tour :** environ 8 heures de repos nocturne comptabilisées à titre d'estimation, puis 20 minutes d'efforts au réveil ; total 500 minutes. **Temps cumulé :** 1005 minutes.

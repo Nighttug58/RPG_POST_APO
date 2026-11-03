@@ -88,3 +88,10 @@
 - Deux essais pour entretenir un feu échouent ; aucune cuisson ni production de charbon. Filtre rudimentaire non fiable : aucune eau potable obtenue.
 - À la nuit, des détonations lointaines sont entendues ; source inconnue, sans menace directe constatée. Le duo s'endort sous son abri sans repas.
 - **Temps fictif :** 480 minutes sur ce tour, 505 minutes depuis le début. **Jets :** six, enregistrés au tour 0014.
+
+## Partie — Tour 0015 : Feu au petit matin (2043, 05:00–05:20)
+- Au réveil, Nighttug et Kubra ressentent fortement faim et soif. La durée de la nuit écoulée est estimée à 8 heures pour la simulation.
+- Nighttug fabrique un second archet de friction, puis s'associe à Kubra pour tenter une nouvelle fois d'obtenir un feu.
+- **Jet :** d20 = 13, bonus +5, difficulté 14, résultat 18 : réussite. Petit feu entretenu au campement vers 05:20.
+- Le canard demeure non cuit ; eau potable et nourriture consommée toujours nulles.
+- **Temps du tour :** 500 minutes (nuit estimée : 480, tentative : 20). **Cumul :** 1005 minutes depuis l'ouverture.

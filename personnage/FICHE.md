@@ -1,6 +1,6 @@
 # Portrait narratif du protagoniste
 
-**Partie en cours — tour 0014.**
+**Partie en cours — tour 0015.**
 
 La source chiffrée de l'identité et des aptitudes reste [PERSONNAGE.json](PERSONNAGE.json). L'inventaire est dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
@@ -43,3 +43,6 @@ Le raisonnement rapide de Nighttug demeure une qualité. Les faiblesses sont con
 
 ## Dernière situation — tour 0014
 Nighttug et Kubra se sont installés dans un abri discret en forêt, près d'un ruisseau. Un canard a été capturé, sans pouvoir être cuisiné. Deux essais pour obtenir un feu ont échoué, et le dispositif de filtration n'a pas permis d'établir la potabilité de l'eau. Leur faim persiste. Des détonations lointaines ont été entendues avant qu'ils s'endorment. Les données d'inventaire et d'état restent dans les fichiers JSON maîtres.
+
+## Réveil et feu — tour 0015
+Réveil du duo à 05:00, avec faim et soif marquées. Nighttug fabrique un second archet à friction et, avec l'aide de Kubra, réussit à obtenir un petit feu durable vers 05:20. Le canard n'est pas cuit ; aucune eau potable n'a encore été obtenue. La dernière scène et les valeurs exactes restent dans les sources maîtresses.

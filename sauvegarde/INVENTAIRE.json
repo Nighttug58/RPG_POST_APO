@@ -23,7 +23,8 @@
       "nom": "Bois sec ramassé, stocké au camp",
       "quantite": 1,
       "masse_unitaire_kg": null,
-      "emplacement": "campement de fortune"
+      "emplacement": "campement de fortune",
+      "etat": "réserve partiellement utilisée pour le foyer"
     },
     {
       "id": "canard-001",
@@ -47,6 +48,14 @@
       "masse_unitaire_kg": null,
       "etat": "echec_du_test",
       "emplacement": "campement de fortune"
+    },
+    {
+      "id": "archets-friction-001",
+      "nom": "Deux archets de friction improvisés pour l'allumage du feu",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "etat": "fonctionnels",
+      "emplacement": "campement de fortune"
     }
   ],
   "consommables": {
@@ -57,5 +66,5 @@
   "charge": {
     "capacite_kg": null
   },
-  "notes": "Tour 0014 : vêtements chauds portés, bois sec, un canard non cuit, plantes/terre non identifiées et un dispositif de filtration non fiable au camp. Aucun feu durable, aucun repas consommé, aucune eau potable obtenue ; réserves d'eau, nourriture et soins maintenues à zéro. Masses non mesurées ; matériaux et contenants improvisés sans valeur de potabilisation garantie."
+  "notes": "Tour 0015 : deux archets de friction au camp (le premier utilisé lors du tour précédent, le second fabriqué au réveil). Petit feu effectivement obtenu et entretenu à 05:20. Une partie du bois sec sert au foyer. Le canard reste non cuit, aucune eau potable ni nourriture consommée ; stocks d'eau potable, de nourriture et de soins toujours nuls. Les instruments et contenants improvisés ne garantissent aucune potabilisation."
 }
