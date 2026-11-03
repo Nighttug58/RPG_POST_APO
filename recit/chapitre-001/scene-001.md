@@ -48,3 +48,21 @@ Nighttug reprend l'initiative du feu. Il fabrique un second archet à friction, 
 La scène s'interrompt avant toute nouvelle action de Nighttug. Le couple doit encore décider quoi faire de son feu, de sa prise non cuite et du problème de l'eau.
 
 **Temps du tour :** environ 8 heures de repos nocturne comptabilisées à titre d'estimation, puis 20 minutes d'efforts au réveil ; total 500 minutes. **Temps cumulé :** 1005 minutes.
+
+## Tour 0016 — Le premier repas, puis les maisons
+
+**05:20, au campement.** Nighttug profite du feu enfin établi. Avec les moyens du bord, il entreprend de cuire le canard capturé la veille. Il organise aussi une petite réserve de bois en vue de préparer du charbon plus tard : ce travail ne signifie pas qu'un stock de charbon ait déjà été produit.
+
+Cette fois, la cuisson réussit. Nighttug et Kubra partagent la prise et peuvent enfin prendre un véritable repas. La faim recule, sans que cela règle leur soif. Le filtre improvisé de la veille n'assure toujours pas la potabilité du ruisseau.
+
+**Test de cuisine :** d20 14, bonus +2, total 16 contre difficulté 12 : réussite.
+
+Après le repas, Nighttug choisit de quitter le couvert forestier. Il se souvient que des maisons se trouvent à proximité, au-delà des bois. Un récipient solide, s'ils en trouvent un, leur donnerait une meilleure chance de traiter l'eau. Kubra accompagne Nighttug. Ils laissent l'abri forestier et le matériel qui y est stocké en place.
+
+À mesure qu'ils approchent de la lisière, des constructions apparaissent entre les arbres. Plusieurs paraissent abandonnées. Rien ne permet cependant d'affirmer que toutes sont réellement inoccupées. Nighttug inspecte les premiers espaces accessibles, sans découvrir de casserole. Ce premier échec ne signifie pas qu'il n'y en a aucune dans le secteur.
+
+**Test de recherche :** d20 11, bonus +1, total 12 contre difficulté 15 : échec.
+
+**Vers 07:25.** Nighttug et Kubra se trouvent près des premières maisons. Ils ont mangé, mais n'ont toujours pas d'eau potable. Aucun individu n'a été aperçu au cours de cette première recherche ; la situation derrière les façades demeure inconnue.
+
+**Temps du tour :** 125 minutes estimées, repas et préparation du bois compris, puis marche et première exploration. **Temps cumulé :** 1130 minutes. Aucun mouvement ni fouille supplémentaire n'est supposé.

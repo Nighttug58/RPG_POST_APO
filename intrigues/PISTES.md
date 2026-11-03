@@ -21,7 +21,7 @@
 - **Attention :** ce n'est pas une mission prédestinée ; le couple peut ajuster ses priorités.
 
 ### objectif-ravitaillement-001 — Ravitaillement
-Objectif actif au tour 0013 : obtenir eau potable et nourriture. Au tour 0014, un abri discret a été aménagé et un canard a été capturé, mais non cuit. Le feu et le filtre n'ont pas fonctionné : aucune nourriture consommée ni eau potable obtenue. Les végétaux sauvages ne sont pas identifiés de façon fiable.
+Objectif actif au tour 0013 : obtenir eau potable et nourriture. Au tour 0014, un abri discret a été aménagé et un canard a été capturé, mais non cuit. Au tour 0015, le feu a été obtenu ; au tour 0016, le canard a été correctement cuit et partagé. La soif persiste : aucune eau potable obtenue. Les maisons semblent délaissées, mais la première recherche de casserole au tour 0016 n'a rien donné. Les végétaux sauvages ne sont pas identifiés de façon fiable.
 
 ## Pistes de l'aventure
 *Aucune piste ni mission intradiégétique découverte pour le moment.*

@@ -95,3 +95,11 @@
 - **Jet :** d20 = 13, bonus +5, difficulté 14, résultat 18 : réussite. Petit feu entretenu au campement vers 05:20.
 - Le canard demeure non cuit ; eau potable et nourriture consommée toujours nulles.
 - **Temps du tour :** 500 minutes (nuit estimée : 480, tentative : 20). **Cumul :** 1005 minutes depuis l'ouverture.
+
+## Partie — Tour 0016 : Un repas et la lisière (2043, matin)
+- Vers 05:20, Nighttug utilise le feu pour cuire le canard ; jet de cuisine réussi (14 + 2 = 16 contre 12).
+- Le couple partage et consomme entièrement cette unique prise. La faim est atténuée, la soif persiste et l'eau potable reste à zéro.
+- Du bois est préparé pour une éventuelle production ultérieure de charbon ; aucun charbon acquis.
+- Nighttug et Kubra quittent l'abri forestier afin de rechercher une casserole près des maisons de la lisière. Les bâtiments semblent délaissés, sans preuve d'absence d'occupants.
+- Première recherche infructueuse (11 + 1 = 12 contre 15). Pas de récipient retrouvé, pas de nouveau contact observé.
+- **Temps du tour :** 125 minutes. **Heure finale estimée :** 07:25 ; **cumul :** 1130 minutes depuis l'ouverture. Deux jets consignés.

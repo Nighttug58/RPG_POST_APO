@@ -69,8 +69,8 @@
     "sante": null,
     "blessures": [],
     "fatigue": "Réveil après une nuit de repos, légère fatigue résiduelle possible ; niveau exact non chiffré.",
-    "faim": "Faim prononcée après une journée sans repas et une nouvelle nuit.",
-    "hydratation": "Soif marquée et déshydratation ressentie ; gravité clinique non déterminée."
+    "faim": "Faim nettement atténuée après avoir partagé un canard bien cuit avec Kubra ; aucun surplus alimentaire.",
+    "hydratation": "Soif marquée persistante : toujours aucune eau potable consommée."
   },
   "progression": {
     "experience": null,
@@ -87,7 +87,8 @@
       "Tour 0010 : suite à un raid du campement, Nighttug et Kubra ont fui discrètement et repartent sans équipement ni provisions. Les faiblesses ne sont pas encore validées.",
       "Tour 0012 : début effectif de la partie, au matin après une nuit passée en forêt. Nighttug et Kubra sont momentanément à l'abri d'un danger immédiat, habillés chaudement, mais sans provisions ni armes. Santé, fatigue, faim et hydratation ne sont pas chiffrées ; le lieu précis reste inconnu.",
       "Tour 0014 : campement de fortune discret trouvé et monté ; une capture de canard sauvage réussie, seconde manquée ; feu non obtenu après deux essais, filtre non fiable et pas d'eau potable. Kubra a découvert des végétaux et champignons non identifiés de manière sûre ; une motte prélevée ne garantit aucune culture. Des détonations lointaines ont été entendues à la tombée de la nuit.",
-      "Tour 0015 : réveil à 05:00 dans le camp forestier ; Nighttug construit un second archet à friction grâce à son expérience et réussit, avec l'aide de Kubra, à entretenir un petit feu. Test réel : 13 sur d20 + 5 = 18 contre 14. À 05:20, aucune eau potable ni nourriture consommée."
+      "Tour 0015 : réveil à 05:00 dans le camp forestier ; Nighttug construit un second archet à friction grâce à son expérience et réussit, avec l'aide de Kubra, à entretenir un petit feu. Test réel : 13 sur d20 + 5 = 18 contre 14. À 05:20, aucune eau potable ni nourriture consommée.",
+      "Tour 0016 : cuisson correcte d'un canard au feu du camp, repas partagé avec Kubra. Un peu de bois est préparé pour un futur usage de charbon sans charbon produit. Sortie vers la lisière de forêt pour examiner des maisons paraissant inoccupées ; première fouille infructueuse, aucune casserole. Aucune eau potable obtenue. Tests : cuisson 14 + 2 = 16 contre 12, recherche 11 + 1 = 12 contre 15."
     ]
   }
 }

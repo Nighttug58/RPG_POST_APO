@@ -11,4 +11,6 @@
 
 | lieu-camp-forestier-001 | Abri forestier discret proche du ruisseau | Nuit du tour 0014 | Campement temporaire à l'écart des passages apparents, protégé partiellement du vent. Pas de feu entretenu ni d'eau potable. Tirs très lointains entendus ; aucune présence hostile sur place observée. | Tour 0014 |
 
+| lieu-maisons-lisiere-001 | Premières habitations à la lisière du bois au nord de Lausanne | Vues et approchées au tour 0016 | Plusieurs constructions semblent délaissées, sans preuve qu'elles soient toutes inoccupées ; première recherche d'une casserole infructueuse. Aucun individu vu. Position exacte inconnue. | Tour 0016 |
+
 Ajouter chaque lieu important avec une identité stable, sa situation observable, les ressources réellement connues, les risques observés et les changements provoqués par le joueur. Ne pas inventer de contenu non rencontré.

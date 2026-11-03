@@ -1,6 +1,6 @@
 # Portrait narratif du protagoniste
 
-**Partie en cours — tour 0015.**
+**Partie en cours — tour 0016.**
 
 La source chiffrée de l'identité et des aptitudes reste [PERSONNAGE.json](PERSONNAGE.json). L'inventaire est dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
@@ -46,3 +46,6 @@ Nighttug et Kubra se sont installés dans un abri discret en forêt, près d'un 
 
 ## Réveil et feu — tour 0015
 Réveil du duo à 05:00, avec faim et soif marquées. Nighttug fabrique un second archet à friction et, avec l'aide de Kubra, réussit à obtenir un petit feu durable vers 05:20. Le canard n'est pas cuit ; aucune eau potable n'a encore été obtenue. La dernière scène et les valeurs exactes restent dans les sources maîtresses.
+
+## Tour 0016 — Premier repas et sortie de forêt
+Nighttug et Kubra ont partagé l'unique canard cuit au camp. Leur faim s'est atténuée, mais ils n'ont pas encore bu d'eau potable. Une portion du bois du camp a été mise de côté pour une production éventuelle de charbon, sans résultat acquis. Ils se sont rendus près des premières maisons à la lisière de la forêt pour chercher une casserole ; aucune n'a encore été trouvée, et l'occupation des bâtiments demeure inconnue. Les ressources et états du duo restent définis dans les JSON maîtres.

@@ -24,15 +24,7 @@
       "quantite": 1,
       "masse_unitaire_kg": null,
       "emplacement": "campement de fortune",
-      "etat": "réserve partiellement utilisée pour le foyer"
-    },
-    {
-      "id": "canard-001",
-      "nom": "Canard sauvage capturé, non cuit",
-      "quantite": 1,
-      "masse_unitaire_kg": null,
-      "etat": "non_cuit",
-      "emplacement": "campement de fortune"
+      "etat": "Une partie utilisée pour la cuisson ; quelques morceaux préparés en vue d'un possible charbon, sans charbon produit"
     },
     {
       "id": "plantes-et-terre-001",
@@ -66,5 +58,5 @@
   "charge": {
     "capacite_kg": null
   },
-  "notes": "Tour 0015 : deux archets de friction au camp (le premier utilisé lors du tour précédent, le second fabriqué au réveil). Petit feu effectivement obtenu et entretenu à 05:20. Une partie du bois sec sert au foyer. Le canard reste non cuit, aucune eau potable ni nourriture consommée ; stocks d'eau potable, de nourriture et de soins toujours nuls. Les instruments et contenants improvisés ne garantissent aucune potabilisation."
+  "notes": "Tour 0016 : un canard a été correctement cuit et entièrement partagé par Nighttug et Kubra ; aucune réserve de nourriture restante. Du bois a été préparé pour la production éventuelle de charbon, mais aucun charbon n'a été obtenu. Les deux archets, le filtre non fiable et les végétaux non identifiés restent au camp forestier, ainsi que le bois restant. Le couple se trouve désormais près des maisons à la lisière, habillé chaudement ; aucune casserole ni eau potable récupérée."
 }

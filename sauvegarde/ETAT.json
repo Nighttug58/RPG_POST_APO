@@ -5,28 +5,28 @@
   "branche": "main",
   "phase": "jeu",
   "etape_creation": "terminee",
-  "tour": 15,
-  "derniere_decision_id": "tour-0015",
+  "tour": 16,
+  "derniere_decision_id": "tour-0016",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "05:20",
+    "heure": "07:25",
     "saison": "hiver_approche",
-    "minutes_ecoulees_depuis_ouverture": 1005
+    "minutes_ecoulees_depuis_ouverture": 1130
   },
   "localisation": {
     "region": "Suisse romande / région lémanique",
-    "lieu_precis": "Campement de fortune discret dans le sous-bois, en retrait d'un ruisseau au nord de Lausanne ; position exacte inconnue",
+    "lieu_precis": "Lisière de la forêt au nord de Lausanne, près d'un petit ensemble de maisons en apparence abandonnées, secteur Sauvabelin–La Sallaz ; coordonnées inconnues",
     "coordonnees": null
   },
   "conditions": {
     "meteo": null,
-    "luminosite": "avant_aube",
+    "luminosite": "matin",
     "menaces_immediates": [],
     "bruits_lointains": [
       "Quelques détonations lointaines ressemblant à des coups de feu ; origine inconnue."
     ],
-    "feu_camp": "Petit feu entretenu au campement, obtenu grâce aux efforts conjoints de Nighttug et Kubra"
+    "feu_camp": "Un petit feu a servi à cuire le canard au camp. Le foyer est resté au camp forestier et n'est pas transporté avec le duo."
   },
   "progression": {
     "objectifs_actifs": [
@@ -41,12 +41,13 @@
     "lieux_visites": [
       "lieu-foret-001",
       "lieu-ruisseau-001",
-      "lieu-camp-forestier-001"
+      "lieu-camp-forestier-001",
+      "lieu-maisons-lisiere-001"
     ]
   },
   "chapitre_actuel": "chapitre-001",
   "derniere_scene_canonique": "recit/chapitre-001/scene-001.md",
-  "prochaine_action": "Le feu est allumé à 05:20. Nighttug et Kubra doivent encore décider comment obtenir de l'eau potable et préparer la prise alimentaire sans supposer de matériel non possédé.",
+  "prochaine_action": "Près d'habitations en apparence abandonnées, aucune casserole encore trouvée. Nighttug peut choisir d'inspecter autrement, revenir au camp ou poursuivre; eau potable toujours absente.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
