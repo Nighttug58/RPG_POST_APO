@@ -4,9 +4,9 @@
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
   "phase": "creation_personnage",
-  "etape_creation": "faiblesses",
-  "tour": 10,
-  "derniere_decision_id": "tour-0010",
+  "etape_creation": "finalisation_depart",
+  "tour": 11,
+  "derniere_decision_id": "tour-0011",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -36,7 +36,7 @@
   },
   "chapitre_actuel": null,
   "derniere_scene_canonique": null,
-  "prochaine_action": "Faire valider explicitement les trois faiblesses encore proposées ; ensuite fixer l'état physique et le lieu précis d'ouverture après la fuite du campement. Le démarrage sans équipement et les provisions à zéro sont déjà validés.",
+  "prochaine_action": "Ouvrir la première scène le matin après une nuit en forêt : couple momentanément en sécurité, vêtements chauds, sans armes ni vivres, sans inventer de position exacte.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",

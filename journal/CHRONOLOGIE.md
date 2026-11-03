@@ -62,3 +62,8 @@
 - Le couple s'est enfui immédiatement et discrètement. Aucun combat n'est joué ou simulé.
 - Départ « zero to hero » : aucun équipement ni provision emportés ; détails du lieu, des assaillants et de l'état physique non encore définis.
 - Les faiblesses proposées n'ont pas été validées. Temps de jeu écoulé : zéro minute ; première scène non ouverte.
+
+## Création du personnage — Tour 0011 (hors-jeu, 2026-11-03)
+- **Décision :** trois faiblesses confirmées : méfiance excessive, indépendance obstinée et sang-froid fragilisé si Kubra affronte un danger sérieux.
+- **Limites :** la logique et les décisions rapides restent des qualités ; aucun contrôle automatique des actions, aucun malus non justifié.
+- **Temps fictif :** zéro ; la première scène n'est pas encore ouverte.

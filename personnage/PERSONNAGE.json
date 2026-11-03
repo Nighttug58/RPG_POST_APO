@@ -56,9 +56,14 @@
       "Excellent sens de l'orientation et de la visualisation spatiale",
       "Connaissances approfondies en informatique",
       "Connaissances accrues déclarées en combat, infiltration et discrétion",
-      "Connaissances de base en cuisine et rudiments de soins"
+      "Connaissances de base en cuisine et rudiments de soins",
+      "Raisonnement logique rapide et capacité à décider sans suranalyse."
     ],
-    "faiblesses": []
+    "faiblesses": [
+      "Méfiance excessive envers les inconnus.",
+      "Indépendance obstinée : réticence à dépendre d'une aide extérieure.",
+      "Sang-froid fragilisé en présence d'un danger sérieux et crédible pour Kubra, avec risque de décisions moins prudentes."
+    ]
   },
   "etat_physique": {
     "sante": null,
