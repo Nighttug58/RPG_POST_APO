@@ -31,3 +31,8 @@
 - **Décision :** Nighttug vient de **Şarkışla (Sivas, Turquie)**, est **petit-fils d'immigré** et s'est installé à **Lausanne à 10 ans**, où il a habité depuis.
 - **Conséquence :** parcours géographique et familial partiellement fixé ; les détails de migration, sa nationalité et son parcours après la Rupture restent ouverts.
 - **Temps fictif :** 0 minute. Aucune scène de campagne encore ouverte.
+
+## Création de personnage — Tour 0005 (hors-jeu)
+- Nighttug était employé chez LEMO, et jouait à Escape from Tarkov pendant son temps libre. Les périodes exactes restent à définir.
+- Il s'est marié avec Kubra à 28 ans (vers 2040). La situation actuelle de Kubra reste à établir.
+- Temps fictif écoulé : 0 minute. Aucune scène encore ouverte.

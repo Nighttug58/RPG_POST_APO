@@ -4,9 +4,9 @@
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
   "phase": "creation_personnage",
-  "etape_creation": "identite_parcours",
-  "tour": 4,
-  "derniere_decision_id": "tour-0004",
+  "etape_creation": "identite_situation_conjoint",
+  "tour": 5,
+  "derniere_decision_id": "tour-0005",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -32,7 +32,7 @@
   },
   "chapitre_actuel": null,
   "derniere_scene_canonique": null,
-  "prochaine_action": "Décrire comment Nighttug a vécu à Lausanne depuis la Rupture en 2032 et comment il a acquis ses savoir-faire de survie.",
+  "prochaine_action": "Déterminer la situation de Kubra en 2043, puis compléter l'histoire du protagoniste après la Rupture.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",

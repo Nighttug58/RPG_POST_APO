@@ -1,30 +1,29 @@
 # Portrait narratif du protagoniste
 
-**Statut :** création en cours. Passé personnalisé validé au **tour 0001** ; nom **Nighttug** validé au **tour 0002** ; âge **31 ans en 2043** validé au **tour 0003**.
+**Création en cours — tour 0005.**
 
-Les attributs, compétences et états chiffrés ont pour seule source [PERSONNAGE.json](PERSONNAGE.json). L'équipement et les ressources sont dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
+La source chiffrée de l'identité et des aptitudes reste [PERSONNAGE.json](PERSONNAGE.json). L'inventaire est dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
-## Passé établi
-Avant la Rupture, le protagoniste était **dessinateur 3D**, avec des connaissances approfondies en **informatique**.
+## Identité
+- Nom : **Nighttug** (tour 0002).
+- Âge : **31 ans en 2043** (tour 0003).
+- Origines : **Şarkışla, province de Sivas en Turquie** ; petit-fils d'immigré.
+- Arrivée à Lausanne : à **10 ans** ; y a habité depuis (tour 0004).
+- Profession : **dessinateur 3D**, connaissances approfondies en informatique ; a été employé chez **LEMO**, dates non précisées.
+- Loisirs : jouait à **Escape from Tarkov** pendant son temps libre, période non définie.
+- Épouse : **Kubra**, mariage à **28 ans** (environ 2040). Sa situation en 2043 reste à définir.
 
-## Portrait déclaré et validé
-- **Constitution :** de grande taille, fort et endurant.
-- **Esprit :** intelligent, logique, prudent et peu enclin à se laisser tromper facilement.
-- **Repérage :** excellent sens de l'orientation et facilité à se représenter mentalement les espaces et volumes.
-- **Vie quotidienne :** connaissances de base en cuisine et rudiments de soins.
-- **Autres savoir-faire :** connaissances accrues revendiquées en combat, infiltration et discrétion.
+## Aptitudes déclarées
+- De grande taille, fort et endurant.
+- Intelligence, logique, esprit prudent.
+- Excellent sens de l'orientation et visualisation spatiale.
+- Cuisine de base et rudiments de soins.
+- Connaissances revendiquées en combat, infiltration et discrétion.
 
-Cette description est le profil narratif choisi, pas une attribution de niveaux chiffrés. La formation et les expériences à l'origine de certains savoir-faire restent à développer, sans présumer d'un passé militaire ni d'une appartenance à un groupe. La simulation exigeante imposera des limites et des situations où le protagoniste peut échouer.
+Ces aptitudes ne sont pas encore des niveaux chiffrés. Une expérience de jeu vidéo ne prouve pas à elle seule une aptitude pratique réelle.
 
-## Identité et histoire personnelle
-- Nom / surnom : **Nighttug** (tour 0002)
-- Âge : **31 ans en 2043** (tour 0003)
-- Provenance : **Şarkışla, province de Sivas, Turquie**, ville d'origine déclarée (tour 0004).
-- Histoire familiale : **petit-fils d'immigré** ; autres détails non précisés.
-- Installation à Lausanne : **à 10 ans** ; Nighttug y a toujours habité depuis, jusqu'en 2043.
-- Date d'installation : *non fixée précisément* (environ 2022 selon l'âge en 2043).
-- Relations et motivation : *non définies*
-- Parcours entre la Rupture et 2043 : *à construire avec le joueur*, avec Lausanne comme lieu de résidence permanent.
+## Histoire à construire
+La période exacte chez LEMO, les conditions de vie depuis 2032, les circonstances du mariage et les motivations personnelles n'ont pas encore été décrites.
 
 ## Prochaine étape
-Définir **comment Nighttug a vécu les onze années depuis la Rupture à Lausanne**, puis préciser ses motivations et équilibrer ses caractéristiques.
+Déterminer **où se trouve Kubra en 2043 et sa situation avec Nighttug**, puis compléter les années de survie depuis la Rupture.
