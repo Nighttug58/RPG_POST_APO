@@ -30,12 +30,12 @@
     }
   },
   "caracteristiques": {
-    "force": null,
-    "agilite": null,
-    "perception": null,
-    "intelligence": null,
-    "volonte": null,
-    "relations": null
+    "force": 4,
+    "agilite": 3,
+    "perception": 4,
+    "intelligence": 4,
+    "volonte": 3,
+    "relations": 2
   },
   "competences": null,
   "traits": {

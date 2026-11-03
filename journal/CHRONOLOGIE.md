@@ -47,3 +47,7 @@
 - **Projet commun :** aucune adhésion à une communauté ; créer des contacts commerciaux prudents avec des marchands et rechercher un lieu sûr pour vivre à deux.
 - **Limites :** les liens marchands et le refuge sont des objectifs, non des acquis ; aucune compétence militaire ni menace concrète n'est ajoutée par ce choix.
 - **Temps fictif :** 0 minute ; aucune scène commencée.
+
+## Tour 0008 — Création
+- Validation des six caractéristiques du protagoniste. Voir PERSONNAGE.json pour les valeurs.
+- Compétences non attribuées ; aucune scène jouée.

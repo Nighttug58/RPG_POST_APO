@@ -4,9 +4,9 @@
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
   "phase": "creation_personnage",
-  "etape_creation": "caracteristiques",
-  "tour": 7,
-  "derniere_decision_id": "tour-0007",
+  "etape_creation": "competences",
+  "tour": 8,
+  "derniere_decision_id": "tour-0008",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -36,7 +36,7 @@
   },
   "chapitre_actuel": null,
   "derniere_scene_canonique": null,
-  "prochaine_action": "Proposer puis faire valider une répartition équilibrée des six caractéristiques du personnage Nighttug, sans les attribuer avant accord du joueur.",
+  "prochaine_action": "Choisir et valider les compétences spécialisées (0 à 3) de Nighttug, puis ses faiblesses et son équipement.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",

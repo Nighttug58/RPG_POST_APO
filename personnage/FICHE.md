@@ -1,6 +1,6 @@
 # Portrait narratif du protagoniste
 
-**Création en cours — tour 0007.**
+**Création en cours — tour 0008.**
 
 La source chiffrée de l'identité et des aptitudes reste [PERSONNAGE.json](PERSONNAGE.json). L'inventaire est dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
@@ -29,4 +29,4 @@ La période exacte chez LEMO, les conditions de vie depuis 2032 et les circonsta
 Nighttug et Kubra ont choisi un **mode de survie autonome et vigilant**. Ils se font confiance mutuellement mais **ne veulent accorder aucune confiance aux inconnus** sans raison établie. Ils refusent d'adhérer à une communauté, souhaitent établir des **relations commerciales prudentes avec des marchands** et **trouver un refuge sûr** pour vivre à deux. Leur façon d'aborder les risques s'inspire de l'ambiance d'Escape from Tarkov, sans garantir des talents militaires ni supposer qu'un bruit annonce forcément un danger. Aucun marchand ni abri particulier n'a encore été identifié.
 
 ## Prochaine étape
-Proposer une **répartition équilibrée des six caractéristiques RPG** et demander au joueur de la valider ou de la modifier. Les compétences et équipements suivront.
+Répartition des caractéristiques **validée** au tour 0008 (source unique des valeurs : PERSONNAGE.json). Définir ensuite les **compétences spécialisées**, les faiblesses et l'équipement.
