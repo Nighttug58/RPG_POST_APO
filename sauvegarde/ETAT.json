@@ -4,9 +4,9 @@
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
   "phase": "creation_personnage",
-  "etape_creation": "choix_passe",
-  "tour": 0,
-  "derniere_decision_id": null,
+  "etape_creation": "identite",
+  "tour": 1,
+  "derniere_decision_id": "tour-0001",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
@@ -32,10 +32,10 @@
   },
   "chapitre_actuel": null,
   "derniere_scene_canonique": null,
-  "prochaine_action": "Choisir le passé du personnage parmi technicien, secouriste, éclaireur, négociateur ou personnalisé",
+  "prochaine_action": "Choisir le nom ou surnom du protagoniste, puis préciser son âge et son histoire personnelle.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
-    "statut": "initialisee_avant_premier_choix"
+    "statut": "creation_personnage_en_cours"
   }
 }

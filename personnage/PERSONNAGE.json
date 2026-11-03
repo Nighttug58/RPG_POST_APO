@@ -1,12 +1,12 @@
 {
   "schema_version": "2.0",
-  "statut": "non_cree",
+  "statut": "en_creation",
   "identifiant": "protagoniste",
   "identite": {
     "nom": null,
     "age": null,
-    "passe": null,
-    "origine": null,
+    "passe": "personnalise",
+    "origine": "Ancien dessinateur 3D disposant de connaissances approfondies en informatique.",
     "motivation": null
   },
   "caracteristiques": {
@@ -19,7 +19,15 @@
   },
   "competences": null,
   "traits": {
-    "qualites": [],
+    "qualites": [
+      "Grande taille (description du personnage)",
+      "Force et endurance revendiquées",
+      "Intelligence, logique et prudence dans le jugement",
+      "Excellent sens de l'orientation et de la visualisation spatiale",
+      "Connaissances approfondies en informatique",
+      "Connaissances accrues déclarées en combat, infiltration et discrétion",
+      "Connaissances de base en cuisine et rudiments de soins"
+    ],
     "faiblesses": []
   },
   "etat_physique": {
@@ -32,6 +40,9 @@
   "progression": {
     "experience": null,
     "capacites_speciales": [],
-    "notes": []
+    "notes": [
+      "Tour 0001 : passé personnalisé validé. Ex-dessinateur 3D, informatique approfondie ; grande taille, force et endurance ; raisonnement logique et prudent ; sens de l'orientation et visualisation de l'espace remarquables ; cuisine de base et soins rudimentaires ; combat et infiltration/discrétion revendiqués.",
+      "Ce passé est narrativement fixé ; les scores chiffrés et les limites/contreparties seront définis à l'étape des caractéristiques. Aucune réussite automatique."
+    ]
   }
 }
