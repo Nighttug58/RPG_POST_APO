@@ -1,6 +1,6 @@
 # Portrait narratif du protagoniste
 
-**Création achevée — partie ouverte au tour 0012.**
+**Partie en cours — tour 0014.**
 
 La source chiffrée de l'identité et des aptitudes reste [PERSONNAGE.json](PERSONNAGE.json). L'inventaire est dans [INVENTAIRE.json](../sauvegarde/INVENTAIRE.json).
 
@@ -40,3 +40,6 @@ Caractéristiques validées au tour 0008 et **neuf compétences spécialisées v
 - Sang-froid fragilisé si Kubra est exposée à un danger sérieux et crédible, sans perte du contrôle des décisions.
 
 Le raisonnement rapide de Nighttug demeure une qualité. Les faiblesses sont contextuelles et non automatiques.
+
+## Dernière situation — tour 0014
+Nighttug et Kubra se sont installés dans un abri discret en forêt, près d'un ruisseau. Un canard a été capturé, sans pouvoir être cuisiné. Deux essais pour obtenir un feu ont échoué, et le dispositif de filtration n'a pas permis d'établir la potabilité de l'eau. Leur faim persiste. Des détonations lointaines ont été entendues avant qu'ils s'endorment. Les données d'inventaire et d'état restent dans les fichiers JSON maîtres.

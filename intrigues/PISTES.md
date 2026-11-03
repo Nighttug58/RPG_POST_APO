@@ -21,7 +21,7 @@
 - **Attention :** ce n'est pas une mission prédestinée ; le couple peut ajuster ses priorités.
 
 ### objectif-ravitaillement-001 — Ravitaillement
-Objectif actif au tour 0013 : obtenir eau potable et nourriture. Un cours d'eau a été trouvé, sans potabilité établie.
+Objectif actif au tour 0013 : obtenir eau potable et nourriture. Au tour 0014, un abri discret a été aménagé et un canard a été capturé, mais non cuit. Le feu et le filtre n'ont pas fonctionné : aucune nourriture consommée ni eau potable obtenue. Les végétaux sauvages ne sont pas identifiés de façon fiable.
 
 ## Pistes de l'aventure
 *Aucune piste ni mission intradiégétique découverte pour le moment.*

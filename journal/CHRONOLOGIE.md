@@ -80,3 +80,11 @@
 - Après 25 minutes à pied, ils atteignent la berge d'un petit cours d'eau ; aucune nourriture trouvée et potabilité non vérifiée. Pas d'assaillants visibles.
 - Des branches mortes sont présentes dans le sous-bois, sans ressource de défense comptabilisée ni usage résolu.
 - Aucun jet ; nouvelle position approximative consignée dans ETAT.json.
+
+## Partie — Tour 0014 : Campement et recherches (2043, du jour à la nuit)
+- Recherche d'un emplacement discret à l'écart des passages : abri coupe-vent établi, test réussi.
+- Kubra ramasse du bois sec et des végétaux/champignons dont l'identification comestible reste incertaine ; la terre prélevée ne prouve pas l'existence d'une culture viable.
+- Une dizaine de canards approchent du ruisseau. Un seul est capturé par chance (réussite difficile) ; le deuxième essai échoue.
+- Deux essais pour entretenir un feu échouent ; aucune cuisson ni production de charbon. Filtre rudimentaire non fiable : aucune eau potable obtenue.
+- À la nuit, des détonations lointaines sont entendues ; source inconnue, sans menace directe constatée. Le duo s'endort sous son abri sans repas.
+- **Temps fictif :** 480 minutes sur ce tour, 505 minutes depuis le début. **Jets :** six, enregistrés au tour 0014.

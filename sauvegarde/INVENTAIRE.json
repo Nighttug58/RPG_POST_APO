@@ -17,6 +17,36 @@
       "masse_unitaire_kg": null,
       "porteur": "Kubra",
       "etat": "non_precise"
+    },
+    {
+      "id": "lot-bois-sec-001",
+      "nom": "Bois sec ramassé, stocké au camp",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "emplacement": "campement de fortune"
+    },
+    {
+      "id": "canard-001",
+      "nom": "Canard sauvage capturé, non cuit",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "etat": "non_cuit",
+      "emplacement": "campement de fortune"
+    },
+    {
+      "id": "plantes-et-terre-001",
+      "nom": "Végétaux et terre prélevés par Kubra, identification et viabilité incertaines",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "emplacement": "campement de fortune"
+    },
+    {
+      "id": "filtre-improvise-001",
+      "nom": "Dispositif de filtration rudimentaire, non fiable pour rendre l'eau potable",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "etat": "echec_du_test",
+      "emplacement": "campement de fortune"
     }
   ],
   "consommables": {
@@ -27,5 +57,5 @@
   "charge": {
     "capacite_kg": null
   },
-  "notes": "Tour 0012 : seuls les vêtements chauds déjà portés par Nighttug et Kubra sont conservés après leur fuite. Aucune arme, provision, eau potable ni soin en réserve ; pas d'autre équipement. Masse et état précis des vêtements non déterminés. Inventaire commun du duo."
+  "notes": "Tour 0014 : vêtements chauds portés, bois sec, un canard non cuit, plantes/terre non identifiées et un dispositif de filtration non fiable au camp. Aucun feu durable, aucun repas consommé, aucune eau potable obtenue ; réserves d'eau, nourriture et soins maintenues à zéro. Masses non mesurées ; matériaux et contenants improvisés sans valeur de potabilisation garantie."
 }

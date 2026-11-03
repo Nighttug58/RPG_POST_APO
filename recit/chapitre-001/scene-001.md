@@ -18,3 +18,19 @@ Nighttug et Kubra quittent leur emplacement de nuit. Pendant environ vingt-cinq 
 Le bruit de l'eau devient perceptible avant le ruisseau. Ils atteignent une berge boisée ; un petit courant y circule. L'eau n'a pas été évaluée comme potable et aucune nourriture n'a encore été trouvée. Les assaillants sont hors de vue, mais leur situation actuelle n'est pas connue.
 
 **Fin du tour :** le duo se trouve au bord du ruisseau. Temps écoulé depuis l'ouverture : 25 minutes. Aucun jet. Aucune action supplémentaire anticipée.
+
+## Tour 0014 — Un abri pour la nuit
+
+L'eau du ruisseau reste à portée, mais Nighttug préfère un endroit où leur présence sera moins évidente. Une recherche attentive leur permet de trouver une zone du sous-bois à l'écart des passages apparents. Avec le bois et les matériaux disponibles, Kubra et lui improvisent un abri qui coupe une partie du vent.
+
+La journée est consacrée à retrouver les premières ressources. Kubra rassemble du bois sec et revient de ses recherches avec des végétaux ressemblant à du persil et de l'oseille, ainsi que des champignons dont la nature ne peut être confirmée. Nighttug garde un peu de la terre prélevée près des champignons : cela ne constitue pas encore une culture viable.
+
+Une dizaine de canards se présentent sur le cours d'eau. Le premier essai de capture connaît un succès peu probable : un animal est pris. La tentative d'en saisir un deuxième échoue, et les autres s'éloignent. Il y a donc **une prise**, pas deux.
+
+Malgré son expérience revendiquée de l'allumage par friction, Nighttug n'obtient pas de feu durable après plusieurs efforts. Il n'y a ni charbon prêt ni cuisson. Le dispositif improvisé avec les matériaux recueillis ne réussit pas non plus à produire une eau dont la potabilité puisse être établie. Le fait de la filtrer plusieurs fois n'élimine pas nécessairement les agents infectieux. Le couple garde sa prise non cuite et n'a pas consommé de repas.
+
+Le soir arrive. Dans l'abri qui les protège partiellement du vent, la faim est présente. Des détonations retentissent très loin, sans qu'aucune provenance puisse être établie. Aucun assaillant ne se montre aux abords du camp.
+
+Nighttug et Kubra finissent par s'endormir. Leur nouvel abri est discret, mais la recherche de nourriture et d'eau potable reste inachevée.
+
+**Résolution :** 6 jets de dés, consignés dans `journal/JETS.jsonl`. Temps du tour : 480 minutes. Temps cumulé depuis l'ouverture : 505 minutes. Pas de réussite automatique pour les actions complexes.
