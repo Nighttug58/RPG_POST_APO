@@ -1,11 +1,10 @@
-# Objectifs et pistes — fin jour 10
-
-- **Eau, critique** : ~57 L d'eau traitée thermiquement (contre 27 L début J10), ~15 L brute séparée. Aucun symptôme rapporté, mais qualité chimique non démontrée; ébullition et filtre rudimentaire ne retirent pas tous les contaminants chimiques. Contenants nominaux alimentaires ~81 L, propreté à surveiller.
-- **Nourriture, critique** : comptage J9 de Marianne, 25 conserves d'aspect acceptable avec denrées sèches résiduelles; consommations J10 non détaillées. Apport de La Sallaz J9 : 6 conserves, 1,5 kg lentilles, 0,5 kg sel, 2 pots miel, à vérifier et non compris dans le solde sûr. Rationnement maintenu.
-- **Coopération La Sallaz** : accord de principe limité avec Adrien et Claire J10; Henri peut aider leurs jardins. Pas d'alliance formelle ni de fusion, pas de nouveau membre. Claire proposera un contact avec Rosa, potentielle conservatrice de semences, sans accord confirmé.
-- **Semences** : 4 sachets anciens appartenant à Henri; viabilité inconnue. Pépinière non visitée et contact Rosa seulement évoqué.
-- **Jardins** : 3 parcelles historiques d'Henri, 2 des 5 autres provisoirement entretenues, 3 en attente. Nicolas prépare 2 nouvelles planches non semées dans un espace commun délaissé du quartier, sous réserve des droits des occupants. Aucune récolte.
-- **Vie communautaire** : 7 membres et 2 alliés/invités; 9 sacs dont 7 artisanaux confectionnés au J9; surveillance de Marc; bilan de semaine d'essai à discuter.
-- **Équipement de chasse** : projet étudié par Marc et David, aucun équipement fiable en service.
-- **Énergie** : recherche solaire préparée J8, non effectuée; citerne pluviale et pompe inchangées.
-- **Charbon** : lot J6 visant 20 kg non pesé; stock total inconnu.
+# Objectifs et pistes — fin jour 11
+- **Eau** : ~53 L traités thermiquement, 0 L brut en attente; une nouvelle tournée de collecte est nécessaire. Qualité chimique non analysée, absence de symptômes non probante.
+- **Alimentation** : dernier recomptage global J9 = 25 conserves au refuge; J9 +6 conserves à vérifier; J11 Boveresses +3 conserves à vérifier; consommations J10–J11 non détaillées. Aucun gibier ni récolte.
+- **Boveresses** : Tugay et Kübra exploitaient deux parcelles avant la Rupture; elles ne sont pas encore identifiées avec certitude, ni acquises actuellement. Reconnaissance par David et Sophie J11; certains jardins entretenus. Retour possible avec Tugay.
+- **Pépinière** : visitée J11, 5 sachets de semences très anciennes à viabilité inconnue, plateaux et pots horticoles récupérés; arbustes fruitiers vivants probables identifiés, laissés sur place; petite structure de serre non récupérée.
+- **Jardins du refuge** : Henri/Marianne/Marc ont ajouté 2 nouvelles planches communes au J11, soit 4 nouvelles planches J10–J11, toutes non semées. Parcelles anciennement privées entretenues provisoirement sans transfert de propriété; 3 sur 5 restent à préparer.
+- **Charbon/bois** : Élise a ramassé ~12 kg de bois assez sec pour nouveau lot J11 non achevé/pesé et ~5 kg humides à sécher. Lot charbon J6 et nouveau J11 sans rendement confirmé.
+- **Matériel de chasse** : travail collectif de J11 sans équipement fonctionnel; conservation de viande seulement projet tant qu'aucune chasse n'est effectuée.
+- **Coopération La Sallaz** : contact pacifique avec Adrien/Claire, accord agricole de principe, Rosa évoquée mais pas encore rencontrée; semences non obtenues de cette source.
+- **Énergie** : reconnaissance solaire non effectuée, citerne et pompe sans changement. Surveiller l'effort de travail et les besoins de repos.

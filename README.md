@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 10, novembre 2043, communauté de sept membres, Henri allié et Marianne invitée; dialogue de coopération avec La Sallaz. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
+**État : fin du jour 11, novembre 2043, communauté de sept membres, Henri allié et Marianne invitée; pépinière visitée et piste des deux anciennes parcelles des Boveresses. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [CONTINUITE jours 2 à 10](journal/CONTINUITE.md). Fin J10 : ~57 L eau traitée, 15 L brute séparée, qualité chimique inconnue. Accord de principe agricole avec Adrien et Claire; Rosa évoquée mais non rencontrée. Jour 9 rattrapé après blocage de commit précédent. Dernier récit : [Chapitre 021](recit/chapitre-021/scene-001.md).
+Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md), [CONTINUITE jours 2 à 11](journal/CONTINUITE.md), [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J11 : eau ~53 L traitée, 0 L brute, qualité chimique non vérifiée; anciennes parcelles aux Boveresses non confirmées; pépinière explorée avec vieux sachets et équipements horticoles; 2 nouvelles planches communes supplémentaires; nouveau charbon non pesé, projet d'arc non opérationnel. Dernier récit : [Chapitre 022](recit/chapitre-022/scene-001.md).

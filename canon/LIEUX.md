@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 10
+# Registre des lieux — connus fin du jour 11
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -12,7 +12,7 @@
 | lieu-barbecue | Jardin collectif | Ancienne installation de chauffe extérieure |
 | lieu-garages | Garages/caves/maisons du quartier | Plusieurs fouilles; objets lourds laissés et localisés |
 | lieu-jardins-henri | Jardins familiaux | 8 parcelles visibles : 3 entretenues par Henri, 5 dont les propriétaires sont absents/inconnus. J8 : 2 des 5 préparées provisoirement, une partiellement semée; 3 restantes. Aucun transfert de propriété; serre tunnel partiellement protégée |
-| lieu-pepiniere | Pépinière mentionnée par Nicolas | Non visitée, ressources possibles non vérifiées |
+| lieu-pepiniere | Ancienne pépinière évoquée par Nicolas | Visitée J11 par Tugay, Kübra et Nicolas; matériel horticole léger et 5 sachets anciens récupérés, arbustes fruitiers vivants probables laissés en place, structure de serre partiellement récupérable |
 | lieu-depot | Dépôt de maintenance mentionné par David | Non visité |
 | lieu-atelier-communal | Atelier mentionné par Marc | Non visité |
 | lieu-maison-marianne | Ancienne maison de Marianne | À environ 4 km du refuge; visitée le jour 7, Marianne était absente; note manuscrite menant à un local de jardinage proche |
@@ -21,3 +21,5 @@
 
 | lieu-sallaz-place | Secteur habité de La Sallaz | À environ dix minutes à pied du refuge selon Tugay; présence de résidents, contact avec Adrien et Claire J9-J10. |
 | lieu-sallaz-commerces | Anciens commerces de La Sallaz | Quelques locaux paraissent abandonnés et ont été explorés J9; d'autres espaces sont occupés, sans accès libre. |
+
+| lieu-jardins-boveresses | Jardins familiaux proches des Boveresses | Deux parcelles historiquement exploitées par Tugay et Kübra avant La Rupture (souvenir J11), à environ 20 minutes de marche du refuge. David et Sophie visitent J11; jardins partiellement entretenus, emplacements exacts et droits actuels non vérifiés, annexes paraissant abandonnées |

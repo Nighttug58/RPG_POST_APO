@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin jour 10; rattrapage historique J9 depuis récit non committé, comptage alimentaire J9 provisoire",
+  "reference": "Fin jour 11 — dernier comptage de nourriture global J9, ajouts J11 non vérifiés, eau estimée",
   "objets": [
     {
       "id": "bidon20",
@@ -908,19 +908,91 @@
       "categorie": "hygiene",
       "emplacement": "stock communautaire, bâtiments B/C",
       "etat": "Récupéré à La Sallaz J9, état à vérifier"
+    },
+    {
+      "id": "lot-095",
+      "nom": "Plateaux de semis récupérés à la pépinière et aux Boveresses",
+      "quantite": 8,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "6 de la pépinière et 2 des Boveresses; à nettoyer et réutiliser"
+    },
+    {
+      "id": "lot-096",
+      "nom": "Petits pots horticoles",
+      "quantite": 24,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupérés à la pépinière J11; état général correct"
+    },
+    {
+      "id": "lot-097",
+      "nom": "Arrosoir horticole 8 L",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupéré à la pépinière J11; pour irrigation non potable"
+    },
+    {
+      "id": "lot-098",
+      "nom": "Rouleau de filet de protection horticole",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupéré à la pépinière J11; état à vérifier"
+    },
+    {
+      "id": "lot-099",
+      "nom": "Petite pelle horticole",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupérée à la pépinière J11"
+    },
+    {
+      "id": "lot-100",
+      "nom": "Sachets de semences anciennes de pépinière",
+      "quantite": 5,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Antérieurs à la Rupture; germination inconnue, non considérés comme cultures viables"
+    },
+    {
+      "id": "lot-101",
+      "nom": "Rouleau de ficelle horticole",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupéré aux Boveresses J11"
+    },
+    {
+      "id": "lot-102",
+      "nom": "Petit lot de raccords d'arrosage",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupéré aux Boveresses J11; compatibilité inconnue"
     }
   ],
   "consommables": {
-    "eau_potable_l": 57,
+    "eau_potable_l": 53,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "Estimation J10 : 27 L traités début J10 + ~49 L traités thermiquement - ~19 L consommés dans la journée = ~57 L traités. Traitement microbiologique, qualité chimique non démontrée.",
+    "eau_statu": "Fin J11 : ~57 L traités au départ + ~14 L récupérés après chauffe des 15 L d'eau brute - ~18 L consommés = ~53 L d'eau traitée. Cette eau n'est pas certifiée exempte de polluants chimiques.",
     "charbon_disponible_kg": null,
     "charbon_dernier_comptage_kg": 5.4,
     "charbon_dernier_comptage_jour": 3,
     "charbon_en_cours": {
       "objectif_kg": 20,
-      "etat": "Lot J6 refroidi, masse toujours non pesée à fin J10",
+      "etat": "Lot du J6 refroidi mais non pesé; un nouveau lot J11 a été engagé avec ~12 kg de bois supposé sec; charbon J11 en cours/refroidissement, quantité inconnue; ne pas compter comme disponible.",
       "obtenu_kg": null
     },
     "citerne_pluie": {
@@ -947,8 +1019,8 @@
       "legumes_henri": "Restes du don jour 4 non mesurés",
       "attention": "Recomptage J9 provisoire de Marianne après consommations J6-J9, 25 conserves avec emballage visuellement acceptable, dont 3 du J7; 1 du J7 écartée. Consommations J10 non détaillées. Aucun aliment ancien garanti par son seul aspect."
     },
-    "eau_brute_l": 15,
-    "eau_brute_statu": "Estimation J10 : 4 L bruts début J10 + 60 L rapportés en deux voyages - 49 L traités = ~15 L bruts séparés.",
+    "eau_brute_l": 0,
+    "eau_brute_statu": "15 L de départ traités thermiquement au J11, aucun réapprovisionnement en eau brute; 0 L restant brut. Nouveau trajet au ruisseau nécessaire.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -963,7 +1035,20 @@
       "sel_emballe_kg": 0.5,
       "pots_de_miel_fermes": 2,
       "etat": "Apport de La Sallaz, emballages à examiner, pas intégré aux réserves consommables comptées."
-    }
+    },
+    "denrees_recuperees_j11_a_verifier": {
+      "jour": 11,
+      "conserves_non_verifiees": 3,
+      "etat": "Ramenées par David et Sophie d'un local annexe apparemment délaissé aux Boveresses; emballages et sécurité à vérifier; non comptées dans les denrées sûres."
+    },
+    "charbon_j11": {
+      "jour": 11,
+      "bois_initial_kg_estime": 12,
+      "charbon_obtenu_kg": null,
+      "etat": "Production lancée, rendement non mesuré et lot non validé; masse du bois n'est PAS une masse de charbon."
+    },
+    "bois_humide_a_secher_kg": 5,
+    "bois_sec_disponible_kg_estime": 0
   },
   "capacites": {
     "contenants_alimentaires_nominale_l": 81,
@@ -982,5 +1067,5 @@
     "Caisse à outils lourde",
     "Radio hors service"
   ],
-  "notes": "J9 : 7 sacs en tissu fabriqués (3 renforcés, 4 simples) en plus des 2 sacs existants; denrées de La Sallaz J9 en attente d'examen. J10 : ~57 L d'eau traitée et ~15 L d'eau brute, capacités nominales de contenants 81 L; qualité chimique non établie. Henri conserve personnellement quatre vieux sachets de graines, viabilité inconnue. Aucune récolte, ni panneau solaire, ni équipement de chasse opérationnel acquis."
+  "notes": "Fin J11 : ~53 L d'eau traitée, plus d'eau brute disponible, qualité chimique non vérifiée. À ajouter aux provisions à examiner : 3 conserves des Boveresses, en plus des 6 du J9 toujours non contrôlées. Pépinière : 5 sachets très anciens, 8 plateaux de semis au total, 24 petits pots et matériel agricole léger. Arbustes vivants aperçus mais NON prélevés. Bois : Élise a rapporté ~12 kg assez secs utilisés comme entrée d'un nouveau lot de charbon, +~5 kg humides à laisser sécher; aucun nouveau charbon comptabilisé. Les 4 vieux sachets d'Henri restent sa propriété."
 }

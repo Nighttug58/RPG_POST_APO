@@ -135,3 +135,11 @@
 - Tugay et Henri vont à La Sallaz, environ 10 minutes à pied. Accord de principe de coopération agricole avec Adrien et Claire; contact possible avec Rosa, sans rendez-vous confirmé.
 - Kübra et Sophie rapportent ~60 L bruts, Élise et Marianne traitent ~49 L, ~19 L consommés; fin de journée ~57 L traités et ~15 L bruts.
 - Nicolas prépare deux nouvelles planches dans le quartier; Marc surveille B/C et travaille avec David sur un projet non opérationnel. Aucun jet effectué, fin à 19 h 30.
+
+## Mode continu — Jour 11 (2043, novembre)
+- Tugay précise un souvenir ancien : deux parcelles cultivées avec Kübra aux Boveresses avant 2032, environ vingt minutes de marche du refuge; statut et emplacement précis actuels inconnus.
+- David/Sophie reconnaissent le jardin mais ne localisent pas précisément les parcelles; trois conserves et petit matériel de culture récupérés à contrôler.
+- Tugay/Kübra/Nicolas visitent la pépinière; matériel de semis et 5 sachets anciens récupérés, arbustes vivants repérés sans prélèvement.
+- Henri/Marianne/Marc ajoutent 2 planches dans le quartier; Marc maintient une veille intermittente.
+- Élise traite les 15 L bruts (~14 L récupérés), rassemble du bois avec le chariot; après ~18 L consommés, ~53 L traités, 0 L brut.
+- Tugay engage un nouveau lot de charbon, sans pesée ni stock utilisable; projet collectif d'arc non abouti. Aucun jet ni blessure. Fin vers 19 h 30.

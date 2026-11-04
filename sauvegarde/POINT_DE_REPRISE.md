@@ -1,20 +1,20 @@
 # Point de reprise — Les Cendres du Monde
 <!-- TOUR_COURANT: 16 -->
+## MODE
+Narration continue depuis la fin du jour 6 : missions parallèles et décisions libres, sans tour forcé. Les tours 1–16 restent des archives immuables. Commits aux jalons narratifs ou demande explicite.
 
-## Mode continu
-Les 16 tours historiques restent figés. Les décisions de Tugay portent sur des scènes, journées et missions parallèles; les sauvegardes sont faites aux jalons narratifs.
+## Fin du jour 11 — novembre 2043, 19 h 30
+- **Personnes** : sept membres (Tugay, Kübra, Nicolas, Sophie, David, Élise, Marc); Henri allié non membre; Marianne invitée non membre. Adrien et Claire restent des contacts de La Sallaz, accord de principe de coopération agricole; Rosa n'est pas encore rencontrée et n'a pas confirmé l'offre.
+- **Souvenir nouveau de Tugay** : lui et Kübra disposaient de **2 parcelles de jardin communautaire près des Boveresses avant la Rupture**, à environ 20 minutes à pied du refuge selon son souvenir. **Droits actuels et emplacement exact non vérifiés.**
+- **Sortie Boveresses J11** : David et Sophie avec **2 sacs en tissu renforcé** retrouvent le jardin collectif, mais ne peuvent identifier les 2 parcelles exactes. Quelques zones sont entretenues, leurs occupants sont inconnus; ils ne prélèvent rien dans les parcelles cultivées. Dans un local annexe apparemment abandonné, rapportent **3 conserves à contrôler, 2 plateaux de semis, 1 rouleau de ficelle horticole, 1 lot de raccords d'arrosage**.
+- **Sortie pépinière J11** : Tugay, Kübra et Nicolas avec **2 sacs à dos existants + 1 sac en tissu renforcé**, reconnaissent la pépinière mentionnée autrefois. Dans les zones paraissant délaissées, ils ramènent **6 plateaux de semis, 24 petits pots, 1 arrosoir 8 L, 1 filet de protection, 5 sachets de semences pré-Rupture à germination inconnue et 1 petite pelle**. Secteur d'arbustes fruitiers vivants probables (cassis, framboisiers) repéré, plantes **laissées sur place**. Serre partiellement récupérable mais non transportée.
+- **Refuge et parcelles** : Henri, Marianne et Marc préparent 2 planches supplémentaires sur un espace commun délaissé et non exploité, soit **4 nouvelles planches communautaires au total en comptant les 2 du J10**. Trois des cinq autres parcelles de propriétaires inconnus restent non préparées. Aucune culture mature; respect des occupants et de la propriété. Marc assure de courts passages de surveillance.
+- **Eau J11** : Élise traite les **15 L bruts** de J10, environ **14 L récupérés après chauffe**, et la communauté consomme environ **18 L** : solde **~53 L traités, 0 L bruts**. L'eau de ruisseau a été traitée thermiquement mais sa qualité chimique n'est pas connue. Une nouvelle collecte devient nécessaire.
+- **Bois et charbon** : Élise collecte ~12 kg de bois supposé sec et ~5 kg encore humide avec le chariot. Après son retour, Tugay consacre une partie de l'après-midi à un nouveau lot de charbon avec les ~12 kg de bois; lot en cours/refroidissement, **rendement non pesé**. Le précédent lot J6 visant 20 kg est lui aussi non pesé.
+- **Chasse / conservation** : groupe mobilisé en fin de journée sur le projet d'arc, mais **aucun équipement de chasse fiable ou fonctionnel n'a été achevé**; aucune chasse ni viande acquise, fumage seulement une perspective à étudier.
+- **Nourriture** : dernier recomptage global J9, 25 conserves d'apparence acceptable au refuge et denrées sèches détaillées dans INVENTAIRE. **6 conserves J9 + 3 conserves J11** encore à examiner et non comptées comme sûres. Consommations J10-J11 non consolidées.
+- **Énergie** : panneaux solaires toujours non recherchés sur le terrain, citerne non potable et pompe hors service.
+- **Fin J11** à 19 h 30, fatigue modérée, aucune blessure ni nouveau contact, aucun jet de dé.
 
-## Fin du jour 10 à 19 h 30 — novembre 2043
-- **Groupe** : 7 membres confirmés (Tugay, Kübra, Marc, Élise, David, Sophie, Nicolas), Henri allié et Marianne invitée. Marc garde la base. L'essai communautaire initial de 7 jours doit être réexaminé.
-- **Jour 9 rattrapé** : 7 sacs en tissu fabriqués, soit 9 avec les 2 existants; sortie de 5 personnes (Tugay, Kübra, Nicolas, Sophie, David) à La Sallaz. 6 conserves, 1,5 kg lentilles, 0,5 kg sel, 2 pots miel et diverses fournitures récupérés mais à examiner. Premiers contacts pacifiques avec Adrien et Claire. Marianne recompte 25 conserves d'aspect acceptable au refuge, hors apport J9. Henri retrouve 4 sachets anciens de graines, viabilité inconnue. Eau fin J9 ~27 L traités, 4 L bruts.
-- **Jour 10, La Sallaz** : Tugay et Henri se rendent à pied (environ 10 minutes) auprès d'Adrien et Claire. Accord de principe **limité à une coopération agricole** : Henri pourrait conseiller les jardins de La Sallaz; Claire propose de transmettre une demande de contact à Rosa, éventuelle gardienne de semences, non rencontrée. Pas de fusion ni recrutement, pas de rendez-vous ferme.
-- **Eau** : Kübra/Sophie rapportent 60 L d'eau brute en deux tournées; Élise/Marianne en traitent thermiquement 49 L. Consommation estimée 19 L; fin J10 **~57 L traités et ~15 L bruts**. Contenants alimentaires nominaux ~81 L. Tugay pense le ruisseau sain en raison de son expérience et de l'absence de symptômes, mais la qualité chimique demeure **non démontrée**; le traitement thermique n'élimine pas les polluants chimiques.
-- **Agriculture** : Nicolas prépare 2 nouvelles planches non semées dans un espace commun délaissé, en plus des jardins d'Henri et des 2 autres parcelles entretenues provisoirement. Propriété des autres occupants à respecter. Aucun rendement.
-- **Atelier et surveillance** : Marc et David étudient le projet de matériel de chasse, aucun équipement fiable opérationnel; Marc maintient la surveillance.
-- **Reste** : reconnaissance solaire préparée J8 et encore reportée; charbon J6 visant 20 kg refroidi mais toujours non pesé; alimentation sous rationnement, 6 conserves J9 non contrôlées.
-
-## Sources
-ETAT.json : contexte; INVENTAIRE.json : stocks; PERSONNAGE.json : Tugay; journal/CONTINUITE.md : jours 2–10; recit/chapitre-021/scene-001.md : dernier récit.
-
-## Prochaine interaction
-**Jour 11 non commencé.** Attente de la réponse potentielle de Rosa via Claire, travaux d'eau et jardins selon décisions du joueur, contrôle des aliments de La Sallaz, surveillance du refuge, réévaluation de la semaine d'essai. Aucune nouvelle mission autorisée d'avance.
+## PROCHAINE INTERACTION
+**Jour 12 non commencé.** Tugay décide librement. Pistes : accompagner David et Sophie aux anciennes parcelles des Boveresses; visiter la pépinière avec Henri pour les arbustes/structures; préparer un test de germination des semences anciennes; aller chercher à nouveau de l'eau brute; vérifier les conserves récupérées; peser les anciens lots de charbon; revoir les contacts de La Sallaz/Rosa; continuer jardins et solaire. Ne pas anticiper de décision ni d'issue.

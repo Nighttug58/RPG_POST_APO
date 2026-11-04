@@ -69,7 +69,7 @@
   "etat_physique": {
     "sante": null,
     "blessures": [],
-    "fatigue": "Fatigue modérée après expédition J9 et déplacement à La Sallaz J10; aucune blessure nouvelle rapportée.",
+    "fatigue": "Fatigue modérée au soir du J11 après reconnaissance de pépinière, port de matériel et travaux communautaires; aucune blessure nouvelle signalée.",
     "faim": "Besoins alimentaires réguliers, réserves de la communauté limitées",
     "hydratation": "Approvisionnement communautaire en eau traité, non encore durable"
   },
@@ -94,7 +94,9 @@
       "Jour 7 : visite du groupe complet chez la sœur d'Henri; Marianne retrouvée et invitée, sans adhésion confirmée. Matinée de marche et collecte, après-midi d'agriculture; 7 membres et Henri/Marianne alliés ou invités, pas de blessure signalée, aucun jet de dé effectué.",
       "Jour 8 : Tugay propose d'entretenir provisoirement les 5 parcelles d'autres propriétaires, en permettant à tout propriétaire légitime de reprendre son terrain. Henri accepte d'aider mais ne cède aucun droit de propriété. Un projet d'arc de chasse est examiné sans fabrication d'équipement opérationnel ni chasse. Aucune blessure ni jet de dé.",
       "J9 : Tugay, Kübra, Nicolas, Sophie et David fouillent des locaux apparemment abandonnés de La Sallaz; récupération de vivres à vérifier et premiers contacts pacifiques avec Adrien et Claire.",
-      "J10 : Tugay et Henri présentent une offre de coopération agricole à La Sallaz. Accord de principe restreint avec Adrien et Claire. Rosa, possible personne gardant des graines, est mentionnée mais non rencontrée. Aucun affrontement."
+      "J10 : Tugay et Henri présentent une offre de coopération agricole à La Sallaz. Accord de principe restreint avec Adrien et Claire. Rosa, possible personne gardant des graines, est mentionnée mais non rencontrée. Aucun affrontement.",
+      "J11 : Tugay se rappelle qu'avant la Rupture, lui et Kübra exploitaient deux parcelles dans un jardin communautaire près des Boveresses, environ 20 minutes à pied. David et Sophie reconnaissent les jardins mais ne peuvent identifier leurs parcelles avec certitude; droits actuels inconnus.",
+      "J11 : Tugay, Kübra et Nicolas visitent une pépinière oubliée, récupèrent équipement de semis et 5 sachets anciens à faible fiabilité. Arbustes vivants repérés, laissés en place. Nouveau projet de charbon non pesé; projet collectif d'équipement de chasse demeure non opérationnel. Aucun jet de dé."
     ]
   }
 }

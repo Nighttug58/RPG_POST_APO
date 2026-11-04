@@ -13,7 +13,7 @@
     "heure": "19:30",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 10,
+    "jour_campagne": 11,
     "mois": "novembre"
   },
   "localisation": {
@@ -22,7 +22,7 @@
     "coordonnees": null
   },
   "conditions": {
-    "meteo": "Journée de novembre froide et humide; températures exactes non mesurées",
+    "meteo": "Journée de novembre froide, végétation humide; soir frais, mesures exactes inconnues",
     "luminosite": "nuit",
     "menaces_immediates": [],
     "bruits_lointains": [
@@ -30,11 +30,13 @@
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Ruisseau : aucun symptôme rapporté, mais absence de mesure des contaminants chimiques",
-      "Rationnement alimentaire toujours nécessaire, collecte de La Sallaz à examiner",
-      "Réserves en combustible à quantifier",
-      "Jardins provisoires et droits des autres propriétaires à respecter",
-      "Coopération de La Sallaz limitée et conditionnelle"
+      "Réserve d'eau du ruisseau traitée thermiquement, qualité chimique non analysée",
+      "Absence de nouvelle collecte d'eau au J11; eau brute épuisée et besoin de nouveaux trajets",
+      "Conserves des expéditions J9 et J11 encore à vérifier, rationnement alimentaire nécessaire",
+      "Anciennes parcelles de Boveresses non identifiées ni garanties disponibles",
+      "Semences de pépinière très anciennes, germination inconnue",
+      "Charbon J6 non pesé et nouveau lot J11 en cours de refroidissement, rendement inconnu",
+      "Équipement de chasse non fonctionnel; sécurité et fiabilité insuffisantes"
     ]
   },
   "progression": {
@@ -46,7 +48,9 @@
       "objectif-charbon-001",
       "objectif-solaire-001",
       "objectif-semences-001",
-      "objectif-cooperation-sallaz-001"
+      "objectif-cooperation-sallaz-001",
+      "objectif-boveresses-001",
+      "objectif-pepiniere-001"
     ],
     "pistes_ouvertes": [
       "piste-citerne",
@@ -55,7 +59,9 @@
       "piste-survivants",
       "piste-solaire",
       "piste-semences-rosa",
-      "piste-alliance-sallaz"
+      "piste-alliance-sallaz",
+      "piste-parcelles-boveresses",
+      "piste-arbustes-pepiniere"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -86,12 +92,14 @@
       "lieu-maison-marianne",
       "lieu-local-jardin-marianne",
       "lieu-sallaz-place",
-      "lieu-sallaz-commerces"
+      "lieu-sallaz-commerces",
+      "lieu-jardins-boveresses",
+      "lieu-pepiniere"
     ]
   },
-  "chapitre_actuel": "chapitre-021",
-  "derniere_scene_canonique": "recit/chapitre-021/scene-001.md",
-  "prochaine_action": "Jour 11 non commencé. Accord agricole de principe avec Adrien et Claire; Claire doit contacter Rosa, gardienne potentielle de semences, sans réponse acquise. Poursuivre planification libre. Eau traitée ~57 L et brute ~15 L; sécurité chimique non démontrée. Six conserves récupérées au jour 9 restent à contrôler. Jardins du quartier : 2 nouvelles planches non semées. Projet de matériel de chasse toujours non opérationnel. Solaire reporté et charbon J6 non pesé.",
+  "chapitre_actuel": "chapitre-022",
+  "derniere_scene_canonique": "recit/chapitre-022/scene-001.md",
+  "prochaine_action": "Jour 12 non commencé. Pépinière reconnue, arbustes vivants laissés sur place et équipement léger rapatrié; Boveresses reconnues par David/Sophie mais les 2 anciennes parcelles de Tugay/Kübra non localisées précisément. Eau ~53 L traitée, 0 L brute; nouvelle collecte nécessaire. Deux nouvelles planches créées au quartier, soit 4 planches communautaires nouvelles depuis J10. Charbon J11 non pesé, projet d'arc non opérationnel; Rosa n'a toujours pas répondu.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -124,10 +132,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j10-1930",
-    "jour": 10,
+    "id": "fin-j11-1930",
+    "jour": 11,
     "heure": "19:30",
-    "description": "Coopération agricole de principe à La Sallaz; volume d'eau traitée plus que doublé; nouveaux jardins et examen de matériel"
+    "description": "Exploration de la pépinière et des Boveresses; semences anciennes, matériel agricole, nouvelles planches, eau traitée, nouveau lot de charbon à mesurer"
   },
   "protocole": {
     "archives_tours_figees": 16,
