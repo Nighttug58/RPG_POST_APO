@@ -12,7 +12,8 @@ Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans a
 | `canon/` | Monde établi, PNJ, lieux et factions connus |
 | `personnage/` | Identité et capacités structurées, portrait biographique |
 | `sauvegarde/` | État présent, inventaire et point de reprise |
-| `journal/` | Historique des décisions, jets et chronologie |
+| `journal/` | Historique consolidé des décisions, jets et de la chronologie |
+| `journal_journalier/` | Journées J25+ : un Markdown par jour, commits légers en attente de consolidation |
 | `recit/` | Index, chapitres et scènes vécues |
 | `intrigues/` | Pistes, missions et objectifs |
 | `scripts/` | Outils de validation locale des sauvegardes (sans CI) |
@@ -29,6 +30,8 @@ Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans a
 
 Les fichiers Markdown de personnage et d'inventaire renvoient aux JSON plutôt que de dupliquer les quantités.
 
+**Protocole de sauvegarde dès J25 :** pour chaque journée jouée, créer seulement `journal_journalier/JXXX/JOUR.md` et le committer. Une **sauvegarde complète uniquement sur demande** réintègre ensuite en une fois tous les journaux postérieurs au dernier jour consolidé. Les JSON restent au dernier état consolidé, **pas nécessairement au jour effectivement atteint**. À chaque reprise, lire ces journaux en ordre et appliquer leurs changements. Voir [le protocole MJ](docs/PROTOCOLE_MJ.md) et [le guide des journaux](journal_journalier/README.md).
+
 ### Règles et continuité
 - [Règles de simulation](docs/REGLES.md)
 - [Protocole de commits et reprise](docs/PROTOCOLE_MJ.md)
@@ -40,9 +43,9 @@ Les fichiers Markdown de personnage et d'inventaire renvoient aux JSON plutôt q
 ## Reprendre la campagne
 Avec l'accès GitHub connecté, envoyer :
 
-> Reprends Les Cendres du Monde depuis Nighttug58/RPG_POST_APO. Lis le point de reprise, l'état, le personnage, l'inventaire, les règles, les dernières décisions et les scènes récentes, puis continue au dernier tour committé.
+> Reprends Les Cendres du Monde depuis Nighttug58/RPG_POST_APO. Lis le point de reprise, l'état, le personnage, l'inventaire, les règles, les dernières décisions, les JOUR.md ultérieurs au jour consolidé, et les scènes récentes, puis continue au dernier checkpoint effectivement sauvegardé.
 
-**NOUVEAU MODE : pas de tour par tour.** Le joueur peut donner des plans couvrant des actions simultanées ou des journées entières. Le MJ raconte en continu sans imposer des menus; commits aux jalons importants ou à la demande. Les 16 tours historiques restent conservés. Aucun travail différé promis.
+**NOUVEAU MODE : pas de tour par tour.** Le joueur peut donner des plans couvrant des actions simultanées ou des journées entières. Le MJ raconte en continu sans imposer des menus; un commit léger par journée, consolidation complète uniquement à la demande. Les 16 tours historiques restent conservés. Aucun travail différé promis.
 
 ## Vérification
 Pour vérifier manuellement une sauvegarde, lancer `python3 scripts/valider_sauvegarde.py` (et éventuellement `node --check docs/dashboard.js`). **Aucune CI ni aucun workflow GitHub Actions n'est configuré dans ce dépôt.** La validation locale ne remplace pas le contrôle de cohérence du récit.
@@ -57,7 +60,7 @@ Les fichiers [`docs/index.html`](docs/index.html), [`docs/dashboard.js`](docs/da
 
 Pour l'ouvrir comme un site web, activer **Settings → Pages → Deploy from a branch → main → /docs → Save** (si GitHub Pages est disponible). Une fois déployé, l'adresse habituelle est `https://nighttug58.github.io/RPG_POST_APO/`. **Ne pas présumer que le site est actif tant qu'il n'a pas été vérifié.**
 
-Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ lit directement les JSON GitHub et présente un panneau dans le chat. Le navigateur GitHub Pages et la fiche du chat consultent les mêmes fichiers, mais **le JavaScript du dépôt ne s'exécute pas dans le chat**.
+Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ lit directement les JSON GitHub et présente un panneau dans le chat. Le navigateur GitHub Pages et la fiche du chat consultent les mêmes fichiers, mais **le JavaScript du dépôt ne s'exécute pas dans le chat**. **Entre deux consolidations, le tableau de bord reste sur l'ancien état JSON**, même si la fiction continue dans les JOUR.md.
 
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 

@@ -4,6 +4,9 @@
 ## Mode actif : narration continue simplifiée
 Les 16 premiers tours restent des archives immuables. Le joueur organise librement les journées et les missions parallèles, sans menu obligatoire. Conventions depuis J21 : eau de la résurgence pure, viande fumée durable, toutes conserves comestibles, graines viables. Aucun workflow GitHub Actions.
 
+## IMPORTANT — nouveau protocole de sauvegarde dès J25
+Les JSON et le présent point de reprise décrivent le **dernier état consolidé** (actuellement fin J24, 17 h 40), pas nécessairement le dernier jour joué. Pour reprendre après des commits légers, lire **tous les `journal_journalier/JXXX/JOUR.md`** dont le numéro de jour est **supérieur à `ETAT.date_jeu.jour_campagne`**, dans l'ordre, et appliquer leurs variations sans double comptage. Un petit commit de JOUR.md par journée ; gros commit de consolidation **uniquement à la demande**. Voir `docs/PROTOCOLE_MJ.md`. **J25 n'est pas encore joué.**
+
 ## Fin du jour 24 — novembre 2043, 17 h 40
 - **Hiver arrivé** : matin **−4 °C**, maximum **+1 °C**, vent du nord, givre, premières averses de neige en fin de journée. Temps extérieur prolongé difficile : froid, glissades, pauses au chaud indispensables; pas d'épaisseur de neige affirmée.
 - **Électricité enfin en service** : David dirige le travail avec Tugay, Nicolas, Élise et l'aide des autres selon disponibilités. **Quatre panneaux** fonctionnels, **batterie solaire 8 kWh**, gestion, premiers indices de charge vers 13 h 30. À **17 h 40**, le **bâtiment C** (salle commune) et des zones essentielles du **bâtiment B** (dont escalier) sont éclairés. Petits appareils rechargeables; **ni chauffage ni grosses charges**. Production, taux de charge et autonomie nocturne non chiffrés.
