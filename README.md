@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 18, novembre 2043. Expédition des villas J16–J18 achevée, deux chariots revenus, +70 L de contenants, conserves et matériel à vérifier, Henri a assuré le refuge. Les 16 anciens tours restent archivés ; mode = narration continue.**
+**État : fin du jour 19, novembre 2043. Après les villas J16–J18, Tugay rapporte un grand cerf avec l'équipe J19 ; premier fumoir communautaire essayé et résurgence souterraine découverte à ~5 min du refuge. Mode = narration continue, sans CI.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J18 à 16 h 45 : Tugay, Kübra, Nicolas, David et Marc reviennent d'une expédition de deux nuits dans un quartier de villas oublié (départ J16, recherche J17, retour J18). +70 L de capacité nominale de récipients (total 151 L avant nettoyage), 13 nouvelles conserves anciennes à examiner (27 récentes non vérifiées au total), matériel et couvertures. Henri coordonne les quatre personnes restées au refuge. Eau traitée ≈53 L confirmés au refuge + éventuel reliquat de la mission inconnu ; charbon recensé ≈14,4 kg avant consommations non renseignées. Bois sec final non quantifiable. Dernier récit : [Chapitre 027](recit/chapitre-027/scene-001.md). Jour 19 à commencer.
+Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J19 à 19 h 30 : Tugay a réussi une chasse solitaire la nuit J18–J19 et le groupe a ramené un gros cerf adulte, viande non pesée et fumoir utilisé pour premier essai seulement. Henri/Sophie construisent le fumoir à partir de pièces disponibles sans toucher aux roues du deuxième chariot. Kübra/Élise découvrent une résurgence souterraine à ~5 min à pied du refuge et rapportent ~30 L bruts. Eau traitée connue au refuge ~59 L et eau brute ~10 L, en plus d'un éventuel reliquat d'expédition inconnu ; pureté chimique non certifiée. Bois sec final inconnu. Dernier récit : [Chapitre 028](recit/chapitre-028/scene-001.md). Jour 20 à commencer.

@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin J18 à 16 h 45 (expédition décalée J16–J18), butin et comptabilité prudente du refuge",
+  "reference": "Fin J19 à 19 h 30 : un cerf adulte récupéré, fumoir expérimental et résurgence à 5 min ; eau corrigée par flux estimés",
   "objets": [
     {
       "id": "bidon20",
@@ -1270,13 +1270,40 @@
       "categorie": "outils",
       "emplacement": "stock communautaire, bâtiments B/C",
       "etat": "Ramené J18 ; contenu détaillé et état à vérifier."
+    },
+    {
+      "id": "lot-135",
+      "nom": "Fumoir artisanal collectif",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Construit J19 par Henri/Sophie avec pièces de vélo et tuyaux métalliques récupérés. Premier essai de fumage, pas de garantie de conservation; roues du deuxième chariot non prélevées."
+    },
+    {
+      "id": "lot-136",
+      "nom": "Viande de grand cerf adulte (lot J19 non pesé)",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Prise de chasse nocturne J18–J19, récupérée au matin. Plusieurs morceaux fumés à l'essai, sécurité et durée de conservation non certifiées ; masse nette inconnue."
+    },
+    {
+      "id": "lot-137",
+      "nom": "Arc artisanal de Tugay (usage de chasse J19)",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "equipement",
+      "emplacement": "équipement personnel de Tugay, refuge B",
+      "etat": "Achevé J13, aucun tir documenté J14, première réussite de chasse J19. Un succès ne valide ni précision générale ni sécurité, portée et fiabilité inconnues."
     }
   ],
   "consommables": {
-    "eau_potable_l": 53,
+    "eau_potable_l": 59,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "Minimum comptable ≈53 L traités au refuge au retour J18 : départ 53 L J15 − 30 L affectés à mission + 57 L obtenus au refuge − 27 L consommés au refuge = 53 L. Le reliquat non consommé des 30 L emportés n'est PAS connu : total collectif réel potentiellement plus élevé. Source non analysée chimiquement.",
+    "eau_statu": "Comptabilité connue J19 : ~53 L traités au refuge fin J18 + ~24 L après traitement de l'eau de la résurgence − ~18 L consommation collective = ~59 L traités. Un reliquat d'eau de l'expédition des villas est toujours inconnu et non ajouté. Origine souterraine probable mais pureté chimique non mesurée.",
     "charbon_disponible_kg": 14.4,
     "charbon_dernier_comptage_kg": 14.4,
     "charbon_dernier_comptage_jour": 18,
@@ -1309,8 +1336,8 @@
       "legumes_henri": "Restes du don jour 4 non mesurés",
       "attention": "Dernier recomptage alimentaire général J9. Consommations J10–J18 non consolidées, 15 portions affectées à la mission J16–J18 mais consommation/reliquat non précisés. 27 conserves de fouilles récentes à vérifier (14 de J9/J11/J13/J15 et 13 de J16–J18), plus lentilles J16–J18 (~2 kg), haricots J15 (~0,8 kg), sel et miel à examiner. L'apparence ne certifie pas la sécurité sanitaire."
     },
-    "eau_brute_l": 5,
-    "eau_brute_statu": "≈5 L bruts préexistants fin J15, aucun mouvement explicitement documenté ; 60 L nouveaux collectés J16–J18 transformés en ~57 L après traitement et pertes. Maintenir séparés.",
+    "eau_brute_l": 10,
+    "eau_brute_statu": "~5 L bruts fin J18 + ~30 L collecte J19 − 25 L traités = ~10 L bruts séparés. Nouvelle résurgence à ~5 min à pied, propreté chimique non certifiée.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -1469,7 +1496,34 @@
       "legumes_consommes_kg": null,
       "legumes_restant_kg": null,
       "etat": "Récolte dans les parcelles déjà entretenues par Henri, une partie mangée au refuge, reste non mesuré."
-    }
+    },
+    "source_resurgence_j19": {
+      "lieu": "Résurgence souterraine proche du refuge, ~5 min à pied",
+      "decouverte_par": [
+        "Kübra",
+        "Élise"
+      ],
+      "eau_brute_collectee_l_estime": 30,
+      "eau_brute_traitee_l_estime": 25,
+      "eau_traitee_recuperee_l_estime": 24,
+      "qualite_chimique_confirmee": false,
+      "etat": "Aspect très clair et origine souterraine; traitement continué en attendant vérification."
+    },
+    "gibier_j19": {
+      "type": "grand cerf adulte",
+      "nombre": 1,
+      "abattu_par": "Tugay",
+      "nuitee_sur_place": true,
+      "viande_recuperee_kg": null,
+      "viande_fumee_kg": null,
+      "viande_durablement_conservable_kg": null,
+      "etat": "Récupéré le matin J19 avec Marc, Nicolas, David et Marianne. Fumage expérimental de plusieurs lots, sans pesée ni garantie de conservation prolongée."
+    },
+    "bois_j19": {
+      "bois_sec_consomme_kg": null,
+      "etat": "Fumoir, cuisine et chauffe de l'eau mobilisent du combustible ; quantité inconnue, stock final relativement sec indéterminé."
+    },
+    "charbon_j19_note": "Dernier niveau recensé ~14,4 kg avant toute consommation non renseignée, ne pas interpréter comme masse nette vérifiée J19."
   },
   "capacites": {
     "contenants_alimentaires_nominale_l": 151,
@@ -1490,5 +1544,5 @@
     "Équipement électrique ancien et volumineux dans le quartier des villas (J17), repéré mais non transporté",
     "Plusieurs meubles utiles du quartier des villas (J17), repérés mais non transportés"
   ],
-  "notes": "Fin J18 après expédition J16–J18 : +70 L capacité nominale (total ~151 L), 13 conserves anciennes (+14 antérieures => 27 non vérifiées), lentilles ~2 kg, sel ~0,7 kg, 2 miels, bâche, couvertures, gants (+2), secours ancien, lampe et outils. Henri dirige le refuge : ~60 L bruts apportés, ~57 L traités, ~27 L consommés au refuge; ≈53 L traités connus au refuge + quantité de mission résiduelle inconnue (30 L emportés, non doublés). 5 L bruts antérieurs supposés séparés. Récolte ~2,4 kg légumes en partie consommés (reliquat inconnu). Bois : +21 kg secs, +11 kg humides, consommation pour chauffe/charbon non détaillée => bois sec final indéterminé; bois humide théorique ~33 kg. Deux lots ~1,9 kg charbon => ~14,4 kg avant toute dépense non chiffrée. Deux chariots revenus, vibrations sans dommage immédiat."
+  "notes": "Fin J19 : succès d'une chasse solitaire durant la nuit J18–J19, 1 grand cerf adulte rapporté en équipe J19, masse de viande non pesée; fumoir artisanal construit et utilisé à l'essai, viande à contrôler, pas de quantité de nourriture durablement conservée déclarée. Kübra/Élise découvrent résurgence souterraine à ~5 min à pied : ~30 L bruts collectés, 25 L traités donnant ~24 L, groupe ~18 L consommés, ~59 L traités connus au refuge et ~10 L bruts, reliquat eau des villas non connu. Qualité chimique source non mesurée. Combustible pour le fumoir et l'eau consommé, bois sec final inconnu, charbon ancien total recensé ~14,4 kg avant éventuels usages. 27 conserves anciennes à vérifier toujours en attente. Deux chariots conservés (aucune roue démontée du nouveau). Fatigue importante de Tugay."
 }

@@ -188,3 +188,10 @@
 - Butin rapporté : +70 L de contenants alimentaires nominaux, 13 conserves à vérifier, ~2 kg lentilles, ~0,7 kg sel, 2 pots de miel, bâche, 3 couvertures, 2 paires de gants, vieille trousse de secours, lampe à manivelle, outils et accessoires.
 - Sur J16–J18, le refuge collecte ~60 L bruts (~57 L récupérés après traitement), consomme ~27 L traités, récolte ~2,4 kg de légumes partiellement mangés, ramasse ~21 kg bois sec et ~11 kg humide, obtient ~1,9 kg charbon. Charges de chauffe et vivres de mission non détaillés.
 - Bilan prudent : ~53 L traités au refuge plus reliquat éventuel de la mission inconnu, ~5 L bruts préexistants séparés, 27 conserves récentes non validées, charbon ~14,4 kg avant dépense non décrite ; bois sec final inconnu. Groupe de retour sans blessure ni conflit ; jour 19 non commencé.
+
+## Nuit du J18 au J19 et jour 19 — Chasse, fumoir et nouvelle source
+- Après retour des villas J18, Tugay ne dort pas et part seul en forêt avec son arc artisanal, dont un tir permet de prendre un grand cerf adulte ; il le laisse sur place, ne pouvant le transporter seul. Aucun autre gibier.
+- Matin J19 : Tugay, Marc, Nicolas, David et Marianne récupèrent la prise avec le chariot renforcé ; viande non pesée, examen de sécurité et conservation incertains.
+- Henri et Sophie aménagent un fumoir avec des pièces métalliques d'ancien vélo et des tuyaux, sans toucher aux roues du second chariot. Premier fumage d'une partie des pièces, aucun volume de viande durablement conservable validé ; combustible consommé sans pesée.
+- Kübra/Élise découvrent une résurgence d'eau souterraine à ~5 min de marche du refuge ; pureté chimique supposée mais non analysée. ~30 L bruts rapportés, 25 traités pour ~24 L récupérés, ~18 L consommés : ~59 L traités connus au refuge + reliquat éventuel des villas inconnu, ~10 L bruts.
+- Tugay très fatigué, aucun blessé ni conflit signalé. Fin J19 vers 19 h 30 ; J20 non commencé.

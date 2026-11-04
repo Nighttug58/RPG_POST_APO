@@ -43,3 +43,10 @@
 - **Jardins** : Henri et Marianne récoltent ~2,4 kg de légumes de saison sur parcelles déjà entretenues ; une partie consommée, reliquat inconnu. Sept plants J15 encore en place, aucune récolte de semences Rosa.
 - **Combustible** : +21 kg de bois sec, +11 kg humide ; stock sec réellement disponible inconnu (chauffe et fabrication de charbon non chiffrées). Deux lots de charbon ≈1,9 kg, total recensé ≈14,4 kg avant dépenses inconnues.
 - **Organisation** : Henri coordonne le refuge pendant trois jours avec Sophie, Élise et Marianne. Groupe de cinq revenu sans blessure, deux chariots utilisables, durabilité en chemin accidenté encore à vérifier. Jour 19 non commencé.
+
+## Fin du jour 19
+- **Gibier** : grand cerf adulte abattu par Tugay de nuit J18–J19 et ramené en équipe avec Marianne, Marc, David et Nicolas. Réussite ponctuelle de l'arc artisanal ; pas de validation générale de fiabilité. Viande non pesée, sécurité et conservation incertaines.
+- **Fumoir** : construit à l'essai par Henri et Sophie avec pièces de vélo et tuyaux métalliques ; plusieurs pièces de viande fumées J19 sans résultat de conservation longue durée confirmé. Prévoir suivi et gestion rapide des restes. Deux roues du second chariot intactes.
+- **Source** : Kübra/Élise découvrent une résurgence souterraine à ~5 min du refuge. Meilleur accès à l'eau, mais pureté chimique non certifiée. Collecte 30 L bruts, traitement 25 L donnant ~24 L, consommation ~18 L ⇒ ~59 L traités comptables au refuge et ~10 L bruts, outre eau de mission antérieure inconnue.
+- **Stock** : bois sec final inconnu après fumoir/chauffe, bois humide théorique ~33 kg, charbon ~14,4 kg au dernier recensement avant dépenses non suivies ; 27 conserves récentes non vérifiées.
+- **Personnes** : Tugay fortement fatigué. Jour 20 non joué.

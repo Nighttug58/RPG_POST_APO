@@ -12,6 +12,7 @@
 - [Chapitre 025 — La forêt et les promesses](chapitre-025/scene-001.md) : jour 14, rencontre de Rosa, second chariot, forêt sans prise.
 - [Chapitre 026 — À la recherche de l'énergie](chapitre-026/scene-001.md) : jour 15, plantations, toit solaire, ravitaillement et chariot renforcé.
 - [Chapitre 027 — Le quartier oublié](chapitre-027/scene-001.md) : jours 16 à 18, expédition de deux nuits dans les villas, retour et ravitaillement du refuge coordonné par Henri.
+- [Chapitre 028 — La nuit du chasseur](chapitre-028/scene-001.md) : nuit J18–J19, grand cerf ramené, fumoir collectif et résurgence proche du refuge.
 - [Journal continu](../journal/CONTINUITE.md) : déroulement par journée, inventaires, faits et pistes.
 
 **Mode en vigueur :** narration continue avec missions parallèles et décisions libres; plus de tour par tour.

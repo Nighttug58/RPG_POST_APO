@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "16:45",
+    "heure": "19:30",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 18,
+    "jour_campagne": 19,
     "mois": "novembre"
   },
   "localisation": {
@@ -23,19 +23,19 @@
   },
   "conditions": {
     "meteo": "Forêt fraîche, matinale et brumeuse; journée d'automne, valeurs météorologiques exactes inconnues",
-    "luminosite": "fin d'après-midi",
+    "luminosite": "soir",
     "menaces_immediates": [],
     "bruits_lointains": [
       "Moteurs de véhicules signalés à plusieurs reprises, occupants non identifiés"
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Eau du ruisseau chimiquement non analysée; eau de mission résiduelle inconnue",
-      "27 conserves récemment récupérées encore à contrôler; nourriture globale non recomptée depuis J9",
-      "Bois relativement sec final inconnu après chauffe et production de charbon",
-      "Contenants nouveaux à inspecter et nettoyer avant usage",
-      "Matériel ancien à inspecter; chariot renforcé secoué sur terrain irrégulier",
-      "Fatigue de cinq membres après deux nuits d'expédition"
+      "Fatigue importante de Tugay après expédition J16–J18 et sortie nocturne J18–J19",
+      "Viande de cerf obtenue J19 : quantité non pesée, conservation fumée partielle et sécurité alimentaire à contrôler",
+      "Résurgence à 5 min du refuge : eau souterraine d'apparence claire, pureté chimique non analysée, traitement maintenu",
+      "Bois sec final inconnu, combustible utilisé pour le fumoir et le traitement de l'eau",
+      "27 conserves anciennes encore à vérifier, dernier inventaire alimentaire complet J9",
+      "Fumoir artisanal en essai, aucune conservation longue durée garantie"
     ]
   },
   "progression": {
@@ -64,7 +64,9 @@
       "piste-arbustes-pepiniere",
       "piste-toit-solaire-j13",
       "piste-batiment-police",
-      "piste-retour-villas-materiel-lourd"
+      "piste-retour-villas-materiel-lourd",
+      "piste-analyse-eau-resurgence",
+      "piste-fumoir-viande-controle"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -102,12 +104,14 @@
       "lieu-poste-police",
       "lieu-toit-solaire-repere",
       "lieu-serre-rosa",
-      "lieu-quartier-villas-oublie"
+      "lieu-quartier-villas-oublie",
+      "lieu-resurgence-proche-refuge",
+      "lieu-chasse-cerf-j19"
     ]
   },
-  "chapitre_actuel": "chapitre-027",
-  "derniere_scene_canonique": "recit/chapitre-027/scene-001.md",
-  "prochaine_action": "Jour 19 non commencé. Expédition J16-J18 achevée; +70 L de récipients alimentaires nominaux à nettoyer (total ~151 L), 13 conserves anciennes à vérifier ajoutées aux 14 préexistantes (27 non validées), lentilles, sel, miel, couvertures et matériel. Henri a coordonné l'eau et les jardins : environ 53 L traités confirmés au refuge, reliquat de mission inconnu. +1,9 kg de charbon (total recensé ~14,4 kg avant consommation éventuelle), bois sec final non chiffrable. Deux chariots rentrés. Priorités et prochaines missions à décider.",
+  "chapitre_actuel": "chapitre-028",
+  "derniere_scene_canonique": "recit/chapitre-028/scene-001.md",
+  "prochaine_action": "Jour 20 non commencé. Nuit J18-J19 Tugay chasse seul et abat un grand cerf adulte, ramené J19 avec Marc, Nicolas, David et Marianne; viande non pesée, fumage partiel en fumoir expérimental construit au refuge avec Henri/Sophie, conservation à surveiller. Kübra et Élise ont découvert une résurgence d'eau souterraine ~5 min à pied du refuge. ~30 L bruts collectés J19, ~25 L traités pour ~24 L récupérés, ~18 L consommés : environ 59 L traités connus au refuge (+ reliquat villas toujours inconnu), ~10 L bruts séparés. Bois sec final inconnu, charbon dernier relevé ~14,4 kg avant consommations non documentées. Tugay très fatigué.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -140,10 +144,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j18-1645",
-    "jour": 18,
-    "heure": "16:45",
-    "description": "Retour du quartier oublié après deux nuits, butin vérifiable et bilan du refuge coordonné par Henri"
+    "id": "fin-j19-1930",
+    "jour": 19,
+    "heure": "19:30",
+    "description": "Gros cerf ramené, fumoir essayé, résurgence souterraine proche du refuge découverte"
   },
   "protocole": {
     "archives_tours_figees": 16,
