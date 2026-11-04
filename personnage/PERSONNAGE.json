@@ -69,7 +69,7 @@
   "etat_physique": {
     "sante": null,
     "blessures": [],
-    "fatigue": "Fatigue légère à modérée en soirée du jour 8; une partie de la journée consacrée aux tâches de coordination et à un projet de matériel de chasse non abouti.",
+    "fatigue": "Fatigue modérée après expédition J9 et déplacement à La Sallaz J10; aucune blessure nouvelle rapportée.",
     "faim": "Besoins alimentaires réguliers, réserves de la communauté limitées",
     "hydratation": "Approvisionnement communautaire en eau traité, non encore durable"
   },
@@ -92,7 +92,9 @@
       "Tour 0016 : cuisson correcte d'un canard au feu du camp, repas partagé avec Kubra. Un peu de bois est préparé pour un futur usage de charbon sans charbon produit. Sortie vers la lisière de forêt pour examiner des maisons paraissant inoccupées ; première fouille infructueuse, aucune casserole. Aucune eau potable obtenue. Tests : cuisson 14 + 2 = 16 contre 12, recherche 11 + 1 = 12 contre 15.",
       "Jours 2 à 6 : installation avec Kübra au bâtiment B; récupérations, travaux de l'eau, rencontre de Marc et des quatre habitants du bâtiment C; sept fondateurs de communauté et Henri allié. Tugay est désigné sous son prénom usuel dans le récit. Les aptitudes chiffrées restent celles créées aux tours 1 à 16; aucun nouveau jet inventé.",
       "Jour 7 : visite du groupe complet chez la sœur d'Henri; Marianne retrouvée et invitée, sans adhésion confirmée. Matinée de marche et collecte, après-midi d'agriculture; 7 membres et Henri/Marianne alliés ou invités, pas de blessure signalée, aucun jet de dé effectué.",
-      "Jour 8 : Tugay propose d'entretenir provisoirement les 5 parcelles d'autres propriétaires, en permettant à tout propriétaire légitime de reprendre son terrain. Henri accepte d'aider mais ne cède aucun droit de propriété. Un projet d'arc de chasse est examiné sans fabrication d'équipement opérationnel ni chasse. Aucune blessure ni jet de dé."
+      "Jour 8 : Tugay propose d'entretenir provisoirement les 5 parcelles d'autres propriétaires, en permettant à tout propriétaire légitime de reprendre son terrain. Henri accepte d'aider mais ne cède aucun droit de propriété. Un projet d'arc de chasse est examiné sans fabrication d'équipement opérationnel ni chasse. Aucune blessure ni jet de dé.",
+      "J9 : Tugay, Kübra, Nicolas, Sophie et David fouillent des locaux apparemment abandonnés de La Sallaz; récupération de vivres à vérifier et premiers contacts pacifiques avec Adrien et Claire.",
+      "J10 : Tugay et Henri présentent une offre de coopération agricole à La Sallaz. Accord de principe restreint avec Adrien et Claire. Rosa, possible personne gardant des graines, est mentionnée mais non rencontrée. Aucun affrontement."
     ]
   }
 }

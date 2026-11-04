@@ -1,4 +1,4 @@
-# PNJ connus — fin du jour 8
+# PNJ connus — fin du jour 10
 
 | ID | Personnage | Relation / rôle déclaré |
 |---|---|---|
@@ -12,3 +12,7 @@
 | pnj-marianne | Marianne, 62 ans | Sœur d'Henri, retrouvée au jour 7 dans un local de jardinage près de son ancienne maison (~4 km); ancienne restauration collective; invitée temporaire au refuge, pas membre; participe aux jardins et propose d'aider aux repas |
 
 Les sept membres sont Tugay et les six premiers PNJ. Henri accepte un partenariat agricole; Marianne est vivante et a accepté une visite au refuge comme invitée, sans intégration décidée. Aucun secret personnel ou intention hors-scène n'est établi ici.
+
+| pnj-adrien | Adrien, âge non établi | Résident de La Sallaz, premier contact au J9. Accord de principe limité de coopération agricole J10, pas de fusion. |
+| pnj-claire | Claire, âge non établi | Résidente de La Sallaz, première rencontre J9; J10 propose de présenter Rosa, spécialiste présumée des semences. |
+| pnj-rosa | Rosa, âge non établi | Contact décrit par Claire, pas encore rencontrée; conserve peut-être des semences reproductibles. |

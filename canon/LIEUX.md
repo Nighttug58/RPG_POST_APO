@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 8
+# Registre des lieux — connus fin du jour 10
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -18,3 +18,6 @@
 | lieu-maison-marianne | Ancienne maison de Marianne | À environ 4 km du refuge; visitée le jour 7, Marianne était absente; note manuscrite menant à un local de jardinage proche |
 
 | lieu-local-jardin-marianne | Petit local de jardinage voisin | Marianne y a été retrouvée au jour 7; quelques centaines de mètres de son ancienne maison; autre contenu non exploré en détail |
+
+| lieu-sallaz-place | Secteur habité de La Sallaz | À environ dix minutes à pied du refuge selon Tugay; présence de résidents, contact avec Adrien et Claire J9-J10. |
+| lieu-sallaz-commerces | Anciens commerces de La Sallaz | Quelques locaux paraissent abandonnés et ont été explorés J9; d'autres espaces sont occupés, sans accès libre. |

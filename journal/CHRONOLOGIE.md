@@ -126,3 +126,12 @@
 - David et Nicolas préparent une future reconnaissance solaire; aucun panneau découvert ou récupéré.
 - Tugay examine son projet de matériel de chasse sans résultat fonctionnel. Marc garde le quartier, pas d'intrusion constatée. Aucune nouvelle prise alimentaire; conserve J7 et charbon J6 toujours non vérifiés.
 - Fin vers 20 h, jour 9 non commencé. Aucun jet effectué.
+
+## Mode continu — Jour 9 (2043, novembre)
+- Sept sacs artisanaux supplémentaires confectionnés; cinq membres partent à La Sallaz.
+- Denrées J9 récupérées et isolées en attente de contrôle. Rencontre d'Adrien et Claire, sans adhésion ni alliance.
+- Henri retrouve 4 sachets anciens de semences; Marianne recompte les aliments. Réserves d'eau J9 : ~27 L traités et ~4 L bruts.
+## Mode continu — Jour 10 (2043, novembre)
+- Tugay et Henri vont à La Sallaz, environ 10 minutes à pied. Accord de principe de coopération agricole avec Adrien et Claire; contact possible avec Rosa, sans rendez-vous confirmé.
+- Kübra et Sophie rapportent ~60 L bruts, Élise et Marianne traitent ~49 L, ~19 L consommés; fin de journée ~57 L traités et ~15 L bruts.
+- Nicolas prépare deux nouvelles planches dans le quartier; Marc surveille B/C et travaille avec David sur un projet non opérationnel. Aucun jet effectué, fin à 19 h 30.

@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 8, novembre 2043, sept membres dans une communauté de quartier, Henri allié et Marianne invitée. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
+**État : fin du jour 10, novembre 2043, communauté de sept membres, Henri allié et Marianne invitée; dialogue de coopération avec La Sallaz. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md), [CONTINUITE jours 2 à 8](journal/CONTINUITE.md), [INVENTAIRE](sauvegarde/INVENTAIRE.json) et [REGLES](docs/REGLES.md). Fin J8 : ~27 L d'eau traitée et ~21 L d'eau brute, qualité chimique non assurée; compte alimentaire global toujours ancien (J5) et 4 conserves J7 non vérifiées; charbon J6 non pesé. Deux des cinq parcelles à propriétaires absents ont été préparées provisoirement, une partiellement semée; recherche solaire seulement planifiée, aucun panneau acquis. Dernier récit : [Chapitre 019](recit/chapitre-019/scene-001.md).
+Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [CONTINUITE jours 2 à 10](journal/CONTINUITE.md). Fin J10 : ~57 L eau traitée, 15 L brute séparée, qualité chimique inconnue. Accord de principe agricole avec Adrien et Claire; Rosa évoquée mais non rencontrée. Jour 9 rattrapé après blocage de commit précédent. Dernier récit : [Chapitre 021](recit/chapitre-021/scene-001.md).

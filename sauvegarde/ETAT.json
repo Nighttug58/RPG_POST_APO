@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "20:00",
+    "heure": "19:30",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 8,
+    "jour_campagne": 10,
     "mois": "novembre"
   },
   "localisation": {
@@ -30,12 +30,11 @@
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Approvisionnement alimentaire limité, stocks globaux non recomptés depuis jour 5",
-      "Eau du ruisseau traitée thermiquement mais qualité chimique non analysée; eau brute stockée séparément",
-      "Citerne pluviale non potable et pompe inactive",
-      "Charbon produit au jour 6 non pesé, stock utile inconnu",
-      "Cinq parcelles appartenant à des propriétaires absents : aucune autorisation de propriété, entretien seulement provisoire",
-      "Équipement solaire non trouvé; aucun système électrique remis en service"
+      "Ruisseau : aucun symptôme rapporté, mais absence de mesure des contaminants chimiques",
+      "Rationnement alimentaire toujours nécessaire, collecte de La Sallaz à examiner",
+      "Réserves en combustible à quantifier",
+      "Jardins provisoires et droits des autres propriétaires à respecter",
+      "Coopération de La Sallaz limitée et conditionnelle"
     ]
   },
   "progression": {
@@ -45,14 +44,18 @@
       "objectif-village-001",
       "objectif-jardins-001",
       "objectif-charbon-001",
-      "objectif-solaire-001"
+      "objectif-solaire-001",
+      "objectif-semences-001",
+      "objectif-cooperation-sallaz-001"
     ],
     "pistes_ouvertes": [
       "piste-citerne",
       "piste-serre",
       "piste-depot",
       "piste-survivants",
-      "piste-solaire"
+      "piste-solaire",
+      "piste-semences-rosa",
+      "piste-alliance-sallaz"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -62,10 +65,13 @@
       "pnj-sophie",
       "pnj-nicolas",
       "pnj-henri",
-      "pnj-marianne"
+      "pnj-marianne",
+      "pnj-adrien",
+      "pnj-claire"
     ],
     "factions_connues": [
-      "communaute-quartier"
+      "communaute-quartier",
+      "collectif-sallaz"
     ],
     "lieux_visites": [
       "lieu-foret-001",
@@ -78,12 +84,14 @@
       "lieu-jardins-henri",
       "lieu-garages",
       "lieu-maison-marianne",
-      "lieu-local-jardin-marianne"
+      "lieu-local-jardin-marianne",
+      "lieu-sallaz-place",
+      "lieu-sallaz-commerces"
     ]
   },
-  "chapitre_actuel": "chapitre-019",
-  "derniere_scene_canonique": "recit/chapitre-019/scene-001.md",
-  "prochaine_action": "Jour 9 non commencé. Reconnaissance solaire envisagée et préparée par David et Nicolas, mais non engagée. Tugay décide librement des missions. Eau estimée 27 L traitée et 21 L brute; charbon du jour 6 à peser; 4 conserves du J7 non vérifiées; 3 des 5 parcelles supplémentaires restent à préparer. Henri/Mairanne restent allié/invitée, pas membres.",
+  "chapitre_actuel": "chapitre-021",
+  "derniere_scene_canonique": "recit/chapitre-021/scene-001.md",
+  "prochaine_action": "Jour 11 non commencé. Accord agricole de principe avec Adrien et Claire; Claire doit contacter Rosa, gardienne potentielle de semences, sans réponse acquise. Poursuivre planification libre. Eau traitée ~57 L et brute ~15 L; sécurité chimique non démontrée. Six conserves récupérées au jour 9 restent à contrôler. Jardins du quartier : 2 nouvelles planches non semées. Projet de matériel de chasse toujours non opérationnel. Solaire reporté et charbon J6 non pesé.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -116,10 +124,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j08-2000",
-    "jour": 8,
-    "heure": "20:00",
-    "description": "Entretien provisoire des parcelles, collecte et traitement d'eau, préparation reconnaissance solaire, projet de chasse sans matériel fonctionnel"
+    "id": "fin-j10-1930",
+    "jour": 10,
+    "heure": "19:30",
+    "description": "Coopération agricole de principe à La Sallaz; volume d'eau traitée plus que doublé; nouveaux jardins et examen de matériel"
   },
   "protocole": {
     "archives_tours_figees": 16,

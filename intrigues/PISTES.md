@@ -1,14 +1,11 @@
-# Objectifs actifs — fin jour 8
+# Objectifs et pistes — fin jour 10
 
-- **objectif-eau-001 (critique)** : ~27 L d'eau traitée estimée, ~21 L brute distincte; 81 L de contenance nominale alimentaire, propreté variable. Eau du ruisseau sans contrôle chimique; citerne non potable, jauge inconnue, pompe inactive. Traitement thermique seul insuffisant face aux contaminants chimiques.
-- **objectif-nourriture-001 (critique)** : dernier comptage global J5 = 33 conserves et denrées sèches, consommations J6-J8 non consolidées; 4 conserves J7 non vérifiées, pas comptées en stock sûr; aucune récolte.
-- **objectif-village-001** : 7 membres confirmés, Henri allié non membre, Marianne invitée non membre. Marc assure à nouveau la surveillance. Période d'essai d'une semaine initialement votée; bilan du fonctionnement à organiser.
-- **objectif-jardins-001** : Henri accepte d'aider à l'entretien provisoire des 5 parcelles à propriétaires absents, sans pouvoir accorder de droit de propriété. Deux préparées, une partiellement semée avec semences anciennes, 3 restantes; restitution de la gestion sur demande légitime. Les 3 parcelles d'Henri demeurent actives, aucune récolte.
-- **objectif-charbon-001** : lot du J6 visait 20 kg, toujours non pesé. Stock de combustible réel non consolidé.
-- **objectif-solaire-001 (préparation)** : David et Nicolas ont préparé une reconnaissance des sites potentiels (dépôt de maintenance, atelier communal, grands toits), **aucune reconnaissance ni récupération effectuée**, présence/état de panneaux inconnus. Usage éventuel pour l'éclairage et la pompe à étudier.
-
-## Objectif accompli précédemment
-- **objectif-marianne-001 (J7)** : Marianne retrouvée et invitée au refuge; aucune intégration définitive décidée.
-
-## Autres pistes
-Diagnostic de la citerne/pompe; qualité chimique du ruisseau; serre tunnel à réparer; pépinière non visitée; véhicules non identifiés; vérification des conserves et décompte complet des denrées; droit des propriétaires absents des jardins.
+- **Eau, critique** : ~57 L d'eau traitée thermiquement (contre 27 L début J10), ~15 L brute séparée. Aucun symptôme rapporté, mais qualité chimique non démontrée; ébullition et filtre rudimentaire ne retirent pas tous les contaminants chimiques. Contenants nominaux alimentaires ~81 L, propreté à surveiller.
+- **Nourriture, critique** : comptage J9 de Marianne, 25 conserves d'aspect acceptable avec denrées sèches résiduelles; consommations J10 non détaillées. Apport de La Sallaz J9 : 6 conserves, 1,5 kg lentilles, 0,5 kg sel, 2 pots miel, à vérifier et non compris dans le solde sûr. Rationnement maintenu.
+- **Coopération La Sallaz** : accord de principe limité avec Adrien et Claire J10; Henri peut aider leurs jardins. Pas d'alliance formelle ni de fusion, pas de nouveau membre. Claire proposera un contact avec Rosa, potentielle conservatrice de semences, sans accord confirmé.
+- **Semences** : 4 sachets anciens appartenant à Henri; viabilité inconnue. Pépinière non visitée et contact Rosa seulement évoqué.
+- **Jardins** : 3 parcelles historiques d'Henri, 2 des 5 autres provisoirement entretenues, 3 en attente. Nicolas prépare 2 nouvelles planches non semées dans un espace commun délaissé du quartier, sous réserve des droits des occupants. Aucune récolte.
+- **Vie communautaire** : 7 membres et 2 alliés/invités; 9 sacs dont 7 artisanaux confectionnés au J9; surveillance de Marc; bilan de semaine d'essai à discuter.
+- **Équipement de chasse** : projet étudié par Marc et David, aucun équipement fiable en service.
+- **Énergie** : recherche solaire préparée J8, non effectuée; citerne pluviale et pompe inchangées.
+- **Charbon** : lot J6 visant 20 kg non pesé; stock total inconnu.

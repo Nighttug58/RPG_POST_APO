@@ -1,22 +1,20 @@
 # Point de reprise — Les Cendres du Monde
 <!-- TOUR_COURANT: 16 -->
 
-## MODE DE JEU : NARRATION CONTINUE
-Les 16 tours historiques sont figés. Le joueur programme librement des journées et missions simultanées. Le MJ fait évoluer PNJ, lieux, durées, stocks et conséquences. Les sauvegardes GitHub ont lieu aux jalons narratifs ou sur demande, sans menu ni jet obligatoire.
+## Mode continu
+Les 16 tours historiques restent figés. Les décisions de Tugay portent sur des scènes, journées et missions parallèles; les sauvegardes sont faites aux jalons narratifs.
 
-## Fin du jour 8 — novembre 2043, 20 h 00
-- **Communauté** : 7 membres : Tugay, Kübra, Marc, Élise, David, Sophie, Nicolas. Henri (67 ans) reste allié jardinier non membre. Marianne (62 ans) est invitée temporaire, pas membre. Marc garde de nouveau les bâtiments B/C; aucune intrusion observée.
-- **Jardins** : Tugay propose de cultiver provisoirement les 5 parcelles de propriétaires absents, avec affichage, interdiction de détruire les plantations existantes et restitution du contrôle au propriétaire qui revient, sans obligation de rejoindre la communauté. Henri accepte le principe d'entretien, pas une autorisation légale à la place des propriétaires. Henri, Marianne et Kübra travaillent **2 des 5 parcelles**, dont une partiellement semée avec de vieilles semences d'Henri à germination inconnue. **3 des 5 restent à travailler.** Les 3 parcelles originales d'Henri restent suivies; aucune récolte.
-- **Eau** : début J8 ~21 L traités et 15 L bruts. Nicolas et David ramènent ~30 L d'eau brute au chariot. Sophie et Élise traitent thermiquement ~24 L, consommation J8 estimée ~18 L. **Solde J8 ~27 L traités et ~21 L bruts**, séparés, qualité chimique non évaluée. Capacité nominale des contenants alimentaires ~81 L, certains à assainir; ne pas assimiler l'eau traitée à une potabilité chimique certifiée.
-- **Solaire** : David et Nicolas préparent une reconnaissance pour chercher des panneaux et composants, en consultant carte et plans des bâtiments. Sites possibles : dépôt de maintenance et ancien atelier communal, non vérifiés. **Aucun panneau retrouvé, aucune installation, expédition non commencée.** L'objectif d'une autonomie électrique reste ouvert.
-- **Projet de chasse** : Tugay consacre une partie de la matinée à examiner son projet d'arc; aucun matériel utilisable ou méthode de construction finalisée, aucune chasse effectuée.
-- **Nourriture** : dernier comptage global du J5 : 33 conserves et denrées sèches; consommations J6 à J8 non comptées. Quatre nouvelles conserves retrouvées J7 restent à vérifier. Pas de récolte ni prise de chasse.
-- **Charbon** : production du J6 visait 20 kg; refroidie mais toujours non pesée; ne pas augmenter le stock confirmé.
-- **Citerne** : capacité nominale 3 000 L, jauge ~1 100 L non vérifiée; eau non potable et pompe inactive.
-- **Contexte** : soirée froide; aucune nouvelle menace immédiate constatée; communauté en période de réflexion sur son fonctionnement après première semaine.
+## Fin du jour 10 à 19 h 30 — novembre 2043
+- **Groupe** : 7 membres confirmés (Tugay, Kübra, Marc, Élise, David, Sophie, Nicolas), Henri allié et Marianne invitée. Marc garde la base. L'essai communautaire initial de 7 jours doit être réexaminé.
+- **Jour 9 rattrapé** : 7 sacs en tissu fabriqués, soit 9 avec les 2 existants; sortie de 5 personnes (Tugay, Kübra, Nicolas, Sophie, David) à La Sallaz. 6 conserves, 1,5 kg lentilles, 0,5 kg sel, 2 pots miel et diverses fournitures récupérés mais à examiner. Premiers contacts pacifiques avec Adrien et Claire. Marianne recompte 25 conserves d'aspect acceptable au refuge, hors apport J9. Henri retrouve 4 sachets anciens de graines, viabilité inconnue. Eau fin J9 ~27 L traités, 4 L bruts.
+- **Jour 10, La Sallaz** : Tugay et Henri se rendent à pied (environ 10 minutes) auprès d'Adrien et Claire. Accord de principe **limité à une coopération agricole** : Henri pourrait conseiller les jardins de La Sallaz; Claire propose de transmettre une demande de contact à Rosa, éventuelle gardienne de semences, non rencontrée. Pas de fusion ni recrutement, pas de rendez-vous ferme.
+- **Eau** : Kübra/Sophie rapportent 60 L d'eau brute en deux tournées; Élise/Marianne en traitent thermiquement 49 L. Consommation estimée 19 L; fin J10 **~57 L traités et ~15 L bruts**. Contenants alimentaires nominaux ~81 L. Tugay pense le ruisseau sain en raison de son expérience et de l'absence de symptômes, mais la qualité chimique demeure **non démontrée**; le traitement thermique n'élimine pas les polluants chimiques.
+- **Agriculture** : Nicolas prépare 2 nouvelles planches non semées dans un espace commun délaissé, en plus des jardins d'Henri et des 2 autres parcelles entretenues provisoirement. Propriété des autres occupants à respecter. Aucun rendement.
+- **Atelier et surveillance** : Marc et David étudient le projet de matériel de chasse, aucun équipement fiable opérationnel; Marc maintient la surveillance.
+- **Reste** : reconnaissance solaire préparée J8 et encore reportée; charbon J6 visant 20 kg refroidi mais toujours non pesé; alimentation sous rationnement, 6 conserves J9 non contrôlées.
 
-## SOURCES
-`ETAT.json` = temps et statut; `INVENTAIRE.json` = comptabilisation; `PERSONNAGE.json` = Tugay; `journal/CONTINUITE.md` = jour 2 à jour 8; `recit/chapitre-019/scene-001.md` = récit du J8. Ne pas prolonger les 16 tours de `DECISIONS.jsonl` et `JETS.jsonl`.
+## Sources
+ETAT.json : contexte; INVENTAIRE.json : stocks; PERSONNAGE.json : Tugay; journal/CONTINUITE.md : jours 2–10; recit/chapitre-021/scene-001.md : dernier récit.
 
-## PROCHAINE INTERACTION
-**Jour 9 non entamé.** Tugay choisit les actions suivantes librement. Pistes : reconnaissance solaire préparée par David et Nicolas, terminer les 3 parcelles restantes (sans droit de propriété), préparer la réserve d'eau du ruisseau, sécuriser la qualité chimique, peser le charbon, recompter les denrées et inspecter les 4 conserves, évaluer la citerne/pompe et réfléchir à la fin de la semaine d'essai de la communauté. Aucune de ces actions n'est encore engagée.
+## Prochaine interaction
+**Jour 11 non commencé.** Attente de la réponse potentielle de Rosa via Claire, travaux d'eau et jardins selon décisions du joueur, contrôle des aliments de La Sallaz, surveillance du refuge, réévaluation de la semaine d'essai. Aucune nouvelle mission autorisée d'avance.
