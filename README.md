@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 13, novembre 2043, communauté de sept membres, Henri allié et Marianne invitée; pépinière et énergie solaire en reconnaissance. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
+**État : fin du jour 14, novembre 2043, communauté de sept membres, coopération avec Rosa et deux chariots disponibles. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). J12 rattrapé après un blocage GitHub précédent. Fin J13 : ~57 L d'eau traitée et ~7 L bruts, chimie non vérifiée; charbon recensé ~12,5 kg, bois relativement sec ~15 kg, humide ~22 kg. Sept plants vivants de pépinière; deux nouvelles conserves à vérifier; possible toit solaire repéré de loin, aucune installation acquise; second chariot non roulant. Dernier récit : [Chapitre 024](recit/chapitre-024/scene-001.md).
+Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J14 : eau ~47 L traités, 0 L bruts; bois relativement sec ~12 kg et humide ~22 kg; charbon ~12,5 kg. Rencontre réussie avec Rosa, deux enveloppes de semences offertes contre aide agricole future. Deuxième chariot fonctionnel après essai court avec ~20 kg. Sortie en forêt avec Nicolas sans prise. Dernier récit : [Chapitre 025](recit/chapitre-025/scene-001.md).

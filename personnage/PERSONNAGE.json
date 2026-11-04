@@ -69,7 +69,7 @@
   "etat_physique": {
     "sante": null,
     "blessures": [],
-    "fatigue": "Repos du J12 bénéfique; fatigue modérée au soir du J13 après plusieurs heures de travail d'atelier. Aucune blessure connue.",
+    "fatigue": "Fatigue légère à modérée après une matinée et une partie de l'après-midi en forêt au jour 14; aucune blessure signalée.",
     "faim": "Besoins alimentaires réguliers, réserves de la communauté limitées",
     "hydratation": "Approvisionnement communautaire en eau traité, non encore durable"
   },
@@ -99,7 +99,8 @@
       "J11 : Tugay, Kübra et Nicolas visitent une pépinière oubliée, récupèrent équipement de semis et 5 sachets anciens à faible fiabilité. Arbustes vivants repérés, laissés en place. Nouveau projet de charbon non pesé; projet collectif d'équipement de chasse demeure non opérationnel. Aucun jet de dé.",
       "Prolongation J11 19 h 30–minuit : Tugay et Kübra font un trajet nocturne au ruisseau et ramènent ~30 L d'eau brute. Les sept autres ramassent du bois, Tugay et Kübra les rejoignant après retour. ~29 kg de bois relativement sec et ~17 kg de bois humide en plus; fatigue élevée. Repos à minuit. Aucun jet de dé.",
       "J12 : jour de repos collectif après heures supplémentaires J11; traitement eau brute et pesée approximative de deux lots de charbon; maquette et esquisses conceptuelles sans équipement opérationnel.",
-      "J13 : Tugay consacre une longue séance à son projet d'atelier, assemblage achevé mais aucune fiabilité garantie ni utilisation extérieure. Les autres missions produisent 7 plants vivants, repérage possible de panneaux solaires, pièces de chariot et fournitures. Aucun blessé ou jet."
+      "J13 : Tugay consacre une longue séance à son projet d'atelier, assemblage achevé mais aucune fiabilité garantie ni utilisation extérieure. Les autres missions produisent 7 plants vivants, repérage possible de panneaux solaires, pièces de chariot et fournitures. Aucun blessé ou jet.",
+      "J14 : sortie avec Nicolas pour tenter de localiser du gibier. Un chevreuil est aperçu en forêt; aucun tir, aucune prise. Tugay revendique que son arc serait fonctionnel et pourrait atteindre 50–70 m, mais fiabilité, portée et puissance ne sont pas établies objectivement."
     ]
   }
 }

@@ -8,3 +8,6 @@ Plusieurs moteurs ou véhicules ont été signalés dans le secteur. La présenc
 
 ## collectif-sallaz — Résidents de La Sallaz
 Adrien et Claire, accompagnés d'un troisième résident non identifié, rencontrés au jour 9. Groupe de taille et d'organisation inconnues. Bâtiments et réserves qu'ils utilisent à respecter. J10 : accord de principe limité de coopération agricole, Henri pouvant apporter des connaissances; aucune adhésion, aucune fusion ni partage automatique des stocks. Claire propose de présenter Rosa, qui conserverait des semences; acceptation de Rosa non connue.
+
+## J14 — Premier échange avec Rosa
+Rosa est une jardinière indépendante de La Sallaz. Claire et Adrien la présentent à Henri, Marianne et Kübra. Rosa remet de son plein gré une petite enveloppe de fèves et une d'épinards; Henri propose en retour une aide aux jardins locaux. Aucune alliance formelle supplémentaire, adhésion ou mise en commun automatique des stocks.

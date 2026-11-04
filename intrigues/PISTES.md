@@ -20,3 +20,10 @@
 - **Transport** : Marc a trouvé 2 roues de vélo et des planches pour un second chariot; aucun second chariot utilisable.
 - **Atelier** : Tugay a achevé un assemblage de projet, sans validation de sécurité ni utilisation. Aucune sortie de chasse ni viande.
 - **Diplomatie** : coopération de principe à La Sallaz inchangée; Rosa non rencontrée. Anciennes parcelles Boveresses non identifiées précisément.
+
+## Suite — Jour 14
+- **Rosa** : Henri, Marianne et Kübra la rencontrent à La Sallaz avec Claire/Adrien; elle donne une petite enveloppe de fèves et une d'épinards, germination incertaine. Henri promet une aide aux jardins locaux; Rosa reste indépendante.
+- **Chariot** : Marc et David terminent un second chariot en bois. Court essai de charge ~20 kg réussi; capacité durable non testée. Roues et planches du J13 intégrées dans ce nouvel objet.
+- **Eau** : 7 L bruts traités, ~6 L récupérés, ~16 L consommés => ~47 L traités et 0 L bruts. Qualité chimique inconnue. Bois sec ~12 kg, humide ~22 kg, charbon ~12,5 kg.
+- **Alimentation** : reconnaissance forestière Tugay/Nicolas, chevreuil aperçu mais aucune prise. Onze conserves J9/J11/J13 non vérifiées. Aucun rendement des jardins confirmé.
+- **Matériel de chasse** : portée et fiabilité annoncées par Tugay, pas de test objectif ni d'usage en forêt.

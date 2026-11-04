@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 13
+# Registre des lieux — connus fin du jour 14
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -26,3 +26,5 @@
 
 | lieu-poste-police | Ancien poste de police du secteur | David examine les espaces accessibles J13, matériel civil léger récupéré, aucun armement ni local fermé exploré |
 | lieu-toit-solaire-repere | Toit d'un bâtiment technique repéré sur le trajet de David | Panneaux rectangulaires semblant photovoltaïques vus de loin J13; état, usage et propriétaire non vérifiés, aucune récupération |
+
+| lieu-serre-rosa | Serre cultivée par Rosa à La Sallaz | Visite J14 de Henri, Marianne et Kübra avec Claire et Adrien; deux enveloppes de semences remises volontairement |

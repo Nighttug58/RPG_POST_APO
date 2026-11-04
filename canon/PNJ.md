@@ -1,4 +1,4 @@
-# PNJ connus — fin du jour 10
+# PNJ connus — fin du jour 14
 
 | ID | Personnage | Relation / rôle déclaré |
 |---|---|---|
@@ -16,3 +16,6 @@ Les sept membres sont Tugay et les six premiers PNJ. Henri accepte un partenaria
 | pnj-adrien | Adrien, âge non établi | Résident de La Sallaz, premier contact au J9. Accord de principe limité de coopération agricole J10, pas de fusion. |
 | pnj-claire | Claire, âge non établi | Résidente de La Sallaz, première rencontre J9; J10 propose de présenter Rosa, spécialiste présumée des semences. |
 | pnj-rosa | Rosa, âge non établi | Contact décrit par Claire, pas encore rencontrée; conserve peut-être des semences reproductibles. |
+
+## Rencontre confirmée de Rosa — jour 14
+Rosa est une jardinière de La Sallaz, indépendante, dont Claire avait parlé aux membres de la communauté. Henri, Marianne et Kübra l'ont rencontrée avec Claire et Adrien, dans une petite serre. Elle a remis volontairement une petite enveloppe de fèves et une d'épinards en échange de l'aide future d'Henri dans les jardins du quartier. Elle ne rejoint pas la communauté B/C et ne donne aucun accès général à ses réserves. La germination n'a pas été vérifiée.

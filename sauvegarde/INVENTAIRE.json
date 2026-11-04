@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin J13, avec rattrapage du jour 12 narré mais non précédemment enregistré",
+  "reference": "Fin du jour 14, novembre 2043; eau et chariot mis à jour, nourriture récente encore non vérifiée",
   "objets": [
     {
       "id": "bidon20",
@@ -1083,27 +1083,54 @@
     {
       "id": "lot-114",
       "nom": "Deux roues de vélo usagé",
-      "quantite": 2,
+      "quantite": 0,
       "masse_unitaire_kg": null,
       "categorie": "transport",
       "emplacement": "stock communautaire B/C",
-      "etat": "Trouvées J13 par Marc, pneus dégradés, aucun chariot roulant assemblé"
+      "etat": "2 roues intégrées au nouveau chariot lot-116 J14; aucune roue de vélo libre restante"
     },
     {
       "id": "lot-115",
       "nom": "Lot de planches récupérées",
-      "quantite": 1,
+      "quantite": 0,
       "masse_unitaire_kg": null,
       "categorie": "transport",
       "emplacement": "stock communautaire B/C",
-      "etat": "Réservées par Marc J13 pour projet de second chariot"
+      "etat": "Planches du lot intégrées au nouveau chariot lot-116 J14, aucune planche libre comptée dans ce lot"
+    },
+    {
+      "id": "lot-116",
+      "nom": "Chariot de transport artisanal en bois à deux roues de vélo",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "transport",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Assemblé J14 par Marc et David, déplacement en cour avec ~20 kg réussi; charge sur long trajet non certifiée"
+    },
+    {
+      "id": "lot-117",
+      "nom": "Petite enveloppe de semences de fèves remise par Rosa",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Don volontaire de Rosa J14 en échange d'une coopération agricole future; semences issues de cultures récentes, germination pas encore testée"
+    },
+    {
+      "id": "lot-118",
+      "nom": "Petite enveloppe de semences d'épinards remise par Rosa",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Don volontaire de Rosa J14 en échange d'une coopération agricole future; semences issues de cultures récentes, germination pas encore testée"
     }
   ],
   "consommables": {
-    "eau_potable_l": 57,
+    "eau_potable_l": 47,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "Fin J13 : J11 ~49 L traités + J12 ~28 L traités -18 L consommés J12 = ~59 L; J13 +16 L traités après pertes -18 L consommés = ~57 L. Traitement thermique, qualité chimique non analysée.",
+    "eau_statu": "Fin J14: ~57 L traités au départ + ~6 L récupérés après traitement des 7 L bruts - ~16 L consommés = ~47 L d'eau traitée. Qualité chimique du ruisseau non vérifiée.",
     "charbon_disponible_kg": 12.5,
     "charbon_dernier_comptage_kg": 12.5,
     "charbon_dernier_comptage_jour": 13,
@@ -1136,8 +1163,8 @@
       "legumes_henri": "Restes du don jour 4 non mesurés",
       "attention": "Dernier recomptage global J9, consommations J10–J13 non consolidées. 6 conserves J9 + 3 J11 + 2 J13 à examiner, non intégrées au stock jugé disponible. Le seul aspect extérieur ne garantit pas la sécurité alimentaire."
     },
-    "eau_brute_l": 7,
-    "eau_brute_statu": "J12 : traitement des 30 L bruts, fin J12 0 L bruts. J13 : ~24 L rapportés au chariot par Élise, 17 L mis en traitement dont ~16 L récupérés; fin J13 ~7 L bruts isolés.",
+    "eau_brute_l": 0,
+    "eau_brute_statu": "7 L au départ J14, traités thermiquement par Élise, environ 6 L récupérés; 0 L bruts à la fin, aucune collecte nouvelle.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -1165,7 +1192,7 @@
       "etat": "Lot J11 mesuré approximativement J12"
     },
     "bois_humide_a_secher_kg": 22,
-    "bois_sec_disponible_kg_estime": 15,
+    "bois_sec_disponible_kg_estime": 12,
     "bois_collecte_nocturne": {
       "jour": 11,
       "debut": "19:30",
@@ -1212,12 +1239,21 @@
       "etat": "Trouvées par Sophie et Marianne dans des logements paraissant désertés; isolées; sécurité non certifiée"
     },
     "projet_chariot_secondaire": {
-      "jour": 13,
-      "etat": "Pièces identifiées, projet et assemblage d'étude seulement; pas de second chariot utilisable",
-      "roues_recuperees": 2
+      "jour": 14,
+      "etat": "Assemblé par Marc et David, fonctionnel au test dans la cour; capacité longue durée et sur terrains irréguliers non vérifiée",
+      "roues_recuperees": 2,
+      "charge_cour_testee_kg_estime": 20
     },
     "projet_atelier_j13": {
-      "etat": "Objet de démonstration assemblé mais fiabilité non établie; aucun équipement opérationnel certifié, aucune utilisation sur le terrain"
+      "etat": "Arc assemblé, Tugay en revendique fiabilité et portée 50–70 m; aucune mesure indépendante, aucun tir ni usage effectué lors de la sortie forestière J14. Aucun gibier ramené."
+    },
+    "bois_consomme_j14_kg_estime": 3,
+    "semences_rosa_j14": {
+      "enveloppes_feves": 1,
+      "enveloppes_epinards": 1,
+      "germination_confirmee": false,
+      "provenance": "Rosa, La Sallaz",
+      "conditions": "Henri aidera les jardiniers de La Sallaz; pas d'adhésion ni de partage de stock"
     }
   },
   "capacites": {
@@ -1237,5 +1273,5 @@
     "Caisse à outils lourde",
     "Radio hors service"
   ],
-  "notes": "J12 : repos, eau ~59 L traités / 0 brute, charbon J6 8,6 kg + J11 2,2 kg mesurés; nouveau lot J12 en refroidissement, 12 kg de bois relativement sec restent. J13 : eau ~57 L traitée et ~7 L brute; bois sec fin ~15 kg et humide ~22 kg; lot charbon J12 pesé ~1,7 kg, soit ~12,5 kg des trois lots recensés, ancien J3 non cumulable. Sept plants vivants pépinière, pas de récolte; 2 conserves J13 à vérifier ajoutées aux 9 autres; ancien inventaire général alimentaire J9 non recompté. Éléments d'étude d'un second chariot, inutilisable; recherche solaire : panneaux repérés de loin, aucun acquis. Dossier de conception assemblé, non certifié opérationnel."
+  "notes": "Fin J14: ~47 L eau traitée, 0 L brute, qualité chimique inconnue. Bois sec ~12 kg, humide ~22 kg, charbon ~12,5 kg inchangé. Un second chariot artisanal en bois à deux roues de vélo est roulant après court essai avec environ 20 kg; les roues et planches utilisées ne restent pas libres dans l'inventaire. Rosa a donné deux petites enveloppes (fèves et épinards), germination incertaine. Aucune viande ni capture au J14. Onze conserves des jours 9, 11 et 13 en attente de contrôle, dernier comptage global J9 non reconsolidé."
 }

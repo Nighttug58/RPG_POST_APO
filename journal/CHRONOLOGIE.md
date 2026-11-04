@@ -160,3 +160,10 @@
 - Marc surveille et trouve 2 roues de vieux vélo et des planches pour un second chariot non opérationnel; Kübra rapporte ~7 kg bois relativement sec.
 - Élise rapporte ~24 L bruts, en traite 17 (~16 récupérés). Consommation ~18 L => fin J13 ~57 L traités, ~7 L bruts. 4 kg de bois pour chauffe => ~15 kg secs, 22 kg humides.
 - Charbon J12 ~1,7 kg mesuré, total J6/J11/J12 ~12,5 kg. Tugay achève un assemblage d'atelier sans validation de fiabilité ni usage. Aucune chasse, aucun jet. Fin ~20 h.
+
+## Mode continu — Jour 14, novembre 2043
+- Tugay et Nicolas observent un chevreuil en forêt, sans prise ni utilisation de matériel de chasse.
+- Henri, Marianne et Kübra rencontrent Rosa avec Claire et Adrien à La Sallaz; obtiennent une enveloppe de fèves et une d'épinards contre aide agricole future d'Henri. Germination inconnue.
+- Marc et David terminent un deuxième chariot en bois avec deux roues récupérées; essai court à environ 20 kg réussi.
+- Élise traite les 7 L bruts, environ 6 L récupérés; consommation ~16 L => fin ~47 L traités, 0 bruts. Bois relativement sec ~12 kg, humide ~22 kg, charbon ~12,5 kg.
+- Sophie suit l'inventaire des 11 conserves récentes non contrôlées. Aucun blessé ni jet, fin ~20 h. J15 non commencé.
