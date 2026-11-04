@@ -22,3 +22,13 @@ Vérifier la masse du charbon après refroidissement; poursuivre approvisionneme
 
 ## Nouveau contrat de jeu
 La narration est continue : plusieurs tâches ou journées par intention, des PNJ actifs simultanément, des durées/ressources/crédibilité suivies. Pas d'unité de tour, de jet systématique, de menu obligé ou de commit par micro-action. Checkpoints narratifs enregistrés aux jalons significatifs ou sur demande.
+
+## Jour 7 — Retrouvailles, approvisionnement et travail parallèle
+Tugay décide de conduire **les sept membres et Henri ensemble** (~8 personnes) chez Marianne, située selon Henri à environ 4 km; Marc quitte donc exceptionnellement la surveillance du refuge. Un chariot et deux sacs à dos sont emportés. La base reste vacante pendant toute la matinée; à leur retour, accès intacts en apparence, aucune vérification exhaustive des réserves effectuée.
+
+La maison de Marianne est vide, mais une note écrite par elle mène à un petit local de jardinage proche. Henri la retrouve vivante. Marianne (62 ans, ancienne employée de restauration collective) accepte de venir au refuge comme **invitée temporaire**, sans adhésion à la communauté ni donation forcée de ses affaires. La récupération de matériel dans plusieurs logements manifestement abandonnés apporte 4 conserves intactes extérieurement mais à vérifier, deux couvertures, une casserole inox ~5 L, une bâche partiellement réutilisable, deux paires de gants, six bocaux et quelques fournitures de réparation. Le stock alimentaire fiable global n'est toujours pas recompté.
+
+L'après-midi, Tugay, Henri, Marc, David et Nicolas améliorent les planches déjà préparées et les protections hivernales; petite partie du tunnel couverte avec la bâche. Pas de récolte ni d'usage des cinq parcelles sans autorisation. En parallèle, Kübra, Élise et Sophie ramènent ~30 L d'eau brute au chariot. Sophie veille sur l'installation de chauffe pendant qu'Élise et Kübra examinent des locaux proches non visités et rapportent matériel de nettoyage, seau non alimentaire et petites pièces de plomberie. ~15 L d'eau ont été traités; ~15 L bruts restent séparés. Estimation ~16 L consommés sur la journée, soit **~21 L traités** au soir J7. Qualité chimique toujours inconnue; citerne non avancée. Charbon du J6 non pesé. Soirée calme; pas de blessure signalée, fatigue après effort. Heure de fin : 20 h 15. Aucun dé n'a été lancé.
+
+## Dossiers ouverts au début du jour 8
+Sécuriser l'eau et analyser les risques du ruisseau, vérifier les nouvelles conserves et recompter les denrées, peser le lot de charbon, décider du séjour de Marianne, améliorer la surveillance des bâtiments lors des absences, réparer la serre et diagnostiquer citerne/pompe. Aucune mission du jour 8 n'est encore ordonnée.

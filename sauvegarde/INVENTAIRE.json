@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin jour 6; inventaire du jour 5 reste dernier comptage alimentaire global",
+  "reference": "Fin jour 7; dernier comptage alimentaire global au jour 5, avec 4 conserves du jour 7 à contrôler",
   "objets": [
     {
       "id": "bidon20",
@@ -372,11 +372,11 @@
     {
       "id": "lot-035",
       "nom": "Paire de gants de travail",
-      "quantite": 1,
+      "quantite": 3,
       "masse_unitaire_kg": null,
       "categorie": "outils",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "à contrôler avant usage"
+      "etat": "1 ancienne + 2 paires récupérées au jour 7; état à contrôler"
     },
     {
       "id": "lot-036",
@@ -633,11 +633,11 @@
     {
       "id": "lot-064",
       "nom": "Couvertures épaisses",
-      "quantite": 4,
+      "quantite": 6,
       "masse_unitaire_kg": null,
       "categorie": "couchage",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "à contrôler avant usage"
+      "etat": "4 anciennes + 2 récupérées au jour 7; état détaillé à contrôler"
     },
     {
       "id": "lot-065",
@@ -800,19 +800,82 @@
       "categorie": "ancien_camp",
       "emplacement": "ancien camp forestier",
       "etat": "historique non contrôlé"
+    },
+    {
+      "id": "lot-082",
+      "nom": "Grande casserole inox environ 5 L",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "récupérée jour 7, à nettoyer"
+    },
+    {
+      "id": "lot-083",
+      "nom": "Bâche imperméable partiellement utilisable",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "jardins Henri, couverture provisoire d'une portion de serre",
+      "etat": "récupérée jour 7; usée et partiellement installée"
+    },
+    {
+      "id": "lot-084",
+      "nom": "Bocaux en verre avec couvercles",
+      "quantite": 6,
+      "masse_unitaire_kg": null,
+      "categorie": "stockage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "récupérés jour 7, à nettoyer et contrôler"
+    },
+    {
+      "id": "lot-085",
+      "nom": "Lot de petites fournitures de réparation",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "récupéré jour 7, détail non compté"
+    },
+    {
+      "id": "lot-086",
+      "nom": "Lot de matériel de nettoyage",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "trouvé jour 7 dans locaux du quartier; à trier"
+    },
+    {
+      "id": "lot-087",
+      "nom": "Seau de ménage, non alimentaire",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "trouvé jour 7, réservé au nettoyage"
+    },
+    {
+      "id": "lot-088",
+      "nom": "Lot de petites pièces de plomberie",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "trouvé jour 7, compatibilité non vérifiée"
     }
   ],
   "consommables": {
-    "eau_potable_l": 22,
+    "eau_potable_l": 21,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "22 L estimés au soir du jour 6 après production d'environ 17 L et consommations d'environ 15 L depuis les 20 L de fin jour 5",
+    "eau_statu": "Estimation fin jour 7 : 22 L traités en début de journée + ~15 L traités depuis une récolte de 30 L au ruisseau - ~16 L consommés = ~21 L; sécurité chimique non confirmée.",
     "charbon_disponible_kg": null,
     "charbon_dernier_comptage_kg": 5.4,
     "charbon_dernier_comptage_jour": 3,
     "charbon_en_cours": {
       "objectif_kg": 20,
-      "etat": "en_refroidissement_fin_jour_6",
+      "etat": "lot du jour 6 refroidi en principe; pas encore pesé au soir du jour 7",
       "obtenu_kg": null
     },
     "citerne_pluie": {
@@ -838,6 +901,13 @@
       "sauce_tomate_bocaux": 2,
       "legumes_henri": "~3 kg donnés au jour 4, reste inconnu",
       "attention": "Repas du jour 6 non comptés, valeurs datées non garanties actuelles"
+    },
+    "eau_brute_l": 15,
+    "eau_brute_statu": "15 L d'eau de ruisseau restant à traiter, dans des récipients distincts; ne pas compter comme potable.",
+    "denrees_recuperees_j7_a_verifier": {
+      "conserves_non_verifiees": 4,
+      "etat": "aspect extérieur intact, qualité et sécurité alimentaire à contrôler; non ajoutées au total disponible",
+      "jour": 7
     }
   },
   "capacites": {
@@ -857,5 +927,5 @@
     "Caisse à outils lourde",
     "Radio hors service"
   ],
-  "notes": "Ne pas compter l'eau pluviale comme potable. Le filtre sable/charbon n'est pas certifié. Le charbon visé à 20 kg reste en cours : pas de stock acquis. Les denrées comptées au jour 5 ne sont pas ajoutées comme objets pour éviter le double comptage. Les outils d'Henri restent sa propriété."
+  "notes": "Inventaire J7 : réserve d'eau traitée ~21 L, eau brute ~15 L distincte, 4 conserves récupérées mais non vérifiées; 81 L de contenants dédiés restent nominaux et plusieurs doivent être assainis. Lot de charbon visant 20 kg non pesé. Nourriture J5 toujours dernier comptage global. Le retour de Marianne n'implique aucune adhésion ou donation de ses biens."
 }

@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "21:30",
+    "heure": "20:15",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 6,
+    "jour_campagne": 7,
     "mois": "novembre"
   },
   "localisation": {
@@ -22,7 +22,7 @@
     "coordonnees": null
   },
   "conditions": {
-    "meteo": "Soir froid de novembre; valeur exacte non vérifiée",
+    "meteo": "Journée froide et brumeuse de novembre, soirée froide; températures non mesurées",
     "luminosite": "nuit",
     "menaces_immediates": [],
     "bruits_lointains": [
@@ -30,10 +30,11 @@
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Réserves alimentaires insuffisantes",
-      "Traitement d'eau rudimentaire",
-      "Qualité chimique du ruisseau inconnue",
-      "Lot de charbon visé à 20 kg encore en refroidissement"
+      "Réserves alimentaires insuffisantes; nouveau ravitaillement alimentaire non vérifié",
+      "Traitement d'eau rudimentaire; qualité chimique du ruisseau inconnue",
+      "Citerne pluviale non potable et pompe inactive",
+      "Lot de charbon du jour 6 non pesé, objectif 20 kg non confirmé",
+      "Base sans surveillance pendant l'expédition collective du jour 7; aucune anomalie manifeste au retour"
     ]
   },
   "progression": {
@@ -42,13 +43,11 @@
       "objectif-nourriture-001",
       "objectif-village-001",
       "objectif-jardins-001",
-      "objectif-charbon-001",
-      "objectif-marianne-001"
+      "objectif-charbon-001"
     ],
     "pistes_ouvertes": [
       "piste-citerne",
       "piste-serre",
-      "piste-marianne",
       "piste-depot",
       "piste-survivants"
     ],
@@ -59,7 +58,8 @@
       "pnj-david",
       "pnj-sophie",
       "pnj-nicolas",
-      "pnj-henri"
+      "pnj-henri",
+      "pnj-marianne"
     ],
     "factions_connues": [
       "communaute-quartier"
@@ -73,12 +73,14 @@
       "lieu-communs-c",
       "lieu-citerne",
       "lieu-jardins-henri",
-      "lieu-garages"
+      "lieu-garages",
+      "lieu-maison-marianne",
+      "lieu-local-jardin-marianne"
     ]
   },
-  "chapitre_actuel": "chapitre-017",
-  "derniere_scene_canonique": "recit/chapitre-017/scene-001.md",
-  "prochaine_action": "Jour 7 non commencé : décisions libres du joueur. Vérifier/peser le charbon froid (objectif non confirmé : 20 kg); projet de visite avec Henri chez sa sœur Marianne (~4 km); poursuivre eau, alimentation et cultures, sans issue préétablie.",
+  "chapitre_actuel": "chapitre-018",
+  "derniere_scene_canonique": "recit/chapitre-018/scene-001.md",
+  "prochaine_action": "Jour 8 non commencé : assurer l'eau et contrôler sa qualité; vérifier les 4 conserves récupérées; recompter les aliments et peser le lot de charbon du jour 6; décider avec Marianne de la suite de son séjour; envisager la surveillance du refuge pendant les sorties et remettre en état la citerne.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -99,7 +101,8 @@
       "Nicolas"
     ],
     "allies_non_membres": [
-      "Henri"
+      "Henri (jardinier allié)",
+      "Marianne (retrouvée, invitée temporaire; non membre)"
     ],
     "batiments": [
       "B",
@@ -110,10 +113,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j06-2130",
-    "jour": 6,
-    "heure": "21:30",
-    "description": "Rattrapage du récit des jours 2 à 6 et migration en narration continue"
+    "id": "fin-j07-2015",
+    "jour": 7,
+    "heure": "20:15",
+    "description": "Visite collective à Marianne, retour avec récupération limitée, travaux agricoles et tournée d'eau avec chariot; narration continue"
   },
   "protocole": {
     "archives_tours_figees": 16,

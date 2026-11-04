@@ -15,4 +15,6 @@
 | lieu-pepiniere | Pépinière mentionnée par Nicolas | Non visitée, ressources possibles non vérifiées |
 | lieu-depot | Dépôt de maintenance mentionné par David | Non visité |
 | lieu-atelier-communal | Atelier mentionné par Marc | Non visité |
-| lieu-maison-marianne | Maison de Marianne | Environ 4 km selon Henri; état inconnu |
+| lieu-maison-marianne | Ancienne maison de Marianne | À environ 4 km du refuge; visitée le jour 7, Marianne était absente; note manuscrite menant à un local de jardinage proche |
+
+| lieu-local-jardin-marianne | Petit local de jardinage voisin | Marianne y a été retrouvée au jour 7; quelques centaines de mètres de son ancienne maison; autre contenu non exploré en détail |

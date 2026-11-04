@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 6, novembre 2043, sept membres dans une communauté de quartier. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
+**État : fin du jour 7, novembre 2043, sept membres dans une communauté de quartier, Henri allié et Marianne invitée. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md), [CONTINUITE jours 2 à 6](journal/CONTINUITE.md), [INVENTAIRE](sauvegarde/INVENTAIRE.json) et [REGLES](docs/REGLES.md). Les données de nourriture datent du dernier inventaire du jour 5; la réserve d'eau au soir du jour 6 est estimée à 22 L; le lot de charbon visant 20 kg n'est pas encore pesé.
+Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md), [CONTINUITE jours 2 à 7](journal/CONTINUITE.md), [INVENTAIRE](sauvegarde/INVENTAIRE.json) et [REGLES](docs/REGLES.md). Les données de nourriture datent du dernier inventaire global du jour 5, avec 4 conserves du jour 7 à vérifier; eau traitée estimée ~21 L au soir du jour 7 et ~15 L d'eau brute en attente; charbon du jour 6 non pesé. Le dernier récit est [Chapitre 018](recit/chapitre-018/scene-001.md).

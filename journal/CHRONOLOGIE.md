@@ -111,3 +111,10 @@
 - Jour 5 : quatre tournées de récupération de Tugay; Sophie enregistre 15 L d'eau embouteillée, 22 conserves et de nombreux objets; bilan consolidé 20 L potable et 33 conserves; contenance de récipients dédiés 81 L.
 - Jour 6 : travail agricole chez Henri, plantations d'essai; projet de recherche de Marianne (sœur d'Henri); ~22 L d'eau potable estimés en fin de journée; charbon **visant** 20 kg toujours en refroidissement.
 - À partir de ce point : narration continue par jalons. Aucun jet inventé et les tours historiques restent figés.
+
+## Narration continue — Jour 7 (2043, novembre; 06 h 45–20 h 15)
+- Expédition volontaire de huit personnes, comprenant tous les membres et Henri, avec chariot et deux sacs; refuge B/C temporairement sans garde.
+- Maison de Marianne visitée; note menant à un local de jardinage proche. Marianne retrouvée vivante et invitée au refuge sans adhésion.
+- Récupération limitée d'ustensiles, textiles et 4 conserves à vérifier. Aucun accès dégradé observé au retour à la base.
+- Après-midi : cinq hommes avec Henri aux jardins; Kübra, Élise et Sophie rapportent ~30 L d'eau brute du ruisseau au chariot; ~15 L traités, ~15 L demeurent bruts et séparés.
+- Estimation eau traitée fin jour 7 : ~21 L après ~16 L consommés durant la journée; autres ressources non entièrement recomptées, charbon non pesé. Dernier point 20 h 15; aucun test de dé effectué.

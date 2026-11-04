@@ -8,7 +8,7 @@
 | pnj-david | David, 34 ans | Électricien, membre; pompe/citerne et énergie |
 | pnj-sophie | Sophie, 41 ans | Membre; inventaire et logistique |
 | pnj-nicolas | Nicolas, 29 ans | Jardinier, membre; agriculture et sorties alimentaires |
-| pnj-henri | Henri Favre, 67 ans | Jardinier expérimenté, allié, **pas membre**; trois parcelles |
-| pnj-marianne | Marianne, 62 ans | Sœur d'Henri, non rencontrée; maison à ~4 km d'après lui, ancienne restauration collective |
+| pnj-henri | Henri Favre, 67 ans | Jardinier expérimenté, allié, **pas membre**; trois parcelles; sœur retrouvée au jour 7 |
+| pnj-marianne | Marianne, 62 ans | Sœur d'Henri, retrouvée au jour 7 dans un local de jardinage près de son ancienne maison (~4 km); ancienne restauration collective; invitée temporaire au refuge, pas membre |
 
-Les sept membres sont Tugay et les six premiers PNJ. Henri accepte un partenariat agricole; Marianne pourrait être absente, son état est inconnu. Aucun secret personnel ou intention hors-scène n'est établi ici.
+Les sept membres sont Tugay et les six premiers PNJ. Henri accepte un partenariat agricole; Marianne est vivante et a accepté une visite au refuge comme invitée, sans intégration décidée. Aucun secret personnel ou intention hors-scène n'est établi ici.

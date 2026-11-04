@@ -1,21 +1,22 @@
 # Point de reprise — Les Cendres du Monde
 <!-- TOUR_COURANT: 16 -->
 
-## MODE : NARRATION CONTINUE (actif)
-Les 16 tours du début sont figés et historiques. **Ne plus jouer tour par tour.** Tugay donne librement des décisions couvrant plusieurs actions, une journée ou plusieurs équipes. Le MJ raconte les conséquences, les PNJ avancent en parallèle, et les sauvegardes GitHub ont lieu aux jalons importants ou sur demande. Ne pas imposer de menus A/B/C ni de tour/commit par phrase.
+## MODE : NARRATION CONTINUE
+Les 16 anciens tours restent archivés. Tugay décide librement des opérations, même sur plusieurs équipes ou journées; le MJ résout durée, contraintes, monde et initiatives des PNJ en parallèle, sans menus ni jets obligatoires. Commits aux jalons ou sur demande.
 
-## Fin du jour 6, vers 21 h 30 — novembre 2043
-- **Quartier-refuge :** appartement au 2e étage du bâtiment B, communauté dans les bâtiments B et C.
-- **7 membres confirmés** : Tugay (alias d'archive Nighttug), Kübra, Marc (concierge/garde), Élise (ancienne infirmière/eau), David (électricien/citerne), Sophie (stocks), Nicolas (jardinier). Période d'essai de 7 jours décidée à 6 pour, 0 contre, 1 abstention.
-- **Henri (67 ans)** : allié et jardinier expérimenté, non membre. Huit parcelles visibles, dont trois sous sa responsabilité; deux remises en état, deux nouvelles planches préparées, cinq parcelles d'autres propriétaires non disponibles sans consentement. Plantation d'essai : 40 caïeux d'ail, épinards d'hiver, rang de fèves; légumes existants conservés.
-- **Marianne (62 ans)** : sœur d'Henri, habiterait à ~4 km. Sa situation actuelle est inconnue. Henri souhaite une visite pour la retrouver.
-- **Eau :** ~22 L traités estimés en réserve après jour 6; capacité nominale 81 L de contenants alimentaires, certains pas encore désinfectés. Citerne pluviale nominale 3 000 L, jauge ~1 100 L **non vérifiée**, eau non potable et pompe inactive. Eau de ruisseau bouillie par lots; qualité chimique inconnue, filtre artisanal non certifié.
-- **Nourriture :** dernier comptage global jour 5 : 33 conserves et provisions sèches; repas du jour 6 non détaillés, stock exact actuel inconnu. Chasse sans prise; cultures sans récolte encore.
-- **Charbon :** dernier repère ~5,4 kg au jour 3 avant plusieurs chauffes non chiffrées. En fin du jour 6, nouvelle production **visant** 20 kg préparée, encore en refroidissement. Masse obtenue inconnue : ne pas l'ajouter à la réserve.
-- **Menaces :** véhicules et personnes rapportés à proximité, danger non confirmé; Marc assure une veille. Aucun blessé. Tugay fatigué après les travaux du jour 6.
+## Fin du jour 7, 20 h 15 — novembre 2043
+- **Refuge :** appartement au 2e étage du bâtiment B; salle commune dans C. La totalité du groupe est sortie le matin avec Henri, y compris Marc. Base sans garde, accès apparemment intacts au retour, inventaire de sécurité exhaustif non fait.
+- **Communauté :** 7 membres confirmés, inchangés : Tugay, Kübra, Marc, Élise, David, Sophie, Nicolas. Henri (67 ans) reste allié extérieur. Sa sœur **Marianne (62 ans) a été retrouvée** dans un local de jardinage près de son ancienne maison (~4 km), puis a accepté de venir au refuge comme invitée temporaire; ni membre ni responsable officiellement nommée. Elle a travaillé en restauration collective.
+- **Expédition J7 :** huit personnes (sept membres + Henri), 1 chariot et 2 sacs, environ 4 km aller et retour. Retour début après-midi. Fouille de quelques logements abandonnés accessibles; +4 conserves à contrôler (pas encore comptées comme aliment sûr), +2 couvertures épaisses, +1 grande casserole ~5 L, +1 bâche abîmée, +2 paires de gants, +6 bocaux, fournitures de réparation.
+- **Jardins :** Tugay, Henri, Marc, David et Nicolas ont passé l'après-midi à consolider les cultures et le drainage et à couvrir partiellement le tunnel de culture. Aucune récolte. Les 5 autres parcelles n'ont pas été utilisées sans accord.
+- **Eau :** Kübra, Élise et Sophie ont ramené environ 30 L d'eau brute du ruisseau avec le chariot; environ 15 L ont été chauffés et traités, les ~15 L restants demeurent bruts et séparés. Avec ~16 L consommés sur la journée, **~21 L traités** estimés au soir du jour 7. Qualité chimique toujours non vérifiée. Capacité alimentaire nominale 81 L, une partie des contenants à assainir.
+- **Nourriture :** comptage global fiable le plus récent = jour 5, 33 conserves et denrées sèches, consommations J6-J7 non détaillées. 4 nouvelles conserves à contrôler, ne pas additionner en stock sûr.
+- **Charbon :** lot préparé au J6 avec une cible de 20 kg, toujours **non pesé**. Dernier repère chiffré ancien ~5,4 kg au J3 avant consommations non chiffrées.
+- **Citerne :** 3 000 L nominaux, indication ~1 100 L non vérifiée; eau non potable, pompe inactive. Diagnostic reporté, David ayant travaillé aux jardins.
+- **État :** pas de blessés signalés; Tugay fatigué. Menaces du secteur non identifiées, aucun nouvel affrontement.
 
 ## SOURCES
-ETAT.json = contexte/mode/temps; INVENTAIRE.json = ressources et certitudes; PERSONNAGE.json = identité et état; journal/CONTINUITE.md = déroulement des jours 2–6; recit/chapitre-017/scene-001.md = point narratif. DECISIONS.jsonl et JETS.jsonl sont des **archives historiques non prolongées**.
+`ETAT.json` = contexte, temps, campagne et membres; `INVENTAIRE.json` = objets et ressources; `PERSONNAGE.json` = Tugay; `journal/CONTINUITE.md` = chronologie J2-J7; `recit/chapitre-018/scene-001.md` = dernier récit. `DECISIONS.jsonl` et `JETS.jsonl` restent les archives historiques des 16 tours.
 
 ## PROCHAINE INTERACTION
-Jour 7 non entamé. Aucune mission n'est encore choisie par le joueur. Il peut vérifier/peser le charbon après refroidissement, organiser avec Henri une visite pacifique chez Marianne, continuer eau/nourriture/agriculture ou donner toute autre instruction. Faire avancer la narration naturellement et les équipes en parallèle, sans forcer un nouveau tour.
+**Jour 8 non commencé.** Tugay peut organiser la suite librement. Chantiers ouverts : sécuriser l'eau potable et les stocks, examiner les 4 conserves, peser le charbon, préparer l'hiver et la citerne, statuer avec Marianne sur son séjour et éviter une absence totale de surveillance lors des futures sorties. Ne rien engager sans décision du joueur.

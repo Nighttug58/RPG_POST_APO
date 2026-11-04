@@ -69,7 +69,7 @@
   "etat_physique": {
     "sante": null,
     "blessures": [],
-    "fatigue": "Fatigué après travaux agricoles et manutention du jour 6; repos nocturne à venir",
+    "fatigue": "Fatigue en soirée du jour 7 après ~8 km de marche collective, récupération de matériel et après-midi aux jardins; repos nécessaire",
     "faim": "Besoins alimentaires réguliers, réserves de la communauté limitées",
     "hydratation": "Approvisionnement communautaire en eau traité, non encore durable"
   },
@@ -90,7 +90,8 @@
       "Tour 0014 : campement de fortune discret trouvé et monté ; une capture de canard sauvage réussie, seconde manquée ; feu non obtenu après deux essais, filtre non fiable et pas d'eau potable. Kubra a découvert des végétaux et champignons non identifiés de manière sûre ; une motte prélevée ne garantit aucune culture. Des détonations lointaines ont été entendues à la tombée de la nuit.",
       "Tour 0015 : réveil à 05:00 dans le camp forestier ; Nighttug construit un second archet à friction grâce à son expérience et réussit, avec l'aide de Kubra, à entretenir un petit feu. Test réel : 13 sur d20 + 5 = 18 contre 14. À 05:20, aucune eau potable ni nourriture consommée.",
       "Tour 0016 : cuisson correcte d'un canard au feu du camp, repas partagé avec Kubra. Un peu de bois est préparé pour un futur usage de charbon sans charbon produit. Sortie vers la lisière de forêt pour examiner des maisons paraissant inoccupées ; première fouille infructueuse, aucune casserole. Aucune eau potable obtenue. Tests : cuisson 14 + 2 = 16 contre 12, recherche 11 + 1 = 12 contre 15.",
-      "Jours 2 à 6 : installation avec Kübra au bâtiment B; récupérations, travaux de l'eau, rencontre de Marc et des quatre habitants du bâtiment C; sept fondateurs de communauté et Henri allié. Tugay est désigné sous son prénom usuel dans le récit. Les aptitudes chiffrées restent celles créées aux tours 1 à 16; aucun nouveau jet inventé."
+      "Jours 2 à 6 : installation avec Kübra au bâtiment B; récupérations, travaux de l'eau, rencontre de Marc et des quatre habitants du bâtiment C; sept fondateurs de communauté et Henri allié. Tugay est désigné sous son prénom usuel dans le récit. Les aptitudes chiffrées restent celles créées aux tours 1 à 16; aucun nouveau jet inventé.",
+      "Jour 7 : visite du groupe complet chez la sœur d'Henri; Marianne retrouvée et invitée, sans adhésion confirmée. Matinée de marche et collecte, après-midi d'agriculture; 7 membres et Henri/Marianne alliés ou invités, pas de blessure signalée, aucun jet de dé effectué."
     ]
   }
 }
