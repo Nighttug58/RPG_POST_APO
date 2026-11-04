@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "20:15",
+    "heure": "20:00",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 7,
+    "jour_campagne": 8,
     "mois": "novembre"
   },
   "localisation": {
@@ -22,7 +22,7 @@
     "coordonnees": null
   },
   "conditions": {
-    "meteo": "Journée froide et brumeuse de novembre, soirée froide; températures non mesurées",
+    "meteo": "Journée de novembre froide et humide; températures exactes non mesurées",
     "luminosite": "nuit",
     "menaces_immediates": [],
     "bruits_lointains": [
@@ -30,11 +30,12 @@
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Réserves alimentaires insuffisantes; nouveau ravitaillement alimentaire non vérifié",
-      "Traitement d'eau rudimentaire; qualité chimique du ruisseau inconnue",
+      "Approvisionnement alimentaire limité, stocks globaux non recomptés depuis jour 5",
+      "Eau du ruisseau traitée thermiquement mais qualité chimique non analysée; eau brute stockée séparément",
       "Citerne pluviale non potable et pompe inactive",
-      "Lot de charbon du jour 6 non pesé, objectif 20 kg non confirmé",
-      "Base sans surveillance pendant l'expédition collective du jour 7; aucune anomalie manifeste au retour"
+      "Charbon produit au jour 6 non pesé, stock utile inconnu",
+      "Cinq parcelles appartenant à des propriétaires absents : aucune autorisation de propriété, entretien seulement provisoire",
+      "Équipement solaire non trouvé; aucun système électrique remis en service"
     ]
   },
   "progression": {
@@ -43,13 +44,15 @@
       "objectif-nourriture-001",
       "objectif-village-001",
       "objectif-jardins-001",
-      "objectif-charbon-001"
+      "objectif-charbon-001",
+      "objectif-solaire-001"
     ],
     "pistes_ouvertes": [
       "piste-citerne",
       "piste-serre",
       "piste-depot",
-      "piste-survivants"
+      "piste-survivants",
+      "piste-solaire"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -78,9 +81,9 @@
       "lieu-local-jardin-marianne"
     ]
   },
-  "chapitre_actuel": "chapitre-018",
-  "derniere_scene_canonique": "recit/chapitre-018/scene-001.md",
-  "prochaine_action": "Jour 8 non commencé : assurer l'eau et contrôler sa qualité; vérifier les 4 conserves récupérées; recompter les aliments et peser le lot de charbon du jour 6; décider avec Marianne de la suite de son séjour; envisager la surveillance du refuge pendant les sorties et remettre en état la citerne.",
+  "chapitre_actuel": "chapitre-019",
+  "derniere_scene_canonique": "recit/chapitre-019/scene-001.md",
+  "prochaine_action": "Jour 9 non commencé. Reconnaissance solaire envisagée et préparée par David et Nicolas, mais non engagée. Tugay décide librement des missions. Eau estimée 27 L traitée et 21 L brute; charbon du jour 6 à peser; 4 conserves du J7 non vérifiées; 3 des 5 parcelles supplémentaires restent à préparer. Henri/Mairanne restent allié/invitée, pas membres.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -113,10 +116,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j07-2015",
-    "jour": 7,
-    "heure": "20:15",
-    "description": "Visite collective à Marianne, retour avec récupération limitée, travaux agricoles et tournée d'eau avec chariot; narration continue"
+    "id": "fin-j08-2000",
+    "jour": 8,
+    "heure": "20:00",
+    "description": "Entretien provisoire des parcelles, collecte et traitement d'eau, préparation reconnaissance solaire, projet de chasse sans matériel fonctionnel"
   },
   "protocole": {
     "archives_tours_figees": 16,

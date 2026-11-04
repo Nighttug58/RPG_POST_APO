@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 6
+# Registre des lieux — connus fin du jour 8
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -11,7 +11,7 @@
 | lieu-citerne | Sous le jardin de l'immeuble | Citerne pluviale 3 000 L nominal, jauge ~1 100 L non vérifiée, pompe inactive |
 | lieu-barbecue | Jardin collectif | Ancienne installation de chauffe extérieure |
 | lieu-garages | Garages/caves/maisons du quartier | Plusieurs fouilles; objets lourds laissés et localisés |
-| lieu-jardins-henri | Jardins familiaux | 8 parcelles visibles, 3 entretenues par Henri, 5 propriétaires inconnus; serre tunnel abîmée |
+| lieu-jardins-henri | Jardins familiaux | 8 parcelles visibles : 3 entretenues par Henri, 5 dont les propriétaires sont absents/inconnus. J8 : 2 des 5 préparées provisoirement, une partiellement semée; 3 restantes. Aucun transfert de propriété; serre tunnel partiellement protégée |
 | lieu-pepiniere | Pépinière mentionnée par Nicolas | Non visitée, ressources possibles non vérifiées |
 | lieu-depot | Dépôt de maintenance mentionné par David | Non visité |
 | lieu-atelier-communal | Atelier mentionné par Marc | Non visité |

@@ -118,3 +118,11 @@
 - Récupération limitée d'ustensiles, textiles et 4 conserves à vérifier. Aucun accès dégradé observé au retour à la base.
 - Après-midi : cinq hommes avec Henri aux jardins; Kübra, Élise et Sophie rapportent ~30 L d'eau brute du ruisseau au chariot; ~15 L traités, ~15 L demeurent bruts et séparés.
 - Estimation eau traitée fin jour 7 : ~21 L après ~16 L consommés durant la journée; autres ressources non entièrement recomptées, charbon non pesé. Dernier point 20 h 15; aucun test de dé effectué.
+
+## Narration continue — Jour 8 (2043, novembre; ~07 h 00–20 h 00)
+- Tugay persuade Henri de participer à la remise en culture **provisoire et réversible** des cinq parcelles de propriétaires absents, sans transfert de propriété ni autorisation légale. Les propriétaires retrouvent la gestion de leurs parcelles sur demande, même sans rejoindre la communauté.
+- Henri, Marianne et Kübra en préparent deux, une partiellement semée; trois restent à faire. Semences d'Henri anciennes, viabilité inconnue, aucune récolte.
+- Sophie et Élise traitent environ 24 L; Nicolas et David ramènent ~30 L bruts avec le chariot; bilan théorique ~27 L traités + ~21 L bruts au soir après ~18 L consommés.
+- David et Nicolas préparent une future reconnaissance solaire; aucun panneau découvert ou récupéré.
+- Tugay examine son projet de matériel de chasse sans résultat fonctionnel. Marc garde le quartier, pas d'intrusion constatée. Aucune nouvelle prise alimentaire; conserve J7 et charbon J6 toujours non vérifiés.
+- Fin vers 20 h, jour 9 non commencé. Aucun jet effectué.

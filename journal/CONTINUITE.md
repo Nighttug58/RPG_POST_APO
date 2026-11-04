@@ -32,3 +32,15 @@ L'après-midi, Tugay, Henri, Marc, David et Nicolas améliorent les planches dé
 
 ## Dossiers ouverts au début du jour 8
 Sécuriser l'eau et analyser les risques du ruisseau, vérifier les nouvelles conserves et recompter les denrées, peser le lot de charbon, décider du séjour de Marianne, améliorer la surveillance des bâtiments lors des absences, réparer la serre et diagnostiquer citerne/pompe. Aucune mission du jour 8 n'est encore ordonnée.
+
+## Jour 8 — Parcelles provisoires, eau et recherche solaire préparée
+Au matin, Tugay propose à Henri de travailler les cinq parcelles dont les propriétaires sont absents. Il promet une occupation provisoire, une information affichée et la restitution du contrôle au propriétaire qui se présente, qu'il rejoigne ou non la communauté. Henri, réticent au départ, accepte de participer à **l'entretien temporaire**, tout en précisant qu'il ne peut ni céder ni autoriser légalement ces terrains. Avec Kübra et Marianne, ils inspectent les cinq, préservent la végétation existante, en préparent deux et sèment partiellement une parcelle avec de vieilles semences d'Henri à germination inconnue. Trois autres restent à travailler; aucune récolte.
+
+Marc assure la veille à B/C et ne relève aucune intrusion. Nicolas et David parcourent le chemin du ruisseau avec le chariot et ramènent environ 30 L d'eau brute. Sophie et Élise traitent thermiquement environ 24 L dans la journée, en commençant par les 15 L restants du J7. Avec ~18 L consommés au J8, la réserve finale est estimée à **~27 L d'eau traitée et ~21 L d'eau brute**. Ces deux réserves restent séparées; aucune analyse chimique de la source n'a été réalisée. La qualité sanitaire ne saurait être certifiée par la chauffe seule.
+
+Après le retour de la tournée d'eau, David et Nicolas établissent un projet de reconnaissance des anciens sites techniques en quête de panneaux solaires et de leurs éléments associés. Les plans et la carte servent à préparer une sortie, **aucun site n'a encore été vérifié, aucun panneau trouvé et aucune sortie solaire exécutée**.
+
+Tugay consacre un peu de temps à son projet d'arc pour la chasse, sans obtenir de matériel fonctionnel; aucune chasse n'a lieu. Les quatre conserves récupérées au J7 ne sont pas encore contrôlées, les réserves alimentaires globales n'ont pas été recomptées et le lot de charbon du J6 reste non pesé. Marianne envisage de contribuer à l'organisation des repas, sans adhésion officielle. Fin de la journée vers 20 h, sans blessure signalée et sans jet d20.
+
+## Dossiers ouverts au début du jour 9
+Reconnaissance solaire préparée mais non effectuée; trois des cinq parcelles supplémentaires non préparées; qualité de l'eau et bilan alimentaire à sécuriser; 4 conserves à vérifier; lot de charbon à peser; avenir de la communauté après la période d'essai à clarifier. Toute mission du J9 doit venir d'une nouvelle décision du joueur.

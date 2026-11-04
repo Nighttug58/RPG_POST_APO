@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin jour 7; dernier comptage alimentaire global au jour 5, avec 4 conserves du jour 7 à contrôler",
+  "reference": "Fin jour 8; réserves d'eau estimées après nouvelle tournée; aliments non recomptés depuis jour 5; 4 conserves J7 non vérifiées",
   "objets": [
     {
       "id": "bidon20",
@@ -866,16 +866,16 @@
     }
   ],
   "consommables": {
-    "eau_potable_l": 21,
+    "eau_potable_l": 27,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "Estimation fin jour 7 : 22 L traités en début de journée + ~15 L traités depuis une récolte de 30 L au ruisseau - ~16 L consommés = ~21 L; sécurité chimique non confirmée.",
+    "eau_statu": "Fin J8 estimée : 21 L d'eau traitée en début de journée + ~24 L d'eau brute chauffée et traitée durant le J8 - ~18 L consommés durant la journée (groupe + invitée / travail) = ~27 L traités; qualité chimique inconnue, ne pas garantir potabilité réelle.",
     "charbon_disponible_kg": null,
     "charbon_dernier_comptage_kg": 5.4,
     "charbon_dernier_comptage_jour": 3,
     "charbon_en_cours": {
       "objectif_kg": 20,
-      "etat": "lot du jour 6 refroidi en principe; pas encore pesé au soir du jour 7",
+      "etat": "Lot du jour 6 refroidi mais non pesé à fin jour 8; masse et stock utilisable inconnus",
       "obtenu_kg": null
     },
     "citerne_pluie": {
@@ -900,10 +900,10 @@
       "confiture_g": 350,
       "sauce_tomate_bocaux": 2,
       "legumes_henri": "~3 kg donnés au jour 4, reste inconnu",
-      "attention": "Repas du jour 6 non comptés, valeurs datées non garanties actuelles"
+      "attention": "Dernier comptage global J5, avec consommations J6-J8 non détaillées; 4 conserves J7 à contrôler, ne pas additionner."
     },
-    "eau_brute_l": 15,
-    "eau_brute_statu": "15 L d'eau de ruisseau restant à traiter, dans des récipients distincts; ne pas compter comme potable.",
+    "eau_brute_l": 21,
+    "eau_brute_statu": "15 L bruts de J7 + ~30 L rapportés par Nicolas et David au J8 - ~24 L traités = ~21 L d'eau brute réservée séparément. Capacité et propreté de récipients à suivre.",
     "denrees_recuperees_j7_a_verifier": {
       "conserves_non_verifiees": 4,
       "etat": "aspect extérieur intact, qualité et sécurité alimentaire à contrôler; non ajoutées au total disponible",
@@ -927,5 +927,5 @@
     "Caisse à outils lourde",
     "Radio hors service"
   ],
-  "notes": "Inventaire J7 : réserve d'eau traitée ~21 L, eau brute ~15 L distincte, 4 conserves récupérées mais non vérifiées; 81 L de contenants dédiés restent nominaux et plusieurs doivent être assainis. Lot de charbon visant 20 kg non pesé. Nourriture J5 toujours dernier comptage global. Le retour de Marianne n'implique aucune adhésion ou donation de ses biens."
+  "notes": "Fin J8 : eau estimée ~27 L traités et ~21 L bruts séparés; aucune garantie chimique. 81 L de contenants nominaux, propreté de certains incertaine. Nourriture globale J5 non recalculée, 4 conserves J7 en attente. Charbon J6 non pesé. Les semences anciennes utilisées appartiennent à Henri; ni panneaux solaires ni arc de chasse fonctionnel acquis."
 }

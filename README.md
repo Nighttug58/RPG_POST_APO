@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 7, novembre 2043, sept membres dans une communauté de quartier, Henri allié et Marianne invitée. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
+**État : fin du jour 8, novembre 2043, sept membres dans une communauté de quartier, Henri allié et Marianne invitée. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md), [CONTINUITE jours 2 à 7](journal/CONTINUITE.md), [INVENTAIRE](sauvegarde/INVENTAIRE.json) et [REGLES](docs/REGLES.md). Les données de nourriture datent du dernier inventaire global du jour 5, avec 4 conserves du jour 7 à vérifier; eau traitée estimée ~21 L au soir du jour 7 et ~15 L d'eau brute en attente; charbon du jour 6 non pesé. Le dernier récit est [Chapitre 018](recit/chapitre-018/scene-001.md).
+Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md), [CONTINUITE jours 2 à 8](journal/CONTINUITE.md), [INVENTAIRE](sauvegarde/INVENTAIRE.json) et [REGLES](docs/REGLES.md). Fin J8 : ~27 L d'eau traitée et ~21 L d'eau brute, qualité chimique non assurée; compte alimentaire global toujours ancien (J5) et 4 conserves J7 non vérifiées; charbon J6 non pesé. Deux des cinq parcelles à propriétaires absents ont été préparées provisoirement, une partiellement semée; recherche solaire seulement planifiée, aucun panneau acquis. Dernier récit : [Chapitre 019](recit/chapitre-019/scene-001.md).
