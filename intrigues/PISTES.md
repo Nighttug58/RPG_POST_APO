@@ -66,3 +66,9 @@
 - **Énergie** : David confirme 4/4 panneaux fonctionnels, placés dans un endroit ensoleillé près du refuge. Batterie domestique de stockage manque ; possible local technique fermé au bâtiment solaire. Aucun système branché.
 - **Transport** : chariot artisanal réparé/renforcé, charge courte testée ~75 kg ; sacs 2 × 45 L et 3 × 30 L améliorés par Marianne.
 - **Bois et eau** : +24 kg sec et +16 kg humide, ancien solde sec inconnu ; eau pure ~62 L prêts au refuge et ~25 L séparés ; priorité J22 libre.
+
+## Fin du jour 22
+- **Chasse** : Tugay/Nicolas/David rapportent un chevreuil adulte et un lièvre, soit ~18 kg de viande ; ~2 kg mangés, ~16 kg à fumer, ancien stock fumé durable 24,6 kg. Accord de principe d'Adrien pour deux volontaires de La Sallaz encore sans suite.
+- **Bois** : Kübra/Élise/Sophie rapportent ~54 kg secs avec chariot renforcé. Les 49 kg jadis humides ont séché et rejoignent le bois sec (transfert). Stock confirmé fin de journée **83 kg secs, 0 humides**, en comptant 8 kg anciens pesés, 24 kg sec J21, 54 kg J22 et sorties 44 kg charbon, 8 kg chauffe/cuisine.
+- **Charbon** : Henri/Marianne/Marc produisent ~11 kg utilisables ; anciens lots pesés ~12,4 kg, total ~23,4 kg.
+- **Autonomie** : eau pure ~44 L prêts + 25 L séparés ; 39 conserves comestibles et toutes graines viables. Quatre panneaux photovoltaïques fonctionnels toujours en attente batterie. Jour 23 non joué.

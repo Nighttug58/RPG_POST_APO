@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 21, novembre 2043. La Sallaz échange 8,5 kg de viande fumée contre 15 kg de vivres et dix enveloppes de graines viables ; 24,6 kg de viande restante, 39 conserves consommables, quatre panneaux fonctionnels en attente de batterie, chariot/sacs renforcés. Mode narratif simplifié, sans CI.**
+**État : fin du jour 22, novembre 2043. Nouvelle chasse : chevreuil et lièvre (~18 kg, dont 16 kg à fumer), 49 kg de bois humide maintenant secs, +54 kg collectés et +11 kg de charbon produit. Stock confirmé 83 kg bois sec et 23,4 kg charbon. Mode narratif simplifié, sans CI.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md), [INVENTAIRE](sauvegarde/INVENTAIRE.json) et [Règles simplifiées](docs/REGLES.md). Fin J21 à 19 h : échange de 8,5 kg de viande fumée contre 15 kg de nourriture + 10 enveloppes de graines viables à La Sallaz, cadeaux de 1,5 kg répartis entre Rosa, Claire et Adrien. Stock fumé restant ~24,6 kg, 39 conserves comestibles. Adrien intéressé par chasses communes, deux volontaires à nommer. +24 kg bois sec et +16 kg humide collectés ; chariot artisanal renforcé, essai ~75 kg ; 2 sacs à dos et 3 grands sacs textiles agrandis. David confirme les quatre panneaux parfaitement fonctionnels et placés au soleil, batterie domestique encore manquante. Eau pure de la résurgence : ~62 L prêts et ~25 L à préparer. Dernier récit : [Chapitre 030](recit/chapitre-030/scene-001.md). Jour 22 non commencé.
+Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J22 à 19 h 30 : chasse Tugay/Nicolas/David réussie, un chevreuil et un lièvre rapportés (~18 kg viande), 2 kg servis au dîner, 16 kg à fumer et 24,6 kg viande fumée ancienne durable. Kübra/Élise/Sophie rapportent 54 kg bois sec ; les 49 kg de bois anciennement humide sont désormais secs. Henri/Marianne/Marc produisent 11 kg charbon ; après comptage et dépenses de chauffe, 83 kg bois sec, 0 humide et 23,4 kg charbon. Eau pure 44 L prête et 25 L séparés, 39 conserves bonnes et quatre panneaux fonctionnels sans batterie. Dernier récit : [Chapitre 031](recit/chapitre-031/scene-001.md). Jour 23 à commencer.

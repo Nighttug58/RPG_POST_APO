@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin J21 à 19 h : pacte alimentaire simplifié, troc de 10 kg de viande, bois, transport renforcé, quatre panneaux opérationnels individuellement",
+  "reference": "Fin J22 à 19 h 30 : 18 kg gibier, 54 kg bois récoltés, 49 kg humidité séchée, 11 kg charbon fabriqué, stocks réconciliés",
   "objets": [
     {
       "id": "bidon20",
@@ -1371,16 +1371,25 @@
       "categorie": "agriculture",
       "emplacement": "stock communautaire B/C",
       "etat": "Une enveloppe par variété : carottes, choux, pois, haricots, blettes, laitues, radis, oignons, courges et épinards ; toutes viables, semis selon saison."
+    },
+    {
+      "id": "lot-146",
+      "nom": "Viande fraîche de chevreuil et lièvre J22 à fumer",
+      "quantite": 1,
+      "masse_unitaire_kg": 16,
+      "categorie": "alimentation",
+      "emplacement": "réserve communautaire, bâtiment C",
+      "etat": "Environ 18 kg de viande rapportés de forêt J22, 2 kg servis au dîner, ~16 kg à passer au fumoir J23. Une fois fumée, se conservera durablement suivant conventions RPG."
     }
   ],
   "consommables": {
-    "eau_potable_l": 62,
+    "eau_potable_l": 44,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "Source souterraine proche du refuge : eau pure en canon à partir de J21. ~82 L au début de J21 − ~20 L consommés = ~62 L d'eau prête à l'usage, sans collecte supplémentaire. Le reliquat ancien des villas n'est pas compté.",
-    "charbon_disponible_kg": 14.4,
-    "charbon_dernier_comptage_kg": 14.4,
-    "charbon_dernier_comptage_jour": 18,
+    "eau_statu": "Résurgence pure à 5 min. J22 : 62 L prêts au matin, ~18 L utilisés durant chasse/travaux et repas, reste ~44 L prêts. 25 L conservés séparément pour préparation ordinaire.",
+    "charbon_disponible_kg": 23.4,
+    "charbon_dernier_comptage_kg": 23.4,
+    "charbon_dernier_comptage_jour": 22,
     "charbon_en_cours": {
       "objectif_kg": 20,
       "etat": "Ancien objectif J6 20 kg non atteint : rendement ~8,6 kg; lots J11 ~2,2 kg et J12 ~1,7 kg pesés. Aucun nouveau lot en cours à la fin J13.",
@@ -1412,7 +1421,7 @@
       "conserves_avertissement": "12 anciennes conserves en stock courant + 27 récupérées lors des raids = 39 comestibles au J21."
     },
     "eau_brute_l": 25,
-    "eau_brute_statu": "~25 L stockés séparément pour la préparation habituelle ; source pure confirmée dans les conventions de jeu.",
+    "eau_brute_statu": "~25 L séparés, volume inchangé J22, eau de résurgence pure en canon.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -1441,8 +1450,8 @@
       "charbon_obtenu_kg": 2.2,
       "etat": "Lot J11 mesuré approximativement J12"
     },
-    "bois_humide_a_secher_kg": 49,
-    "bois_sec_disponible_kg_estime": null,
+    "bois_humide_a_secher_kg": 0,
+    "bois_sec_disponible_kg_estime": 83,
     "bois_collecte_nocturne": {
       "jour": 11,
       "debut": "19:30",
@@ -1710,7 +1719,41 @@
       "cadeaux_kg": 1.5,
       "echange_kg": 8.5,
       "stock_fin_kg": 24.6
-    }
+    },
+    "bois_j22": {
+      "ancien_sec_pese_kg": 8,
+      "bois_collecte_sec_j21_kg": 24,
+      "ancien_humide_devenu_sec_kg": 49,
+      "nouvelle_collecte_sec_j22_kg": 54,
+      "bois_sec_affecte_au_charbon_kg": 44,
+      "bois_sec_autres_usages_j22_kg": 8,
+      "bois_sec_final_kg": 83,
+      "bois_humide_final_kg": 0,
+      "etat": "Comptage J22 : 8+24+49+54-44-8=83 kg secs. Les 49 kg anciennement humides sont un transfert de catégorie, non une nouvelle collecte. Chariot artisanal renforcé utilisé par les trois collectrices."
+    },
+    "charbon_j22": {
+      "ancien_charbon_recompte_kg": 12.4,
+      "ecart_ancien_releve_kg": 2,
+      "nouveau_charbon_produit_kg": 11,
+      "charbon_final_kg": 23.4,
+      "etat": "Marianne pèse 12,4 kg d'anciens lots après consommations non chiffrées des J19–J21, puis ajoute 11 kg produits au J22 sous la coordination d'Henri. Stock réel ~23,4 kg."
+    },
+    "gibier_j22": {
+      "prises": [
+        "1 chevreuil adulte",
+        "1 lièvre"
+      ],
+      "equipe": [
+        "Tugay",
+        "Nicolas",
+        "David"
+      ],
+      "viande_rapportee_kg_estime": 18,
+      "viande_consomme_diner_kg_estime": 2,
+      "viande_fraiche_restant_kg_estime": 16,
+      "etat": "Deux prises non graphiques en forêt J22, rapportées dans sacs renforcés. Le fumage des 16 kg restants est une prochaine activité ; le stock fumé actuel reste séparé à 24,6 kg."
+    },
+    "viande_fraiche_j22_kg": 16
   },
   "capacites": {
     "contenants_alimentaires_nominale_l": 151,
@@ -1731,5 +1774,5 @@
     "Équipement électrique ancien et volumineux dans le quartier des villas (J17), repéré mais non transporté",
     "Plusieurs meubles utiles du quartier des villas (J17), repérés mais non transportés"
   ],
-  "notes": "Fin J21 : règles RPG simplifiées (source pure, viande fumée durable, conserves comestibles, graines viables). Tugay/Henri donnent 1,5 kg de viande en cadeaux à Rosa/Claire/Adrien et échangent 8,5 kg pour 15 kg légumes/légumineuses et 10 sachets de graines ; 24,6 kg de viande fumée restant. 39 conserves comestibles présentes (12 ancien stock + 27 récupérations, six boîtes mises de côté J20 réintégrées). Accord de principe chasse avec La Sallaz, deux volontaires à nommer. Kübra/Sophie/Élise rapportent +24 kg bois relativement sec et +16 kg humide (bois humide ~49 kg théorique), bois sec antérieur toujours non pesé. Marc/Nicolas renforcent chariot avec pneus remis en état, essai ~75 kg. David confirme quatre panneaux fonctionnels, les positionne au soleil, recherche future d'une batterie dans local technique fermé ; camp non électrifié. Marianne renforce deux sacs à dos (~45 L chacun) et trois sacs tissu (~30 L chacun) avec matériaux trouvés. Eau traitée prête à l'usage ~62 L après consommation estimée de 20 L J21, ~25 L en attente de préparation ordinaire."
+  "notes": "Fin J22 : chasse Tugay/Nicolas/David, 1 chevreuil adulte + 1 lièvre, 18 kg viande rapportée, environ 2 kg servis au dîner, reste 16 kg à fumer. Viande fumée durable existante 24,6 kg, 39 conserves toutes comestibles. Bois : 49 kg auparavant humides désormais secs (conversion, pas nouvel apport), 8 kg ancien bois sec enfin pesés, 24 kg sec collectés J21, +54 kg secs récoltés J22 ; 44 kg utilisés pour produire ~11 kg de charbon, 8 kg pour chauffe et cuisine => 83 kg de bois sec, 0 kg humide. Ancien charbon après recompte 12,4 kg (2 kg ancien relevé utilisés), +11 =23,4 kg. Source pure : ~44 L prêts à l'usage, ~25 L séparés après ~18 L consommés. Chariot artisanal renforcé utilisé sans incident. Aucune nouvelle mission solaire J22, batterie toujours manquante."
 }

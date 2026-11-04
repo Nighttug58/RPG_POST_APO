@@ -213,3 +213,9 @@
 - David confirme les quatre panneaux photovoltaïques fonctionnels et leur place ensoleillée au refuge, dessine schéma général. Batterie domestique de stockage manquante, possibilité d'en rechercher dans le local technique fermé du site, aucune installation électrique opérationnelle.
 - Marianne élargit 2 sacs à dos ~45 L et 3 sacs textiles renforcés ~30 L en récupérant des tissus.
 - Eau ~82 L prête début J21 − ~20 L consommés = ~62 L ; ~25 L en réserve séparée, source pure selon règles ; fin vers 19 h, J22 non commencé.
+
+## Jour 22 — La chasse et les réserves d'hiver
+- Tugay/Nicolas/David partent en forêt avec sacs renforcés sans chariot : un chevreuil adulte et un lièvre rapportés, soit ~18 kg de viande utilisable ; ~2 kg servis au dîner, ~16 kg à fumer, ~24,6 kg fumés anciens inchangés. Aucun blessé.
+- Kübra/Élise/Sophie emportent le chariot artisanal renforcé, 2 grandes tournées, ~54 kg bois relativement sec. **49 kg anciennement humides ont maintenant séché**, conversion et non nouvelle collecte.
+- Henri/Marianne/Marc produisent ~11 kg charbon sous coordination d'Henri, après échange de conseils généraux avec Tugay. Marianne repèse ~8 kg ancien bois sec et ~12,4 kg ancien charbon. Bois sec réconcilié : 8+24 J21+49 séché+54 J22-44 charbon-8 chauffe = **83 kg** secs, 0 humides ; charbon 12,4+11 = **23,4 kg**.
+- ~18 L eau pure consommés, solde ~44 L prêts, ~25 L séparés. Panneaux solaires 4 fonctionnels mais aucune batterie. Fin ~19 h 30 ; J23 non commencé.

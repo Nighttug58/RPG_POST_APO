@@ -15,6 +15,7 @@
 - [Chapitre 028 — La nuit du chasseur](chapitre-028/scene-001.md) : nuit J18–J19, grand cerf ramené, fumoir collectif et résurgence proche du refuge.
 - [Chapitre 029 — Les premières réserves](chapitre-029/scene-001.md) : soirée J19 et J20, fumage terminé, quatre panneaux récupérés, denrées triées, nouvelles parcelles et eau.
 - [Chapitre 030 — Le prix de l'abondance](chapitre-030/scene-001.md) : jour 21, échange de viande contre vivres et graines, projet de chasses communes, bois, chariot, sacs et panneaux.
+- [Chapitre 031 — Les réserves de l'hiver](chapitre-031/scene-001.md) : J22, chasse Tugay/Nicolas/David, collecte de bois, séchage des réserves et charbon en parallèle.
 - [Journal continu](../journal/CONTINUITE.md) : déroulement par journée, inventaires, faits et pistes.
 
 **Mode en vigueur :** narration continue avec missions parallèles et décisions libres; plus de tour par tour.

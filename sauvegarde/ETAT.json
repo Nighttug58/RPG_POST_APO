@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "19:00",
+    "heure": "19:30",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 21,
+    "jour_campagne": 22,
     "mois": "novembre"
   },
   "localisation": {
@@ -30,9 +30,9 @@
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Batterie domestique et équipements nécessaires à l'alimentation solaire non encore récupérés ; installation non raccordée",
-      "Local fermé du bâtiment technique encore à explorer, statut des lieux à clarifier",
-      "Fatigue modérée du groupe après les tâches de J21, repos à organiser"
+      "Batterie et accessoires du projet solaire encore à trouver ; quatre panneaux fonctionnels déjà installés en zone ensoleillée",
+      "Une partie de la viande du jour 22 (16 kg) attend le fumage prévu lors de la prochaine journée",
+      "Fatigue modérée après chasse et manutentions forestières"
     ]
   },
   "progression": {
@@ -112,9 +112,9 @@
       "lieu-chasse-cerf-j19"
     ]
   },
-  "chapitre_actuel": "chapitre-030",
-  "derniere_scene_canonique": "recit/chapitre-030/scene-001.md",
-  "prochaine_action": "Jour 22 non commencé. J21 Tugay/Henri donnent 0,5 kg viande fumée à Rosa, Claire, Adrien et échangent 8,5 kg contre 15 kg de légumes/légumineuses et 10 enveloppes de graines viables. Accord de principe avec Adrien pour envoi futur de deux volontaires pour des chasses et partage équitable. Viande fumée durable restante ~24,6 kg. Toutes les conserves disponibles sont comestibles : 39 au stock (12 anciennes + 27 fouilles récentes), graines viables. Kübra/Sophie/Élise rapportent ~24 kg de bois sec et ~16 kg humide. Marc/Nicolas renforcent chariot et pneus, essai ~75 kg réussi ; David confirme quatre panneaux parfaitement fonctionnels, les place au soleil avec aide, système pas encore alimenté car batterie et accessoires manquent, piste local technique. Marianne renforce 2 sacs à dos ~45 L et 3 sacs toile ~30 L. Eau source pure, ~62 L en réserve traitée + ~25 L séparés pour préparation habituelle.",
+  "chapitre_actuel": "chapitre-031",
+  "derniere_scene_canonique": "recit/chapitre-031/scene-001.md",
+  "prochaine_action": "Jour 23 non commencé. J22 Tugay/Nicolas/David chassent en forêt et ramènent 1 chevreuil adulte + 1 lièvre, soit ~18 kg de viande : ~2 kg consommés au dîner, 16 kg à fumer. Fumée antérieure ~24,6 kg durable, 39 conserves comestibles. Kübra/Élise/Sophie ramènent 54 kg de bois sec avec chariot renforcé ; les 49 kg auparavant humides ont maintenant séché, humide restant 0. Henri/Marianne/Marc produisent ~11 kg de charbon utilisable ; comptage bois sec final 83 kg après 44 kg affectés au charbon et 8 kg à la chauffe ; ancien charbon pesé 12,4 kg, stock final charbon 23,4 kg. Eau source pure ~44 L prête, ~25 L séparés. Quatre panneaux solaires fonctionnels, batterie à trouver.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -147,10 +147,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j21-1900",
-    "jour": 21,
-    "heure": "19:00",
-    "description": "Échange réussi à La Sallaz, chariot et sacs renforcés, quatre panneaux fonctionnels, bois rapporté"
+    "id": "fin-j22-1930",
+    "jour": 22,
+    "heure": "19:30",
+    "description": "Chasse réussie, 18 kg de viande rapportés, 83 kg bois sec, 23,4 kg charbon"
   },
   "protocole": {
     "archives_tours_figees": 16,
