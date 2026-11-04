@@ -15,7 +15,7 @@ Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans a
 | `journal/` | Historique des décisions, jets et chronologie |
 | `recit/` | Index, chapitres et scènes vécues |
 | `intrigues/` | Pistes, missions et objectifs |
-| `scripts/` et `.github/workflows/` | Contrôles automatiques des sauvegardes |
+| `scripts/` | Outils de validation locale des sauvegardes (sans CI) |
 | `mj/` | Avertissement : aucune information secrète n'est à stocker dans un dépôt public |
 
 ### Sources maîtresses
@@ -45,7 +45,7 @@ Avec l'accès GitHub connecté, envoyer :
 **NOUVEAU MODE : pas de tour par tour.** Le joueur peut donner des plans couvrant des actions simultanées ou des journées entières. Le MJ raconte en continu sans imposer des menus; commits aux jalons importants ou à la demande. Les 16 tours historiques restent conservés. Aucun travail différé promis.
 
 ## Vérification
-Lancer `python3 scripts/valider_sauvegarde.py`. Un workflow GitHub Actions vérifie automatiquement le dépôt après les modifications. La validation structurelle ne remplace pas le contrôle de cohérence du récit.
+Pour vérifier manuellement une sauvegarde, lancer `python3 scripts/valider_sauvegarde.py` (et éventuellement `node --check docs/dashboard.js`). **Aucune CI ni aucun workflow GitHub Actions n'est configuré dans ce dépôt.** La validation locale ne remplace pas le contrôle de cohérence du récit.
 
 **Confidentialité :** le dépôt est public, donc les secrets du MJ seraient visibles. Les coulisses non révélées ne sont pas archivées ici. Il faudrait un dépôt privé distinct pour cela.
 
