@@ -27,3 +27,11 @@
 - **Eau** : 7 L bruts traités, ~6 L récupérés, ~16 L consommés => ~47 L traités et 0 L bruts. Qualité chimique inconnue. Bois sec ~12 kg, humide ~22 kg, charbon ~12,5 kg.
 - **Alimentation** : reconnaissance forestière Tugay/Nicolas, chevreuil aperçu mais aucune prise. Onze conserves J9/J11/J13 non vérifiées. Aucun rendement des jardins confirmé.
 - **Matériel de chasse** : portée et fiabilité annoncées par Tugay, pas de test objectif ni d'usage en forêt.
+
+## Fin du jour 15
+- **Jardins** : Henri/Nicolas ont transplanté 2 cassissiers, 3 framboisiers, 2 ciboulettes dans des parcelles communes. Une partie de chaque enveloppe de Rosa (fèves/épinards) a été semée; une petite réserve est conservée. Reprise et germination inconnues, pas de récolte.
+- **Solaire** : Tugay/David visitent l'annexe d'un bâtiment technique; 6 modules visibles sur toiture, dont 2 semblant fissurés, 4 sans dégât apparent depuis le sol. Aucun test électrique ni panneau récupéré. Dans une annexe délaissée : multimètre ancien non testé, ~7 m de câble isolé non raccordé, carnet/schéma de maintenance. Local technique fermé, propriétaire et éventuelle occupation inconnus.
+- **Eau** : Kübra rapporte 30 L bruts au chariot, Élise traite 25 L pour ~24 L récupérés. Consommation ~18 L => fin **~53 L traités, ~5 L bruts** séparés. Qualité chimique de source non vérifiée.
+- **Ravitaillement** : Sophie/Marianne explorent un nouveau secteur; 3 conserves + 0,8 kg de haricots en bocal à examiner, marmite inox ~8 L, gants. Total **14 conserves** récentes à vérifier (J9 6, J11 3, J13 2, J15 3), hors stock fiable. Présence possible d'habitants sans contact avéré.
+- **Chariot** : Marc renforce le modèle artisanal, essai court ~35 kg réussi sur sol plat, résistance en terrain irrégulier non connue.
+- **Combustible** : bois relativement sec ~7 kg après chauffe J15, humide ~22 kg, charbon ~12,5 kg recensé inchangé. Aucune mise en service solaire ni récolte.

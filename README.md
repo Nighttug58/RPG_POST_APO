@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 14, novembre 2043, communauté de sept membres, coopération avec Rosa et deux chariots disponibles. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
+**État : fin du jour 15, novembre 2043, jardinage au refuge, reconnaissance solaire, ravitaillement et chariot renforcé. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J14 : eau ~47 L traités, 0 L bruts; bois relativement sec ~12 kg et humide ~22 kg; charbon ~12,5 kg. Rencontre réussie avec Rosa, deux enveloppes de semences offertes contre aide agricole future. Deuxième chariot fonctionnel après essai court avec ~20 kg. Sortie en forêt avec Nicolas sans prise. Dernier récit : [Chapitre 025](recit/chapitre-025/scene-001.md).
+Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J15 : ~53 L eau traitée et ~5 L brute (qualité chimique non garantie), ~7 kg bois relativement sec, ~22 kg humide, ~12,5 kg charbon recensé. Les 7 plants de pépinière sont en terre et les semences de Rosa partiellement semées, aucune récolte. Bâtiment solaire reconnu : six modules visibles, aucun acquis ou testé. Nouveau chariot renforcé, essai court ~35 kg. Sophie/Marianne trouvent 3 conserves et des haricots à examiner, soit 14 conserves récentes encore non vérifiées. Dernier récit : [Chapitre 026](recit/chapitre-026/scene-001.md).

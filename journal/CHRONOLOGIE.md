@@ -167,3 +167,10 @@
 - Marc et David terminent un deuxième chariot en bois avec deux roues récupérées; essai court à environ 20 kg réussi.
 - Élise traite les 7 L bruts, environ 6 L récupérés; consommation ~16 L => fin ~47 L traités, 0 bruts. Bois relativement sec ~12 kg, humide ~22 kg, charbon ~12,5 kg.
 - Sophie suit l'inventaire des 11 conserves récentes non contrôlées. Aucun blessé ni jet, fin ~20 h. J15 non commencé.
+
+## Jour 15 — Novembre 2043
+- Henri et Nicolas plantent sept plants vivants au refuge et sèment partiellement fèves et épinards de Rosa.
+- Tugay et David : six modules solaires visibles sur un toit, deux paraissent fissurés; aucun panneau pris. Carnet, ancien multimètre et câble retrouvés dans une annexe.
+- Kübra rapporte 30 L d'eau brute; Élise en traite 25 (24 L après pertes). Après 18 L consommés, solde ~53 L traités et 5 L bruts. Bois relativement sec ~7 kg, humide ~22 kg.
+- Sophie et Marianne rapportent trois conserves et des haricots à contrôler, une marmite inox ~8 L, une paire de gants. Quatorze conserves récentes encore à vérifier.
+- Marc renforce le chariot artisanal, essai court avec ~35 kg réussi, endurance inconnue. Aucun blessé, jet ni équipement solaire en service. Fin 19 h 30.

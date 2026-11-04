@@ -1,0 +1,12 @@
+# Chapitre 26 — À la recherche de l'énergie
+**Jour 15, novembre 2043, 07 h 15 à 19 h 30.**
+
+Tugay distribue les missions. Henri et Nicolas préparent les espaces communs et y plantent deux cassissiers, trois framboisiers et deux touffes de ciboulette revenus de la pépinière. Ils sèment une partie des graines de fèves et d'épinards obtenues de Rosa, gardant une petite réserve de chaque enveloppe. Le temps est frais, la reprise et la germination sont incertaines, aucune récolte.
+
+Tugay et David marchent jusqu'à un bâtiment technique dont les panneaux avaient été aperçus au J13. Depuis le sol, ils voient six modules sur le toit, dont deux paraissent fissurés; quatre semblent en meilleur état à distance. Ils n'y accèdent pas et ne confirment aucune production électrique. Dans une annexe ouverte et manifestement délaissée, ils rapportent un ancien multimètre non testé, du câble isolé non raccordé d'environ sept mètres et un carnet/schéma d'entretien partiellement lisible. Un local technique reste fermé. Des traces près d'une entrée suggèrent des passages dont les auteurs sont inconnus.
+
+Kübra utilise l'ancien chariot de courses pour ramener trente litres d'eau brute du ruisseau. Élise en traite vingt-cinq litres et récupère environ vingt-quatre litres après pertes. Avec dix-huit litres consommés par le groupe, le bilan est d'environ cinquante-trois litres d'eau traitée et cinq litres bruts séparés; la qualité chimique reste inconnue. La chauffe et la cuisine utilisent environ cinq kilogrammes de bois relativement sec, laissant sept kilogrammes secs, vingt-deux humides et douze virgule cinq kilogrammes de charbon recensé.
+
+Sophie et Marianne partent avec deux sacs de tissu renforcés explorer un quartier résidentiel inconnu. Elles rapportent trois conserves et environ 800 grammes de haricots secs sous bocal fermé à vérifier, une marmite en inox d'environ huit litres à nettoyer et une paire de gants. Le nombre de conserves issues de fouilles récentes en attente de contrôle atteint quatorze. Une fenêtre entretenue peut indiquer une présence humaine, mais aucun contact n'est établi.
+
+Marc renforce le chariot en bois et poursuit ses rondes. Un essai d'environ trente-cinq kilogrammes sur une courte distance en cour réussit; la résistance à long terme n'est pas établie. Au dîner, les équipes partagent leurs découvertes. Aucun panneau n'est rapporté, aucune nouvelle récolte, aucune blessure, aucun conflit ni jet. Le jour 15 s'achève vers 19 h 30; jour 16 non commencé.

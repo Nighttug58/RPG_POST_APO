@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin du jour 14, novembre 2043; eau et chariot mis à jour, nourriture récente encore non vérifiée",
+  "reference": "Fin J15 19 h 30, eau/bois, jardins plantés, second chariot renforcé, exploration solaire et trouvailles alimentaires non vérifiées",
   "objets": [
     {
       "id": "bidon20",
@@ -372,11 +372,11 @@
     {
       "id": "lot-035",
       "nom": "Paire de gants de travail",
-      "quantite": 3,
+      "quantite": 4,
       "masse_unitaire_kg": null,
       "categorie": "outils",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "1 ancienne + 2 paires récupérées au jour 7; état à contrôler"
+      "etat": "3 paires précédentes + 1 paire récupérée par Sophie et Marianne J15; nettoyage/état à contrôler"
     },
     {
       "id": "lot-036",
@@ -1005,8 +1005,8 @@
       "quantite": 2,
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
-      "emplacement": "stock communautaire B/C",
-      "etat": "Récupérés J13 à la pépinière; reprise après transplantation inconnue"
+      "emplacement": "parcelles communes du refuge B/C",
+      "etat": "Plantés par Henri et Nicolas au J15, reprise non encore confirmée"
     },
     {
       "id": "lot-106",
@@ -1014,8 +1014,8 @@
       "quantite": 3,
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
-      "emplacement": "stock communautaire B/C",
-      "etat": "Récupérés J13 à la pépinière; reprise après transplantation inconnue"
+      "emplacement": "parcelles communes du refuge B/C",
+      "etat": "Plantés par Henri et Nicolas au J15, reprise non encore confirmée"
     },
     {
       "id": "lot-107",
@@ -1023,8 +1023,8 @@
       "quantite": 2,
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
-      "emplacement": "stock communautaire B/C",
-      "etat": "Récupérées J13 à la pépinière; reprise inconnue"
+      "emplacement": "parcelles communes du refuge B/C",
+      "etat": "Plantés par Henri et Nicolas au J15, reprise non encore confirmée"
     },
     {
       "id": "lot-108",
@@ -1105,7 +1105,7 @@
       "masse_unitaire_kg": null,
       "categorie": "transport",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Assemblé J14 par Marc et David, déplacement en cour avec ~20 kg réussi; charge sur long trajet non certifiée"
+      "etat": "Renforcé par Marc J15; charge ~35 kg déplacée sur courte distance en cour, résistance en terrain irrégulier ou au long cours non vérifiée"
     },
     {
       "id": "lot-117",
@@ -1114,7 +1114,7 @@
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Don volontaire de Rosa J14 en échange d'une coopération agricole future; semences issues de cultures récentes, germination pas encore testée"
+      "etat": "Enveloppe entamée J15 : semis d'une partie, reste conservé; quantité/viabilité non certifiées"
     },
     {
       "id": "lot-118",
@@ -1123,14 +1123,50 @@
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Don volontaire de Rosa J14 en échange d'une coopération agricole future; semences issues de cultures récentes, germination pas encore testée"
+      "etat": "Enveloppe entamée J15 : semis d'une partie, reste conservé; quantité/viabilité non certifiées"
+    },
+    {
+      "id": "lot-119",
+      "nom": "Ancien multimètre analogique",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Retrouvé dans une annexe de bâtiment technique J15; fonctionnement inconnu"
+    },
+    {
+      "id": "lot-120",
+      "nom": "Câble électrique isolé non raccordé, longueur approximative 7 m",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupéré J15, état de l'isolant et sécurité électrique non vérifiés"
+    },
+    {
+      "id": "lot-121",
+      "nom": "Carnet partiellement lisible et schéma d'une ancienne installation photovoltaïque",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "documentation",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Retrouvé J15, informations à comparer avec l'installation réelle"
+    },
+    {
+      "id": "lot-122",
+      "nom": "Marmite inox environ 8 L",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupérée par Sophie et Marianne J15; nettoyage et contrôle avant usage"
     }
   ],
   "consommables": {
-    "eau_potable_l": 47,
+    "eau_potable_l": 53,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "Fin J14: ~57 L traités au départ + ~6 L récupérés après traitement des 7 L bruts - ~16 L consommés = ~47 L d'eau traitée. Qualité chimique du ruisseau non vérifiée.",
+    "eau_statu": "J15 : début ~47 L traités + ~24 L récupérés après chauffe de 25 L bruts - ~18 L consommés (groupe) = ~53 L traités. Qualité chimique du ruisseau inconnue, potabilité non certifiée.",
     "charbon_disponible_kg": 12.5,
     "charbon_dernier_comptage_kg": 12.5,
     "charbon_dernier_comptage_jour": 13,
@@ -1161,10 +1197,10 @@
       "confiture_g": 150,
       "sauce_tomate_bocaux": 1,
       "legumes_henri": "Restes du don jour 4 non mesurés",
-      "attention": "Dernier recomptage global J9, consommations J10–J13 non consolidées. 6 conserves J9 + 3 J11 + 2 J13 à examiner, non intégrées au stock jugé disponible. Le seul aspect extérieur ne garantit pas la sécurité alimentaire."
+      "attention": "Dernier recomptage général J9, consommations J10–J15 non consolidées. En attente de contrôle : 6 conserves J9 + 3 J11 + 2 J13 + 3 J15 = 14 conserves, et environ 0,8 kg haricots secs trouvés J15, plus autres apports anciens à examiner. Aucune garantie de sécurité des aliments par simple aspect."
     },
-    "eau_brute_l": 0,
-    "eau_brute_statu": "7 L au départ J14, traités thermiquement par Élise, environ 6 L récupérés; 0 L bruts à la fin, aucune collecte nouvelle.",
+    "eau_brute_l": 5,
+    "eau_brute_statu": "Kübra ramène 30 L d'eau brute en chariot J15. Élise traite 25 L, reste ~5 L bruts stockés séparément des volumes traités.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -1192,7 +1228,7 @@
       "etat": "Lot J11 mesuré approximativement J12"
     },
     "bois_humide_a_secher_kg": 22,
-    "bois_sec_disponible_kg_estime": 12,
+    "bois_sec_disponible_kg_estime": 7,
     "bois_collecte_nocturne": {
       "jour": 11,
       "debut": "19:30",
@@ -1239,10 +1275,10 @@
       "etat": "Trouvées par Sophie et Marianne dans des logements paraissant désertés; isolées; sécurité non certifiée"
     },
     "projet_chariot_secondaire": {
-      "jour": 14,
-      "etat": "Assemblé par Marc et David, fonctionnel au test dans la cour; capacité longue durée et sur terrains irréguliers non vérifiée",
+      "jour": 15,
+      "etat": "Second chariot en bois renforcé par Marc, charge estimée ~35 kg déplacée lors d'un court essai sur sol régulier. Utilisable mais endurance et capacité en terrain accidenté non certifiées.",
       "roues_recuperees": 2,
-      "charge_cour_testee_kg_estime": 20
+      "charge_cour_testee_kg_estime": 35
     },
     "projet_atelier_j13": {
       "etat": "Arc assemblé, Tugay en revendique fiabilité et portée 50–70 m; aucune mesure indépendante, aucun tir ni usage effectué lors de la sortie forestière J14. Aucun gibier ramené."
@@ -1253,7 +1289,30 @@
       "enveloppes_epinards": 1,
       "germination_confirmee": false,
       "provenance": "Rosa, La Sallaz",
-      "conditions": "Henri aidera les jardiniers de La Sallaz; pas d'adhésion ni de partage de stock"
+      "etat": "Deux petites enveloppes désormais entamées J15 : une partie de chaque lot semée, petite réserve conservée, quantité de graines non chiffrée."
+    },
+    "bois_consomme_j15_kg_estime": 5,
+    "denrees_recuperees_j15_a_verifier": {
+      "jour": 15,
+      "conserves_non_verifiees": 3,
+      "haricots_secs_bocal_kg_non_verifie": 0.8,
+      "etat": "Sophie et Marianne, secteur résidentiel non visité auparavant. Séparé des aliments consommables validés; emballages et conservation à évaluer."
+    },
+    "piste_solaire_j15": {
+      "modules_visibles_depuis_sol": 6,
+      "visuellement_fissures": 2,
+      "visuellement_entiers": 4,
+      "modules_recuperes": 0,
+      "etat": "Reconnaissance extérieure du bâtiment technique par Tugay et David J15; état électrique, propriété, câblage, puissance et possibilité de récupération inconnus. Traces de passage près d'une entrée, origine inconnue. Carnet partiellement lisible rapporté."
+    },
+    "jardins_j15": {
+      "cassissiers_installes": 2,
+      "framboisiers_installes": 3,
+      "touffes_ciboulette_installees": 2,
+      "semences_rosa_feves": "partiellement semées",
+      "semences_rosa_epinards": "partiellement semées",
+      "reprise_confirmee": false,
+      "levee_confirmee": false
     }
   },
   "capacites": {
@@ -1273,5 +1332,5 @@
     "Caisse à outils lourde",
     "Radio hors service"
   ],
-  "notes": "Fin J14: ~47 L eau traitée, 0 L brute, qualité chimique inconnue. Bois sec ~12 kg, humide ~22 kg, charbon ~12,5 kg inchangé. Un second chariot artisanal en bois à deux roues de vélo est roulant après court essai avec environ 20 kg; les roues et planches utilisées ne restent pas libres dans l'inventaire. Rosa a donné deux petites enveloppes (fèves et épinards), germination incertaine. Aucune viande ni capture au J14. Onze conserves des jours 9, 11 et 13 en attente de contrôle, dernier comptage global J9 non reconsolidé."
+  "notes": "J15 : ~53 L eau traitée, 5 L brute (qualité chimique du ruisseau non vérifiée); bois sec ~7 kg après ~5 kg consommés pour chauffe/cuisine, bois humide ~22 kg; charbon ~12,5 kg inchangé. Henri/Nicolas installent 7 plants vivants, sèment une partie des deux enveloppes de Rosa, en conservent une petite réserve; aucune levée ou reprise garantie. Tugay/David observent depuis le sol six modules solaires potentiels, deux fissurés, quatre visuellement intacts, aucun acquis; rapportent documentation, multimètre non testé et câble. Sophie/Marianne : 3 conserves + 0,8 kg haricots secs fermés à vérifier, marmite 8 L, gants; nouvelles conserves non vérifiées cumulées 14. Chariot en bois renforcé, essai ~35 kg court réussi; pas de seconde collecte solaire. Aucun résultat de chasse aujourd'hui."
 }

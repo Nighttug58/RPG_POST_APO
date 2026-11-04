@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "20:00",
+    "heure": "19:30",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 14,
+    "jour_campagne": 15,
     "mois": "novembre"
   },
   "localisation": {
@@ -30,13 +30,12 @@
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Eau du ruisseau traitée thermiquement, qualité chimique non démontrée",
-      "Aucune nouvelle collecte d'eau brute J14; réserve traitée diminue",
-      "Onze conserves J9/J11/J13 en attente de contrôle, rationnement alimentaire nécessaire",
-      "Deux enveloppes de graines de Rosa, germination non garantie",
-      "Second chariot fonctionnel lors d'un court essai à charge modérée, longues distances non validées",
-      "Arc déclaré fonctionnel par Tugay, fiabilité et portée non mesurées ni validées dans la simulation",
-      "Aucune prise de chasse J14; pas de nouvelle viande"
+      "Eau du ruisseau chimiquement non vérifiée",
+      "Quatorze conserves récupérées en attente de contrôle",
+      "Semences et arbustes plantés, reprise non garantie",
+      "Panneaux solaires repérés, aucun système opérationnel",
+      "Chariot renforcé testé uniquement sur parcours court",
+      "Bois sec en diminution"
     ]
   },
   "progression": {
@@ -104,9 +103,9 @@
       "lieu-serre-rosa"
     ]
   },
-  "chapitre_actuel": "chapitre-025",
-  "derniere_scene_canonique": "recit/chapitre-025/scene-001.md",
-  "prochaine_action": "Jour 15 non commencé. J14 sortie de Tugay et Nicolas en forêt, chevreuil observé, aucun tir ni gibier rapporté; performance et fiabilité de l'arc affirmées par Tugay sans validation objective. Henri, Marianne et Kübra ont rencontré Rosa avec Claire et Adrien; 2 petites enveloppes de graines données contre futur partage de savoir-faire agricole, germination inconnue. Marc et David ont terminé un second chariot roulant, court essai ~20 kg réussi, endurance inconnue. Élise a traité les 7 L bruts (~6 L récupérés), ~16 L consommés : solde ~47 L traités, 0 brut. Bois sec ~12 kg, humide ~22 kg. Les 11 conserves à vérifier restent isolées; besoins futurs de ravitaillement.",
+  "chapitre_actuel": "chapitre-026",
+  "derniere_scene_canonique": "recit/chapitre-026/scene-001.md",
+  "prochaine_action": "Jour 16 non commencé. Eau ~53 L traitée, 5 L brute. Sept plants installés, graines de Rosa partiellement semées, germination non vérifiée. Six panneaux solaires observés dont deux fissurés, état inconnu, aucun panneau pris. Chariot renforcé testé brièvement avec ~35 kg. Trois conserves nouvelles à vérifier, 14 au total en attente. Bois sec ~7 kg, humide ~22 kg, charbon ~12,5 kg. Aucune énergie solaire opérationnelle.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -139,10 +138,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j14-2000",
-    "jour": 14,
-    "heure": "20:00",
-    "description": "Sortie forestière sans prise; rencontre de Rosa et obtention de deux enveloppes de graines; second chariot fonctionnel après essai; eau mise à jour"
+    "id": "fin-j15-1930",
+    "jour": 15,
+    "heure": "19:30",
+    "description": "Plants et semis au jardin, exploration photovoltaïque, collecte d'eau, ravitaillement, chariot renforcé"
   },
   "protocole": {
     "archives_tours_figees": 16,

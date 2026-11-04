@@ -10,6 +10,7 @@
 - [Chapitre 023 — Une journée pour souffler](chapitre-023/scene-001.md) : jour 12, repos, eau et charbon.
 - [Chapitre 024 — Les racines de demain](chapitre-024/scene-001.md) : jour 13, arbustes, second chariot et piste solaire.
 - [Chapitre 025 — La forêt et les promesses](chapitre-025/scene-001.md) : jour 14, rencontre de Rosa, second chariot, forêt sans prise.
+- [Chapitre 026 — À la recherche de l'énergie](chapitre-026/scene-001.md) : jour 15, plantations, toit solaire, ravitaillement et chariot renforcé.
 - [Journal continu](../journal/CONTINUITE.md) : déroulement par journée, inventaires, faits et pistes.
 
 **Mode en vigueur :** narration continue avec missions parallèles et décisions libres; plus de tour par tour.

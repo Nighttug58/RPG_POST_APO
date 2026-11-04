@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 14
+# Registre des lieux — connus fin du jour 15
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -28,3 +28,6 @@
 | lieu-toit-solaire-repere | Toit d'un bâtiment technique repéré sur le trajet de David | Panneaux rectangulaires semblant photovoltaïques vus de loin J13; état, usage et propriétaire non vérifiés, aucune récupération |
 
 | lieu-serre-rosa | Serre cultivée par Rosa à La Sallaz | Visite J14 de Henri, Marianne et Kübra avec Claire et Adrien; deux enveloppes de semences remises volontairement |
+
+| lieu-annexe-solaire | Annexe d'un ancien bâtiment technique à panneaux | Visitée J15 par Tugay et David, ouverte et délaissée; multimètre non testé, câble et carnet de maintenance récupérés; six modules visibles depuis le sol, deux paraissent fissurés; local électrique fermé, statut de propriété inconnu |
+| lieu-nouveau-secteur-residentiel | Secteur résidentiel encore inexploré jusqu'au J15 | Sophie et Marianne y trouvent 3 conserves et des haricots à vérifier, marmite et gants; une fenêtre entretenue laisse soupçonner des résidents non rencontrés |
