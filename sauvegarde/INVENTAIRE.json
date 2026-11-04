@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin J20 19 h 15 : quatre panneaux solaires ramenés, viande fumée 34,6 kg pesée, vivres triés et source exploitée",
+  "reference": "Fin J21 à 19 h : pacte alimentaire simplifié, troc de 10 kg de viande, bois, transport renforcé, quatre panneaux opérationnels individuellement",
   "objets": [
     {
       "id": "bidon20",
@@ -452,12 +452,13 @@
     },
     {
       "id": "lot-044",
-      "nom": "Sacs à dos",
+      "nom": "Sacs à dos agrandis et renforcés par Marianne",
       "quantite": 2,
       "masse_unitaire_kg": null,
       "categorie": "transport",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "à contrôler avant usage"
+      "etat": "Deux sacs à dos réaménagés J21 avec tissus et sangles récupérés, grand volume, résistance nettement accrue ; environ 45 L de rangement chacun.",
+      "capacite_unitaire_l": 45
     },
     {
       "id": "lot-045",
@@ -866,12 +867,13 @@
     },
     {
       "id": "lot-089",
-      "nom": "Sacs artisanaux en tissu renforcé",
+      "nom": "Grands sacs artisanaux renforcés par Marianne",
       "quantite": 3,
       "masse_unitaire_kg": null,
       "categorie": "transport",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Récupération textile et confection collective J9; port de charges légères"
+      "etat": "Trois sacs en tissu retransformés J21 à partir de tissus solides des maisons délaissées, ~30 L de rangement chacun, résistance accrue.",
+      "capacite_unitaire_l": 30
     },
     {
       "id": "lot-090",
@@ -961,7 +963,7 @@
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Antérieurs à la Rupture; germination inconnue, non considérés comme cultures viables"
+      "etat": "Cinq sachets de pépinière anciens mais totalement viables en canon J21 ; plantables lorsque saison adaptée."
     },
     {
       "id": "lot-101",
@@ -1105,7 +1107,7 @@
       "masse_unitaire_kg": null,
       "categorie": "transport",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Renforcé par Marc J15; charge ~35 kg déplacée sur courte distance en cour, résistance en terrain irrégulier ou au long cours non vérifiée"
+      "etat": "Renforcé et pneus remis en état J21 par Marc/Nicolas avec pièces disponibles, essai de cour avec ~75 kg réussi ; deux roues d'origine toujours intégrées."
     },
     {
       "id": "lot-117",
@@ -1114,7 +1116,7 @@
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Enveloppe entamée J15 : semis d'une partie, reste conservé; quantité/viabilité non certifiées"
+      "etat": "Semences de fèves viables, enveloppe partiellement semée J15, reste conservé pour la bonne saison."
     },
     {
       "id": "lot-118",
@@ -1123,7 +1125,7 @@
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Enveloppe entamée J15 : semis d'une partie, reste conservé; quantité/viabilité non certifiées"
+      "etat": "Semences d'épinards viables, enveloppe partiellement semée J15, reste conservé pour la bonne saison."
     },
     {
       "id": "lot-119",
@@ -1184,11 +1186,11 @@
     {
       "id": "lot-125",
       "nom": "Conserves anciennes récupérées aux villas, non vérifiées",
-      "quantite": 7,
+      "quantite": 13,
       "masse_unitaire_kg": null,
       "categorie": "alimentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "13 rapportées J18, 6 écartées après examen visuel par Marianne J20 ; 7 emballages paraissent acceptables mais conservation alimentaire non validée."
+      "etat": "Les 13 conserves rapportées des villas sont toutes consommables selon les règles de jeu simplifiées J21, dont les six auparavant mises de côté."
     },
     {
       "id": "lot-126",
@@ -1197,7 +1199,7 @@
       "masse_unitaire_kg": 2,
       "categorie": "alimentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "≈2 kg récupérés aux villas, intégrité/stockage non contrôlés."
+      "etat": "Denrée consommable en canon à partir du jour 21 (conventions de jeu simplifiées), stock toujours détenu sauf quantité utilisée précédemment."
     },
     {
       "id": "lot-127",
@@ -1206,7 +1208,7 @@
       "masse_unitaire_kg": 0.6,
       "categorie": "alimentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Lot initial ~0,7 kg de sel des villas, environ 0,1 kg affecté aux grillades/assaisonnement J19 ; reste approximatif ~0,6 kg en emballage contrôlé."
+      "etat": "Denrée consommable en canon à partir du jour 21 (conventions de jeu simplifiées), stock toujours détenu sauf quantité utilisée précédemment."
     },
     {
       "id": "lot-128",
@@ -1215,7 +1217,7 @@
       "masse_unitaire_kg": null,
       "categorie": "alimentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Fermés mais état/conservation à examiner avant usage."
+      "etat": "Denrée consommable en canon à partir du jour 21 (conventions de jeu simplifiées), stock toujours détenu sauf quantité utilisée précédemment."
     },
     {
       "id": "lot-129",
@@ -1284,10 +1286,10 @@
       "id": "lot-136",
       "nom": "Lot de viande de cerf fumée J19–J20, pesé",
       "quantite": 1,
-      "masse_unitaire_kg": 34.6,
+      "masse_unitaire_kg": 24.6,
       "categorie": "alimentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Marianne a pesé ~34,6 kg après cinq passages supplémentaires de fumage J19–J20 ; les 3,4 kg grillés et consommés J19 sont exclus. Conservabilité prolongée non certifiée sans contrôle des conditions de stockage."
+      "etat": "~34,6 kg de viande fumée durablement conservable J20, moins 1,5 kg cadeaux Rosa/Claire/Adrien et 8,5 kg troc J21 => ~24,6 kg restant."
     },
     {
       "id": "lot-137",
@@ -1300,19 +1302,82 @@
     },
     {
       "id": "lot-138",
-      "nom": "Panneaux photovoltaïques récupérés, apparemment intacts",
+      "nom": "Panneaux photovoltaïques fonctionnels de récupération",
       "quantite": 4,
       "masse_unitaire_kg": null,
       "categorie": "energie",
       "emplacement": "stock communautaire, bâtiment C, à l'abri",
-      "etat": "Rapportés par Tugay et David J20 en quatre transports après une première visite de préparation ; 4 panneaux extérieurement non fissurés, non testés, non raccordés, rendement et compatibilité inconnus."
+      "etat": "Les quatre modules rapportés J20 ont été examinés par David J21 et déclarés parfaitement fonctionnels, positionnés au soleil près du bâtiment C. Aucun système électrique de camp opérationnel sans batterie domestique et accessoires."
+    },
+    {
+      "id": "lot-139",
+      "nom": "Pommes de terre — troc La Sallaz J21",
+      "quantite": 1,
+      "masse_unitaire_kg": 6,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Six kg obtenus contre viande fumée, consommables."
+    },
+    {
+      "id": "lot-140",
+      "nom": "Carottes — troc La Sallaz J21",
+      "quantite": 1,
+      "masse_unitaire_kg": 3,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Trois kg, consommables."
+    },
+    {
+      "id": "lot-141",
+      "nom": "Navets — troc La Sallaz J21",
+      "quantite": 1,
+      "masse_unitaire_kg": 2,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Deux kg, consommables."
+    },
+    {
+      "id": "lot-142",
+      "nom": "Oignons — troc La Sallaz J21",
+      "quantite": 1,
+      "masse_unitaire_kg": 1,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Un kg, consommables."
+    },
+    {
+      "id": "lot-143",
+      "nom": "Haricots secs — troc La Sallaz J21",
+      "quantite": 1,
+      "masse_unitaire_kg": 2,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Deux kg, consommables."
+    },
+    {
+      "id": "lot-144",
+      "nom": "Lentilles sèches — troc La Sallaz J21",
+      "quantite": 1,
+      "masse_unitaire_kg": 1,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Un kg, consommables."
+    },
+    {
+      "id": "lot-145",
+      "nom": "Enveloppes de semences viables variées — Rosa J21",
+      "quantite": 10,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Une enveloppe par variété : carottes, choux, pois, haricots, blettes, laitues, radis, oignons, courges et épinards ; toutes viables, semis selon saison."
     }
   ],
   "consommables": {
-    "eau_potable_l": 82,
+    "eau_potable_l": 62,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "J20 : 59 L traités connus début J20 + ~43 L après traitement de ~45 L bruts − ~20 L consommés = ~82 L traités au refuge. Reliquat inconnu des 30 L emportés en mission J16–18 non ajouté ; pureté chimique de la nouvelle source non certifiée.",
+    "eau_statu": "Source souterraine proche du refuge : eau pure en canon à partir de J21. ~82 L au début de J21 − ~20 L consommés = ~62 L d'eau prête à l'usage, sans collecte supplémentaire. Le reliquat ancien des villas n'est pas compté.",
     "charbon_disponible_kg": 14.4,
     "charbon_dernier_comptage_kg": 14.4,
     "charbon_dernier_comptage_jour": 18,
@@ -1329,7 +1394,7 @@
       "pompe": "inactive"
     },
     "denrees_dernier_comptage": {
-      "jour": 20,
+      "jour": 21,
       "conserves_total": 12,
       "riz_pates_kg_estime": 3.4,
       "autres_cereales_flocons_semoule_kg_estime": 1.3,
@@ -1343,30 +1408,32 @@
       "confiture_g": 150,
       "sauce_tomate_bocaux": 1,
       "legumes_henri": "Restes du don jour 4 non mesurés",
-      "attention": "Recomptage visuel J20 : 12 conserves physiquement retrouvées dans ancien stock (les écarts avec les 25 comptées J9 ne sont pas entièrement expliqués), 21 conserves de fouilles récentes visuellement acceptables mais à contrôler, 6 écartées. Viande fumée pesée ~34,6 kg (sans garantie de conservation prolongée), ~3,4 kg grillés J19. Autres céréales/denrées triées qualitativement sans total fiable rétabli. Qualité sanitaire des anciennes denrées indéterminée.",
-      "conserves_avertissement": "12 conserves recensées physiquement dans l'ancien stock ; ajout séparé de 21 récentes en attente, non validées comme consommables."
+      "attention": "Inventaire J21 simplifié par convention : 39 conserves comestibles, 24,6 kg de viande fumée durablement conservable et graines viables. Les légumes/haricots/lentilles du troc J21 sont comptés séparément des anciens stocks dont certaines quantités historiques restent non mesurées.",
+      "conserves_avertissement": "12 anciennes conserves en stock courant + 27 récupérées lors des raids = 39 comestibles au J21."
     },
     "eau_brute_l": 25,
-    "eau_brute_statu": "J20 : ~10 L bruts au départ + ~60 L collectés à la résurgence en plusieurs tournées − ~45 L traités = ~25 L bruts séparés.",
+    "eau_brute_statu": "~25 L stockés séparément pour la préparation habituelle ; source pure confirmée dans les conventions de jeu.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
       "conserves_apparence_acceptable": 3,
       "conserves_ecartees": 1,
-      "etat": "3 intégrées au comptage visuel J9, 1 écartée, sécurité sanitaire non certifiée."
+      "etat": "Contenu restant du stock considéré comestible conformément aux conventions J21 ; anciens écarts historiques ne créent pas de quantité supplémentaire."
     },
     "denrees_recuperees_j9_a_verifier": {
       "jour": 9,
-      "conserves_non_verifiees": 6,
+      "conserves_non_verifiees": 0,
       "legumineuses_seches_kg_non_verifie": 1.5,
       "sel_emballe_kg": 0.5,
       "pots_de_miel_fermes": 2,
-      "etat": "Apport de La Sallaz, emballages à examiner, pas intégré aux réserves consommables comptées."
+      "etat": "Conserves et autres denrées de ce lot comestibles selon les conventions du J21.",
+      "conserves_comestibles": 6
     },
     "denrees_recuperees_j11_a_verifier": {
       "jour": 11,
-      "conserves_non_verifiees": 3,
-      "etat": "Ramenées par David et Sophie d'un local annexe apparemment délaissé aux Boveresses; emballages et sécurité à vérifier; non comptées dans les denrées sûres."
+      "conserves_non_verifiees": 0,
+      "etat": "Conserves et autres denrées de ce lot comestibles selon les conventions du J21.",
+      "conserves_comestibles": 3
     },
     "charbon_j11": {
       "jour": 11,
@@ -1374,7 +1441,7 @@
       "charbon_obtenu_kg": 2.2,
       "etat": "Lot J11 mesuré approximativement J12"
     },
-    "bois_humide_a_secher_kg": 33,
+    "bois_humide_a_secher_kg": 49,
     "bois_sec_disponible_kg_estime": null,
     "bois_collecte_nocturne": {
       "jour": 11,
@@ -1418,8 +1485,9 @@
     },
     "denrees_recuperees_j13_a_verifier": {
       "jour": 13,
-      "conserves_non_verifiees": 2,
-      "etat": "Trouvées par Sophie et Marianne dans des logements paraissant désertés; isolées; sécurité non certifiée"
+      "conserves_non_verifiees": 0,
+      "etat": "Conserves et autres denrées de ce lot comestibles selon les conventions du J21.",
+      "conserves_comestibles": 2
     },
     "projet_chariot_secondaire": {
       "jour": 15,
@@ -1434,16 +1502,17 @@
     "semences_rosa_j14": {
       "enveloppes_feves": 1,
       "enveloppes_epinards": 1,
-      "germination_confirmee": false,
+      "germination_confirmee": true,
       "provenance": "Rosa, La Sallaz",
-      "etat": "Deux petites enveloppes désormais entamées J15 : une partie de chaque lot semée, petite réserve conservée, quantité de graines non chiffrée."
+      "etat": "Semences viables selon conventions J21, sachets entamés J15 avec réserve conservée."
     },
     "bois_consomme_j15_kg_estime": 5,
     "denrees_recuperees_j15_a_verifier": {
       "jour": 15,
-      "conserves_non_verifiees": 3,
+      "conserves_non_verifiees": 0,
       "haricots_secs_bocal_kg_non_verifie": 0.8,
-      "etat": "Sophie et Marianne, secteur résidentiel non visité auparavant. Séparé des aliments consommables validés; emballages et conservation à évaluer."
+      "etat": "Conserves et autres denrées de ce lot comestibles selon les conventions du J21.",
+      "conserves_comestibles": 3
     },
     "piste_solaire_j15": {
       "modules_visibles_depuis_sol": 6,
@@ -1459,7 +1528,8 @@
       "semences_rosa_feves": "partiellement semées",
       "semences_rosa_epinards": "partiellement semées",
       "reprise_confirmee": false,
-      "levee_confirmee": false
+      "levee_confirmee": null,
+      "etat_semences": "Tous les sachets de graines de la campagne sont viables ; calendrier de plantation selon saison."
     },
     "charbon_j16_j18": {
       "periode": "J16–J18",
@@ -1484,14 +1554,16 @@
         17,
         18
       ],
-      "conserves_non_verifiees": 7,
+      "conserves_non_verifiees": 0,
       "lentilles_seches_emballees_kg_non_verifie": 2,
       "sel_emballe_kg_non_verifie": 0.7,
       "pots_miel_fermes_non_verifies": 2,
-      "etat": "Sur 13 conserves rapportées des villas, Marianne a écarté 6 aux emballages détériorés J20 ; 7 restent visuellement acceptables mais non certifiées, avec les 14 d'autres sorties = 21 en attente.",
-      "conserves_ecartees_j20": 6
+      "etat": "Conventions de jeu J21 : 13 conserves villas toutes comestibles ; six mises de côté J20 réintégrées. Aucun tri sanitaire supplémentaire.",
+      "conserves_ecartees_j20": 0,
+      "conserves_comestibles": 13,
+      "lentilles_viables": true
     },
-    "conserves_recentes_non_verifiees_total": 21,
+    "conserves_recentes_non_verifiees_total": 0,
     "vivres_expedition_j16_j18": {
       "jour_depart": 16,
       "jour_retour": 18,
@@ -1517,8 +1589,8 @@
       "eau_brute_collectee_l_estime": 30,
       "eau_brute_traitee_l_estime": 25,
       "eau_traitee_recuperee_l_estime": 24,
-      "qualite_chimique_confirmee": false,
-      "etat": "Aspect très clair et origine souterraine; traitement continué en attendant vérification."
+      "qualite_chimique_confirmee": true,
+      "etat": "Résurgence pure en canon du jeu à partir de J21 ; eau claire, immédiatement accessible par un trajet de 5 min du refuge."
     },
     "gibier_j19": {
       "type": "grand cerf adulte",
@@ -1526,9 +1598,9 @@
       "abattu_par": "Tugay",
       "nuitee_sur_place": true,
       "viande_recuperee_kg": null,
-      "viande_fumee_kg": 34.6,
-      "viande_durablement_conservable_kg": null,
-      "etat": "J19 dîner ~3,4 kg grillés et salés. Trois charges supplémentaires de fumage le soir puis deux dernières surveillées par Marc/Nicolas la nuit. J20 Marianne pèse ~34,6 kg fumés (hors grillades) ; absence de contrôle permettant de certifier une longue conservation sans froid."
+      "viande_fumee_kg": 24.6,
+      "viande_durablement_conservable_kg": 24.6,
+      "etat": "Le fumoir du village conserve durablement la viande selon conventions de jeu. 34,6 kg pesés J20 moins 10 kg donnés/échangés J21 = 24,6 kg restants."
     },
     "bois_j19": {
       "bois_sec_consomme_kg": null,
@@ -1541,16 +1613,17 @@
       "traite_recupere_l_estime": 43,
       "consommation_groupe_l_estime": 20,
       "source_proche": "5 minutes à pied",
-      "analyses_chimiques_confirmees": false
+      "analyses_chimiques_confirmees": true,
+      "source_pure_en_canon": true
     },
     "grillades_j19": {
       "viande_consomme_kg_estime": 3.4,
       "sel_utilise_kg_estime": 0.1,
       "etat": "Dîner collectif de neuf personnes après la prise de cerf, quantité approximative ; 3,4 kg ne sont pas inclus dans les 34,6 kg de viande fumée restante."
     },
-    "viande_fumee_lot_j20_kg": 34.6,
-    "viande_fumee_stockage_valide_longue_duree": false,
-    "conserves_recentes_ecartees_j20": 6,
+    "viande_fumee_lot_j20_kg": 24.6,
+    "viande_fumee_stockage_valide_longue_duree": true,
+    "conserves_recentes_ecartees_j20": 0,
     "conserves_ancien_stock_recomptees_j20": 12,
     "fumoir_j20": {
       "nouvelles_charges_soir_j19": 3,
@@ -1576,13 +1649,67 @@
       "modules_fissures_restes": 2,
       "allers_retours": 5,
       "visites_de_transport": 4,
-      "fonctionnement_valide": false,
+      "fonctionnement_valide": true,
       "raccordement_operationnel": false,
       "coordination": "David (compétences électriques déclarées)",
-      "etat": "Premier trajet de préparation, puis 4 trajets de transport un module à la fois ; stockage au refuge. Statut juridique du bâtiment et fiabilité des modules non vérifiés."
+      "etat": "Quatre panneaux rapportés J20. David confirme J21 que les quatre sont parfaitement fonctionnels ; placés sur supports dans une zone très ensoleillée. Batterie domestique de stockage et accessoires manquants, pas encore de courant disponible au camp."
     },
     "combustible_j20": {
       "etat": "Fumage nocturne, cuisine et eau traitée mobilisent du bois, quantité utilisée non mesurée, stock sec final inconnu. Dernier charbon recensé 14,4 kg avant consommations non documentées."
+    },
+    "troc_sallaz_j21": {
+      "viande_fumee_depart_kg": 10,
+      "cadeaux": {
+        "Rosa": 0.5,
+        "Claire": 0.5,
+        "Adrien": 0.5
+      },
+      "viande_echangee_kg": 8.5,
+      "recus": {
+        "pommes_de_terre_kg": 6,
+        "carottes_kg": 3,
+        "navets_kg": 2,
+        "oignons_kg": 1,
+        "haricots_secs_kg": 2,
+        "lentilles_seches_kg": 1,
+        "enveloppes_graines_viables": 10
+      },
+      "accord_chasse": "Envoi envisagé de deux volontaires de La Sallaz pour chasses communes et partage équitable, pas encore assignés."
+    },
+    "conserves_recentes_comestibles_total": 27,
+    "conserves_total_comestibles": 39,
+    "chariot_j21": {
+      "jour": 21,
+      "charge_essai_kg_estime": 75,
+      "pneus_repares": true,
+      "structure_renforcee": true,
+      "etat": "Marc/Nicolas améliorent et réparent le chariot artisanal à roues de vélo, essai cour ~75 kg réussi. Deux chariots au total, aucune nouvelle roue comptée."
+    },
+    "bois_j21": {
+      "relativement_sec_collecte_kg": 24,
+      "humide_collecte_kg": 16,
+      "etat": "Collecte de Kübra, Sophie et Élise avec chariot de courses ; nouveaux apports séparés des anciens stocks secs non pesés."
+    },
+    "solaire_j21": {
+      "panneaux_parfaitement_fonctionnels": 4,
+      "positionnes_au_soleil": 4,
+      "production_alimentant_village": false,
+      "batterie_de_stockage_acquise": false,
+      "schemas_generaux_prepares": true,
+      "objectif": "Retrouver batterie domestique solaire, possible dans local technique fermé du site initial."
+    },
+    "semences_toutes_viables_j21": true,
+    "conventions_simples_j21": {
+      "eau_source_pure": true,
+      "viande_fumee_stable_durablement": true,
+      "conserves_toutes_comestibles": true,
+      "graines_toutes_viables": true
+    },
+    "viande_fumee_mouvements_j21": {
+      "stock_debut_kg": 34.6,
+      "cadeaux_kg": 1.5,
+      "echange_kg": 8.5,
+      "stock_fin_kg": 24.6
     }
   },
   "capacites": {
@@ -1604,5 +1731,5 @@
     "Équipement électrique ancien et volumineux dans le quartier des villas (J17), repéré mais non transporté",
     "Plusieurs meubles utiles du quartier des villas (J17), repérés mais non transportés"
   ],
-  "notes": "Fin J20 : dîner J19 ~3,4 kg de viande grillée, salée ; 3 charges fumées de plus le soir et 2 dernières la nuit par Marc/Nicolas. J20 Marianne pèse ~34,6 kg fumés restants, pas de garantie de conservation sans froid ; inventaire des denrées : 6 des 13 conserves villas écartées, 21 conserves récentes encore à contrôler (14 anciennes sorties + 7 villas), 12 conserves de vieux stock physiquement présentes, sans expliquer les consommations J10–J19. Deux nouvelles planches de cultures communes ~6 m² chacune. Tugay/David : 5 AR pour 4 modules photovoltaïques visuellement intacts, non testés ni branchés ; 2 fissurés restent sur place, état et propriété inconnus. Sophie/Kübra : ~60 L bruts de résurgence, Élise : ~45 L traités pour ~43 L récupérés, groupe ~20 L consommés => ~82 L traités et ~25 L bruts au refuge (reliquat ancien de mission inconnu). Bois sec final non mesuré, charbon dernier recensement ~14,4 kg avant usages inconnus. Pas de CI."
+  "notes": "Fin J21 : règles RPG simplifiées (source pure, viande fumée durable, conserves comestibles, graines viables). Tugay/Henri donnent 1,5 kg de viande en cadeaux à Rosa/Claire/Adrien et échangent 8,5 kg pour 15 kg légumes/légumineuses et 10 sachets de graines ; 24,6 kg de viande fumée restant. 39 conserves comestibles présentes (12 ancien stock + 27 récupérations, six boîtes mises de côté J20 réintégrées). Accord de principe chasse avec La Sallaz, deux volontaires à nommer. Kübra/Sophie/Élise rapportent +24 kg bois relativement sec et +16 kg humide (bois humide ~49 kg théorique), bois sec antérieur toujours non pesé. Marc/Nicolas renforcent chariot avec pneus remis en état, essai ~75 kg. David confirme quatre panneaux fonctionnels, les positionne au soleil, recherche future d'une batterie dans local technique fermé ; camp non électrifié. Marianne renforce deux sacs à dos (~45 L chacun) et trois sacs tissu (~30 L chacun) avec matériaux trouvés. Eau traitée prête à l'usage ~62 L après consommation estimée de 20 L J21, ~25 L en attente de préparation ordinaire."
 }

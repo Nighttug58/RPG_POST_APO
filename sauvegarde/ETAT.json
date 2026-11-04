@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "19:15",
+    "heure": "19:00",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 20,
+    "jour_campagne": 21,
     "mois": "novembre"
   },
   "localisation": {
@@ -30,13 +30,9 @@
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Quatre panneaux solaires récupérés mais non testés électriquement ni raccordés ; matériel et accès sûrs à confirmer",
-      "La propriété et l'occupation du bâtiment technique ne sont pas établies",
-      "Viande de cerf fumée ~34,6 kg, non certifiée stable pour conservation prolongée ; température de stockage non contrôlée",
-      "21 conserves récentes visuellement acceptables mais non certifiées, 6 écartées ; 12 conserves anciennes physiquement recensées",
-      "Eau résurgence chimiquement non analysée, traitement poursuivi",
-      "Stock de bois sec non quantifié malgré fumoir, eau et cuisine",
-      "Fatigue de Tugay et David (cinq trajets) ; Marc et Nicolas après surveillance nocturne"
+      "Batterie domestique et équipements nécessaires à l'alimentation solaire non encore récupérés ; installation non raccordée",
+      "Local fermé du bâtiment technique encore à explorer, statut des lieux à clarifier",
+      "Fatigue modérée du groupe après les tâches de J21, repos à organiser"
     ]
   },
   "progression": {
@@ -51,7 +47,9 @@
       "objectif-cooperation-sallaz-001",
       "objectif-boveresses-001",
       "objectif-pepiniere-001",
-      "objectif-panneaux-reperes"
+      "objectif-panneaux-reperes",
+      "objectif-batterie-stockage-solaire",
+      "objectif-chasses-cooperatives-sallaz"
     ],
     "pistes_ouvertes": [
       "piste-citerne",
@@ -69,7 +67,9 @@
       "piste-analyse-eau-resurgence",
       "piste-fumoir-viande-controle",
       "piste-installation-solaire-et-controle",
-      "piste-stockage-viande-sure"
+      "piste-stockage-viande-sure",
+      "piste-batterie-local-technique",
+      "piste-volontaires-chasse-sallaz"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -112,9 +112,9 @@
       "lieu-chasse-cerf-j19"
     ]
   },
-  "chapitre_actuel": "chapitre-029",
-  "derniere_scene_canonique": "recit/chapitre-029/scene-001.md",
-  "prochaine_action": "Jour 21 non commencé. Soir J19 : grillades ~3,4 kg de cerf salé, trois charges fumées ; Marc et Nicolas surveillent la nuit deux derniers lots, installation fonctionne. J20 : Tugay et David réalisent cinq allers-retours au bâtiment technique, dont le premier pour préparer les quatre modules et quatre pour ramener chacun un module visuellement intact. Aucun module testé/raccordé. Henri/Nicolas/Marc aménagent deux nouvelles planches communes de ~6 m² chacune avec patrouilles de Marc. Marianne pèse ~34,6 kg de viande fumée mais non certifiée stable longtemps, écarte 6 des 27 conserves récentes, 21 en attente de validation ; 12 conserves de stock ancien physiquement recensées. Sophie/Kübra collectent ~60 L bruts à la résurgence, Élise en traite 45 pour ~43 L, consommation ~20 L : ~82 L traités, ~25 L bruts. Bois sec inconnu.",
+  "chapitre_actuel": "chapitre-030",
+  "derniere_scene_canonique": "recit/chapitre-030/scene-001.md",
+  "prochaine_action": "Jour 22 non commencé. J21 Tugay/Henri donnent 0,5 kg viande fumée à Rosa, Claire, Adrien et échangent 8,5 kg contre 15 kg de légumes/légumineuses et 10 enveloppes de graines viables. Accord de principe avec Adrien pour envoi futur de deux volontaires pour des chasses et partage équitable. Viande fumée durable restante ~24,6 kg. Toutes les conserves disponibles sont comestibles : 39 au stock (12 anciennes + 27 fouilles récentes), graines viables. Kübra/Sophie/Élise rapportent ~24 kg de bois sec et ~16 kg humide. Marc/Nicolas renforcent chariot et pneus, essai ~75 kg réussi ; David confirme quatre panneaux parfaitement fonctionnels, les place au soleil avec aide, système pas encore alimenté car batterie et accessoires manquent, piste local technique. Marianne renforce 2 sacs à dos ~45 L et 3 sacs toile ~30 L. Eau source pure, ~62 L en réserve traitée + ~25 L séparés pour préparation habituelle.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -147,15 +147,22 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j20-1915",
-    "jour": 20,
-    "heure": "19:15",
-    "description": "Quatre panneaux solaires rapportés, cinq passages de fumage achevés, viande pesée, eau et nouvelles planches"
+    "id": "fin-j21-1900",
+    "jour": 21,
+    "heure": "19:00",
+    "description": "Échange réussi à La Sallaz, chariot et sacs renforcés, quatre panneaux fonctionnels, bois rapporté"
   },
   "protocole": {
     "archives_tours_figees": 16,
     "progression": "Jours/scènes/missions parallèles",
     "commits": "Sur jalons narratifs ou demande explicite, pas un commit par action",
     "menus_choix": "Non obligatoires; laisser le joueur décider librement"
+  },
+  "mode_simplifie_j21": {
+    "eau_source_pure": true,
+    "viande_fumee_conservation_durable": true,
+    "conserves_toutes_comestibles": true,
+    "graines_toutes_viables": true,
+    "notes": "Conventions narratives demandées par joueur ; éviter les réserves répétées, conserver aventures et gestion de stocks."
   }
 }

@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 20
+# Registre des lieux — connus fin du jour 21
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -34,3 +34,6 @@
 | lieu-quartier-villas-oublie | Quartier discret de grandes villas anciennement aisées | Tugay y était passé avant J16; expédition J16–J18 par cinq personnes avec deux chariots, deux nuits dans une annexe apparemment inoccupée. Matériel récupéré, équipement électrique volumineux et meubles repérés mais non transportés. Aucun contact confirmé ni vérification exhaustive des propriétés. |
 | lieu-resurgence-proche-refuge | Résurgence souterraine à ~5 min à pied du refuge | Découverte J19 par Kübra et Élise, rejoint le ruisseau ; accès bien plus court que les anciennes tournées ; aspect clair, qualité chimique à analyser, traitement maintenu |
 | lieu-chasse-cerf-j19 | Zone boisée où Tugay a trouvé un grand cerf | Sortie solitaire nocturne J18–J19, grand cerf adulte abattu ; récupéré le matin J19 en groupe avec le chariot renforcé, emplacement connu de Tugay |
+
+| lieu-sallaz-troc-j21 | Serre de Rosa et lieu de négociation à La Sallaz | J21 Tugay/Henri offrent trois cadeaux de 0,5 kg de viande fumée à Rosa, Claire, Adrien ; 8,5 kg troqués contre 15 kg de vivres et 10 enveloppes de graines ; promesse d'une future coopération de chasse avec deux volontaires à confirmer |
+| lieu-zone-solaire-refuge-c | Emplacement dégagé ensoleillé proche du bâtiment C | J21 David y fait placer les quatre panneaux fonctionnels récupérés J20 avec aide ; pas de batterie domestique ni d'alimentation du refuge en service |

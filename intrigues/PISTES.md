@@ -58,3 +58,11 @@
 - **Alimentation** : contrôle des 27 conserves récentes par Marianne, 6 villas écartées, 21 emballages encore acceptables à inspecter davantage. 12 conserves d'ancien stock trouvées physiquement, écart non expliqué depuis J9. Stock de denrées anciennes doit encore être réconcilié quantitativement.
 - **Eau** : Sophie/Kübra ~60 L bruts, Élise traite ~45 L pour ~43 L récupérés, consommation ~20 L => ~82 L traités au refuge, ~25 L bruts séparés ; qualité chimique non vérifiée.
 - **Ressources/fatigue** : bois sec final encore inconnu, besoin d'inventaire, fatigue de Tugay/David et des deux veilleurs. Jour 21 non commencé.
+
+## Jour 21 — Échanges et nouvelle règle de campagne
+- **Conventions désormais canoniques** : source pure, viande fumée durablement conservable, toute conserve retrouvée comestible, toute graine récoltée viable. Ne pas revenir sur les inquiétudes alimentaires des anciens checkpoints.
+- **La Sallaz** : cadeaux 0,5 kg fumé à chacun Rosa/Claire/Adrien, et échange 8,5 kg pour 15 kg de vivres et dix enveloppes variées viables. Stock fumé restant 24,6 kg ; 39 conserves disponibles.
+- **Chasse en partenariat** : Adrien favorable à l'idée d'envoyer deux volontaires à désigner pour les futures chasses, avec partage équitable des prises ; pas encore de mission fixée.
+- **Énergie** : David confirme 4/4 panneaux fonctionnels, placés dans un endroit ensoleillé près du refuge. Batterie domestique de stockage manque ; possible local technique fermé au bâtiment solaire. Aucun système branché.
+- **Transport** : chariot artisanal réparé/renforcé, charge courte testée ~75 kg ; sacs 2 × 45 L et 3 × 30 L améliorés par Marianne.
+- **Bois et eau** : +24 kg sec et +16 kg humide, ancien solde sec inconnu ; eau pure ~62 L prêts au refuge et ~25 L séparés ; priorité J22 libre.

@@ -203,3 +203,13 @@
 - Henri/Nicolas/Marc : deux nouvelles planches communes ~6 m² chacune, Marc maintient garde, fatigue due à la nuit de fumage.
 - Sophie/Kübra collectent ~60 L bruts à la résurgence, Élise en traite 45 pour ~43 L récupérés ; ~20 L consommés => fin J20 ~82 L traités connus et ~25 L bruts, qualité chimique non confirmée. Bois sec non inventorié.
 - Fin J20 vers 19 h 15, pas d'incident majeur signalé ; J21 non commencé.
+
+## Jour 21 — Le prix de l'abondance
+- Règles narratives simplifiées demandées par joueur : source pure, viande fumée durable, toutes conserves consommables, toutes graines viables. Les 6 boîtes écartées J20 réintégrées : 39 conserves comestibles (12 anciennes + 27 récentes).
+- Tugay et Henri rendent visite à Rosa, Claire, Adrien à La Sallaz avec 10 kg de viande fumée. Cadeaux 0,5 kg chacun (1,5 kg), échange ferme de 8,5 kg contre 15 kg de vivres (6 pommes de terre, 3 carottes, 2 navets, 1 oignons, 2 haricots secs, 1 lentilles) et 10 enveloppes de graines viables. Stock de viande fumée fin J21 ~24,6 kg.
+- Adrien accepte le principe de chasses communes avec partage équitable et compte consulter son groupe pour proposer deux volontaires, pas encore nommés.
+- Kübra/Sophie/Élise collectent ~24 kg bois relativement sec et ~16 kg humide ; bois sec antérieur encore non pesé.
+- Marc/Nicolas renforcent le chariot et remettent les pneus en état, essai ~75 kg réussi.
+- David confirme les quatre panneaux photovoltaïques fonctionnels et leur place ensoleillée au refuge, dessine schéma général. Batterie domestique de stockage manquante, possibilité d'en rechercher dans le local technique fermé du site, aucune installation électrique opérationnelle.
+- Marianne élargit 2 sacs à dos ~45 L et 3 sacs textiles renforcés ~30 L en récupérant des tissus.
+- Eau ~82 L prête début J21 − ~20 L consommés = ~62 L ; ~25 L en réserve séparée, source pure selon règles ; fin vers 19 h, J22 non commencé.

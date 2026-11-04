@@ -50,3 +50,11 @@
 - Laisser le joueur décider librement des actions et orientations importantes; ne pas afficher systématiquement de menus de choix A/B/C ou de bouton de validation.
 - Tenir compte de la fatigue, des ressources, de la durée du travail, des réserves et de l'incertitude. Ni succès arbitraire ni échec arbitraire. Les tests restent possibles mais ne sont pas requis pour chaque action et aucun jet non effectué n'est inventé.
 - Les sauvegardes suivent les **jalons** et les demandes explicites; distinguer stocks confirmés, estimés, consommés et en cours de production.
+
+## Conventions de jeu simplifiées — à partir du jour 21
+À la demande du joueur, la campagne privilégie désormais l'immersion, la progression et les récompenses des expéditions sans contrôles répétitifs des denrées. Ces conventions remplacent les réserves contraires dans les anciens bilans :
+- **L'eau de la résurgence proche du refuge est pure**, la collecte et le traitement ordinaire relèvent de la logistique, sans remise en doute répétée de sa qualité.
+- **La viande fumée dans le fumoir collectif se conserve longtemps.** Les 34,6 kg pesés J20 constituent un véritable stock durable, diminué seulement des consommations, dons et échanges.
+- **Les conserves trouvées sont toutes bonnes à consommer.** Les six conserves de l'expédition aux villas mises de côté J20 reviennent au stock du J21. Total présent réconcilié : 12 conserves ancien stock + 27 des récupérations récentes = **39 consommables**, avant consommations futures.
+- **Toutes les graines récupérées sont viables et plantables.** La saison peut dicter quand semer : certaines attendront le printemps, mais aucune incertitude de germination liée à l'âge n'est à imposer.
+- Les défis restent narratifs : choix d'expéditions, rencontres, négociations, temps, fatigue et disponibilité du matériel. Pas de complications techniques ou alimentaires répétées sauf demande ultérieure du joueur. Les réalisations électriques sont suivies à l'échelle du récit sans mode d'emploi pratique dangereux.
