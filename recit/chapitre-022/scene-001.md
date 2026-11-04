@@ -14,3 +14,12 @@ Au refuge, Henri, Marianne et Marc créent deux planches supplémentaires dans u
 À son retour, Tugay consacre une partie de l'après-midi à engager un nouveau lot de charbon avec le bois sec. Le rendement n'est pas mesuré et le lot ne doit pas être compté comme disponible; le précédent du jour 6 reste également non pesé. Le groupe se rassemble ensuite pour étudier le projet d'équipement de chasse. Le matériel n'est toujours pas fiable ni opérationnel et il n'y a aucune prise. Marianne évoque le fumage comme projet de conservation seulement si de la viande est obtenue plus tard. Au dîner, Henri souligne l'intérêt des deux pistes agricoles, tandis que Sophie rappelle qu'une découverte n'est pas une ressource utilisable avant contrôle.
 
 Fin à environ 19 h 30, aucune blessure et aucun jet d20. Jour 12 non joué.
+
+## Scène supplémentaire — La nuit des heures supplémentaires
+**Jour 11, environ 19 h 30–minuit.** Tugay refuse de clore la journée après le repas : il propose avec Kübra une nouvelle collecte d'eau au ruisseau pendant que les sept autres ramassent un maximum de bois dans les environs, en poursuivant jusqu'à minuit. Le groupe accepte l'effort exceptionnel malgré les réserves sur la fatigue.
+
+Avec le chariot, Tugay et Kübra empruntent dans la nuit un chemin humide et parfois glissant. Ils récupèrent environ trente litres d'eau brute et rentrent vers 21 h 30 sans incident. Les contenants sont isolés des réserves traitées.
+
+Marc veille périodiquement sur les bâtiments pendant que David, Sophie, Nicolas, Élise, Henri et Marianne rassemblent du bois tombé. Tugay et Kübra les rejoignent. Les charges importantes sont laissées aux personnes les plus aptes; la collecte, arrêtée vers 23 h 45, représente environ vingt-neuf kilos de bois relativement sec et dix-sept kilos de bois encore humide. Le bois est déposé sous abri, à distance du feu. Les lots de charbon des jours 6 et 11 ne sont toujours pas pesés; aucune production nouvelle n'est comptée.
+
+Les neuf personnes consomment approximativement quatre litres d'eau traitée supplémentaires pendant ces heures de travail, laissant environ quarante-neuf litres traités et trente litres bruts au refuge. La fatigue est sensible. Tout le monde cesse le travail à minuit pour dormir. Aucune blessure ni menace nouvelle relevée; aucun jet effectué. Le jour 12 n'est pas commencé.

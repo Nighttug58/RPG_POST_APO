@@ -69,7 +69,7 @@
   "etat_physique": {
     "sante": null,
     "blessures": [],
-    "fatigue": "Fatigue modérée au soir du J11 après reconnaissance de pépinière, port de matériel et travaux communautaires; aucune blessure nouvelle signalée.",
+    "fatigue": "Très fatigué à minuit après la journée 11 prolongée, déplacement nocturne de 30 L d'eau au chariot avec Kübra et participation à la collecte de bois; aucune blessure signalée.",
     "faim": "Besoins alimentaires réguliers, réserves de la communauté limitées",
     "hydratation": "Approvisionnement communautaire en eau traité, non encore durable"
   },
@@ -96,7 +96,8 @@
       "J9 : Tugay, Kübra, Nicolas, Sophie et David fouillent des locaux apparemment abandonnés de La Sallaz; récupération de vivres à vérifier et premiers contacts pacifiques avec Adrien et Claire.",
       "J10 : Tugay et Henri présentent une offre de coopération agricole à La Sallaz. Accord de principe restreint avec Adrien et Claire. Rosa, possible personne gardant des graines, est mentionnée mais non rencontrée. Aucun affrontement.",
       "J11 : Tugay se rappelle qu'avant la Rupture, lui et Kübra exploitaient deux parcelles dans un jardin communautaire près des Boveresses, environ 20 minutes à pied. David et Sophie reconnaissent les jardins mais ne peuvent identifier leurs parcelles avec certitude; droits actuels inconnus.",
-      "J11 : Tugay, Kübra et Nicolas visitent une pépinière oubliée, récupèrent équipement de semis et 5 sachets anciens à faible fiabilité. Arbustes vivants repérés, laissés en place. Nouveau projet de charbon non pesé; projet collectif d'équipement de chasse demeure non opérationnel. Aucun jet de dé."
+      "J11 : Tugay, Kübra et Nicolas visitent une pépinière oubliée, récupèrent équipement de semis et 5 sachets anciens à faible fiabilité. Arbustes vivants repérés, laissés en place. Nouveau projet de charbon non pesé; projet collectif d'équipement de chasse demeure non opérationnel. Aucun jet de dé.",
+      "Prolongation J11 19 h 30–minuit : Tugay et Kübra font un trajet nocturne au ruisseau et ramènent ~30 L d'eau brute. Les sept autres ramassent du bois, Tugay et Kübra les rejoignant après retour. ~29 kg de bois relativement sec et ~17 kg de bois humide en plus; fatigue élevée. Repos à minuit. Aucun jet de dé."
     ]
   }
 }

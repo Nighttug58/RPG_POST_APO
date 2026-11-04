@@ -10,7 +10,7 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "19:30",
+    "heure": "23:59",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
     "jour_campagne": 11,
@@ -31,12 +31,14 @@
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
       "Réserve d'eau du ruisseau traitée thermiquement, qualité chimique non analysée",
-      "Absence de nouvelle collecte d'eau au J11; eau brute épuisée et besoin de nouveaux trajets",
       "Conserves des expéditions J9 et J11 encore à vérifier, rationnement alimentaire nécessaire",
       "Anciennes parcelles de Boveresses non identifiées ni garanties disponibles",
       "Semences de pépinière très anciennes, germination inconnue",
       "Charbon J6 non pesé et nouveau lot J11 en cours de refroidissement, rendement inconnu",
-      "Équipement de chasse non fonctionnel; sécurité et fiabilité insuffisantes"
+      "Équipement de chasse non fonctionnel; sécurité et fiabilité insuffisantes",
+      "Journée prolongée jusqu'à minuit; fatigue marquée de toute la communauté et besoin de repos",
+      "30 L d'eau brute nouvellement rapportés; stocker séparément, traitement restant à faire",
+      "Bois de collecte nocturne partiellement humide; ne pas compter comme charbon ni comme entièrement sec"
     ]
   },
   "progression": {
@@ -99,7 +101,7 @@
   },
   "chapitre_actuel": "chapitre-022",
   "derniere_scene_canonique": "recit/chapitre-022/scene-001.md",
-  "prochaine_action": "Jour 12 non commencé. Pépinière reconnue, arbustes vivants laissés sur place et équipement léger rapatrié; Boveresses reconnues par David/Sophie mais les 2 anciennes parcelles de Tugay/Kübra non localisées précisément. Eau ~53 L traitée, 0 L brute; nouvelle collecte nécessaire. Deux nouvelles planches créées au quartier, soit 4 planches communautaires nouvelles depuis J10. Charbon J11 non pesé, projet d'arc non opérationnel; Rosa n'a toujours pas répondu.",
+  "prochaine_action": "Jour 12 non commencé. Après heures supplémentaires jusqu'à minuit, tous les membres vont dormir et sont très fatigués. Eau estimée ~49 L traités et ~30 L bruts, stockés séparément; prioriser sécurité et traitement. Bois disponible ~29 kg relativement sec, ~22 kg humide au total (dont 5 kg antérieurs), non assimilés à du charbon. Lots J6/J11 charbon toujours non pesés; anciennes parcelles des Boveresses non identifiées; autres pistes du J11 inchangées.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -132,10 +134,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j11-1930",
+    "id": "fin-j11-minuit",
     "jour": 11,
-    "heure": "19:30",
-    "description": "Exploration de la pépinière et des Boveresses; semences anciennes, matériel agricole, nouvelles planches, eau traitée, nouveau lot de charbon à mesurer"
+    "heure": "23:59",
+    "description": "Prolongation nocturne à la veille de minuit : Tugay et Kübra rapportent 30 L d'eau brute; les sept autres rassemblent du bois; repos à minuit"
   },
   "protocole": {
     "archives_tours_figees": 16,

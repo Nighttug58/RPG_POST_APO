@@ -1,10 +1,12 @@
 # Objectifs et pistes — fin jour 11
-- **Eau** : ~53 L traités thermiquement, 0 L brut en attente; une nouvelle tournée de collecte est nécessaire. Qualité chimique non analysée, absence de symptômes non probante.
+- **Eau** : ~49 L traités thermiquement, **30 L bruts** rapportés en soirée J11, non encore traités; 81 L de contenants alimentaires nominaux, stock total ~79 L et propreté à contrôler. Qualité chimique non analysée, absence de symptômes non probante. Qualité chimique non analysée, absence de symptômes non probante.
 - **Alimentation** : dernier recomptage global J9 = 25 conserves au refuge; J9 +6 conserves à vérifier; J11 Boveresses +3 conserves à vérifier; consommations J10–J11 non détaillées. Aucun gibier ni récolte.
 - **Boveresses** : Tugay et Kübra exploitaient deux parcelles avant la Rupture; elles ne sont pas encore identifiées avec certitude, ni acquises actuellement. Reconnaissance par David et Sophie J11; certains jardins entretenus. Retour possible avec Tugay.
 - **Pépinière** : visitée J11, 5 sachets de semences très anciennes à viabilité inconnue, plateaux et pots horticoles récupérés; arbustes fruitiers vivants probables identifiés, laissés sur place; petite structure de serre non récupérée.
 - **Jardins du refuge** : Henri/Marianne/Marc ont ajouté 2 nouvelles planches communes au J11, soit 4 nouvelles planches J10–J11, toutes non semées. Parcelles anciennement privées entretenues provisoirement sans transfert de propriété; 3 sur 5 restent à préparer.
-- **Charbon/bois** : Élise a ramassé ~12 kg de bois assez sec pour nouveau lot J11 non achevé/pesé et ~5 kg humides à sécher. Lot charbon J6 et nouveau J11 sans rendement confirmé.
+- **Charbon/bois** : Élise avait ramassé ~12 kg de bois assez sec pour un nouveau lot J11 non achevé/pesé et ~5 kg humides. En soirée, ramassage collectif de ~29 kg de bois relativement sec disponibles et +17 kg humides (soit ~22 kg humides). Lots de charbon J6/J11 sans rendement confirmé; le bois collecté n'est pas du charbon.
 - **Matériel de chasse** : travail collectif de J11 sans équipement fonctionnel; conservation de viande seulement projet tant qu'aucune chasse n'est effectuée.
 - **Coopération La Sallaz** : contact pacifique avec Adrien/Claire, accord agricole de principe, Rosa évoquée mais pas encore rencontrée; semences non obtenues de cette source.
 - **Énergie** : reconnaissance solaire non effectuée, citerne et pompe sans changement. Surveiller l'effort de travail et les besoins de repos.
+
+- **Fatigue** : toute la communauté a travaillé exceptionnellement jusqu'à minuit, après une journée déjà chargée; repos important le jour suivant.

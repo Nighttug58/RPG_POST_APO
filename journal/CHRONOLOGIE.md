@@ -143,3 +143,8 @@
 - Henri/Marianne/Marc ajoutent 2 planches dans le quartier; Marc maintient une veille intermittente.
 - Élise traite les 15 L bruts (~14 L récupérés), rassemble du bois avec le chariot; après ~18 L consommés, ~53 L traités, 0 L brut.
 - Tugay engage un nouveau lot de charbon, sans pesée ni stock utilisable; projet collectif d'arc non abouti. Aucun jet ni blessure. Fin vers 19 h 30.
+
+### Addition au jour 11 — 19 h 30 à minuit
+- Tugay et Kübra rapportent ~30 L d'eau brute du ruisseau avec le chariot vers 21 h 30; réserve séparée de l'eau traitée.
+- Les sept autres ramassent du bois près du refuge, puis Tugay et Kübra se joignent au travail. Bilan nocturne ~29 kg relativement secs + ~17 kg humides; 5 kg humides déjà présents au J11. Charbon J6/J11 toujours non pesé.
+- Consommation d'eau estimée +4 L durant ces heures; solde ~49 L traités et 30 L bruts. Fin du travail à minuit, repos nécessaire. Aucun jet de dé.
