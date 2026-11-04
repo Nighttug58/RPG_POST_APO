@@ -219,3 +219,11 @@
 - Kübra/Élise/Sophie emportent le chariot artisanal renforcé, 2 grandes tournées, ~54 kg bois relativement sec. **49 kg anciennement humides ont maintenant séché**, conversion et non nouvelle collecte.
 - Henri/Marianne/Marc produisent ~11 kg charbon sous coordination d'Henri, après échange de conseils généraux avec Tugay. Marianne repèse ~8 kg ancien bois sec et ~12,4 kg ancien charbon. Bois sec réconcilié : 8+24 J21+49 séché+54 J22-44 charbon-8 chauffe = **83 kg** secs, 0 humides ; charbon 12,4+11 = **23,4 kg**.
 - ~18 L eau pure consommés, solde ~44 L prêts, ~25 L séparés. Panneaux solaires 4 fonctionnels mais aucune batterie. Fin ~19 h 30 ; J23 non commencé.
+
+## Jour 23 — La batterie derrière la porte
+- Tugay/David/Marc utilisent le chariot artisanal renforcé et des outils pour ouvrir la pièce fermée du bâtiment technique. Ils rapportent une batterie solaire domestique de 8 kWh, un boîtier de gestion et documentation ; quatre panneaux au refuge déjà fonctionnels, aucune production électrique utilisée dans B/C.
+- Henri/Nicolas élargissent l'espace de chauffe, capacité quotidienne de traitement ~45 L -> ~135 L (×3), même matériel de cuisson existant.
+- Kübra/Sophie avec chariot de courses rapportent ~80 L de résurgence pure, puis ~28 kg de bois sec depuis la forêt.
+- Élise traite ~85 L pour ~82 L prêts durant la journée, groupe consomme ~18 L : fin ~108 L prêts + 20 L séparés, dans 151 L de contenants.
+- Le soir Élise/Marianne fument les 16 kg du chevreuil et lièvre J22 : stock durable ~24,6+16=40,6 kg, rien de frais à fumer.
+- Bois sec 83+28−18 utilisés=93 kg, humide 0 ; charbon 23,4 kg, conserves comestibles 39. Fin ~22 h 30, J24 non commencé.

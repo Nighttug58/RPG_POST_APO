@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "19:30",
+    "heure": "22:30",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 22,
+    "jour_campagne": 23,
     "mois": "novembre"
   },
   "localisation": {
@@ -23,16 +23,16 @@
   },
   "conditions": {
     "meteo": "Forêt fraîche, matinale et brumeuse; journée d'automne, valeurs météorologiques exactes inconnues",
-    "luminosite": "soir",
+    "luminosite": "nuit",
     "menaces_immediates": [],
     "bruits_lointains": [
       "Moteurs de véhicules signalés à plusieurs reprises, occupants non identifiés"
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Batterie et accessoires du projet solaire encore à trouver ; quatre panneaux fonctionnels déjà installés en zone ensoleillée",
-      "Une partie de la viande du jour 22 (16 kg) attend le fumage prévu lors de la prochaine journée",
-      "Fatigue modérée après chasse et manutentions forestières"
+      "Mise en service solaire encore à organiser : quatre panneaux fonctionnels, batterie 8 kWh et boîtier récupérés mais aucun circuit du village raccordé",
+      "L'équipe a travaillé jusqu'en soirée, repos conseillé avant de nouvelles longues expéditions",
+      "Hiver approchant, stocks d'eau, bois, charbon et viande fumée désormais importants"
     ]
   },
   "progression": {
@@ -49,7 +49,8 @@
       "objectif-pepiniere-001",
       "objectif-panneaux-reperes",
       "objectif-batterie-stockage-solaire",
-      "objectif-chasses-cooperatives-sallaz"
+      "objectif-chasses-cooperatives-sallaz",
+      "objectif-installation-electrique-village"
     ],
     "pistes_ouvertes": [
       "piste-citerne",
@@ -68,8 +69,8 @@
       "piste-fumoir-viande-controle",
       "piste-installation-solaire-et-controle",
       "piste-stockage-viande-sure",
-      "piste-batterie-local-technique",
-      "piste-volontaires-chasse-sallaz"
+      "piste-volontaires-chasse-sallaz",
+      "piste-mise-en-service-panneaux-batterie"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -109,12 +110,13 @@
       "lieu-serre-rosa",
       "lieu-quartier-villas-oublie",
       "lieu-resurgence-proche-refuge",
-      "lieu-chasse-cerf-j19"
+      "lieu-chasse-cerf-j19",
+      "lieu-local-technique-batterie"
     ]
   },
-  "chapitre_actuel": "chapitre-031",
-  "derniere_scene_canonique": "recit/chapitre-031/scene-001.md",
-  "prochaine_action": "Jour 23 non commencé. J22 Tugay/Nicolas/David chassent en forêt et ramènent 1 chevreuil adulte + 1 lièvre, soit ~18 kg de viande : ~2 kg consommés au dîner, 16 kg à fumer. Fumée antérieure ~24,6 kg durable, 39 conserves comestibles. Kübra/Élise/Sophie ramènent 54 kg de bois sec avec chariot renforcé ; les 49 kg auparavant humides ont maintenant séché, humide restant 0. Henri/Marianne/Marc produisent ~11 kg de charbon utilisable ; comptage bois sec final 83 kg après 44 kg affectés au charbon et 8 kg à la chauffe ; ancien charbon pesé 12,4 kg, stock final charbon 23,4 kg. Eau source pure ~44 L prête, ~25 L séparés. Quatre panneaux solaires fonctionnels, batterie à trouver.",
+  "chapitre_actuel": "chapitre-032",
+  "derniere_scene_canonique": "recit/chapitre-032/scene-001.md",
+  "prochaine_action": "Jour 24 non commencé. J23 Tugay/David/Marc ouvrent la pièce fermée du bâtiment solaire et rapportent une batterie solaire domestique 8 kWh, 1 boîtier de gestion et documentation grâce au chariot artisanal renforcé ; quatre panneaux fonctionnels déjà au refuge, pas de système raccordé. Henri/Nicolas agrandissent foyer pour capacité de préparation d'eau ~135 L/j contre ~45 avant (x3). Kübra/Sophie récupèrent ~80 L de source pure avec chariot de courses puis ~28 kg bois sec en forêt. Élise/Marianne terminent dans la soirée les 16 kg de viande J22 au fumoir. Eau prête ~108 L, réserve séparée ~20 L, 151 L capacité nominale de contenants. Bois sec ~93 kg, humide 0 kg, charbon ~23,4 kg, viande fumée durable ~40,6 kg, conserves comestibles 39. Prochaine étape possible : installation électrique du village.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -147,10 +149,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j22-1930",
-    "jour": 22,
-    "heure": "19:30",
-    "description": "Chasse réussie, 18 kg de viande rapportés, 83 kg bois sec, 23,4 kg charbon"
+    "id": "fin-j23-2230",
+    "jour": 23,
+    "heure": "22:30",
+    "description": "Batterie solaire domestique 8 kWh récupérée, foyer triplé, 80 L eau collectés et 16 kg de viande fumés"
   },
   "protocole": {
     "archives_tours_figees": 16,

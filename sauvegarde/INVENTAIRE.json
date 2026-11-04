@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin J22 à 19 h 30 : 18 kg gibier, 54 kg bois récoltés, 49 kg humidité séchée, 11 kg charbon fabriqué, stocks réconciliés",
+  "reference": "Fin J23 22 h 30 : batterie solaire 8 kWh, foyer x3, 108 L eau prête, 40,6 kg viande fumée, 93 kg bois sec",
   "objets": [
     {
       "id": "bidon20",
@@ -1284,12 +1284,12 @@
     },
     {
       "id": "lot-136",
-      "nom": "Lot de viande de cerf fumée J19–J20, pesé",
+      "nom": "Réserve de viande fumée durable de cerf, chevreuil et lièvre",
       "quantite": 1,
-      "masse_unitaire_kg": 24.6,
+      "masse_unitaire_kg": 40.6,
       "categorie": "alimentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "~34,6 kg de viande fumée durablement conservable J20, moins 1,5 kg cadeaux Rosa/Claire/Adrien et 8,5 kg troc J21 => ~24,6 kg restant."
+      "etat": "24,6 kg de cerf fumé restant après troc J21 + 16 kg de chevreuil et lièvre fumés soir J23 par Élise/Marianne = 40,6 kg. Durablement conservable selon les règles de campagne."
     },
     {
       "id": "lot-137",
@@ -1307,7 +1307,7 @@
       "masse_unitaire_kg": null,
       "categorie": "energie",
       "emplacement": "stock communautaire, bâtiment C, à l'abri",
-      "etat": "Les quatre modules rapportés J20 ont été examinés par David J21 et déclarés parfaitement fonctionnels, positionnés au soleil près du bâtiment C. Aucun système électrique de camp opérationnel sans batterie domestique et accessoires."
+      "etat": "Quatre panneaux fonctionnels depuis J21, exposés au soleil au refuge. Batterie de 8 kWh et boîtier rapportés J23, réseau encore non raccordé."
     },
     {
       "id": "lot-139",
@@ -1375,18 +1375,54 @@
     {
       "id": "lot-146",
       "nom": "Viande fraîche de chevreuil et lièvre J22 à fumer",
-      "quantite": 1,
-      "masse_unitaire_kg": 16,
+      "quantite": 0,
+      "masse_unitaire_kg": 0,
       "categorie": "alimentation",
       "emplacement": "réserve communautaire, bâtiment C",
-      "etat": "Environ 18 kg de viande rapportés de forêt J22, 2 kg servis au dîner, ~16 kg à passer au fumoir J23. Une fois fumée, se conservera durablement suivant conventions RPG."
+      "etat": "16 kg entièrement transférés à la réserve de viande fumée lot-136 au soir J23, rien ne reste en viande fraîche."
+    },
+    {
+      "id": "lot-147",
+      "nom": "Batterie domestique solaire 8 kWh",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "energie",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupérée J23 par Tugay, David, Marc dans le local technique jadis fermé, complète et destinée à la future installation solaire ; capacité nominale 8 kWh, réseau pas encore mis en service."
+    },
+    {
+      "id": "lot-148",
+      "nom": "Boîtier de gestion de stockage solaire",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "energie",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Récupéré avec batterie J23 dans local technique. David a reconnu son rôle pour le réseau, installation encore à réaliser."
+    },
+    {
+      "id": "lot-149",
+      "nom": "Documentation technique du stockage solaire",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "documentation",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Documents de l'ancien local technique fermée récupérés J23 et conservés pour l'installation. Séparés du carnet solaire rapporté J15."
+    },
+    {
+      "id": "lot-150",
+      "nom": "Foyer communautaire agrandi pour préparation de l'eau",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Réaménagement par Henri et Nicolas J23 avec récipients existants ; capacité journalière estimée ~135 L contre ~45 L avant, trois emplacements de chauffe. Pas de nouvelle marmite comptée."
     }
   ],
   "consommables": {
-    "eau_potable_l": 44,
+    "eau_potable_l": 108,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "Résurgence pure à 5 min. J22 : 62 L prêts au matin, ~18 L utilisés durant chasse/travaux et repas, reste ~44 L prêts. 25 L conservés séparément pour préparation ordinaire.",
+    "eau_statu": "J23 résurgence pure : ~44 L prêts début journée + ~82 L préparés à partir de ~85 L en plusieurs cycles − ~18 L consommés = ~108 L prêts au refuge. Capacité quotidienne du foyer élargi ~135 L, volume réellement préparé ~82 L.",
     "charbon_disponible_kg": 23.4,
     "charbon_dernier_comptage_kg": 23.4,
     "charbon_dernier_comptage_jour": 22,
@@ -1420,8 +1456,8 @@
       "attention": "Inventaire J21 simplifié par convention : 39 conserves comestibles, 24,6 kg de viande fumée durablement conservable et graines viables. Les légumes/haricots/lentilles du troc J21 sont comptés séparément des anciens stocks dont certaines quantités historiques restent non mesurées.",
       "conserves_avertissement": "12 anciennes conserves en stock courant + 27 récupérées lors des raids = 39 comestibles au J21."
     },
-    "eau_brute_l": 25,
-    "eau_brute_statu": "~25 L séparés, volume inchangé J22, eau de résurgence pure en canon.",
+    "eau_brute_l": 20,
+    "eau_brute_statu": "J23 : ~25 L en réserve séparée + ~80 L collectés à la résurgence − ~85 L préparés = ~20 L séparés. Source pure selon règles du J21.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -1451,7 +1487,7 @@
       "etat": "Lot J11 mesuré approximativement J12"
     },
     "bois_humide_a_secher_kg": 0,
-    "bois_sec_disponible_kg_estime": 83,
+    "bois_sec_disponible_kg_estime": 93,
     "bois_collecte_nocturne": {
       "jour": 11,
       "debut": "19:30",
@@ -1630,7 +1666,7 @@
       "sel_utilise_kg_estime": 0.1,
       "etat": "Dîner collectif de neuf personnes après la prise de cerf, quantité approximative ; 3,4 kg ne sont pas inclus dans les 34,6 kg de viande fumée restante."
     },
-    "viande_fumee_lot_j20_kg": 24.6,
+    "viande_fumee_lot_j20_kg": 40.6,
     "viande_fumee_stockage_valide_longue_duree": true,
     "conserves_recentes_ecartees_j20": 0,
     "conserves_ancien_stock_recomptees_j20": 12,
@@ -1703,9 +1739,9 @@
       "panneaux_parfaitement_fonctionnels": 4,
       "positionnes_au_soleil": 4,
       "production_alimentant_village": false,
-      "batterie_de_stockage_acquise": false,
+      "batterie_de_stockage_acquise": true,
       "schemas_generaux_prepares": true,
-      "objectif": "Retrouver batterie domestique solaire, possible dans local technique fermé du site initial."
+      "objectif": "Batterie domestique de 8 kWh et boîtier récupérés J23 ; prochaine étape installation collective pour produire et utiliser l'électricité."
     },
     "semences_toutes_viables_j21": true,
     "conventions_simples_j21": {
@@ -1750,10 +1786,55 @@
       ],
       "viande_rapportee_kg_estime": 18,
       "viande_consomme_diner_kg_estime": 2,
-      "viande_fraiche_restant_kg_estime": 16,
-      "etat": "Deux prises non graphiques en forêt J22, rapportées dans sacs renforcés. Le fumage des 16 kg restants est une prochaine activité ; le stock fumé actuel reste séparé à 24,6 kg."
+      "viande_fraiche_restant_kg_estime": 0,
+      "etat": "Le chevreuil et le lièvre J22 ont donné ~18 kg de viande, dont ~2 kg servis au dîner J22 et 16 kg entièrement fumés dans la soirée J23 par Élise et Marianne ; leur viande est conservable durablement selon les règles du RPG.",
+      "viande_fumee_j23_kg": 16
     },
-    "viande_fraiche_j22_kg": 16
+    "viande_fraiche_j22_kg": 0,
+    "eau_j23": {
+      "source_pure": true,
+      "brute_collectee_l": 80,
+      "brute_preparee_l": 85,
+      "eau_prete_produite_l": 82,
+      "consommation_l_estime": 18,
+      "stock_prete_fin_l": 108,
+      "stock_separe_fin_l": 20,
+      "capacite_quotidienne_ancien_foyer_l_estime": 45,
+      "capacite_quotidienne_nouveau_foyer_l_estime": 135,
+      "etat": "Foyer élargi par Henri/Nicolas avec plusieurs emplacements de chauffe, production journalière possible triplée. L'équipe de collecte remplit d'abord les contenants avec le chariot de courses, puis va chercher du bois."
+    },
+    "bois_j23": {
+      "bois_sec_debut_kg": 83,
+      "bois_sec_collecte_kg": 28,
+      "bois_sec_utilise_foyer_fumoir_cuisine_kg_estime": 18,
+      "bois_sec_fin_kg": 93,
+      "bois_humide_fin_kg": 0,
+      "etat": "Kübra/Sophie récoltent 28 kg relativement secs après la tournée d'eau. 18 kg employés au nouveau foyer, fumoir, cuisine (répartition détaillée non pesée), bilan 83+28−18=93 kg secs."
+    },
+    "fumage_j23": {
+      "responsables": [
+        "Élise",
+        "Marianne"
+      ],
+      "viande_fraiche_entree_kg": 16,
+      "viande_fumee_stockee_kg": 16,
+      "fin": "22:30",
+      "etat": "Séance achevée le soir J23, viande durablement conservable dans le canon simplifié."
+    },
+    "solaire_j23": {
+      "batterie_de_stockage_retrouvee": true,
+      "batterie_capacite_nominale_kwh": 8,
+      "boitier_gestion_retrouve": true,
+      "documentation_retrouvee": true,
+      "panneaux_deja_fonctionnels": 4,
+      "reseau_village_alimente": false,
+      "personnes": [
+        "Tugay",
+        "David",
+        "Marc"
+      ],
+      "etat": "Ancien local technique fermé ouvert lors d'une expédition J23 ; batterie, boîtier et documentation récupérés avec chariot renforcé. David a confirmé leur intérêt pour le projet, aucune installation domestique alimentée à ce stade."
+    }
   },
   "capacites": {
     "contenants_alimentaires_nominale_l": 151,
@@ -1774,5 +1855,5 @@
     "Équipement électrique ancien et volumineux dans le quartier des villas (J17), repéré mais non transporté",
     "Plusieurs meubles utiles du quartier des villas (J17), repérés mais non transportés"
   ],
-  "notes": "Fin J22 : chasse Tugay/Nicolas/David, 1 chevreuil adulte + 1 lièvre, 18 kg viande rapportée, environ 2 kg servis au dîner, reste 16 kg à fumer. Viande fumée durable existante 24,6 kg, 39 conserves toutes comestibles. Bois : 49 kg auparavant humides désormais secs (conversion, pas nouvel apport), 8 kg ancien bois sec enfin pesés, 24 kg sec collectés J21, +54 kg secs récoltés J22 ; 44 kg utilisés pour produire ~11 kg de charbon, 8 kg pour chauffe et cuisine => 83 kg de bois sec, 0 kg humide. Ancien charbon après recompte 12,4 kg (2 kg ancien relevé utilisés), +11 =23,4 kg. Source pure : ~44 L prêts à l'usage, ~25 L séparés après ~18 L consommés. Chariot artisanal renforcé utilisé sans incident. Aucune nouvelle mission solaire J22, batterie toujours manquante."
+  "notes": "Fin J23 (22h30) : expédition batterie par Tugay/David/Marc, local fermé ouvert, batterie solaire domestique de 8 kWh + boîtier de gestion + documents ramenés avec chariot renforcé. Quatre panneaux déjà fonctionnels, camp pas encore alimenté en électricité. Henri/Nicolas agrandissent foyer, capacité journalière environ x3 ~135 L contre ~45 avant. Kübra/Sophie rapportent ~80 L d'eau pure puis ~28 kg de bois sec. Élise prépare ~85 L bruts pour ~82 L prêts, groupe utilise ~18 L : fin ~108 L prêts + ~20 L séparés (128 L répartis dans 151 L de contenants). Élise/Marianne fument 16 kg viande J22 le soir, réserve fumée durable ~40,6 kg, plus aucune viande fraîche à fumer. Bois sec ~93 kg après consommation ~18 kg foyer/fumoir/cuisine, humide 0 ; charbon ~23,4 kg, 39 conserves comestibles. Règles RPG simplifiées restent en vigueur, sans CI."
 }

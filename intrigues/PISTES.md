@@ -72,3 +72,11 @@
 - **Bois** : Kübra/Élise/Sophie rapportent ~54 kg secs avec chariot renforcé. Les 49 kg jadis humides ont séché et rejoignent le bois sec (transfert). Stock confirmé fin de journée **83 kg secs, 0 humides**, en comptant 8 kg anciens pesés, 24 kg sec J21, 54 kg J22 et sorties 44 kg charbon, 8 kg chauffe/cuisine.
 - **Charbon** : Henri/Marianne/Marc produisent ~11 kg utilisables ; anciens lots pesés ~12,4 kg, total ~23,4 kg.
 - **Autonomie** : eau pure ~44 L prêts + 25 L séparés ; 39 conserves comestibles et toutes graines viables. Quatre panneaux photovoltaïques fonctionnels toujours en attente batterie. Jour 23 non joué.
+
+## Fin du jour 23
+- **Batterie acquise** : Tugay/David/Marc ouvrent la pièce technique fermée et ramènent batterie domestique solaire de **8 kWh**, boîtier de gestion et documents. Les 4 panneaux photovoltaïques du refuge sont fonctionnels ; **prochain objectif = mise en service du réseau B/C**, pas encore en fonctionnement.
+- **Foyer agrandi** : Henri/Nicolas triplent la capacité quotidienne de préparation d'eau, de ~45 à ~135 L/j ; récipients préexistants, pas de nouvel ustensile inventé.
+- **Eau** : Kübra/Sophie collectent ~80 L, Élise en prépare ~85 L pour ~82 L prêts ; après consommation ~18 L, ~108 L prêts + 20 L séparés. Source pure selon conventions J21, 151 L de contenants.
+- **Bois** : +28 kg secs en forêt par Kübra/Sophie après la tournée d'eau, ~18 kg utilisés (foyer/fumoir/cuisine), stock ~93 kg secs, 0 humides, ~23,4 kg charbon.
+- **Viande** : Élise et Marianne fument 16 kg restants du gibier J22 ; réserve durable de viande fumée ~40,6 kg, 39 conserves comestibles.
+- **Alliance La Sallaz** : deux volontaires pour chasses communes non encore désignés, piste ouverte. Jour 24 non commencé.

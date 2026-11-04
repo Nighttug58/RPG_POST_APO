@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 21
+# Registre des lieux — connus fin du jour 23
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -37,3 +37,4 @@
 
 | lieu-sallaz-troc-j21 | Serre de Rosa et lieu de négociation à La Sallaz | J21 Tugay/Henri offrent trois cadeaux de 0,5 kg de viande fumée à Rosa, Claire, Adrien ; 8,5 kg troqués contre 15 kg de vivres et 10 enveloppes de graines ; promesse d'une future coopération de chasse avec deux volontaires à confirmer |
 | lieu-zone-solaire-refuge-c | Emplacement dégagé ensoleillé proche du bâtiment C | J21 David y fait placer les quatre panneaux fonctionnels récupérés J20 avec aide ; pas de batterie domestique ni d'alimentation du refuge en service |
+| lieu-local-technique-batterie | Local technique auparavant fermé du bâtiment photovoltaïque | Ouvert J23 par Tugay, David, Marc ; batterie solaire domestique de 8 kWh, boîtier de gestion et documentation trouvés puis ramenés au refuge avec chariot renforcé. Ne reste pas de nouvelle batterie déclarée dans ce local |
