@@ -10,3 +10,13 @@
 - **Énergie** : reconnaissance solaire non effectuée, citerne et pompe sans changement. Surveiller l'effort de travail et les besoins de repos.
 
 - **Fatigue** : toute la communauté a travaillé exceptionnellement jusqu'à minuit, après une journée déjà chargée; repos important le jour suivant.
+
+## Situation supplémentaire après les jours 12 et 13
+- **Eau fin J13** : ~57 L traités et ~7 L bruts séparés, qualité chimique non analysée. Rattrapage J12 : ~59 L traités, 0 L brut après traitement des 30 L de J11.
+- **Charbon/bois fin J13** : J6 ~8,6 kg, J11 ~2,2 kg, J12 ~1,7 kg mesurés sur vieille balance, environ **12,5 kg** recensés; ne pas ajouter le relevé J3. Bois relativement sec ~15 kg après collecte de Kübra et chauffe de l'eau; humide ~22 kg.
+- **Arbustes de pépinière** : 2 cassissiers, 3 framboisiers et 2 touffes de ciboulette rapportés J13; plants vivants, reprise et rendement non garantis, pas de nouvelle semence viable confirmée.
+- **Ravitaillement alimentaire** : 2 conserves J13 à vérifier, ajoutées aux 6 J9 + 3 J11 = 11 conserves hors stock consommable. Dernier comptage général J9 devenu ancien, consommations J10–13 inconnues.
+- **Énergie** : David a repéré de loin un toit à panneaux ressemblant à du photovoltaïque; statut, accès, état et présence fonctionnelle à vérifier, aucun matériel acquis.
+- **Transport** : Marc a trouvé 2 roues de vélo et des planches pour un second chariot; aucun second chariot utilisable.
+- **Atelier** : Tugay a achevé un assemblage de projet, sans validation de sécurité ni utilisation. Aucune sortie de chasse ni viande.
+- **Diplomatie** : coopération de principe à La Sallaz inchangée; Rosa non rencontrée. Anciennes parcelles Boveresses non identifiées précisément.

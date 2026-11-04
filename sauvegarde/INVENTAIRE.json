@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin J11 proche de minuit, après collecte nocturne exceptionnelle; J12 non commencé",
+  "reference": "Fin J13, avec rattrapage du jour 12 narré mais non précédemment enregistré",
   "objets": [
     {
       "id": "bidon20",
@@ -980,20 +980,137 @@
       "categorie": "agriculture",
       "emplacement": "stock communautaire, bâtiments B/C",
       "etat": "Récupéré aux Boveresses J11; compatibilité inconnue"
+    },
+    {
+      "id": "lot-103",
+      "nom": "Balance mécanique de ménage",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Retrouvée J12, mesures du charbon approximatives"
+    },
+    {
+      "id": "lot-104",
+      "nom": "Dessins et maquette conceptuelle de projet d'atelier",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Étudiés J12 et J13, aucun équipement de chasse certifié"
+    },
+    {
+      "id": "lot-105",
+      "nom": "Cassissiers vivants",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Récupérés J13 à la pépinière; reprise après transplantation inconnue"
+    },
+    {
+      "id": "lot-106",
+      "nom": "Framboisiers vivants",
+      "quantite": 3,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Récupérés J13 à la pépinière; reprise après transplantation inconnue"
+    },
+    {
+      "id": "lot-107",
+      "nom": "Touffes de ciboulette vivantes",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Récupérées J13 à la pépinière; reprise inconnue"
+    },
+    {
+      "id": "lot-108",
+      "nom": "Bocaux en verre avec couvercle",
+      "quantite": 4,
+      "masse_unitaire_kg": null,
+      "categorie": "stockage",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Récupérés J13; nettoyage à prévoir"
+    },
+    {
+      "id": "lot-109",
+      "nom": "Savon emballé petit lot",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Récupéré J13; état à contrôler"
+    },
+    {
+      "id": "lot-110",
+      "nom": "Torchons récupérés",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Petit lot récupéré J13, à laver"
+    },
+    {
+      "id": "lot-111",
+      "nom": "Gilets réfléchissants",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "equipement",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Récupérés J13, état à vérifier"
+    },
+    {
+      "id": "lot-112",
+      "nom": "Carte papier du secteur",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "orientation",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Ramenée J13 par David, détail des toits à vérifier"
+    },
+    {
+      "id": "lot-113",
+      "nom": "Lampe manuelle ancienne",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "equipement",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Récupérée J13, fonctionnement non vérifié"
+    },
+    {
+      "id": "lot-114",
+      "nom": "Deux roues de vélo usagé",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "transport",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Trouvées J13 par Marc, pneus dégradés, aucun chariot roulant assemblé"
+    },
+    {
+      "id": "lot-115",
+      "nom": "Lot de planches récupérées",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "transport",
+      "emplacement": "stock communautaire B/C",
+      "etat": "Réservées par Marc J13 pour projet de second chariot"
     }
   ],
   "consommables": {
-    "eau_potable_l": 49,
+    "eau_potable_l": 57,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "J11 19 h 30 : ~53 L d'eau traitée; consommation additionnelle estimée ~4 L entre 19 h 30 et minuit par les 9 personnes au travail, soit ~49 L traités. Qualité chimique du ruisseau non vérifiée.",
-    "charbon_disponible_kg": null,
-    "charbon_dernier_comptage_kg": 5.4,
-    "charbon_dernier_comptage_jour": 3,
+    "eau_statu": "Fin J13 : J11 ~49 L traités + J12 ~28 L traités -18 L consommés J12 = ~59 L; J13 +16 L traités après pertes -18 L consommés = ~57 L. Traitement thermique, qualité chimique non analysée.",
+    "charbon_disponible_kg": 12.5,
+    "charbon_dernier_comptage_kg": 12.5,
+    "charbon_dernier_comptage_jour": 13,
     "charbon_en_cours": {
       "objectif_kg": 20,
-      "etat": "Lot du J6 refroidi mais non pesé; un nouveau lot J11 a été engagé avec ~12 kg de bois supposé sec; charbon J11 en cours/refroidissement, quantité inconnue; ne pas compter comme disponible.",
-      "obtenu_kg": null
+      "etat": "Ancien objectif J6 20 kg non atteint : rendement ~8,6 kg; lots J11 ~2,2 kg et J12 ~1,7 kg pesés. Aucun nouveau lot en cours à la fin J13.",
+      "obtenu_kg": 8.6
     },
     "citerne_pluie": {
       "volume_nominal_l": 3000,
@@ -1017,10 +1134,10 @@
       "confiture_g": 150,
       "sauce_tomate_bocaux": 1,
       "legumes_henri": "Restes du don jour 4 non mesurés",
-      "attention": "Recomptage J9 provisoire de Marianne après consommations J6-J9, 25 conserves avec emballage visuellement acceptable, dont 3 du J7; 1 du J7 écartée. Consommations J10 non détaillées. Aucun aliment ancien garanti par son seul aspect."
+      "attention": "Dernier recomptage global J9, consommations J10–J13 non consolidées. 6 conserves J9 + 3 J11 + 2 J13 à examiner, non intégrées au stock jugé disponible. Le seul aspect extérieur ne garantit pas la sécurité alimentaire."
     },
-    "eau_brute_l": 30,
-    "eau_brute_statu": "Vers 21 h 30 J11, Tugay et Kübra rapportent ~30 L d'eau brute du ruisseau en chariot. Réserve brute séparée, non encore chauffée/traitée; capacité nominale des contenants alimentaires 81 L, total eau estimé 79 L et contenants à contrôler.",
+    "eau_brute_l": 7,
+    "eau_brute_statu": "J12 : traitement des 30 L bruts, fin J12 0 L bruts. J13 : ~24 L rapportés au chariot par Élise, 17 L mis en traitement dont ~16 L récupérés; fin J13 ~7 L bruts isolés.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -1044,11 +1161,11 @@
     "charbon_j11": {
       "jour": 11,
       "bois_initial_kg_estime": 12,
-      "charbon_obtenu_kg": null,
-      "etat": "Production lancée, rendement non mesuré et lot non validé; masse du bois n'est PAS une masse de charbon."
+      "charbon_obtenu_kg": 2.2,
+      "etat": "Lot J11 mesuré approximativement J12"
     },
     "bois_humide_a_secher_kg": 22,
-    "bois_sec_disponible_kg_estime": 29,
+    "bois_sec_disponible_kg_estime": 15,
     "bois_collecte_nocturne": {
       "jour": 11,
       "debut": "19:30",
@@ -1056,6 +1173,51 @@
       "bois_relativement_sec_kg_estime": 29,
       "bois_humide_kg_estime": 17,
       "etat": "Collecte communautaire de nuit, estimation grossière; sous abri, loin du foyer, pas converti en charbon."
+    },
+    "charbon_lots_mesures": [
+      {
+        "jour_production": 6,
+        "masse_kg_estime": 8.6,
+        "pese_jour": 12
+      },
+      {
+        "jour_production": 11,
+        "masse_kg_estime": 2.2,
+        "pese_jour": 12
+      },
+      {
+        "jour_production": 12,
+        "masse_kg_estime": 1.7,
+        "pese_jour": 13
+      }
+    ],
+    "charbon_j12": {
+      "jour": 12,
+      "bois_initial_kg_estime": 10,
+      "charbon_obtenu_kg": 1.7,
+      "etat": "Lot J12 refroidi, pesé approximativement J13"
+    },
+    "bois_bilan_j12_j13": {
+      "bois_sec_fin_j11_kg_estime": 29,
+      "chauffe_j12_kg_estime": 7,
+      "lot_charbon_j12_bois_kg_estime": 10,
+      "bois_sec_fin_j12_kg_estime": 12,
+      "collecte_kubra_j13_kg_estime": 7,
+      "chauffe_j13_kg_estime": 4,
+      "bois_sec_fin_j13_kg_estime": 15
+    },
+    "denrees_recuperees_j13_a_verifier": {
+      "jour": 13,
+      "conserves_non_verifiees": 2,
+      "etat": "Trouvées par Sophie et Marianne dans des logements paraissant désertés; isolées; sécurité non certifiée"
+    },
+    "projet_chariot_secondaire": {
+      "jour": 13,
+      "etat": "Pièces identifiées, projet et assemblage d'étude seulement; pas de second chariot utilisable",
+      "roues_recuperees": 2
+    },
+    "projet_atelier_j13": {
+      "etat": "Objet de démonstration assemblé mais fiabilité non établie; aucun équipement opérationnel certifié, aucune utilisation sur le terrain"
     }
   },
   "capacites": {
@@ -1075,5 +1237,5 @@
     "Caisse à outils lourde",
     "Radio hors service"
   ],
-  "notes": "Fin J11 à minuit : eau traitée ~49 L, brute ~30 L (79 L au total; capacité nominale alimentaire 81 L, pas toute nettoyée), qualité chimique non confirmée. Bois J11 soirée +~29 kg relativement sec, +~17 kg humide; en cumul avec les ~5 kg humides du jour, ~22 kg à faire sécher. Lot de charbon J11 à partir des 12 kg de bois de l'après-midi toujours en refroidissement; lot J6 non pesé. Aucune quantité de charbon supplémentaire comptée. Compte alimentaire global J9 et 9 conserves J9/J11 à vérifier."
+  "notes": "J12 : repos, eau ~59 L traités / 0 brute, charbon J6 8,6 kg + J11 2,2 kg mesurés; nouveau lot J12 en refroidissement, 12 kg de bois relativement sec restent. J13 : eau ~57 L traitée et ~7 L brute; bois sec fin ~15 kg et humide ~22 kg; lot charbon J12 pesé ~1,7 kg, soit ~12,5 kg des trois lots recensés, ancien J3 non cumulable. Sept plants vivants pépinière, pas de récolte; 2 conserves J13 à vérifier ajoutées aux 9 autres; ancien inventaire général alimentaire J9 non recompté. Éléments d'étude d'un second chariot, inutilisable; recherche solaire : panneaux repérés de loin, aucun acquis. Dossier de conception assemblé, non certifié opérationnel."
 }

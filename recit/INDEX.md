@@ -7,6 +7,8 @@
 - [Chapitre 020 — Les rues de La Sallaz](chapitre-020/scene-001.md) : jour 9, ravitaillement et premiers contacts.
 - [Chapitre 021 — Les premiers alliés](chapitre-021/scene-001.md) : jour 10, coopération agricole et eau.
 - [Chapitre 022 — Les jardins oubliés](chapitre-022/scene-001.md) : jour 11, Boveresses, pépinière, eau et culture.
+- [Chapitre 023 — Une journée pour souffler](chapitre-023/scene-001.md) : jour 12, repos, eau et charbon.
+- [Chapitre 024 — Les racines de demain](chapitre-024/scene-001.md) : jour 13, arbustes, second chariot et piste solaire.
 - [Journal continu](../journal/CONTINUITE.md) : déroulement par journée, inventaires, faits et pistes.
 
 **Mode en vigueur :** narration continue avec missions parallèles et décisions libres; plus de tour par tour.

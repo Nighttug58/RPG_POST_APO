@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 11, novembre 2043, communauté de sept membres, Henri allié et Marianne invitée; pépinière visitée et piste des deux anciennes parcelles des Boveresses. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
+**État : fin du jour 13, novembre 2043, communauté de sept membres, Henri allié et Marianne invitée; pépinière et énergie solaire en reconnaissance. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md), [CONTINUITE jours 2 à 11](journal/CONTINUITE.md), [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J11, après des heures supplémentaires jusqu'à minuit : eau ~49 L traitée et 30 L brute, qualité chimique non vérifiée; anciennes parcelles aux Boveresses non confirmées; pépinière explorée avec vieux sachets et équipements horticoles; 2 nouvelles planches communes supplémentaires; ~29 kg de bois relativement sec ajoutés le soir et ~22 kg humides à faire sécher; nouveau charbon non pesé, projet d'arc non opérationnel. Dernier récit : [Chapitre 022](recit/chapitre-022/scene-001.md).
+Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). J12 rattrapé après un blocage GitHub précédent. Fin J13 : ~57 L d'eau traitée et ~7 L bruts, chimie non vérifiée; charbon recensé ~12,5 kg, bois relativement sec ~15 kg, humide ~22 kg. Sept plants vivants de pépinière; deux nouvelles conserves à vérifier; possible toit solaire repéré de loin, aucune installation acquise; second chariot non roulant. Dernier récit : [Chapitre 024](recit/chapitre-024/scene-001.md).

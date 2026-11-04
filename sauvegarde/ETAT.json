@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "23:59",
+    "heure": "20:00",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 11,
+    "jour_campagne": 13,
     "mois": "novembre"
   },
   "localisation": {
@@ -22,7 +22,7 @@
     "coordonnees": null
   },
   "conditions": {
-    "meteo": "Journée de novembre froide, végétation humide; soir frais, mesures exactes inconnues",
+    "meteo": "Journée de novembre froide, déplacements de proximité et travaux de communauté",
     "luminosite": "nuit",
     "menaces_immediates": [],
     "bruits_lointains": [
@@ -30,15 +30,12 @@
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Réserve d'eau du ruisseau traitée thermiquement, qualité chimique non analysée",
-      "Conserves des expéditions J9 et J11 encore à vérifier, rationnement alimentaire nécessaire",
-      "Anciennes parcelles de Boveresses non identifiées ni garanties disponibles",
-      "Semences de pépinière très anciennes, germination inconnue",
-      "Charbon J6 non pesé et nouveau lot J11 en cours de refroidissement, rendement inconnu",
-      "Équipement de chasse non fonctionnel; sécurité et fiabilité insuffisantes",
-      "Journée prolongée jusqu'à minuit; fatigue marquée de toute la communauté et besoin de repos",
-      "30 L d'eau brute nouvellement rapportés; stocker séparément, traitement restant à faire",
-      "Bois de collecte nocturne partiellement humide; ne pas compter comme charbon ni comme entièrement sec"
+      "Qualité chimique du ruisseau non prouvée malgré traitement thermique",
+      "Vivres limités : dernier bilan global J9 et 11 conserves J9/J11/J13 à examiner",
+      "Sept plants de pépinière récupérés mais reprise incertaine et aucune récolte immédiate",
+      "Panneaux photovoltaïques repérés de loin, état et propriété inconnus, aucun équipement acquis",
+      "Deuxième chariot en projet non opérationnel",
+      "Matériel d'atelier assemblé sans validation de fiabilité pour un usage extérieur"
     ]
   },
   "progression": {
@@ -52,7 +49,9 @@
       "objectif-semences-001",
       "objectif-cooperation-sallaz-001",
       "objectif-boveresses-001",
-      "objectif-pepiniere-001"
+      "objectif-pepiniere-001",
+      "objectif-chariot-002",
+      "objectif-panneaux-reperes"
     ],
     "pistes_ouvertes": [
       "piste-citerne",
@@ -63,7 +62,9 @@
       "piste-semences-rosa",
       "piste-alliance-sallaz",
       "piste-parcelles-boveresses",
-      "piste-arbustes-pepiniere"
+      "piste-arbustes-pepiniere",
+      "piste-toit-solaire-j13",
+      "piste-batiment-police"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -96,12 +97,14 @@
       "lieu-sallaz-place",
       "lieu-sallaz-commerces",
       "lieu-jardins-boveresses",
-      "lieu-pepiniere"
+      "lieu-pepiniere",
+      "lieu-poste-police",
+      "lieu-toit-solaire-repere"
     ]
   },
-  "chapitre_actuel": "chapitre-022",
-  "derniere_scene_canonique": "recit/chapitre-022/scene-001.md",
-  "prochaine_action": "Jour 12 non commencé. Après heures supplémentaires jusqu'à minuit, tous les membres vont dormir et sont très fatigués. Eau estimée ~49 L traités et ~30 L bruts, stockés séparément; prioriser sécurité et traitement. Bois disponible ~29 kg relativement sec, ~22 kg humide au total (dont 5 kg antérieurs), non assimilés à du charbon. Lots J6/J11 charbon toujours non pesés; anciennes parcelles des Boveresses non identifiées; autres pistes du J11 inchangées.",
+  "chapitre_actuel": "chapitre-024",
+  "derniere_scene_canonique": "recit/chapitre-024/scene-001.md",
+  "prochaine_action": "Jour 14 non commencé. J12 narré : repos, 30 L bruts traités, ancien charbon mesuré J6 8,6 kg et J11 2,2 kg. J13 : plants sauvés de pépinière 2 cassis, 3 framboises, 2 ciboulettes à transplanter; David note un toit doté de panneaux apparents sans acquisition; Sophie et Marianne trouvent deux conserves à examiner; Marc rassemble pièces de futur chariot, non roulant; Kübra collecte bois. Fin J13 ~57 L traités et 7 L bruts, ~15 kg bois sec et ~22 kg humide, ~12,5 kg charbon des lots J6/11/12. Dossier d'atelier assemblé non certifié utilisable. Rosa non rencontrée, anciennes parcelles de Boveresses non identifiées.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -134,10 +137,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j11-minuit",
-    "jour": 11,
-    "heure": "23:59",
-    "description": "Prolongation nocturne à la veille de minuit : Tugay et Kübra rapportent 30 L d'eau brute; les sept autres rassemblent du bois; repos à minuit"
+    "id": "fin-j13-2000",
+    "jour": 13,
+    "heure": "20:00",
+    "description": "Pépinière : 7 plants vivants; reconnaissance d'un possible toit solaire; nouveau chariot préparé; eau et bois renouvelés; état technique du matériel d'atelier non validé"
   },
   "protocole": {
     "archives_tours_figees": 16,

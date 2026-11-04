@@ -69,7 +69,7 @@
   "etat_physique": {
     "sante": null,
     "blessures": [],
-    "fatigue": "Très fatigué à minuit après la journée 11 prolongée, déplacement nocturne de 30 L d'eau au chariot avec Kübra et participation à la collecte de bois; aucune blessure signalée.",
+    "fatigue": "Repos du J12 bénéfique; fatigue modérée au soir du J13 après plusieurs heures de travail d'atelier. Aucune blessure connue.",
     "faim": "Besoins alimentaires réguliers, réserves de la communauté limitées",
     "hydratation": "Approvisionnement communautaire en eau traité, non encore durable"
   },
@@ -97,7 +97,9 @@
       "J10 : Tugay et Henri présentent une offre de coopération agricole à La Sallaz. Accord de principe restreint avec Adrien et Claire. Rosa, possible personne gardant des graines, est mentionnée mais non rencontrée. Aucun affrontement.",
       "J11 : Tugay se rappelle qu'avant la Rupture, lui et Kübra exploitaient deux parcelles dans un jardin communautaire près des Boveresses, environ 20 minutes à pied. David et Sophie reconnaissent les jardins mais ne peuvent identifier leurs parcelles avec certitude; droits actuels inconnus.",
       "J11 : Tugay, Kübra et Nicolas visitent une pépinière oubliée, récupèrent équipement de semis et 5 sachets anciens à faible fiabilité. Arbustes vivants repérés, laissés en place. Nouveau projet de charbon non pesé; projet collectif d'équipement de chasse demeure non opérationnel. Aucun jet de dé.",
-      "Prolongation J11 19 h 30–minuit : Tugay et Kübra font un trajet nocturne au ruisseau et ramènent ~30 L d'eau brute. Les sept autres ramassent du bois, Tugay et Kübra les rejoignant après retour. ~29 kg de bois relativement sec et ~17 kg de bois humide en plus; fatigue élevée. Repos à minuit. Aucun jet de dé."
+      "Prolongation J11 19 h 30–minuit : Tugay et Kübra font un trajet nocturne au ruisseau et ramènent ~30 L d'eau brute. Les sept autres ramassent du bois, Tugay et Kübra les rejoignant après retour. ~29 kg de bois relativement sec et ~17 kg de bois humide en plus; fatigue élevée. Repos à minuit. Aucun jet de dé.",
+      "J12 : jour de repos collectif après heures supplémentaires J11; traitement eau brute et pesée approximative de deux lots de charbon; maquette et esquisses conceptuelles sans équipement opérationnel.",
+      "J13 : Tugay consacre une longue séance à son projet d'atelier, assemblage achevé mais aucune fiabilité garantie ni utilisation extérieure. Les autres missions produisent 7 plants vivants, repérage possible de panneaux solaires, pièces de chariot et fournitures. Aucun blessé ou jet."
     ]
   }
 }

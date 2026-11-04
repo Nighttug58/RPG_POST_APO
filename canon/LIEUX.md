@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 11
+# Registre des lieux — connus fin du jour 13
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -12,7 +12,7 @@
 | lieu-barbecue | Jardin collectif | Ancienne installation de chauffe extérieure |
 | lieu-garages | Garages/caves/maisons du quartier | Plusieurs fouilles; objets lourds laissés et localisés |
 | lieu-jardins-henri | Jardins familiaux | 8 parcelles visibles : 3 entretenues par Henri, 5 dont les propriétaires sont absents/inconnus. J8 : 2 des 5 préparées provisoirement, une partiellement semée; 3 restantes. Aucun transfert de propriété; serre tunnel partiellement protégée |
-| lieu-pepiniere | Ancienne pépinière évoquée par Nicolas | Visitée J11 par Tugay, Kübra et Nicolas; matériel horticole léger et 5 sachets anciens récupérés, arbustes fruitiers vivants probables laissés en place, structure de serre partiellement récupérable |
+| lieu-pepiniere | Ancienne pépinière évoquée par Nicolas | Visitée J11 par Tugay, Kübra et Nicolas; matériel horticole léger et cinq sachets anciens. Visite J13 par Henri, Nicolas et Sophie : deux cassissiers, trois framboisiers, deux touffes de ciboulette vivants récupérés, reprise non garantie; petite serre partiellement récupérable |
 | lieu-depot | Dépôt de maintenance mentionné par David | Non visité |
 | lieu-atelier-communal | Atelier mentionné par Marc | Non visité |
 | lieu-maison-marianne | Ancienne maison de Marianne | À environ 4 km du refuge; visitée le jour 7, Marianne était absente; note manuscrite menant à un local de jardinage proche |
@@ -23,3 +23,6 @@
 | lieu-sallaz-commerces | Anciens commerces de La Sallaz | Quelques locaux paraissent abandonnés et ont été explorés J9; d'autres espaces sont occupés, sans accès libre. |
 
 | lieu-jardins-boveresses | Jardins familiaux proches des Boveresses | Deux parcelles historiquement exploitées par Tugay et Kübra avant La Rupture (souvenir J11), à environ 20 minutes de marche du refuge. David et Sophie visitent J11; jardins partiellement entretenus, emplacements exacts et droits actuels non vérifiés, annexes paraissant abandonnées |
+
+| lieu-poste-police | Ancien poste de police du secteur | David examine les espaces accessibles J13, matériel civil léger récupéré, aucun armement ni local fermé exploré |
+| lieu-toit-solaire-repere | Toit d'un bâtiment technique repéré sur le trajet de David | Panneaux rectangulaires semblant photovoltaïques vus de loin J13; état, usage et propriétaire non vérifiés, aucune récupération |

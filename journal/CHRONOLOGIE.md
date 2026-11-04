@@ -148,3 +148,15 @@
 - Tugay et Kübra rapportent ~30 L d'eau brute du ruisseau avec le chariot vers 21 h 30; réserve séparée de l'eau traitée.
 - Les sept autres ramassent du bois près du refuge, puis Tugay et Kübra se joignent au travail. Bilan nocturne ~29 kg relativement secs + ~17 kg humides; 5 kg humides déjà présents au J11. Charbon J6/J11 toujours non pesé.
 - Consommation d'eau estimée +4 L durant ces heures; solde ~49 L traités et 30 L bruts. Fin du travail à minuit, repos nécessaire. Aucun jet de dé.
+
+## Mode continu — Jour 12 (rattrapage)
+- Repos communautaire sans expédition, réveil tardif.
+- 30 L bruts traités : ~28 L récupérés et ~18 L consommés, ~59 L traités / 0 L bruts.
+- Charbon J6 ~8,6 kg + J11 ~2,2 kg pesés approximativement, ~10,8 kg recensés. Nouveau lot J12 engagé avec ~10 kg bois, non mesuré; bois sec ~12 kg, humide ~22 kg.
+- Dossier d'atelier conceptuel, non opérationnel. Fin ~20 h 30, aucun jet.
+## Mode continu — Jour 13
+- Sophie participe le matin avec Henri/Nicolas à la pépinière (2 cassissiers, 3 framboisiers, 2 ciboulettes), puis l'après-midi au loot local avec Marianne (2 conserves à vérifier, bocaux, savon, torchons).
+- David visite un ancien poste de police (gilets réfléchissants, carte, lampe) et repère un toit à panneaux solaires apparents sans récupération.
+- Marc surveille et trouve 2 roues de vieux vélo et des planches pour un second chariot non opérationnel; Kübra rapporte ~7 kg bois relativement sec.
+- Élise rapporte ~24 L bruts, en traite 17 (~16 récupérés). Consommation ~18 L => fin J13 ~57 L traités, ~7 L bruts. 4 kg de bois pour chauffe => ~15 kg secs, 22 kg humides.
+- Charbon J12 ~1,7 kg mesuré, total J6/J11/J12 ~12,5 kg. Tugay achève un assemblage d'atelier sans validation de fiabilité ni usage. Aucune chasse, aucun jet. Fin ~20 h.
