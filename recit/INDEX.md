@@ -1,6 +1,7 @@
 # Index des chapitres — Les Cendres du Monde
 
-## Chapitre 001
-- [Scène 001 — Après la nuit](chapitre-001/scene-001.md) : Nighttug et Kubra sont dans une forêt au matin, en sécurité pour le moment, sans vivres ni arme. Ouverture au tour 0012.
+- [Chapitre 001, scène 001](chapitre-001/scene-001.md) : scène d'ouverture, archives des tours 1–16.
+- [Chapitre 017, scène 001 — Fondations du village](chapitre-017/scene-001.md) : synthèse des jours 2 à 6, sans rejouer les événements.
+- [Journal continu](../journal/CONTINUITE.md) : déroulement par journée, inventaires, faits et pistes.
 
-Le joueur décide de ses actions. Chaque décision est enregistrée séparément.
+**Mode en vigueur :** narration continue avec missions parallèles et décisions libres; plus de tour par tour.

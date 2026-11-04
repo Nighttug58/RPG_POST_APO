@@ -43,4 +43,10 @@
 
 ## Sauvegarde V2
 - Les documents narratifs en Markdown ne sont pas une seconde source des valeurs numériques.
-- Chaque décision validée ajoute un tour et un commit GitHub unique, après vérification de la cohérence.
+- En **mode continu**, les 16 tours du début restent archivés. La progression se consigne désormais par journées, scènes et checkpoints, avec des commits aux jalons narratifs ou sur demande.
+
+## Mode de jeu actif : simulation narrative continue
+- **Pas de tour par tour** : un message peut fixer plusieurs missions parallèles, des heures ou une journée entière. Le MJ résout les conséquences raisonnables et l'évolution simultanée des PNJ, sans imposer un cycle d'une action par réponse.
+- Laisser le joueur décider librement des actions et orientations importantes; ne pas afficher systématiquement de menus de choix A/B/C ou de bouton de validation.
+- Tenir compte de la fatigue, des ressources, de la durée du travail, des réserves et de l'incertitude. Ni succès arbitraire ni échec arbitraire. Les tests restent possibles mais ne sont pas requis pour chaque action et aucun jet non effectué n'est inventé.
+- Les sauvegardes suivent les **jalons** et les demandes explicites; distinguer stocks confirmés, estimés, consommés et en cours de production.

@@ -7,7 +7,7 @@
     "age": 31,
     "passe": "personnalise",
     "origine": "Ancien dessinateur 3D disposant de connaissances approfondies en informatique.",
-    "motivation": "Survivre avec Kubra dans les terres désolées en restant indépendants de toute communauté, établir des relations commerciales prudentes avec des marchands et trouver un refuge sécurisé.",
+    "motivation": "Avec Kübra, fonder puis développer une communauté volontaire, avec eau, alimentation, agriculture et entraide; objectif d'un village autonome.",
     "provenance": "Şarkışla, province de Sivas, Turquie",
     "histoire_familiale": "Petit-fils d'immigré ; détails familiaux non précisés.",
     "age_arrivee_lausanne": 10,
@@ -21,13 +21,14 @@
       "situation_actuelle": "Ensemble en 2043, voyageant ensemble ; solidarité et soutien mutuels affirmés."
     },
     "doctrine_survie": {
-      "priorite": "Survie de Nighttug et Kubra, prudence constante face aux risques.",
-      "confiance": "Méfiance absolue envers les inconnus ; Kubra demeure le lien de confiance établi.",
-      "autonomie": "Ne rejoindre aucune communauté.",
-      "commerce": "Entretenir des liens avec des marchands sans dépendre d'eux ni supposer qu'ils sont fiables.",
-      "abri": "Chercher un lieu sûr pour s'abriter durablement.",
-      "style": "Attitude vigilante inspirée de l'ambiance d'Escape from Tarkov, sans présumer d'une expérience militaire ni de menaces omniprésentes."
-    }
+      "priorite": "Survie et bien-être collectif sans négliger Kübra",
+      "confiance": "Prudence avec les inconnus et alliances progressives",
+      "autonomie": "Ancienne indépendance remplacée par le projet communautaire pendant les jours 3 à 6",
+      "commerce": "Entraide et échanges consentis",
+      "abri": "Appartement au 2e étage du bâtiment B",
+      "style": "Vigilance, observation, capacités non garanties"
+    },
+    "nom_usage_dans_recit": "Tugay"
   },
   "caracteristiques": {
     "force": 4,
@@ -68,9 +69,9 @@
   "etat_physique": {
     "sante": null,
     "blessures": [],
-    "fatigue": "Réveil après une nuit de repos, légère fatigue résiduelle possible ; niveau exact non chiffré.",
-    "faim": "Faim nettement atténuée après avoir partagé un canard bien cuit avec Kubra ; aucun surplus alimentaire.",
-    "hydratation": "Soif marquée persistante : toujours aucune eau potable consommée."
+    "fatigue": "Fatigué après travaux agricoles et manutention du jour 6; repos nocturne à venir",
+    "faim": "Besoins alimentaires réguliers, réserves de la communauté limitées",
+    "hydratation": "Approvisionnement communautaire en eau traité, non encore durable"
   },
   "progression": {
     "experience": null,
@@ -88,7 +89,8 @@
       "Tour 0012 : début effectif de la partie, au matin après une nuit passée en forêt. Nighttug et Kubra sont momentanément à l'abri d'un danger immédiat, habillés chaudement, mais sans provisions ni armes. Santé, fatigue, faim et hydratation ne sont pas chiffrées ; le lieu précis reste inconnu.",
       "Tour 0014 : campement de fortune discret trouvé et monté ; une capture de canard sauvage réussie, seconde manquée ; feu non obtenu après deux essais, filtre non fiable et pas d'eau potable. Kubra a découvert des végétaux et champignons non identifiés de manière sûre ; une motte prélevée ne garantit aucune culture. Des détonations lointaines ont été entendues à la tombée de la nuit.",
       "Tour 0015 : réveil à 05:00 dans le camp forestier ; Nighttug construit un second archet à friction grâce à son expérience et réussit, avec l'aide de Kubra, à entretenir un petit feu. Test réel : 13 sur d20 + 5 = 18 contre 14. À 05:20, aucune eau potable ni nourriture consommée.",
-      "Tour 0016 : cuisson correcte d'un canard au feu du camp, repas partagé avec Kubra. Un peu de bois est préparé pour un futur usage de charbon sans charbon produit. Sortie vers la lisière de forêt pour examiner des maisons paraissant inoccupées ; première fouille infructueuse, aucune casserole. Aucune eau potable obtenue. Tests : cuisson 14 + 2 = 16 contre 12, recherche 11 + 1 = 12 contre 15."
+      "Tour 0016 : cuisson correcte d'un canard au feu du camp, repas partagé avec Kubra. Un peu de bois est préparé pour un futur usage de charbon sans charbon produit. Sortie vers la lisière de forêt pour examiner des maisons paraissant inoccupées ; première fouille infructueuse, aucune casserole. Aucune eau potable obtenue. Tests : cuisson 14 + 2 = 16 contre 12, recherche 11 + 1 = 12 contre 15.",
+      "Jours 2 à 6 : installation avec Kübra au bâtiment B; récupérations, travaux de l'eau, rencontre de Marc et des quatre habitants du bâtiment C; sept fondateurs de communauté et Henri allié. Tugay est désigné sous son prénom usuel dans le récit. Les aptitudes chiffrées restent celles créées aux tours 1 à 16; aucun nouveau jet inventé."
     ]
   }
 }

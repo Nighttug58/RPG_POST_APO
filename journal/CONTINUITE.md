@@ -1,0 +1,24 @@
+# Continuité — Partie en narration libre
+
+Les jours 2 à 6 ont déjà été joués dans la conversation mais n'avaient pas été committés. Résumé du canon public, sans jets inventés. L'ancien journal de 16 décisions reste inchangé.
+
+## Jour 2 — Refuge et premiers stocks
+Après cuisson du canard au camp forestier, Tugay et Kübra sortent du bois et explorent plusieurs logements, caves et garages. Ils trouvent des ustensiles de cuisine (casseroles, faitout), eau embouteillée, provisions, outils, vêtements et deux sacs. Ils occupent un appartement du 2e étage du bâtiment B. Tugay récupère du charbon déjà préparé et 3 L d'eau brute au ruisseau; les bouteilles brutes restent distinguées des réserves potables. Un réchaud de camping sans combustible, un chariot de courses et un barbecue extérieur sont repérés. Les premiers stocks sont organisés; première nuit dans des lits.
+
+## Jour 3 — Eau, sous-sol, communauté
+Tugay chauffe les 3 L d'eau brute sur le barbecue extérieur; le volume bouilli refroidi est estimé ~2,7 L. Un filtre artisanal à charbon/sable/cailloux est expérimental et ne certifie pas la potabilité; le bidon alimentaire 20 L est nettoyé sans désinfection confirmée. Le local technique du sous-sol fournit outils, 2 L d'eau scellée et un bidon neuf de 10 L. Les plans révèlent une citerne pluviale de 3 000 L. Des bruits conduisent à rencontrer Marc, ancien concierge. Après un contact prudent, Tugay lui offre eau et lentilles, puis propose une communauté volontaire. Marc présente Élise et les trois autres occupants du bâtiment C : David, Sophie et Nicolas. Une assemblée fonde une **communauté de sept** à l'essai pour sept jours (6 voix pour, 0 contre, 1 abstention); contributions volontaires, stock transparent et responsabilités révisables.
+
+## Jour 4 — Eau, recherches alimentaires et Henri
+Des équipes d'eau, de recherche alimentaire, de surveillance et d'inventaire commencent leurs missions. La chasse ne rapporte aucune prise, mais du gibier est aperçu. David constate une jauge donnant ~1 100 L dans la citerne pluviale, quantité non confirmée, pompe sans électricité, eau non potable. Des contenants alimentaires de capacité totale additionnelle de 26 L sont récupérés. Tugay et Nicolas découvrent des jardins familiaux, rencontrent **Henri**, 67 ans, jardinier expérimenté, qui donne ~3 kg de légumes et accepte de discuter d'une coopération. Trois parcelles appartiennent à son activité, cinq autres occupants inconnus. Serre tunnel à réparer.
+
+## Jour 5 — Grand ravitaillement avec chariot
+Tugay délègue la citerne à David et effectue quatre allers-retours dans des locaux accessibles. Sophie enregistre **15 L d'eau embouteillée**, **22 conserves**, riz, pâtes, avoine, farine, pois chiches, couscous, fruits secs, huile, lait, sauce, confiture, barres de céréales et de nombreux outils. Bidons supplémentaires de capacité 25 L : capacité alimentaire dédiée totale **81 L**, pas encore toute assainie. Des objets lourds restent à récupérer ultérieurement. Bilan de Sophie après inventaire du bâtiment C et les consommations : **20 L d'eau potable** et **33 conserves** au soir du jour 5. Le stock alimentaire exact doit être recompté après le jour 6. David confirme que la citerne pluviale ne résout pas le problème potable.
+
+## Jour 6 — Cultures et objectif charbon
+Tugay, Nicolas, David et Marc rendent visite à Henri. Deux de ses parcelles sont remises en état, deux planches supplémentaires préparées avec autorisation; une troisième parcelle de légumes reste en production. Plantation d'essai : 40 caïeux d'ail, épinards sous protection, fèves rustiques; pas de récolte immédiate. Henri révèle que sa sœur **Marianne**, 62 ans, travaillait en restauration collective et vivait à environ 4 km; elle n'a pas été retrouvée. Kübra, Élise et Sophie poursuivent l'eau : +17 L traités, -15 L consommés estimés = **~22 L** en fin de jour. Marc conserve la surveillance, David examine la citerne. Au soir, la communauté prépare un nouveau lot de charbon avec **objectif de 20 kg**, mais le matériau refroidit encore : masse réellement obtenue inconnue. Point final vers 21 h 30.
+
+## Dossiers ouverts au début du jour 7
+Vérifier la masse du charbon après refroidissement; poursuivre approvisionnement potable avec distinction des eaux; recompter nourriture; entretenir jardins; décider éventuellement d'une visite pacifique chez Marianne et de l'exploration du dépôt, de l'atelier communal et de la pépinière. Aucune réussite automatique ni menace inventée.
+
+## Nouveau contrat de jeu
+La narration est continue : plusieurs tâches ou journées par intention, des PNJ actifs simultanément, des durées/ressources/crédibilité suivies. Pas d'unité de tour, de jet systématique, de menu obligé ou de commit par micro-action. Checkpoints narratifs enregistrés aux jalons significatifs ou sur demande.

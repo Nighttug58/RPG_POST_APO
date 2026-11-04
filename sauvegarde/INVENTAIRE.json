@@ -1,62 +1,861 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
+  "reference": "Fin jour 6; inventaire du jour 5 reste dernier comptage alimentaire global",
   "objets": [
     {
-      "id": "tenue-chaude-nighttug",
-      "nom": "Vêtements chauds portés par Nighttug",
+      "id": "bidon20",
+      "nom": "Bidon alimentaire 20 L",
       "quantite": 1,
       "masse_unitaire_kg": null,
-      "porteur": "Nighttug",
-      "etat": "non_precise"
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "lavé, désinfection à faire",
+      "capacite_unitaire_l": 20
     },
     {
-      "id": "tenue-chaude-kubra",
-      "nom": "Vêtements chauds portés par Kubra",
+      "id": "bidon10-a",
+      "nom": "Bidon alimentaire 10 L",
       "quantite": 1,
       "masse_unitaire_kg": null,
-      "porteur": "Kubra",
-      "etat": "non_precise"
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "neuf, à vérifier",
+      "capacite_unitaire_l": 10
     },
     {
-      "id": "lot-bois-sec-001",
-      "nom": "Bois sec ramassé, stocké au camp",
-      "quantite": 1,
-      "masse_unitaire_kg": null,
-      "emplacement": "campement de fortune",
-      "etat": "Une partie utilisée pour la cuisson ; quelques morceaux préparés en vue d'un possible charbon, sans charbon produit"
-    },
-    {
-      "id": "plantes-et-terre-001",
-      "nom": "Végétaux et terre prélevés par Kubra, identification et viabilité incertaines",
-      "quantite": 1,
-      "masse_unitaire_kg": null,
-      "emplacement": "campement de fortune"
-    },
-    {
-      "id": "filtre-improvise-001",
-      "nom": "Dispositif de filtration rudimentaire, non fiable pour rendre l'eau potable",
-      "quantite": 1,
-      "masse_unitaire_kg": null,
-      "etat": "echec_du_test",
-      "emplacement": "campement de fortune"
-    },
-    {
-      "id": "archets-friction-001",
-      "nom": "Deux archets de friction improvisés pour l'allumage du feu",
+      "id": "jerricans10-j4",
+      "nom": "Jerricans alimentaires 10 L trouvés au jour 4",
       "quantite": 2,
       "masse_unitaire_kg": null,
-      "etat": "fonctionnels",
-      "emplacement": "campement de fortune"
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage",
+      "capacite_unitaire_l": 10
+    },
+    {
+      "id": "bouteilles2-j4",
+      "nom": "Bouteilles plastiques 2 L vides du jour 4",
+      "quantite": 3,
+      "masse_unitaire_kg": null,
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage",
+      "capacite_unitaire_l": 2
+    },
+    {
+      "id": "jerricans10-j5",
+      "nom": "Jerricans alimentaires 10 L trouvés au jour 5",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage",
+      "capacite_unitaire_l": 10
+    },
+    {
+      "id": "jerrican5-j5",
+      "nom": "Jerrican alimentaire 5 L trouvé au jour 5",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage",
+      "capacite_unitaire_l": 5
+    },
+    {
+      "id": "lot-001",
+      "nom": "Bouteilles PET 1,5 L réservées à l'eau brute",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-002",
+      "nom": "Entonnoir alimentaire",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-003",
+      "nom": "Brosse de nettoyage des contenants",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-004",
+      "nom": "Filtre expérimental sable/galets/charbon",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-005",
+      "nom": "Casserole inox 1,5 L avec couvercle",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-006",
+      "nom": "Faitout inox 8 L",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-007",
+      "nom": "Casserole inox 3 L",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-008",
+      "nom": "Marmite inox 5 L",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-009",
+      "nom": "Poêle aluminium",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-010",
+      "nom": "Bouilloire inox",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-011",
+      "nom": "Réchaud sans combustible",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-012",
+      "nom": "Gobelets métalliques",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-013",
+      "nom": "Cuillères",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-014",
+      "nom": "Fourchettes",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-015",
+      "nom": "Couteau de cuisine",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-016",
+      "nom": "Ouvre-boîtes manuels",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-017",
+      "nom": "Passoire métallique",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-018",
+      "nom": "Louche métallique",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-019",
+      "nom": "Planche à découper",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-020",
+      "nom": "Grille de barbecue",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "cuisine",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-021",
+      "nom": "Couteau suisse multifonction",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-022",
+      "nom": "Scie pliante",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-023",
+      "nom": "Tournevis à embouts",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-024",
+      "nom": "Clé à molette",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-025",
+      "nom": "Pince universelle",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-026",
+      "nom": "Niveau à bulle",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-027",
+      "nom": "Rouleau de ruban PTFE",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-028",
+      "nom": "Joints de plomberie",
+      "quantite": 6,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-029",
+      "nom": "Boîtes de vis et rondelles",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-030",
+      "nom": "Rouleaux de ruban adhésif renforcé",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-031",
+      "nom": "Cordelette synthétique lot 8 m",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-032",
+      "nom": "Corde synthétique lot 15 m",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-033",
+      "nom": "Rouleau de ficelle",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-034",
+      "nom": "Rouleau de fil de fer souple",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-035",
+      "nom": "Paire de gants de travail",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-036",
+      "nom": "Petite pelle de jardin",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-037",
+      "nom": "Sécateur",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-038",
+      "nom": "Arrosoirs de 10 L",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-039",
+      "nom": "Seaux plastiques 10 L",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-040",
+      "nom": "Seau 12 L",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-041",
+      "nom": "Bassine de nettoyage",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-042",
+      "nom": "Tuyau d'arrosage 10 m",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "agriculture",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-043",
+      "nom": "Chariot de courses",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "transport",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-044",
+      "nom": "Sacs à dos",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "transport",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-045",
+      "nom": "Lampe frontale",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "eclairage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-046",
+      "nom": "Lampe torche à piles",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "eclairage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-047",
+      "nom": "Lampe LED rechargeable",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "eclairage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-048",
+      "nom": "Lampe de travail LED",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "eclairage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-049",
+      "nom": "Radio à piles à tester",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "communication",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-050",
+      "nom": "Piles AAA (à l'unité)",
+      "quantite": 4,
+      "masse_unitaire_kg": null,
+      "categorie": "eclairage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-051",
+      "nom": "Paquet de piles AAA, nombre inconnu",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "eclairage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-052",
+      "nom": "Briquets",
+      "quantite": 3,
+      "masse_unitaire_kg": null,
+      "categorie": "combustible",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-053",
+      "nom": "Bougies",
+      "quantite": 12,
+      "masse_unitaire_kg": null,
+      "categorie": "eclairage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-054",
+      "nom": "Trousse de premiers secours",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "soins",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-055",
+      "nom": "Compresses",
+      "quantite": 50,
+      "masse_unitaire_kg": null,
+      "categorie": "soins",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-056",
+      "nom": "Boîte de pansements",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "soins",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-057",
+      "nom": "Bandes médicales",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "soins",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-058",
+      "nom": "Savons emballés",
+      "quantite": 3,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-059",
+      "nom": "Brosses à dents neuves",
+      "quantite": 4,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-060",
+      "nom": "Tube de dentifrice",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-061",
+      "nom": "Lots de chiffons propres",
+      "quantite": 3,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-062",
+      "nom": "Sacs-poubelle",
+      "quantite": 20,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-063",
+      "nom": "Couverture polaire",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "couchage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-064",
+      "nom": "Couvertures épaisses",
+      "quantite": 4,
+      "masse_unitaire_kg": null,
+      "categorie": "couchage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-065",
+      "nom": "Bonnets",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "vetements",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-066",
+      "nom": "Ponchos imperméables",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "vetements",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-067",
+      "nom": "Paires de chaussettes chaudes",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "vetements",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-068",
+      "nom": "Veste chaude pour Kübra",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "vetements",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-069",
+      "nom": "Vestes imperméables",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "vetements",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-070",
+      "nom": "Paire de chaussures de randonnée pour Kübra",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "vetements",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-071",
+      "nom": "Petite serviette",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-072",
+      "nom": "Serviettes de bain",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "hygiene",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-073",
+      "nom": "Caisse de rangement plastique",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "stockage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-074",
+      "nom": "Carte routière régionale",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "documents",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-075",
+      "nom": "Plans techniques immeuble",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "documents",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-076",
+      "nom": "Classeur de maintenance",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "documents",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-077",
+      "nom": "Carnet d'inventaire",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "documents",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-078",
+      "nom": "Stylos",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "documents",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-079",
+      "nom": "Lances rustiques improvisées, performance non garantie",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "narration",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-080",
+      "nom": "Tenue chaude portée par Tugay",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "vetements",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "lot-081",
+      "nom": "Tenue chaude portée par Kübra",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "vetements",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "à contrôler avant usage"
+    },
+    {
+      "id": "archets-camp",
+      "nom": "Archets artisanaux conservés au camp forestier (présence non revérifiée)",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "ancien_camp",
+      "emplacement": "ancien camp forestier",
+      "etat": "historique non contrôlé"
     }
   ],
   "consommables": {
-    "eau_potable_l": 0,
-    "nourriture_portions": 0,
-    "soins_unites": 0
+    "eau_potable_l": 22,
+    "nourriture_portions": null,
+    "soins_unites": null,
+    "eau_statu": "22 L estimés au soir du jour 6 après production d'environ 17 L et consommations d'environ 15 L depuis les 20 L de fin jour 5",
+    "charbon_disponible_kg": null,
+    "charbon_dernier_comptage_kg": 5.4,
+    "charbon_dernier_comptage_jour": 3,
+    "charbon_en_cours": {
+      "objectif_kg": 20,
+      "etat": "en_refroidissement_fin_jour_6",
+      "obtenu_kg": null
+    },
+    "citerne_pluie": {
+      "volume_nominal_l": 3000,
+      "jauge_estimee_l": 1100,
+      "volume_confirme_l": null,
+      "potable": false,
+      "pompe": "inactive"
+    },
+    "denrees_dernier_comptage": {
+      "jour": 5,
+      "conserves_total": 33,
+      "riz_pates_kg_estime": 5.5,
+      "autres_cereales_flocons_semoule_kg_estime": 2.25,
+      "legumineuses_seches_kg": 1,
+      "farine_kg": 0.5,
+      "fruits_secs_et_noix_kg": 0.9,
+      "huile_olive_l": 1,
+      "lait_uht_l": 1,
+      "barres_cereales_dernier_compte": 8,
+      "miel_g_dernier_compte": 230,
+      "confiture_g": 350,
+      "sauce_tomate_bocaux": 2,
+      "legumes_henri": "~3 kg donnés au jour 4, reste inconnu",
+      "attention": "Repas du jour 6 non comptés, valeurs datées non garanties actuelles"
+    }
+  },
+  "capacites": {
+    "contenants_alimentaires_nominale_l": 81,
+    "etat": "certains à nettoyer/désinfecter; ce n'est pas le volume d'eau potable réel"
   },
   "charge": {
     "capacite_kg": null
   },
-  "notes": "Tour 0016 : un canard a été correctement cuit et entièrement partagé par Nighttug et Kubra ; aucune réserve de nourriture restante. Du bois a été préparé pour la production éventuelle de charbon, mais aucun charbon n'a été obtenu. Les deux archets, le filtre non fiable et les végétaux non identifiés restent au camp forestier, ainsi que le bois restant. Le couple se trouve désormais près des maisons à la lisière, habillé chaudement ; aucune casserole ni eau potable récupérée."
+  "objets_reperes_non_recuperes": [
+    "Établi métallique lourd",
+    "Armoire à outils",
+    "Échelle aluminium 3 m",
+    "Récupérateur d'eau pluie vide ~200 L",
+    "Brouette roue à contrôler",
+    "Vélo pneus dégonflés",
+    "Caisse à outils lourde",
+    "Radio hors service"
+  ],
+  "notes": "Ne pas compter l'eau pluviale comme potable. Le filtre sable/charbon n'est pas certifié. Le charbon visé à 20 kg reste en cours : pas de stock acquis. Les denrées comptées au jour 5 ne sont pas ajoutées comme objets pour éviter le double comptage. Les outils d'Henri restent sa propriété."
 }

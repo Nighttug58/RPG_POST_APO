@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : tour 0 — création du personnage non commencée, aucun passé sélectionné.**
+**État : fin du jour 6, novembre 2043, sept membres dans une communauté de quartier. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
 
 ## Architecture V2
 
@@ -42,7 +42,7 @@ Avec l'accès GitHub connecté, envoyer :
 
 > Reprends Les Cendres du Monde depuis Nighttug58/RPG_POST_APO. Lis le point de reprise, l'état, le personnage, l'inventaire, les règles, les dernières décisions et les scènes récentes, puis continue au dernier tour committé.
 
-**Un choix de jeu validé = un commit** nommé `jeu(tour-XXXX): ...`. Une intervention hors-jeu ne change pas le tour. Le MJ ne promet jamais de commits en arrière-plan et signale explicitement tout échec GitHub.
+**NOUVEAU MODE : pas de tour par tour.** Le joueur peut donner des plans couvrant des actions simultanées ou des journées entières. Le MJ raconte en continu sans imposer des menus; commits aux jalons importants ou à la demande. Les 16 tours historiques restent conservés. Aucun travail différé promis.
 
 ## Vérification
 Lancer `python3 scripts/valider_sauvegarde.py`. Un workflow GitHub Actions vérifie automatiquement le dépôt après les modifications. La validation structurelle ne remplace pas le contrôle de cohérence du récit.
@@ -60,3 +60,6 @@ Pour l'ouvrir comme un site web, activer **Settings → Pages → Deploy from a 
 Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ lit directement les JSON GitHub et présente un panneau dans le chat. Le navigateur GitHub Pages et la fiche du chat consultent les mêmes fichiers, mais **le JavaScript du dépôt ne s'exécute pas dans le chat**.
 
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
+
+## Reprise actuelle
+Lire [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md), [CONTINUITE jours 2 à 6](journal/CONTINUITE.md), [INVENTAIRE](sauvegarde/INVENTAIRE.json) et [REGLES](docs/REGLES.md). Les données de nourriture datent du dernier inventaire du jour 5; la réserve d'eau au soir du jour 6 est estimée à 22 L; le lot de charbon visant 20 kg n'est pas encore pesé.

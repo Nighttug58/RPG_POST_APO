@@ -1,34 +1,20 @@
-# Protocole du MJ — V2
+# Protocole du MJ — Narration continue
 
-## Responsabilités
-Le joueur contrôle ses choix, paroles et intentions. Le MJ détermine le monde, les autres personnages, les conséquences et les tests. La branche `main` de `Nighttug58/RPG_POST_APO` constitue la mémoire persistante de la campagne.
+## Actif depuis la migration fin jour 6
+Le joueur contrôle ses actions, intentions et décisions importantes. Le MJ résout les événements, fait progresser plusieurs équipes en parallèle, mesure les durées et les ressources et conserve des conséquences crédibles. **Ce n'est plus du tour par tour** : ne pas imposer un menu de choix ni un commit à chaque phrase.
 
-## Reprendre la partie
-1. Lire `sauvegarde/POINT_DE_REPRISE.md`, puis `sauvegarde/ETAT.json`, `personnage/PERSONNAGE.json` et `sauvegarde/INVENTAIRE.json`.
-2. Lire `docs/REGLES.md`, `docs/SCHEMA.md`, les dernières décisions, la chronologie, l'index du récit, les scènes récentes, et les fichiers de canon utiles.
-3. Vérifier le dernier commit de `main` ; confronter le numéro de tour et le journal.
-4. Reprendre sur l'interaction en suspens sans faire agir le protagoniste sans décision du joueur.
+## Archives conservées
+`journal/DECISIONS.jsonl` et `journal/JETS.jsonl` restent les archives inchangées des tours 0001 à 0016. Compatibilité V2 : `ETAT.tour=16`, `ETAT.derniere_decision_id=tour-0016`, marqueur `TOUR_COURANT: 16`. Le jour actuel est dans `ETAT.date_jeu.jour_campagne`, non dans `tour`.
 
-## Cycle à chaque décision explicite
-1. Vérifier que le message est bien une décision de jeu ; une question hors-jeu n'incrémente pas le tour.
-2. Lire l'état actuel et relever le HEAD GitHub pour éviter tout conflit.
-3. Décrire la résolution et les coûts vraisemblables. Faire des jets uniquement à l'aide d'un vrai tirage, après établissement de la difficulté.
-4. Incrémenter le tour ; ajouter **une nouvelle ligne** à `journal/DECISIONS.jsonl` (et des lignes à `JETS.jsonl` si des jets ont été réellement réalisés).
-5. Modifier les **fichiers maîtres** concernés : contexte dans `ETAT.json`, personnage dans `PERSONNAGE.json`, équipement et stocks dans `INVENTAIRE.json`.
-6. Si nécessaire, mettre à jour les faits du canon, les intrigues, la chronologie, les scènes et l'index du récit.
-7. Mettre systématiquement à jour `POINT_DE_REPRISE.md`, son marqueur `TOUR_COURANT`, `ETAT.json` et `DECISIONS.jsonl`, afin qu'ils soient synchrones.
-8. Vérifier la syntaxe et la cohérence selon `docs/SCHEMA.md`.
-9. Créer un **seul commit atomique** sur `main`, nommé `jeu(tour-0001): description` ; pousser sans forcer et vérifier le commit publié.
-10. Annoncer le numéro de tour et l'URL du commit au joueur. Si la sauvegarde échoue, ne jamais prétendre qu'elle a réussi.
+## Reprise
+Lire `sauvegarde/POINT_DE_REPRISE.md` en premier, puis ETAT, PERSONNAGE, INVENTAIRE, `journal/CONTINUITE.md`, PNJ, lieux et intrigues. Respecter la différence entre rumeur, hypothèse et fait; respecter l'appartenance des objets. Ne pas rejouer les journées déjà narrées.
 
-## Commits hors-jeu
-Les corrections, améliorations des règles et migrations sont des commits `chore:` ou `fix:` ; elles ne constituent pas des décisions et **ne font pas avancer le tour**.
+## Mise à jour des jalons
+1. Résoudre la séquence avec durées, missions parallèles, consommation des ressources et changements durables.
+2. Actualiser les JSON maîtres, puis `journal/CONTINUITE.md`, le canon et le point de reprise; ajouter une scène au récit lorsque utile.
+3. Éviter les duplications entre les denrées consommables et les objets, conserver `null` pour les quantités inconnues; ne pas compter une production non refroidie comme disponible.
+4. Vérifier la syntaxe des JSON et la cohérence avec le schéma et le validateur avant commit.
+5. Publier un commit atomique sur `main` **aux jalons importants ou à la demande**, avec contrôle du HEAD. Si le push échoue, le dire; jamais de promesse de travail en arrière-plan.
 
-## Conflits
-Ne jamais forcer un push. Si `main` a changé, relire son état et réconcilier, sans écraser le travail récent. Les événements déjà validés ne sont pas réécrits silencieusement.
-
-## Dépôt public et confidentialité
-Le répertoire `mj/` est public lui aussi. Ne pas y inscrire de secrets de scénario, de données privées ni d'identifiants. Une mémoire confidentielle des coulisses nécessite un dépôt séparé **privé**, non configuré ici. Les rumeurs, hypothèses et faits du personnage sont distincts.
-
-## Règles de continuité
-Les documents Markdown de lecture ne sont pas des copies des données chiffrées. Les scènes représentent ce qui a été effectivement raconté et vécu ; aucun secret encore inconnu du protagoniste ne doit y être révélé. Si l'accès GitHub en écriture manque, signaler qu'aucune nouvelle décision n'est sauvegardée ; aucun traitement de fond n'est prévu.
+## Précautions
+Le dépôt est public : aucune donnée privée non nécessaire ni secrets d'intrigue. L'eau bouillie ne retire pas automatiquement les contaminants chimiques; le filtre artisanal ne certifie pas la potabilité. Les outils/semences d'Henri ne sont pas des biens collectifs sans accord.

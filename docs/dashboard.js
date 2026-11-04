@@ -96,7 +96,8 @@
     const root = reset($("summary"));
     const place = state.localisation?.lieu_precis || state.localisation?.region || null;
     const phase = state.phase === "creation_personnage" ? "Création du personnage" : state.phase;
-    tile(root, "Tour sauvegardé", state.tour);
+    tile(root, "Jour de campagne", state.date_jeu?.jour_campagne ?? MISSING);
+    tile(root, "Tours historiques", state.tour);
     tile(root, "Phase", phase);
     tile(root, "Localisation", place);
     tile(root, "Année fictive", state.date_jeu?.annee ?? null);
@@ -220,7 +221,7 @@
       const clock = new Date().toLocaleTimeString("fr-CH", {
         hour: "2-digit", minute: "2-digit", second: "2-digit"
       });
-      status("Lecture GitHub réussie à " + clock + " · Tour " + state.tour +
+      status("Lecture GitHub réussie à " + clock + " · Jour " + (state.date_jeu?.jour_campagne ?? "?") +
         " · Affichage en lecture seule.");
     } catch (error) {
       status("Impossible d'actualiser : " + error.message +

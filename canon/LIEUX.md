@@ -1,16 +1,18 @@
-# Registre des lieux
+# Registre des lieux — connus fin du jour 6
 
-**Statut :** première scène ouverte dans une forêt de localisation précise inconnue, région lémanique.
-
-| ID | Lieu | Statut | Description établie | Dernière visite |
-| --- | --- | --- | --- | --- |
-| — | Région lémanique, Suisse romande | Région générale du cadre | Monde post-Rupture fragmenté | — |
-| lieu-foret-001 | Forêt au nord de Lausanne | Lieu d'ouverture | Nighttug et Kubra ont passé la nuit sur place, après leur fuite. Leur ancien camp se situait vers La Sallaz, avant Sauvabelin ; point exact inconnu. | Tour 0012 |
-
-| lieu-ruisseau-001 | Petit cours d'eau dans les bois au nord de Lausanne | Découvert au tour 0013 | Le duo l'a atteint après 25 minutes de marche vers le sud. Eau observée, potabilité non évaluée. Proximité du secteur La Sallaz–Sauvabelin ; coordonnées et nom exact inconnus. | Tour 0013 |
-
-| lieu-camp-forestier-001 | Abri forestier discret proche du ruisseau | Nuit du tour 0014 | Campement temporaire à l'écart des passages apparents, protégé partiellement du vent. Pas de feu entretenu ni d'eau potable. Tirs très lointains entendus ; aucune présence hostile sur place observée. | Tour 0014 |
-
-| lieu-maisons-lisiere-001 | Premières habitations à la lisière du bois au nord de Lausanne | Vues et approchées au tour 0016 | Plusieurs constructions semblent délaissées, sans preuve qu'elles soient toutes inoccupées ; première recherche d'une casserole infructueuse. Aucun individu vu. Position exacte inconnue. | Tour 0016 |
-
-Ajouter chaque lieu important avec une identité stable, sa situation observable, les ressources réellement connues, les risques observés et les changements provoqués par le joueur. Ne pas inventer de contenu non rencontré.
+| ID | Lieu | Faits et limites |
+|---|---|---|
+| lieu-foret-001 | Forêt nord de Lausanne | Fuite initiale et premières reconnaissances; détails exacts inconnus |
+| lieu-ruisseau-001 | Ruisseau forestier | Eau claire, mais qualité chimique non analysée; approvisionnement brut |
+| lieu-camp-forestier-001 | Campement initial | Premier feu et repas; camp désormais délaissé |
+| lieu-maisons-lisiere-001 | Habitations de lisière | Premières recherches et fouilles |
+| lieu-refuge-b | Immeuble B, appartement 2e étage | Refuge de Tugay et Kübra, inventaire communautaire réparti |
+| lieu-communs-c | Immeuble C, salle commune | Réunions et stock communautaire |
+| lieu-citerne | Sous le jardin de l'immeuble | Citerne pluviale 3 000 L nominal, jauge ~1 100 L non vérifiée, pompe inactive |
+| lieu-barbecue | Jardin collectif | Ancienne installation de chauffe extérieure |
+| lieu-garages | Garages/caves/maisons du quartier | Plusieurs fouilles; objets lourds laissés et localisés |
+| lieu-jardins-henri | Jardins familiaux | 8 parcelles visibles, 3 entretenues par Henri, 5 propriétaires inconnus; serre tunnel abîmée |
+| lieu-pepiniere | Pépinière mentionnée par Nicolas | Non visitée, ressources possibles non vérifiées |
+| lieu-depot | Dépôt de maintenance mentionné par David | Non visité |
+| lieu-atelier-communal | Atelier mentionné par Marc | Non visité |
+| lieu-maison-marianne | Maison de Marianne | Environ 4 km selon Henri; état inconnu |

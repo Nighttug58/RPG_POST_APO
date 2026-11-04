@@ -3,54 +3,122 @@
   "campagne": "Les Cendres du Monde",
   "depot": "Nighttug58/RPG_POST_APO",
   "branche": "main",
-  "phase": "jeu",
+  "phase": "jeu_continu",
   "etape_creation": "terminee",
   "tour": 16,
   "derniere_decision_id": "tour-0016",
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "07:25",
+    "heure": "21:30",
     "saison": "hiver_approche",
-    "minutes_ecoulees_depuis_ouverture": 1130
+    "minutes_ecoulees_depuis_ouverture": null,
+    "jour_campagne": 6,
+    "mois": "novembre"
   },
   "localisation": {
-    "region": "Suisse romande / région lémanique",
-    "lieu_precis": "Lisière de la forêt au nord de Lausanne, près d'un petit ensemble de maisons en apparence abandonnées, secteur Sauvabelin–La Sallaz ; coordonnées inconnues",
+    "region": "Suisse romande, région lausannoise",
+    "lieu_precis": "Quartier résidentiel, appartement-refuge au 2e étage du bâtiment B; salle communautaire du bâtiment C",
     "coordonnees": null
   },
   "conditions": {
-    "meteo": null,
-    "luminosite": "matin",
+    "meteo": "Soir froid de novembre; valeur exacte non vérifiée",
+    "luminosite": "nuit",
     "menaces_immediates": [],
     "bruits_lointains": [
-      "Quelques détonations lointaines ressemblant à des coups de feu ; origine inconnue."
+      "Moteurs de véhicules signalés à plusieurs reprises, occupants non identifiés"
     ],
-    "feu_camp": "Un petit feu a servi à cuire le canard au camp. Le foyer est resté au camp forestier et n'est pas transporté avec le duo."
+    "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
+    "risques": [
+      "Réserves alimentaires insuffisantes",
+      "Traitement d'eau rudimentaire",
+      "Qualité chimique du ruisseau inconnue",
+      "Lot de charbon visé à 20 kg encore en refroidissement"
+    ]
   },
   "progression": {
     "objectifs_actifs": [
-      "objectif-commun-001",
-      "objectif-ravitaillement-001"
+      "objectif-eau-001",
+      "objectif-nourriture-001",
+      "objectif-village-001",
+      "objectif-jardins-001",
+      "objectif-charbon-001",
+      "objectif-marianne-001"
     ],
-    "pistes_ouvertes": [],
+    "pistes_ouvertes": [
+      "piste-citerne",
+      "piste-serre",
+      "piste-marianne",
+      "piste-depot",
+      "piste-survivants"
+    ],
     "pnj_connus": [
-      "pnj-kubra"
+      "pnj-kubra",
+      "pnj-marc",
+      "pnj-elise",
+      "pnj-david",
+      "pnj-sophie",
+      "pnj-nicolas",
+      "pnj-henri"
     ],
-    "factions_connues": [],
+    "factions_connues": [
+      "communaute-quartier"
+    ],
     "lieux_visites": [
       "lieu-foret-001",
       "lieu-ruisseau-001",
       "lieu-camp-forestier-001",
-      "lieu-maisons-lisiere-001"
+      "lieu-maisons-lisiere-001",
+      "lieu-refuge-b",
+      "lieu-communs-c",
+      "lieu-citerne",
+      "lieu-jardins-henri",
+      "lieu-garages"
     ]
   },
-  "chapitre_actuel": "chapitre-001",
-  "derniere_scene_canonique": "recit/chapitre-001/scene-001.md",
-  "prochaine_action": "Près d'habitations en apparence abandonnées, aucune casserole encore trouvée. Nighttug peut choisir d'inspecter autrement, revenir au camp ou poursuivre; eau potable toujours absente.",
+  "chapitre_actuel": "chapitre-017",
+  "derniere_scene_canonique": "recit/chapitre-017/scene-001.md",
+  "prochaine_action": "Jour 7 non commencé : décisions libres du joueur. Vérifier/peser le charbon froid (objectif non confirmé : 20 kg); projet de visite avec Henri chez sa sœur Marianne (~4 km); poursuivre eau, alimentation et cultures, sans issue préétablie.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
     "statut": "partie_en_cours"
+  },
+  "mode_jeu": "narration_continue",
+  "communaute": {
+    "nom": "Communauté du quartier",
+    "statut": "Essai de 7 jours voté à 6 pour, 0 contre, 1 abstention",
+    "membres_confirmes": 7,
+    "membres": [
+      "Tugay (Nighttug)",
+      "Kübra",
+      "Marc",
+      "Élise",
+      "David",
+      "Sophie",
+      "Nicolas"
+    ],
+    "allies_non_membres": [
+      "Henri"
+    ],
+    "batiments": [
+      "B",
+      "C"
+    ],
+    "ambition": "Village autonome, résilient et solidaire",
+    "objectif_court_terme": "7 jours d'eau et nourriture pour 7 survivants",
+    "objectif_atteint": false
+  },
+  "checkpoint": {
+    "id": "fin-j06-2130",
+    "jour": 6,
+    "heure": "21:30",
+    "description": "Rattrapage du récit des jours 2 à 6 et migration en narration continue"
+  },
+  "protocole": {
+    "archives_tours_figees": 16,
+    "progression": "Jours/scènes/missions parallèles",
+    "commits": "Sur jalons narratifs ou demande explicite, pas un commit par action",
+    "menus_choix": "Non obligatoires; laisser le joueur décider librement"
   }
 }

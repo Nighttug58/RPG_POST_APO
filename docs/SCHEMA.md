@@ -38,7 +38,7 @@ Le fichier contient `identite`, `caracteristiques` (six attributs, de 1 à 5 si 
 Chaque ligne JSONL contient un objet JSON, sans ligne vide. Dans `DECISIONS.jsonl`, chaque choix ajoute une ligne avec les clés :
 `id`, `tour`, `phase`, `choix_joueur`, `consequences`, `temps_ecoule_minutes`, `lieu_apres`.
 
-Les décisions doivent avoir les identifiants `tour-0001`, `tour-0002`, etc., dans l'ordre. `ETAT.tour` correspond au nombre de décisions. `ETAT.derniere_decision_id` est null au tour 0 ; sinon c'est l'identifiant du dernier choix.
+Dans l'archive initiale (16 tours), les décisions sont numérotées `tour-0001`, etc. Depuis le mode continu, `ETAT.tour=16` et `derniere_decision_id=tour-0016` sont figés à des fins de compatibilité. Les nouveaux jalons sont datés par `date_jeu.jour_campagne` et `checkpoint` et décrits dans `journal/CONTINUITE.md`.
 
 Dans `JETS.jsonl`, chaque entrée contient `tour`, `raison`, `d20`, `bonus`, `difficulte`, `total`, `reussite`, `effet`. Aucun jet imaginaire ne doit être enregistré comme aléatoire.
 
@@ -47,3 +47,6 @@ Créer `recit/chapitre-001/scene-001.md` seulement au début effectif de la part
 
 ## Reprise et contrôle
 `POINT_DE_REPRISE.md` doit contenir un marqueur `<!-- TOUR_COURANT: N -->`, synchronisé avec `ETAT.tour`, et la section `PROCHAINE INTERACTION`. Lancer `python3 scripts/valider_sauvegarde.py` avant chaque commit de décision, quand l'exécution locale est disponible. GitHub Actions déclenche aussi la validation après un push.
+
+## Extension V2, narration continue
+`ETAT.mode_jeu="narration_continue"` ; `date_jeu.jour_campagne` est la date relative en jeu, `checkpoint.id` identifie le jalon. Les 16 décisions anciennes et leurs jets restent immuables. Les quantités dans `INVENTAIRE.consommables` peuvent être des derniers comptages datés, avec `null` pour les soldes inconnus; `INVENTAIRE.objets[].capacite_unitaire_l` permet de dériver la capacité des contenants alimentaires. `POINT_DE_REPRISE` conserve le marqueur tour historique 16, sans indiquer que la fiction s'y trouve encore.

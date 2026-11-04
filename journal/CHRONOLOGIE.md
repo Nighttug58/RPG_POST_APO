@@ -8,7 +8,7 @@
 - **Tour 0 :** installation du système de suivi ; **aucune action jouée et aucun choix de personnage enregistré**.
 
 ## Événements dans la fiction
-*Aucun événement jouable n'a encore eu lieu.*
+*Les scènes initiales ont été jouées aux tours 0012–0016, puis le jeu a continué en journées. Voir le journal de continuité pour le rattrapage.*
 
 À chaque décision, ajouter un résumé factuel daté (si le temps fictif est connu), lié à son numéro de tour. Distinguer explicitement la date réelle d'enregistrement et la date de la fiction.
 
@@ -103,3 +103,11 @@
 - Nighttug et Kubra quittent l'abri forestier afin de rechercher une casserole près des maisons de la lisière. Les bâtiments semblent délaissés, sans preuve d'absence d'occupants.
 - Première recherche infructueuse (11 + 1 = 12 contre 15). Pas de récipient retrouvé, pas de nouveau contact observé.
 - **Temps du tour :** 125 minutes. **Heure finale estimée :** 07:25 ; **cumul :** 1130 minutes depuis l'ouverture. Deux jets consignés.
+
+## Rattrapage narratif — Jours 2 à 6
+- Jour 2 : loot de logements, ustensiles, eau, nourriture, sacs et chariot; appartement au bâtiment B utilisé comme refuge.
+- Jour 3 : eau de ruisseau bouillie, stockage limité, sous-sol et citerne repérés; Marc puis les habitants du bâtiment C rencontrés; communauté de sept fondée.
+- Jour 4 : missions parallèles eau, surveillance et nourriture; pas de chasse réussie; découverte d'Henri et des jardins; jauge citerne ~1 100 L, non potable et non vérifiée.
+- Jour 5 : quatre tournées de récupération de Tugay; Sophie enregistre 15 L d'eau embouteillée, 22 conserves et de nombreux objets; bilan consolidé 20 L potable et 33 conserves; contenance de récipients dédiés 81 L.
+- Jour 6 : travail agricole chez Henri, plantations d'essai; projet de recherche de Marianne (sœur d'Henri); ~22 L d'eau potable estimés en fin de journée; charbon **visant** 20 kg toujours en refroidissement.
+- À partir de ce point : narration continue par jalons. Aucun jet inventé et les tours historiques restent figés.

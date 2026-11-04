@@ -1,29 +1,11 @@
-# Objectifs et pistes
+# Objectifs actifs — fin jour 6
 
-## Préparation hors-jeu
-- [x] Définir le passé.
-- [x] Définir l'identité, la motivation et le contexte de départ (détails historiques secondaires ouverts).
-- [x] Répartir les attributs et compétences.
-- [x] Valider les qualités, faiblesses et moyens de départ (zero to hero : seuls vêtements chauds).
-- [x] Ouvrir la première scène de jeu (tour 0012).
+- **objectif-eau-001 (critique)** : environ 22 L d'eau potable estimés, 81 L de contenance dédiée à préparer; traitements par lots bouillis. Eau brute du ruisseau non analysée chimiquement; citerne d'eau pluviale non potable, niveau inconnu.
+- **objectif-nourriture-001 (critique)** : dernière photographie alimentaire jour 5 = 33 conserves plus denrées sèches; consommation jour 6 non détaillée. Chasse sans prise; culture lente.
+- **objectif-village-001** : sept membres et un allié (Henri). Rôles volontaires, veille, logistique et entraide.
+- **objectif-jardins-001** : trois parcelles d'Henri, deux remises en état, nouvelles planches et plantations de saison; cinq autres parcelles pas encore autorisées.
+- **objectif-charbon-001** : vérifier au jour 7 le lot refroidi, **cible de 20 kg non encore mesurée**. Dernière réserve utilisable avant plusieurs chauffes non comptées.
+- **objectif-marianne-001** : éventuelle visite pacifique à la sœur d'Henri, ~4 km; présence, sécurité et autres survivants inconnus.
 
-## Objectifs personnels établis pendant la création
-
-### objectif-commun-001 — Survivre en autonomie avec Kubra
-- **Statut :** objectif commun actif ; aucun résultat encore obtenu.
-- **Fondement :** solidarité du couple (tour 0006), doctrine détaillée (tour 0007).
-- **Priorité :** assurer la survie de Nighttug et Kubra dans les terres désolées.
-- **Position :** rester un duo indépendant, sans appartenir à une communauté ; très grande méfiance envers les inconnus.
-- **Sous-objectif A — Contacts :** construire au fil des rencontres des relations commerciales prudentes avec des marchands ; **aucun contact marchand encore acquis**.
-- **Sous-objectif B — Refuge :** trouver un lieu de vie plus sûr pour le couple ; **aucun refuge encore identifié ou possédé**.
-- **Méthode :** rester attentifs à l'environnement, préserver leur entraide et choisir librement leurs actions ; une vigilance constante ne signifie pas que chaque bruit est une menace avérée.
-- **À définir en jeu :** ressources, lieux, marchands, opportunités, difficultés et conséquences.
-- **Attention :** ce n'est pas une mission prédestinée ; le couple peut ajuster ses priorités.
-
-### objectif-ravitaillement-001 — Ravitaillement
-Objectif actif au tour 0013 : obtenir eau potable et nourriture. Au tour 0014, un abri discret a été aménagé et un canard a été capturé, mais non cuit. Au tour 0015, le feu a été obtenu ; au tour 0016, le canard a été correctement cuit et partagé. La soif persiste : aucune eau potable obtenue. Les maisons semblent délaissées, mais la première recherche de casserole au tour 0016 n'a rien donné. Les végétaux sauvages ne sont pas identifiés de façon fiable.
-
-## Pistes de l'aventure
-*Aucune piste ni mission intradiégétique découverte pour le moment.*
-
-Toute piste doit avoir un identifiant, un statut (ouverte, résolue, abandonnée), un degré de certitude et le tour de sa découverte. Ne pas transformer une rumeur en vérité.
+## Autres pistes
+Serre tunnel à réparer; pépinière, atelier communal et dépôt technique évoqués sans exploration; citerne nécessitant diagnostic; véhicules et habitants non identifiés. Le prochain programme est laissé au joueur, sans agenda automatique.
