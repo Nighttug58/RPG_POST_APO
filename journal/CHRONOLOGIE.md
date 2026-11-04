@@ -227,3 +227,12 @@
 - Élise traite ~85 L pour ~82 L prêts durant la journée, groupe consomme ~18 L : fin ~108 L prêts + 20 L séparés, dans 151 L de contenants.
 - Le soir Élise/Marianne fument les 16 kg du chevreuil et lièvre J22 : stock durable ~24,6+16=40,6 kg, rien de frais à fumer.
 - Bois sec 83+28−18 utilisés=93 kg, humide 0 ; charbon 23,4 kg, conserves comestibles 39. Fin ~22 h 30, J24 non commencé.
+
+## Jour 24 — Que la lumière soit : premier jour d'hiver
+- −4 °C le matin, +1 °C au plus chaud; vent du nord, givre et averses de neige en fin de journée. Les sorties prolongées deviennent difficiles et les foyers doivent être protégés.
+- David coordonne le chantier électrique collectif avec notamment Tugay, Nicolas et Élise. Batterie solaire 8 kWh installée dans un endroit protégé vers 11 h; production/charge constatées vers 13 h 30 avec 4 panneaux. À 17 h 40, éclairage essentiel des bâtiments C puis B opérationnel, petits équipements rechargeables. Aucun chauffage électrique ni gros appareil; production/autonomie non mesurées.
+- Kübra/Sophie ramènent 56 kg de bois sec avec chariot renforcé. Chauffe, cuisine et eau utilisent ~16 kg. Bois 93+56−16=**133 kg**, humide 0. Charbon **23,4 kg**, aucune fabrication J24.
+- Tugay fixe les objectifs avant décembre : **200 kg bois sec** et **50 kg charbon**. Écarts de fin J24 **67 kg** et **26,6 kg**, avant dépenses futures.
+- Marc récupère 12 planches, utilise 8 pour auvent et protections latérales des foyers extérieurs; conserve 4 planches. Fixations/couverture sans quantités précises.
+- Henri/Marianne sèment épinards d'hiver et fèves dans les deux planches préparées J20 ; inspectent et entretiennent les cultures, jardins d'Henri et zones liées à Marianne. Quantité de graines non relevée; pas de récolte.
+- Eau prête 108 L, réserve séparée 20 L, viande fumée 40,6 kg, 39 conserves = **derniers comptes J23**, pas de nouveau bilan J24. Sept membres et deux alliés présents; aucune blessure ou scène supplémentaire déclarée. Checkpoint 17 h 40.

@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 23, novembre 2043. Batterie solaire domestique 8 kWh et gestion récupérées dans le local fermé, foyer d'eau triplé, ~108 L eau prête, ~93 kg de bois sec et 40,6 kg de viande fumée. Quatre panneaux fonctionnels, réseau électrique pas encore alimenté. Narration simplifiée, sans CI.**
+**État : fin du jour 24 (17 h 40), premier véritable jour d'hiver (−4 °C le matin, maximum +1 °C, neige en fin de journée). Réseau solaire autonome limité en service dans les bâtiments B et C : quatre panneaux, batterie 8 kWh, éclairage essentiel et petites recharges, sans chauffage. Bois sec 133 kg, charbon 23,4 kg ; objectif avant décembre 200/50 kg. Foyers abrités par Marc, semis d'hiver par Henri et Marianne.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J23 à 22 h 30 : Tugay, David et Marc ouvrent le local technique et rapportent une batterie domestique solaire 8 kWh, boîtier de gestion et documents, avec chariot renforcé ; 4 panneaux au refuge déjà fonctionnels, pas encore de courant dans les bâtiments. Henri/Nicolas triplent la capacité de préparation d'eau (~135 L/jour) ; Kübra/Sophie rapportent 80 L d'eau de source pure puis 28 kg bois sec ; Élise prépare 85 L pour ~82 L prêts. Fin : 108 L prêts, 20 L séparés, 93 kg de bois sec, 0 humide, 23,4 kg charbon. Élise/Marianne ont fumé les 16 kg de chasse de J22 : 40,6 kg viande fumée durable, 0 frais ; 39 conserves bonnes. Dernier récit : [Chapitre 032](recit/chapitre-032/scene-001.md). Jour 24 à commencer.
+Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J24 à 17 h 40 : premier froid hivernal, réseau électrique modeste opérationnel (lumières en B et C, 4 panneaux, batterie 8 kWh). Kübra/Sophie ramènent 56 kg de bois sec, 16 kg utilisés, réserve finale **133 kg** ; charbon inchangé **23,4 kg**. Cibles avant décembre : 200 kg bois sec, 50 kg charbon (manquent respectivement 67 et 26,6 kg). Marc récupère 12 planches et en utilise 8 pour l'auvent/pare-vent des foyers; 4 restent. Henri/Marianne sèment épinards d'hiver et fèves sur deux nouvelles planches et entretiennent les jardins. Eau/viande fumée/conserves : dernier comptage J23 (108 L eau prête, 20 L séparés, 40,6 kg viande fumée, 39 conserves), pas de pesée J24. Dernier récit : [Chapitre 033](recit/chapitre-033/scene-001.md). Prochain jour J25 à organiser librement.

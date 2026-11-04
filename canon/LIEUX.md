@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 23
+# Registre des lieux — connus fin du jour 24
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -9,7 +9,7 @@
 | lieu-refuge-b | Immeuble B, appartement 2e étage | Refuge de Tugay et Kübra, inventaire communautaire réparti |
 | lieu-communs-c | Immeuble C, salle commune | Réunions et stock communautaire |
 | lieu-citerne | Sous le jardin de l'immeuble | Citerne pluviale 3 000 L nominal, jauge ~1 100 L non vérifiée, pompe inactive |
-| lieu-barbecue | Jardin collectif | Ancienne installation de chauffe extérieure |
+| lieu-barbecue | Jardin collectif | Chauffe extérieure du refuge : foyer collectif agrandi J23 (~135 L/j de préparation d'eau théorique) ; Marc aménage J24 auvent et pare-vent contre pluie, vent et neige, en maintenant l'air libre et la ventilation. |
 | lieu-garages | Garages/caves/maisons du quartier | Plusieurs fouilles; objets lourds laissés et localisés |
 | lieu-jardins-henri | Jardins familiaux | 8 parcelles visibles : 3 entretenues par Henri, 5 dont les propriétaires sont absents/inconnus. J8 : 2 des 5 préparées provisoirement, une partiellement semée; 3 restantes. Aucun transfert de propriété; serre tunnel partiellement protégée |
 | lieu-pepiniere | Ancienne pépinière évoquée par Nicolas | Visitée J11 par Tugay, Kübra et Nicolas; matériel horticole léger et cinq sachets anciens. Visite J13 par Henri, Nicolas et Sophie : deux cassissiers, trois framboisiers, deux touffes de ciboulette vivants récupérés, reprise non garantie; petite serre partiellement récupérable |
@@ -36,5 +36,5 @@
 | lieu-chasse-cerf-j19 | Zone boisée où Tugay a trouvé un grand cerf | Sortie solitaire nocturne J18–J19, grand cerf adulte abattu ; récupéré le matin J19 en groupe avec le chariot renforcé, emplacement connu de Tugay |
 
 | lieu-sallaz-troc-j21 | Serre de Rosa et lieu de négociation à La Sallaz | J21 Tugay/Henri offrent trois cadeaux de 0,5 kg de viande fumée à Rosa, Claire, Adrien ; 8,5 kg troqués contre 15 kg de vivres et 10 enveloppes de graines ; promesse d'une future coopération de chasse avec deux volontaires à confirmer |
-| lieu-zone-solaire-refuge-c | Emplacement dégagé ensoleillé proche du bâtiment C | J21 David y fait placer les quatre panneaux fonctionnels récupérés J20 avec aide ; pas de batterie domestique ni d'alimentation du refuge en service |
+| lieu-zone-solaire-refuge-c | Emplacement dégagé ensoleillé proche du bâtiment C | J21 David y fait placer quatre panneaux fonctionnels; aucune alimentation J21–J23. J24 batterie 8 kWh et gestion installées à l'abri, alimentation solaire limitée opérationnelle pour l'éclairage essentiel des bâtiments B et C et la recharge modeste ; ni chauffage électrique ni gros appareils. |
 | lieu-local-technique-batterie | Local technique auparavant fermé du bâtiment photovoltaïque | Ouvert J23 par Tugay, David, Marc ; batterie solaire domestique de 8 kWh, boîtier de gestion et documentation trouvés puis ramenés au refuge avec chariot renforcé. Ne reste pas de nouvelle batterie déclarée dans ce local |

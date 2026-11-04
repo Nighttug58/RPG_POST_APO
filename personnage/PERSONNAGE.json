@@ -69,7 +69,7 @@
   "etat_physique": {
     "sante": null,
     "blessures": [],
-    "fatigue": "Fatigue normale en soirée après expédition du local technique et transport de batterie J23, repos prévu. Aucune blessure signalée.",
+    "fatigue": "Fatigue ordinaire après la journée collective de mise en service solaire J24; grand froid extérieur, pauses et repos au chaud à prévoir. Aucune blessure déclarée.",
     "faim": "Besoins alimentaires réguliers, réserves de la communauté limitées",
     "hydratation": "Approvisionnement communautaire en eau traité, non encore durable"
   },
@@ -106,7 +106,8 @@
       "Soir J19 : dîner collectif de grillades ~3,4 kg, trois charges de fumage supplémentaires ; Marc et Nicolas restent éveillés pour deux derniers lots. J20 : Tugay et David rapportent quatre panneaux photovoltaïques apparemment intacts en cinq trajets, sans raccordement ni validation électrique. Marianne recense ~34,6 kg de viande fumée, denrées triées. La communauté aménage deux planches et collecte de l'eau à la résurgence.",
       "J21 : Tugay/Henri donnent 1,5 kg de viande fumée à Rosa, Claire et Adrien, puis marchandent 8,5 kg contre 15 kg de vivres et 10 enveloppes de graines viables. Coopération de chasse acceptée en principe à La Sallaz. Le MJ adopte la règle narrative simplifiée demandée : eau pure, viande fumée durable, conserves comestibles et graines viables. Les autres membres renforcent transports, collecte de bois et projet solaire.",
       "J22 : Tugay dirige une nouvelle journée d'approvisionnement avant l'hiver, partage des conseils généraux de production de charbon avec Henri, chasse en forêt avec Nicolas et David. Ils rapportent chevreuil et lièvre (~18 kg viande). Équipes parallèles récoltent +54 kg bois sec et produisent +11 kg charbon. Le vieux bois humide 49 kg est désormais sec. Fin J22 83 kg bois sec et 23,4 kg charbon.",
-      "J23 : Tugay part avec David et Marc au bâtiment technique ; local fermé ouvert, batterie solaire domestique de 8 kWh et boîtier de gestion ramenés avec chariot renforcé. Pendant ce temps, le foyer de préparation d'eau est triplé, Kübra/Sophie rapportent eau et bois, Élise/Marianne fument les 16 kg de chasse J22. Fin J23 : 108 L eau prête, 20 L séparés, 93 kg bois sec, 23,4 kg charbon et 40,6 kg viande fumée."
+      "J23 : Tugay part avec David et Marc au bâtiment technique ; local fermé ouvert, batterie solaire domestique de 8 kWh et boîtier de gestion ramenés avec chariot renforcé. Pendant ce temps, le foyer de préparation d'eau est triplé, Kübra/Sophie rapportent eau et bois, Élise/Marianne fument les 16 kg de chasse J22. Fin J23 : 108 L eau prête, 20 L séparés, 93 kg bois sec, 23,4 kg charbon et 40,6 kg viande fumée.",
+      "J24 : Tugay coordonne la mise en service du réseau solaire limité B/C sous la direction technique de David, puis actionne à 17 h 40 le premier interrupteur de la salle commune. Premier vrai jour d'hiver : −4 °C le matin, maximum +1 °C, premiers flocons; abris, bois et charbon deviennent prioritaires. Aucune blessure ni jet de dé."
     ]
   }
 }

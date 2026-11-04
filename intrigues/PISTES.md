@@ -80,3 +80,11 @@
 - **Bois** : +28 kg secs en forêt par Kübra/Sophie après la tournée d'eau, ~18 kg utilisés (foyer/fumoir/cuisine), stock ~93 kg secs, 0 humides, ~23,4 kg charbon.
 - **Viande** : Élise et Marianne fument 16 kg restants du gibier J22 ; réserve durable de viande fumée ~40,6 kg, 39 conserves comestibles.
 - **Alliance La Sallaz** : deux volontaires pour chasses communes non encore désignés, piste ouverte. Jour 24 non commencé.
+
+## Fin du jour 24 — Réseau allumé, hiver installé
+- **Électricité — objectif initial atteint** : les 4 panneaux, la batterie solaire 8 kWh et la gestion alimentent désormais **des points essentiels des bâtiments B et C** (lumières visibles à 17 h 40, recharge modeste possible). David dirige l'installation. Pas de chauffage électrique, pas de grosses charges, aucune autonomie/production chiffrée. Prochain enjeu : suivre fiabilité et disponibilité par météo hivernale.
+- **Hiver** : −4 °C matin, maximum +1 °C, vent du nord, neige en fin de journée; prudence accrue pour sorties longues, glissades, abris, durée des tâches.
+- **Combustible et objectif avant décembre** : bois sec **133 kg** après collecte 56 kg et usage 16 kg; charbon **23,4 kg**, sans production J24. Objectif **200/50 kg**, écarts actuels **67/26,6 kg**. Bois humide 0.
+- **Foyers** : Marc rapporte 12 planches, en utilise 8 dans auvent et pare-vent, il reste 4 planches. Foyers extérieurs ventilés, mieux protégés de pluie/vent/neige.
+- **Jardins** : deux planches préparées J20 désormais semées de fèves et épinards d'hiver par Henri et Marianne; plantations existantes et jardins entretenus, pas de récolte ou de graines pesées.
+- **Ressources non comptées J24** : eau, viande fumée et conserves conservent leurs derniers relevés J23, pas de nouveau calcul inventé. Chasses communes La Sallaz et projets de culture restent ouverts.

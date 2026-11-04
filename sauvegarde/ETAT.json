@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "22:30",
-    "saison": "hiver_approche",
+    "heure": "17:40",
+    "saison": "hiver",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 23,
+    "jour_campagne": 24,
     "mois": "novembre"
   },
   "localisation": {
@@ -22,17 +22,18 @@
     "coordonnees": null
   },
   "conditions": {
-    "meteo": "Forêt fraîche, matinale et brumeuse; journée d'automne, valeurs météorologiques exactes inconnues",
-    "luminosite": "nuit",
+    "meteo": "J24 premier jour d'hiver : −4 °C le matin, maximum +1 °C, vent du nord, givre, éclaircies avant averses de neige en fin d'après-midi; épaisseur de neige non établie.",
+    "luminosite": "crépuscule, premières lumières du réseau autonome B/C",
     "menaces_immediates": [],
     "bruits_lointains": [
       "Moteurs de véhicules signalés à plusieurs reprises, occupants non identifiés"
     ],
-    "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
+    "feu_camp": "Foyers extérieurs du refuge : eau/cuisine/chauffe sous auvent et protections latérales construits par Marc J24, toujours en espace dégagé et ventilé; foyer de préparation d'eau agrandi J23 (~135 L/jour de capacité estimée).",
     "risques": [
-      "Mise en service solaire encore à organiser : quatre panneaux fonctionnels, batterie 8 kWh et boîtier récupérés mais aucun circuit du village raccordé",
-      "L'équipe a travaillé jusqu'en soirée, repos conseillé avant de nouvelles longues expéditions",
-      "Hiver approchant, stocks d'eau, bois, charbon et viande fumée désormais importants"
+      "Froid hivernal dès J24 : gel, glissades, vent du nord et neige possible; sorties longues et tâches extérieures plus pénibles, prévoir protection et retour au chaud.",
+      "Réseau photovoltaïque limité opérationnel B/C : éclairage essentiel et petits appareils seulement; pas de chauffage électrique ni gros appareils, autonomie nocturne non chiffrée.",
+      "Objectif avant décembre : 200 kg de bois sec et 50 kg de charbon; fin J24 133 kg sec et 23,4 kg charbon, manqueront 67 kg et 26,6 kg.",
+      "Stocks d'eau et nourriture non recomptés J24 : garder comme derniers relevés J23 plutôt que supposer une consommation chiffrée."
     ]
   },
   "progression": {
@@ -50,7 +51,7 @@
       "objectif-panneaux-reperes",
       "objectif-batterie-stockage-solaire",
       "objectif-chasses-cooperatives-sallaz",
-      "objectif-installation-electrique-village"
+      "objectif-reserves-hiver-bois-charbon"
     ],
     "pistes_ouvertes": [
       "piste-citerne",
@@ -69,8 +70,7 @@
       "piste-fumoir-viande-controle",
       "piste-installation-solaire-et-controle",
       "piste-stockage-viande-sure",
-      "piste-volontaires-chasse-sallaz",
-      "piste-mise-en-service-panneaux-batterie"
+      "piste-volontaires-chasse-sallaz"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -114,9 +114,9 @@
       "lieu-local-technique-batterie"
     ]
   },
-  "chapitre_actuel": "chapitre-032",
-  "derniere_scene_canonique": "recit/chapitre-032/scene-001.md",
-  "prochaine_action": "Jour 24 non commencé. J23 Tugay/David/Marc ouvrent la pièce fermée du bâtiment solaire et rapportent une batterie solaire domestique 8 kWh, 1 boîtier de gestion et documentation grâce au chariot artisanal renforcé ; quatre panneaux fonctionnels déjà au refuge, pas de système raccordé. Henri/Nicolas agrandissent foyer pour capacité de préparation d'eau ~135 L/j contre ~45 avant (x3). Kübra/Sophie récupèrent ~80 L de source pure avec chariot de courses puis ~28 kg bois sec en forêt. Élise/Marianne terminent dans la soirée les 16 kg de viande J22 au fumoir. Eau prête ~108 L, réserve séparée ~20 L, 151 L capacité nominale de contenants. Bois sec ~93 kg, humide 0 kg, charbon ~23,4 kg, viande fumée durable ~40,6 kg, conserves comestibles 39. Prochaine étape possible : installation électrique du village.",
+  "chapitre_actuel": "chapitre-033",
+  "derniere_scene_canonique": "recit/chapitre-033/scene-001.md",
+  "prochaine_action": "Jour 24 joué jusqu'à 17 h 40 : réseau solaire autonome essentiel B et C en service (4 panneaux, batterie 8 kWh, gestion), lumière et recharges modestes, pas de chauffage ni appareils puissants; neige possible et froid −4 à +1 °C. 133 kg bois sec, 23,4 kg charbon; objectifs avant décembre 200/50 kg, manquent 67/26,6 kg. Marc a protégé les foyers et garde 4 planches; Henri/Marianne ont semé épinards d'hiver et fèves sur les 2 nouvelles planches et entretenu les jardins. Eau/viande/conserves : dernier comptage J23, J24 pas de quantification. Prochaine étape : organiser J25 sous les contraintes hivernales, au choix du joueur, sans imposer de menus.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -149,10 +149,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j23-2230",
-    "jour": 23,
-    "heure": "22:30",
-    "description": "Batterie solaire domestique 8 kWh récupérée, foyer triplé, 80 L eau collectés et 16 kg de viande fumés"
+    "id": "fin-j24-1740",
+    "jour": 24,
+    "heure": "17:40",
+    "description": "Premier jour d'hiver (−4 °C/+1 °C), éclairage solaire fonctionnel dans B et C, 133 kg bois sec, 23,4 kg charbon, auvent/pare-vent construits et semis d'hiver."
   },
   "protocole": {
     "archives_tours_figees": 16,

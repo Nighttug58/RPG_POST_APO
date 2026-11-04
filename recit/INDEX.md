@@ -17,6 +17,7 @@
 - [Chapitre 030 — Le prix de l'abondance](chapitre-030/scene-001.md) : jour 21, échange de viande contre vivres et graines, projet de chasses communes, bois, chariot, sacs et panneaux.
 - [Chapitre 031 — Les réserves de l'hiver](chapitre-031/scene-001.md) : J22, chasse Tugay/Nicolas/David, collecte de bois, séchage des réserves et charbon en parallèle.
 - [Chapitre 032 — Derrière la porte fermée](chapitre-032/scene-001.md) : J23, batterie solaire 8 kWh retrouvée, foyer x3, source, bois et fumage achevé.
+- [Chapitre 033 — Que la lumière soit](chapitre-033/scene-001.md) : J24, premier froid hivernal, électricité solaire B/C, bois, auvent des foyers et semis d'hiver.
 - [Journal continu](../journal/CONTINUITE.md) : déroulement par journée, inventaires, faits et pistes.
 
 **Mode en vigueur :** narration continue avec missions parallèles et décisions libres; plus de tour par tour.

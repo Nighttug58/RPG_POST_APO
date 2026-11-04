@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin J23 22 h 30 : batterie solaire 8 kWh, foyer x3, 108 L eau prête, 40,6 kg viande fumée, 93 kg bois sec",
+  "reference": "J24 17 h 40 : éclairage solaire limité B/C actif, 133 kg de bois sec, 23,4 kg charbon; eau 108 L, viande fumée 40,6 kg et 39 conserves = derniers relevés J23 non recomptés J24.",
   "objets": [
     {
       "id": "bidon20",
@@ -1116,7 +1116,7 @@
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Semences de fèves viables, enveloppe partiellement semée J15, reste conservé pour la bonne saison."
+      "etat": "Semences de fèves viables, enveloppe partiellement semée J15, reste conservé pour la bonne saison. J24 : semis d'hiver réalisés avec les réserves existantes sur deux nouvelles planches communes; quantités de graines consommées non comptées, nombre d'enveloppes non décrémenté."
     },
     {
       "id": "lot-118",
@@ -1125,7 +1125,7 @@
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Semences d'épinards viables, enveloppe partiellement semée J15, reste conservé pour la bonne saison."
+      "etat": "Semences d'épinards viables, enveloppe partiellement semée J15, reste conservé pour la bonne saison. J24 : semis d'hiver réalisés avec les réserves existantes sur deux nouvelles planches communes; quantités de graines consommées non comptées, nombre d'enveloppes non décrémenté."
     },
     {
       "id": "lot-119",
@@ -1306,8 +1306,8 @@
       "quantite": 4,
       "masse_unitaire_kg": null,
       "categorie": "energie",
-      "emplacement": "stock communautaire, bâtiment C, à l'abri",
-      "etat": "Quatre panneaux fonctionnels depuis J21, exposés au soleil au refuge. Batterie de 8 kWh et boîtier rapportés J23, réseau encore non raccordé."
+      "emplacement": "zone photovoltaïque proche du bâtiment C, au soleil",
+      "etat": "Quatre panneaux confirmés fonctionnels J21; intégrés au réseau autonome limité B/C mis en service J24 pour éclairage essentiel et recharge modeste."
     },
     {
       "id": "lot-139",
@@ -1370,7 +1370,7 @@
       "masse_unitaire_kg": null,
       "categorie": "agriculture",
       "emplacement": "stock communautaire B/C",
-      "etat": "Une enveloppe par variété : carottes, choux, pois, haricots, blettes, laitues, radis, oignons, courges et épinards ; toutes viables, semis selon saison."
+      "etat": "Une enveloppe par variété : carottes, choux, pois, haricots, blettes, laitues, radis, oignons, courges et épinards ; toutes viables, semis selon saison. J24 : semis d'hiver réalisés avec les réserves existantes sur deux nouvelles planches communes; quantités de graines consommées non comptées, nombre d'enveloppes non décrémenté."
     },
     {
       "id": "lot-146",
@@ -1387,8 +1387,8 @@
       "quantite": 1,
       "masse_unitaire_kg": null,
       "categorie": "energie",
-      "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Récupérée J23 par Tugay, David, Marc dans le local technique jadis fermé, complète et destinée à la future installation solaire ; capacité nominale 8 kWh, réseau pas encore mis en service."
+      "emplacement": "emplacement protégé du système solaire, bâtiment C",
+      "etat": "Batterie de 8 kWh récupérée J23, installée J24 dans un endroit protégé. Stockage actif pour réseau limité B/C; charge effective et autonomie non chiffrées."
     },
     {
       "id": "lot-148",
@@ -1396,8 +1396,8 @@
       "quantite": 1,
       "masse_unitaire_kg": null,
       "categorie": "energie",
-      "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Récupéré avec batterie J23 dans local technique. David a reconnu son rôle pour le réseau, installation encore à réaliser."
+      "emplacement": "installation électrique solaire, bâtiment C",
+      "etat": "Boîtier récupéré J23 et mis en service par David J24 pour le petit réseau B/C; détails de raccordement non décrits."
     },
     {
       "id": "lot-149",
@@ -1406,7 +1406,7 @@
       "masse_unitaire_kg": null,
       "categorie": "documentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Documents de l'ancien local technique fermée récupérés J23 et conservés pour l'installation. Séparés du carnet solaire rapporté J15."
+      "etat": "Documentation récupérée J23, consultée par David pour le chantier J24; conservée après mise en service du réseau."
     },
     {
       "id": "lot-150",
@@ -1415,17 +1415,35 @@
       "masse_unitaire_kg": null,
       "categorie": "cuisine",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Réaménagement par Henri et Nicolas J23 avec récipients existants ; capacité journalière estimée ~135 L contre ~45 L avant, trois emplacements de chauffe. Pas de nouvelle marmite comptée."
+      "etat": "Réaménagement par Henri et Nicolas J23 avec récipients existants ; capacité journalière estimée ~135 L contre ~45 L avant, trois emplacements de chauffe. Pas de nouvelle marmite comptée. J24 : zone de cuisson/chauffe extérieure dotée d'un auvent et de protections latérales contre les intempéries par Marc; foyer reste ventilé."
+    },
+    {
+      "id": "lot-151",
+      "nom": "Auvent et pare-vent des foyers extérieurs",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "amenagement",
+      "emplacement": "zone extérieure de chauffe et cuisson, cour B/C",
+      "etat": "Construits J24 par Marc avec huit des douze planches rapportées, fixations et matériaux de couverture. Protègent de la pluie, du vent et de la neige; feu à l'air libre, ventilation conservée."
+    },
+    {
+      "id": "lot-152",
+      "nom": "Planches de bois restantes de récupération J24",
+      "quantite": 4,
+      "masse_unitaire_kg": null,
+      "categorie": "construction",
+      "emplacement": "stock communautaire, bâtiments B/C, abri à matériaux",
+      "etat": "Marc a trouvé 12 planches J24, en a utilisé 8 dans l'auvent et les pare-vent ; 4 restent libres et stockées."
     }
   ],
   "consommables": {
     "eau_potable_l": 108,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "J23 résurgence pure : ~44 L prêts début journée + ~82 L préparés à partir de ~85 L en plusieurs cycles − ~18 L consommés = ~108 L prêts au refuge. Capacité quotidienne du foyer élargi ~135 L, volume réellement préparé ~82 L.",
+    "eau_statu": "J23 résurgence pure : ~44 L prêts début journée + ~82 L préparés à partir de ~85 L en plusieurs cycles − ~18 L consommés = ~108 L prêts au refuge. Capacité quotidienne du foyer élargi ~135 L, volume réellement préparé ~82 L. J24 : aucun nouveau bilan chiffré de collecte, traitement ou consommation ; 108 L est le dernier relevé du J23, pas une mesure de fin J24.",
     "charbon_disponible_kg": 23.4,
     "charbon_dernier_comptage_kg": 23.4,
-    "charbon_dernier_comptage_jour": 22,
+    "charbon_dernier_comptage_jour": 24,
     "charbon_en_cours": {
       "objectif_kg": 20,
       "etat": "Ancien objectif J6 20 kg non atteint : rendement ~8,6 kg; lots J11 ~2,2 kg et J12 ~1,7 kg pesés. Aucun nouveau lot en cours à la fin J13.",
@@ -1457,7 +1475,7 @@
       "conserves_avertissement": "12 anciennes conserves en stock courant + 27 récupérées lors des raids = 39 comestibles au J21."
     },
     "eau_brute_l": 20,
-    "eau_brute_statu": "J23 : ~25 L en réserve séparée + ~80 L collectés à la résurgence − ~85 L préparés = ~20 L séparés. Source pure selon règles du J21.",
+    "eau_brute_statu": "J23 : ~25 L en réserve séparée + ~80 L collectés à la résurgence − ~85 L préparés = ~20 L séparés. Source pure selon règles du J21. J24 : pas de nouveau relevé ; 20 L correspond au dernier comptage J23.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -1487,7 +1505,7 @@
       "etat": "Lot J11 mesuré approximativement J12"
     },
     "bois_humide_a_secher_kg": 0,
-    "bois_sec_disponible_kg_estime": 93,
+    "bois_sec_disponible_kg_estime": 133,
     "bois_collecte_nocturne": {
       "jour": 11,
       "debut": "19:30",
@@ -1834,6 +1852,85 @@
         "Marc"
       ],
       "etat": "Ancien local technique fermé ouvert lors d'une expédition J23 ; batterie, boîtier et documentation récupérés avec chariot renforcé. David a confirmé leur intérêt pour le projet, aucune installation domestique alimentée à ce stade."
+    },
+    "bois_j24": {
+      "jour": 24,
+      "stock_debut_sec_kg": 93,
+      "collecte_sec_kg": 56,
+      "consommation_chauffe_cuisine_eau_kg_estime": 16,
+      "stock_fin_sec_kg": 133,
+      "stock_fin_humide_kg": 0,
+      "equipe": [
+        "Kübra",
+        "Sophie"
+      ],
+      "transport": "chariot artisanal renforcé",
+      "objectif_avant_decembre_kg": 200,
+      "reste_a_collecter_net_kg": 67,
+      "etat": "Deux grandes collectes malgré le gel, le vent et la neige annoncée; bilan 93+56−16=133."
+    },
+    "charbon_j24": {
+      "jour": 24,
+      "stock_debut_kg": 23.4,
+      "production_kg": 0,
+      "stock_fin_kg": 23.4,
+      "objectif_avant_decembre_kg": 50,
+      "manquant_kg": 26.6,
+      "etat": "Aucune nouvelle production ou consommation de charbon quantifiée au J24."
+    },
+    "solaire_j24": {
+      "jour": 24,
+      "panneaux_en_service": 4,
+      "batterie_capacite_nominale_kwh": 8,
+      "gestion_installee": true,
+      "batiments_desservis": [
+        "B",
+        "C"
+      ],
+      "reseau_prioritaire_operationnel": true,
+      "premier_eclairage": "17:40",
+      "usages": [
+        "éclairage de points essentiels",
+        "recharge de petit matériel"
+      ],
+      "usages_non_disponibles": [
+        "chauffage électrique",
+        "gros appareils"
+      ],
+      "production_et_charge_reelles_kwh": null,
+      "autonomie_nocturne_heures": null,
+      "responsable": "David",
+      "etat": "Réseau solaire autonome limité mis en service J24; production et première charge constatées vers 13 h 30, éclairage de B/C confirmé à 17 h 40. Pas de réseau complet."
+    },
+    "jardins_j24": {
+      "jour": 24,
+      "parcelles_communes_j20_semées": 2,
+      "semis": [
+        "épinards d'hiver",
+        "fèves"
+      ],
+      "responsables": [
+        "Henri",
+        "Marianne"
+      ],
+      "graines_utilisees_quantite": null,
+      "etat": "Deux nouvelles planches préparées J20 semées J24; les enveloppes de graines existantes ont été partiellement utilisées, quantités non relevées. Entretien des cultures présentes, jardins d'Henri et ancienne zone jardinée de Marianne. Aucune récolte nouvelle."
+    },
+    "protection_foyers_j24": {
+      "jour": 24,
+      "responsable": "Marc",
+      "planches_trouvees": 12,
+      "planches_utilisees": 8,
+      "planches_restantes": 4,
+      "etat": "Auvent contre précipitations et protections latérales contre vent; foyers restent extérieurs et ventilés. Fixations et couverture récupérées sans quantités détaillées."
+    },
+    "hiver_j24": {
+      "jour": 24,
+      "temperature_matin_c": -4,
+      "temperature_max_c": 1,
+      "vent": "nord",
+      "precipitations": "averses de neige en fin de journée",
+      "regles": "Rester longtemps dehors et travailler au vent devient difficile; gestion des pauses, abris, vêtements et trajets. Pas de neige accumulée quantifiée."
     }
   },
   "capacites": {
@@ -1855,5 +1952,5 @@
     "Équipement électrique ancien et volumineux dans le quartier des villas (J17), repéré mais non transporté",
     "Plusieurs meubles utiles du quartier des villas (J17), repérés mais non transportés"
   ],
-  "notes": "Fin J23 (22h30) : expédition batterie par Tugay/David/Marc, local fermé ouvert, batterie solaire domestique de 8 kWh + boîtier de gestion + documents ramenés avec chariot renforcé. Quatre panneaux déjà fonctionnels, camp pas encore alimenté en électricité. Henri/Nicolas agrandissent foyer, capacité journalière environ x3 ~135 L contre ~45 avant. Kübra/Sophie rapportent ~80 L d'eau pure puis ~28 kg de bois sec. Élise prépare ~85 L bruts pour ~82 L prêts, groupe utilise ~18 L : fin ~108 L prêts + ~20 L séparés (128 L répartis dans 151 L de contenants). Élise/Marianne fument 16 kg viande J22 le soir, réserve fumée durable ~40,6 kg, plus aucune viande fraîche à fumer. Bois sec ~93 kg après consommation ~18 kg foyer/fumoir/cuisine, humide 0 ; charbon ~23,4 kg, 39 conserves comestibles. Règles RPG simplifiées restent en vigueur, sans CI."
+  "notes": "Fin J23 (22h30) : expédition batterie par Tugay/David/Marc, local fermé ouvert, batterie solaire domestique de 8 kWh + boîtier de gestion + documents ramenés avec chariot renforcé. Quatre panneaux déjà fonctionnels, camp pas encore alimenté en électricité. Henri/Nicolas agrandissent foyer, capacité journalière environ x3 ~135 L contre ~45 avant. Kübra/Sophie rapportent ~80 L d'eau pure puis ~28 kg de bois sec. Élise prépare ~85 L bruts pour ~82 L prêts, groupe utilise ~18 L : fin ~108 L prêts + ~20 L séparés (128 L répartis dans 151 L de contenants). Élise/Marianne fument 16 kg viande J22 le soir, réserve fumée durable ~40,6 kg, plus aucune viande fraîche à fumer. Bois sec ~93 kg après consommation ~18 kg foyer/fumoir/cuisine, humide 0 ; charbon ~23,4 kg, 39 conserves comestibles. Règles RPG simplifiées restent en vigueur, sans CI.\nJ24 17 h 40 : premier véritable jour d'hiver, −4 °C au matin, +1 °C maximum, vent du nord et premières neiges en fin de journée. David et l'équipe mettent en service un petit réseau solaire autonome aux bâtiments B/C (4 panneaux fonctionnels, batterie 8 kWh, gestion) : éclairage essentiel actif, petits équipements rechargeables, mais pas de chauffage électrique ni de gros appareils. Kübra/Sophie rapportent 56 kg de bois sec; 16 kg sont utilisés pour la chauffe/cuisine/eau : 93+56−16 = 133 kg bois sec, 0 humide. Charbon inchangé 23,4 kg (aucune fabrication J24). Objectifs avant décembre : 200 kg sec et 50 kg charbon, restes 67 kg et 26,6 kg. Marc trouve 12 planches, en utilise 8 pour l'auvent/pare-vent et en garde 4. Henri/Marianne sèment épinards d'hiver et fèves dans les 2 planches préparées J20 et entretiennent les jardins; quantités exactes de graines non pesées. Les 108 L eau prête, 20 L eau séparée, 40,6 kg viande fumée et 39 conserves sont les derniers comptes J23, pas une nouvelle mesure J24."
 }

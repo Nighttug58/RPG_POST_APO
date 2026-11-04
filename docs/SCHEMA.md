@@ -29,7 +29,7 @@ Il ne doit contenir **aucun** champ `personnage`, `inventaire` ou `ressources` :
 Le fichier contient `identite`, `caracteristiques` (six attributs, de 1 à 5 si attribués), `competences` (de 0 à 3 si attribuées), `traits`, `etat_physique` et `progression`. Toute valeur encore non choisie reste `null`.
 
 ## Contrat d'INVENTAIRE.json
-- `objets` est un tableau d'objets identifiés, avec `id` unique, `quantite` positive, `masse_unitaire_kg` (éventuellement null).
+- `objets` est un tableau d'objets identifiés, avec `id` unique, `quantite` non négative (`0` uniquement pour la traçabilité d'objets épuisés ou intégrés à un autre lot, sans les compter comme disponibles), `masse_unitaire_kg` (éventuellement null).
 - `consommables` regroupe les stocks quantifiés d'eau potable, nourriture et soins.
 - Un stock consommable ne doit pas apparaître **à la fois** comme quantité dans `objets` et dans `consommables`. Un contenant vide est un objet distinct.
 - `charge.capacite_kg` est renseignée uniquement si une capacité a été fixée. La masse portée est déduite des masses connues, pas dupliquée.
@@ -46,7 +46,7 @@ Dans `JETS.jsonl`, chaque entrée contient `tour`, `raison`, `d20`, `bonus`, `di
 Créer `recit/chapitre-001/scene-001.md` seulement au début effectif de la partie. Chaque scène précise les tours, le lieu, la date fictive si connue et les événements vécus. L'index et `ETAT.derniere_scene_canonique` désignent les scènes existantes.
 
 ## Reprise et contrôle
-`POINT_DE_REPRISE.md` doit contenir un marqueur `<!-- TOUR_COURANT: N -->`, synchronisé avec `ETAT.tour`, et la section `PROCHAINE INTERACTION`. Lancer `python3 scripts/valider_sauvegarde.py` avant chaque commit de décision, quand l'exécution locale est disponible. GitHub Actions déclenche aussi la validation après un push.
+`POINT_DE_REPRISE.md` doit contenir un marqueur `<!-- TOUR_COURANT: N -->`, synchronisé avec `ETAT.tour`, et la section `PROCHAINE INTERACTION`. Lancer `python3 scripts/valider_sauvegarde.py` avant chaque commit de décision, quand l'exécution locale est disponible. La validation est locale; aucun workflow GitHub Actions n'est configuré depuis J19.
 
 ## Extension V2, narration continue
 `ETAT.mode_jeu="narration_continue"` ; `date_jeu.jour_campagne` est la date relative en jeu, `checkpoint.id` identifie le jalon. Les 16 décisions anciennes et leurs jets restent immuables. Les quantités dans `INVENTAIRE.consommables` peuvent être des derniers comptages datés, avec `null` pour les soldes inconnus; `INVENTAIRE.objets[].capacite_unitaire_l` permet de dériver la capacité des contenants alimentaires. `POINT_DE_REPRISE` conserve le marqueur tour historique 16, sans indiquer que la fiction s'y trouve encore.

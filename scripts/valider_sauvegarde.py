@@ -122,8 +122,8 @@ def validate():
             fail(f"INVENTAIRE: identifiant absent ou dupliqué au rang {index}")
         ids.add(item_id)
         qty = item.get("quantite")
-        if not number(qty) or qty <= 0:
-            fail(f"INVENTAIRE: quantité invalide pour {item_id}")
+        if not number(qty) or qty < 0:
+            fail(f"INVENTAIRE: quantité négative ou invalide pour {item_id}")
         mass = item.get("masse_unitaire_kg")
         if mass is not None and (not number(mass) or mass < 0):
             fail(f"INVENTAIRE: masse invalide pour {item_id}")
