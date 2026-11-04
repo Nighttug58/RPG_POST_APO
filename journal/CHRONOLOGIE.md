@@ -174,3 +174,17 @@
 - Kübra rapporte 30 L d'eau brute; Élise en traite 25 (24 L après pertes). Après 18 L consommés, solde ~53 L traités et 5 L bruts. Bois relativement sec ~7 kg, humide ~22 kg.
 - Sophie et Marianne rapportent trois conserves et des haricots à contrôler, une marmite inox ~8 L, une paire de gants. Quatorze conserves récentes encore à vérifier.
 - Marc renforce le chariot artisanal, essai court avec ~35 kg réussi, endurance inconnue. Aucun blessé, jet ni équipement solaire en service. Fin 19 h 30.
+
+## Jour 16 — Novembre 2043 : départ pour les villas
+- Tugay, Kübra, Nicolas, David et Marc emportent les deux chariots, 30 L d'eau traitée et 15 portions prélevées au stock commun pour deux nuits ; Henri coordonne Sophie, Élise et Marianne au refuge.
+- Départ 08 h 15, arrivée au secteur résidentiel discret vers 09 h ; annexes apparemment abandonnées explorées.
+- 2 bidons 20 L et 3 jerricans 10 L trouvés, matériel de maintenance repéré ; première nuit dans une annexe sèche, sans incident.
+
+## Jour 17 — Novembre 2043 : tri des réserves
+- Recherche de denrées anciennes, protections, couvertures, trousse de secours et lampe à manivelle ; toutes les denrées restent à contrôler.
+- Tri selon le volume et la portabilité ; équipement électrique volumineux et meubles laissés, emplacements notés. Deuxième nuit sans incident ni contact confirmé.
+
+## Jour 18 — Novembre 2043 : retour, 16 h 45
+- Butin rapporté : +70 L de contenants alimentaires nominaux, 13 conserves à vérifier, ~2 kg lentilles, ~0,7 kg sel, 2 pots de miel, bâche, 3 couvertures, 2 paires de gants, vieille trousse de secours, lampe à manivelle, outils et accessoires.
+- Sur J16–J18, le refuge collecte ~60 L bruts (~57 L récupérés après traitement), consomme ~27 L traités, récolte ~2,4 kg de légumes partiellement mangés, ramasse ~21 kg bois sec et ~11 kg humide, obtient ~1,9 kg charbon. Charges de chauffe et vivres de mission non détaillés.
+- Bilan prudent : ~53 L traités au refuge plus reliquat éventuel de la mission inconnu, ~5 L bruts préexistants séparés, 27 conserves récentes non validées, charbon ~14,4 kg avant dépense non décrite ; bois sec final inconnu. Groupe de retour sans blessure ni conflit ; jour 19 non commencé.

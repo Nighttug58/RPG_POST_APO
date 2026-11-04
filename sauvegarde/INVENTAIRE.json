@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin J15 19 h 30, eau/bois, jardins plantés, second chariot renforcé, exploration solaire et trouvailles alimentaires non vérifiées",
+  "reference": "Fin J18 à 16 h 45 (expédition décalée J16–J18), butin et comptabilité prudente du refuge",
   "objets": [
     {
       "id": "bidon20",
@@ -372,11 +372,11 @@
     {
       "id": "lot-035",
       "nom": "Paire de gants de travail",
-      "quantite": 4,
+      "quantite": 6,
       "masse_unitaire_kg": null,
       "categorie": "outils",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "3 paires précédentes + 1 paire récupérée par Sophie et Marianne J15; nettoyage/état à contrôler"
+      "etat": "3 paires précédentes + 1 paire récupérée par Sophie et Marianne J15; nettoyage/état à contrôler; +2 paires rapportées de l'expédition J16–J18, état à contrôler"
     },
     {
       "id": "lot-036",
@@ -1160,16 +1160,126 @@
       "categorie": "cuisine",
       "emplacement": "stock communautaire, bâtiments B/C",
       "etat": "Récupérée par Sophie et Marianne J15; nettoyage et contrôle avant usage"
+    },
+    {
+      "id": "lot-123",
+      "nom": "Bidons alimentaires de 20 L rapportés des villas",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Trouvés J16, ramenés J18 ; vides, inspection et nettoyage nécessaires.",
+      "capacite_unitaire_l": 20
+    },
+    {
+      "id": "lot-124",
+      "nom": "Jerricans alimentaires de 10 L rapportés des villas",
+      "quantite": 3,
+      "masse_unitaire_kg": null,
+      "categorie": "eau",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Trouvés J16, ramenés J18 ; vides, inspection et nettoyage nécessaires.",
+      "capacite_unitaire_l": 10
+    },
+    {
+      "id": "lot-125",
+      "nom": "Conserves anciennes récupérées aux villas, non vérifiées",
+      "quantite": 13,
+      "masse_unitaire_kg": null,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Expédition J16–J18 ; isolées, à examiner ; ne pas comptabiliser comme sûres."
+    },
+    {
+      "id": "lot-126",
+      "nom": "Lot de lentilles sèches emballées anciennes à examiner",
+      "quantite": 1,
+      "masse_unitaire_kg": 2,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "≈2 kg récupérés aux villas, intégrité/stockage non contrôlés."
+    },
+    {
+      "id": "lot-127",
+      "nom": "Lot de sel emballé ancien à examiner",
+      "quantite": 1,
+      "masse_unitaire_kg": 0.7,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "≈700 g récupérés aux villas, emballage et état à examiner."
+    },
+    {
+      "id": "lot-128",
+      "nom": "Pots de miel fermés récupérés aux villas",
+      "quantite": 2,
+      "masse_unitaire_kg": null,
+      "categorie": "alimentation",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Fermés mais état/conservation à examiner avant usage."
+    },
+    {
+      "id": "lot-129",
+      "nom": "Bâche de protection récupérée aux villas",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "equipement",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Ramenée J18 ; intégrité à vérifier."
+    },
+    {
+      "id": "lot-130",
+      "nom": "Couvertures récupérées aux villas",
+      "quantite": 3,
+      "masse_unitaire_kg": null,
+      "categorie": "couchage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Ramenées J18 ; lavage et état à contrôler."
+    },
+    {
+      "id": "lot-131",
+      "nom": "Ancienne trousse de premiers secours des villas",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "soins",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Ramenée J18 ; contenu, péremption et état inconnus, ne pas présumer utilisable."
+    },
+    {
+      "id": "lot-132",
+      "nom": "Lampe à manivelle récupérée aux villas",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "eclairage",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Ramenée J18 ; fonctionnement non vérifié."
+    },
+    {
+      "id": "lot-133",
+      "nom": "Lot d'outils de maintenance récupéré aux villas",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Ramené J18, inventaire de détail et état non contrôlés."
+    },
+    {
+      "id": "lot-134",
+      "nom": "Lot d'accessoires de fermeture et de rangement des villas",
+      "quantite": 1,
+      "masse_unitaire_kg": null,
+      "categorie": "outils",
+      "emplacement": "stock communautaire, bâtiments B/C",
+      "etat": "Ramené J18 ; contenu détaillé et état à vérifier."
     }
   ],
   "consommables": {
     "eau_potable_l": 53,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "J15 : début ~47 L traités + ~24 L récupérés après chauffe de 25 L bruts - ~18 L consommés (groupe) = ~53 L traités. Qualité chimique du ruisseau inconnue, potabilité non certifiée.",
-    "charbon_disponible_kg": 12.5,
-    "charbon_dernier_comptage_kg": 12.5,
-    "charbon_dernier_comptage_jour": 13,
+    "eau_statu": "Minimum comptable ≈53 L traités au refuge au retour J18 : départ 53 L J15 − 30 L affectés à mission + 57 L obtenus au refuge − 27 L consommés au refuge = 53 L. Le reliquat non consommé des 30 L emportés n'est PAS connu : total collectif réel potentiellement plus élevé. Source non analysée chimiquement.",
+    "charbon_disponible_kg": 14.4,
+    "charbon_dernier_comptage_kg": 14.4,
+    "charbon_dernier_comptage_jour": 18,
     "charbon_en_cours": {
       "objectif_kg": 20,
       "etat": "Ancien objectif J6 20 kg non atteint : rendement ~8,6 kg; lots J11 ~2,2 kg et J12 ~1,7 kg pesés. Aucun nouveau lot en cours à la fin J13.",
@@ -1197,10 +1307,10 @@
       "confiture_g": 150,
       "sauce_tomate_bocaux": 1,
       "legumes_henri": "Restes du don jour 4 non mesurés",
-      "attention": "Dernier recomptage général J9, consommations J10–J15 non consolidées. En attente de contrôle : 6 conserves J9 + 3 J11 + 2 J13 + 3 J15 = 14 conserves, et environ 0,8 kg haricots secs trouvés J15, plus autres apports anciens à examiner. Aucune garantie de sécurité des aliments par simple aspect."
+      "attention": "Dernier recomptage alimentaire général J9. Consommations J10–J18 non consolidées, 15 portions affectées à la mission J16–J18 mais consommation/reliquat non précisés. 27 conserves de fouilles récentes à vérifier (14 de J9/J11/J13/J15 et 13 de J16–J18), plus lentilles J16–J18 (~2 kg), haricots J15 (~0,8 kg), sel et miel à examiner. L'apparence ne certifie pas la sécurité sanitaire."
     },
     "eau_brute_l": 5,
-    "eau_brute_statu": "Kübra ramène 30 L d'eau brute en chariot J15. Élise traite 25 L, reste ~5 L bruts stockés séparément des volumes traités.",
+    "eau_brute_statu": "≈5 L bruts préexistants fin J15, aucun mouvement explicitement documenté ; 60 L nouveaux collectés J16–J18 transformés en ~57 L après traitement et pertes. Maintenir séparés.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -1227,8 +1337,8 @@
       "charbon_obtenu_kg": 2.2,
       "etat": "Lot J11 mesuré approximativement J12"
     },
-    "bois_humide_a_secher_kg": 22,
-    "bois_sec_disponible_kg_estime": 7,
+    "bois_humide_a_secher_kg": 33,
+    "bois_sec_disponible_kg_estime": null,
     "bois_collecte_nocturne": {
       "jour": 11,
       "debut": "19:30",
@@ -1313,11 +1423,57 @@
       "semences_rosa_epinards": "partiellement semées",
       "reprise_confirmee": false,
       "levee_confirmee": false
+    },
+    "charbon_j16_j18": {
+      "periode": "J16–J18",
+      "nouveaux_lots": 2,
+      "production_kg_estime": 1.9,
+      "total_recense_avant_consommations_non_renseignees_kg": 14.4,
+      "etat": "Deux petits lots réalisés par Henri, pesée approximative après refroidissement; éventuelles dépenses de charbon non décrites."
+    },
+    "bois_bilan_j16_j18": {
+      "bois_sec_debut_kg_estime": 7,
+      "bois_sec_collecte_kg_estime": 21,
+      "bois_sec_theorique_avant_combustion_kg_estime": 28,
+      "bois_sec_fin_kg_estime": null,
+      "bois_humide_debut_kg_estime": 22,
+      "bois_humide_collecte_kg_estime": 11,
+      "bois_humide_theorique_kg_estime": 33,
+      "etat": "Chauffe, cuisson et charbon sur les trois jours : bois consommé inconnu. Ne pas présenter 28 kg comme stock final."
+    },
+    "denrees_recuperees_j16_j18_a_verifier": {
+      "jours": [
+        16,
+        17,
+        18
+      ],
+      "conserves_non_verifiees": 13,
+      "lentilles_seches_emballees_kg_non_verifie": 2,
+      "sel_emballe_kg_non_verifie": 0.7,
+      "pots_miel_fermes_non_verifies": 2,
+      "etat": "Trouvailles de deux nuits dans des villas délaissées; sécurité sanitaire et conservation non garanties. Ajouter aux 14 conserves anciennes en attente, pas à l'alimentation sûre."
+    },
+    "conserves_recentes_non_verifiees_total": 27,
+    "vivres_expedition_j16_j18": {
+      "jour_depart": 16,
+      "jour_retour": 18,
+      "portions_prelevees": 15,
+      "portions_consommees": null,
+      "portions_revenues": null,
+      "eau_traitee_prelevee_l": 30,
+      "eau_traitee_restante_l": null,
+      "etat": "Prélèvement sur stocks communs; consommations de la mission non détaillées, pas de double comptage."
+    },
+    "recolte_henri_j16_j18": {
+      "legumes_recoltes_kg_estime": 2.4,
+      "legumes_consommes_kg": null,
+      "legumes_restant_kg": null,
+      "etat": "Récolte dans les parcelles déjà entretenues par Henri, une partie mangée au refuge, reste non mesuré."
     }
   },
   "capacites": {
-    "contenants_alimentaires_nominale_l": 81,
-    "etat": "certains à nettoyer/désinfecter; ce n'est pas le volume d'eau potable réel"
+    "contenants_alimentaires_nominale_l": 151,
+    "etat": "81 L nominaux recensés avant J16 + 70 L rapportés J18. Plusieurs récipients, notamment nouveaux, à inspecter et nettoyer; capacité nominale ≠ eau potable certifiée."
   },
   "charge": {
     "capacite_kg": null
@@ -1330,7 +1486,9 @@
     "Brouette roue à contrôler",
     "Vélo pneus dégonflés",
     "Caisse à outils lourde",
-    "Radio hors service"
+    "Radio hors service",
+    "Équipement électrique ancien et volumineux dans le quartier des villas (J17), repéré mais non transporté",
+    "Plusieurs meubles utiles du quartier des villas (J17), repérés mais non transportés"
   ],
-  "notes": "J15 : ~53 L eau traitée, 5 L brute (qualité chimique du ruisseau non vérifiée); bois sec ~7 kg après ~5 kg consommés pour chauffe/cuisine, bois humide ~22 kg; charbon ~12,5 kg inchangé. Henri/Nicolas installent 7 plants vivants, sèment une partie des deux enveloppes de Rosa, en conservent une petite réserve; aucune levée ou reprise garantie. Tugay/David observent depuis le sol six modules solaires potentiels, deux fissurés, quatre visuellement intacts, aucun acquis; rapportent documentation, multimètre non testé et câble. Sophie/Marianne : 3 conserves + 0,8 kg haricots secs fermés à vérifier, marmite 8 L, gants; nouvelles conserves non vérifiées cumulées 14. Chariot en bois renforcé, essai ~35 kg court réussi; pas de seconde collecte solaire. Aucun résultat de chasse aujourd'hui."
+  "notes": "Fin J18 après expédition J16–J18 : +70 L capacité nominale (total ~151 L), 13 conserves anciennes (+14 antérieures => 27 non vérifiées), lentilles ~2 kg, sel ~0,7 kg, 2 miels, bâche, couvertures, gants (+2), secours ancien, lampe et outils. Henri dirige le refuge : ~60 L bruts apportés, ~57 L traités, ~27 L consommés au refuge; ≈53 L traités connus au refuge + quantité de mission résiduelle inconnue (30 L emportés, non doublés). 5 L bruts antérieurs supposés séparés. Récolte ~2,4 kg légumes en partie consommés (reliquat inconnu). Bois : +21 kg secs, +11 kg humides, consommation pour chauffe/charbon non détaillée => bois sec final indéterminé; bois humide théorique ~33 kg. Deux lots ~1,9 kg charbon => ~14,4 kg avant toute dépense non chiffrée. Deux chariots revenus, vibrations sans dommage immédiat."
 }

@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "19:30",
+    "heure": "16:45",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 15,
+    "jour_campagne": 18,
     "mois": "novembre"
   },
   "localisation": {
@@ -23,19 +23,19 @@
   },
   "conditions": {
     "meteo": "Forêt fraîche, matinale et brumeuse; journée d'automne, valeurs météorologiques exactes inconnues",
-    "luminosite": "nuit",
+    "luminosite": "fin d'après-midi",
     "menaces_immediates": [],
     "bruits_lointains": [
       "Moteurs de véhicules signalés à plusieurs reprises, occupants non identifiés"
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Eau du ruisseau chimiquement non vérifiée",
-      "Quatorze conserves récupérées en attente de contrôle",
-      "Semences et arbustes plantés, reprise non garantie",
-      "Panneaux solaires repérés, aucun système opérationnel",
-      "Chariot renforcé testé uniquement sur parcours court",
-      "Bois sec en diminution"
+      "Eau du ruisseau chimiquement non analysée; eau de mission résiduelle inconnue",
+      "27 conserves récemment récupérées encore à contrôler; nourriture globale non recomptée depuis J9",
+      "Bois relativement sec final inconnu après chauffe et production de charbon",
+      "Contenants nouveaux à inspecter et nettoyer avant usage",
+      "Matériel ancien à inspecter; chariot renforcé secoué sur terrain irrégulier",
+      "Fatigue de cinq membres après deux nuits d'expédition"
     ]
   },
   "progression": {
@@ -63,7 +63,8 @@
       "piste-parcelles-boveresses",
       "piste-arbustes-pepiniere",
       "piste-toit-solaire-j13",
-      "piste-batiment-police"
+      "piste-batiment-police",
+      "piste-retour-villas-materiel-lourd"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -100,12 +101,13 @@
       "lieu-pepiniere",
       "lieu-poste-police",
       "lieu-toit-solaire-repere",
-      "lieu-serre-rosa"
+      "lieu-serre-rosa",
+      "lieu-quartier-villas-oublie"
     ]
   },
-  "chapitre_actuel": "chapitre-026",
-  "derniere_scene_canonique": "recit/chapitre-026/scene-001.md",
-  "prochaine_action": "Jour 16 non commencé. Eau ~53 L traitée, 5 L brute. Sept plants installés, graines de Rosa partiellement semées, germination non vérifiée. Six panneaux solaires observés dont deux fissurés, état inconnu, aucun panneau pris. Chariot renforcé testé brièvement avec ~35 kg. Trois conserves nouvelles à vérifier, 14 au total en attente. Bois sec ~7 kg, humide ~22 kg, charbon ~12,5 kg. Aucune énergie solaire opérationnelle.",
+  "chapitre_actuel": "chapitre-027",
+  "derniere_scene_canonique": "recit/chapitre-027/scene-001.md",
+  "prochaine_action": "Jour 19 non commencé. Expédition J16-J18 achevée; +70 L de récipients alimentaires nominaux à nettoyer (total ~151 L), 13 conserves anciennes à vérifier ajoutées aux 14 préexistantes (27 non validées), lentilles, sel, miel, couvertures et matériel. Henri a coordonné l'eau et les jardins : environ 53 L traités confirmés au refuge, reliquat de mission inconnu. +1,9 kg de charbon (total recensé ~14,4 kg avant consommation éventuelle), bois sec final non chiffrable. Deux chariots rentrés. Priorités et prochaines missions à décider.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -138,10 +140,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j15-1930",
-    "jour": 15,
-    "heure": "19:30",
-    "description": "Plants et semis au jardin, exploration photovoltaïque, collecte d'eau, ravitaillement, chariot renforcé"
+    "id": "fin-j18-1645",
+    "jour": 18,
+    "heure": "16:45",
+    "description": "Retour du quartier oublié après deux nuits, butin vérifiable et bilan du refuge coordonné par Henri"
   },
   "protocole": {
     "archives_tours_figees": 16,

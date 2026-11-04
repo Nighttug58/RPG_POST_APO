@@ -35,3 +35,11 @@
 - **Ravitaillement** : Sophie/Marianne explorent un nouveau secteur; 3 conserves + 0,8 kg de haricots en bocal à examiner, marmite inox ~8 L, gants. Total **14 conserves** récentes à vérifier (J9 6, J11 3, J13 2, J15 3), hors stock fiable. Présence possible d'habitants sans contact avéré.
 - **Chariot** : Marc renforce le modèle artisanal, essai court ~35 kg réussi sur sol plat, résistance en terrain irrégulier non connue.
 - **Combustible** : bois relativement sec ~7 kg après chauffe J15, humide ~22 kg, charbon ~12,5 kg recensé inchangé. Aucune mise en service solaire ni récolte.
+
+## Après l'expédition des jours 16–18
+- **Villas oubliées** : quartier discret visité durant deux nuits par Tugay, Kübra, Nicolas, David et Marc ; retour J18. Matériel électrique volumineux et meubles repérés mais laissés ; présence d'autres résidents non confirmée. Toute future récupération exige nouvelle décision.
+- **Eau/transport** : 2 bidons de 20 L et 3 jerricans de 10 L rapportés, soit +70 L nominaux (total ≈151 L), à nettoyer ; ~53 L traités identifiés au refuge, reliquat de la mission inconnue, source chimiquement non testée.
+- **Vivres** : 13 conserves de plus, soit 27 des récupérations récentes à contrôler ; ~2 kg lentilles, ~0,7 kg sel, 2 pots de miel à examiner. 15 portions affectées à l'expédition dont la consommation n'est pas quantifiée. Relevé global de nourriture à refaire.
+- **Jardins** : Henri et Marianne récoltent ~2,4 kg de légumes de saison sur parcelles déjà entretenues ; une partie consommée, reliquat inconnu. Sept plants J15 encore en place, aucune récolte de semences Rosa.
+- **Combustible** : +21 kg de bois sec, +11 kg humide ; stock sec réellement disponible inconnu (chauffe et fabrication de charbon non chiffrées). Deux lots de charbon ≈1,9 kg, total recensé ≈14,4 kg avant dépenses inconnues.
+- **Organisation** : Henri coordonne le refuge pendant trois jours avec Sophie, Élise et Marianne. Groupe de cinq revenu sans blessure, deux chariots utilisables, durabilité en chemin accidenté encore à vérifier. Jour 19 non commencé.

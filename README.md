@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 15, novembre 2043, jardinage au refuge, reconnaissance solaire, ravitaillement et chariot renforcé. Les 16 anciens tours sont archivés; mode actuel = narration continue.**
+**État : fin du jour 18, novembre 2043. Expédition des villas J16–J18 achevée, deux chariots revenus, +70 L de contenants, conserves et matériel à vérifier, Henri a assuré le refuge. Les 16 anciens tours restent archivés ; mode = narration continue.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J15 : ~53 L eau traitée et ~5 L brute (qualité chimique non garantie), ~7 kg bois relativement sec, ~22 kg humide, ~12,5 kg charbon recensé. Les 7 plants de pépinière sont en terre et les semences de Rosa partiellement semées, aucune récolte. Bâtiment solaire reconnu : six modules visibles, aucun acquis ou testé. Nouveau chariot renforcé, essai court ~35 kg. Sophie/Marianne trouvent 3 conserves et des haricots à examiner, soit 14 conserves récentes encore non vérifiées. Dernier récit : [Chapitre 026](recit/chapitre-026/scene-001.md).
+Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J18 à 16 h 45 : Tugay, Kübra, Nicolas, David et Marc reviennent d'une expédition de deux nuits dans un quartier de villas oublié (départ J16, recherche J17, retour J18). +70 L de capacité nominale de récipients (total 151 L avant nettoyage), 13 nouvelles conserves anciennes à examiner (27 récentes non vérifiées au total), matériel et couvertures. Henri coordonne les quatre personnes restées au refuge. Eau traitée ≈53 L confirmés au refuge + éventuel reliquat de la mission inconnu ; charbon recensé ≈14,4 kg avant consommations non renseignées. Bois sec final non quantifiable. Dernier récit : [Chapitre 027](recit/chapitre-027/scene-001.md). Jour 19 à commencer.

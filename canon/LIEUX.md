@@ -1,4 +1,4 @@
-# Registre des lieux — connus fin du jour 15
+# Registre des lieux — connus fin du jour 18
 
 | ID | Lieu | Faits et limites |
 |---|---|---|
@@ -31,3 +31,4 @@
 
 | lieu-annexe-solaire | Annexe d'un ancien bâtiment technique à panneaux | Visitée J15 par Tugay et David, ouverte et délaissée; multimètre non testé, câble et carnet de maintenance récupérés; six modules visibles depuis le sol, deux paraissent fissurés; local électrique fermé, statut de propriété inconnu |
 | lieu-nouveau-secteur-residentiel | Secteur résidentiel encore inexploré jusqu'au J15 | Sophie et Marianne y trouvent 3 conserves et des haricots à vérifier, marmite et gants; une fenêtre entretenue laisse soupçonner des résidents non rencontrés |
+| lieu-quartier-villas-oublie | Quartier discret de grandes villas anciennement aisées | Tugay y était passé avant J16; expédition J16–J18 par cinq personnes avec deux chariots, deux nuits dans une annexe apparemment inoccupée. Matériel récupéré, équipement électrique volumineux et meubles repérés mais non transportés. Aucun contact confirmé ni vérification exhaustive des propriétés. |
