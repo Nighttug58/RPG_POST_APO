@@ -10,10 +10,10 @@
   "date_jeu": {
     "annee": 2043,
     "date_iso": null,
-    "heure": "19:30",
+    "heure": "19:15",
     "saison": "hiver_approche",
     "minutes_ecoulees_depuis_ouverture": null,
-    "jour_campagne": 19,
+    "jour_campagne": 20,
     "mois": "novembre"
   },
   "localisation": {
@@ -30,12 +30,13 @@
     ],
     "feu_camp": "Ancien camp forestier abandonné; espace barbecue du quartier utilisé pour chauffer l'eau et préparer du charbon.",
     "risques": [
-      "Fatigue importante de Tugay après expédition J16–J18 et sortie nocturne J18–J19",
-      "Viande de cerf obtenue J19 : quantité non pesée, conservation fumée partielle et sécurité alimentaire à contrôler",
-      "Résurgence à 5 min du refuge : eau souterraine d'apparence claire, pureté chimique non analysée, traitement maintenu",
-      "Bois sec final inconnu, combustible utilisé pour le fumoir et le traitement de l'eau",
-      "27 conserves anciennes encore à vérifier, dernier inventaire alimentaire complet J9",
-      "Fumoir artisanal en essai, aucune conservation longue durée garantie"
+      "Quatre panneaux solaires récupérés mais non testés électriquement ni raccordés ; matériel et accès sûrs à confirmer",
+      "La propriété et l'occupation du bâtiment technique ne sont pas établies",
+      "Viande de cerf fumée ~34,6 kg, non certifiée stable pour conservation prolongée ; température de stockage non contrôlée",
+      "21 conserves récentes visuellement acceptables mais non certifiées, 6 écartées ; 12 conserves anciennes physiquement recensées",
+      "Eau résurgence chimiquement non analysée, traitement poursuivi",
+      "Stock de bois sec non quantifié malgré fumoir, eau et cuisine",
+      "Fatigue de Tugay et David (cinq trajets) ; Marc et Nicolas après surveillance nocturne"
     ]
   },
   "progression": {
@@ -66,7 +67,9 @@
       "piste-batiment-police",
       "piste-retour-villas-materiel-lourd",
       "piste-analyse-eau-resurgence",
-      "piste-fumoir-viande-controle"
+      "piste-fumoir-viande-controle",
+      "piste-installation-solaire-et-controle",
+      "piste-stockage-viande-sure"
     ],
     "pnj_connus": [
       "pnj-kubra",
@@ -109,9 +112,9 @@
       "lieu-chasse-cerf-j19"
     ]
   },
-  "chapitre_actuel": "chapitre-028",
-  "derniere_scene_canonique": "recit/chapitre-028/scene-001.md",
-  "prochaine_action": "Jour 20 non commencé. Nuit J18-J19 Tugay chasse seul et abat un grand cerf adulte, ramené J19 avec Marc, Nicolas, David et Marianne; viande non pesée, fumage partiel en fumoir expérimental construit au refuge avec Henri/Sophie, conservation à surveiller. Kübra et Élise ont découvert une résurgence d'eau souterraine ~5 min à pied du refuge. ~30 L bruts collectés J19, ~25 L traités pour ~24 L récupérés, ~18 L consommés : environ 59 L traités connus au refuge (+ reliquat villas toujours inconnu), ~10 L bruts séparés. Bois sec final inconnu, charbon dernier relevé ~14,4 kg avant consommations non documentées. Tugay très fatigué.",
+  "chapitre_actuel": "chapitre-029",
+  "derniere_scene_canonique": "recit/chapitre-029/scene-001.md",
+  "prochaine_action": "Jour 21 non commencé. Soir J19 : grillades ~3,4 kg de cerf salé, trois charges fumées ; Marc et Nicolas surveillent la nuit deux derniers lots, installation fonctionne. J20 : Tugay et David réalisent cinq allers-retours au bâtiment technique, dont le premier pour préparer les quatre modules et quatre pour ramener chacun un module visuellement intact. Aucun module testé/raccordé. Henri/Nicolas/Marc aménagent deux nouvelles planches communes de ~6 m² chacune avec patrouilles de Marc. Marianne pèse ~34,6 kg de viande fumée mais non certifiée stable longtemps, écarte 6 des 27 conserves récentes, 21 en attente de validation ; 12 conserves de stock ancien physiquement recensées. Sophie/Kübra collectent ~60 L bruts à la résurgence, Élise en traite 45 pour ~43 L, consommation ~20 L : ~82 L traités, ~25 L bruts. Bois sec inconnu.",
   "sauvegarde": {
     "date_reelle_initialisation": "2026-11-03",
     "version_architecture": "2.0",
@@ -144,10 +147,10 @@
     "objectif_atteint": false
   },
   "checkpoint": {
-    "id": "fin-j19-1930",
-    "jour": 19,
-    "heure": "19:30",
-    "description": "Gros cerf ramené, fumoir essayé, résurgence souterraine proche du refuge découverte"
+    "id": "fin-j20-1915",
+    "jour": 20,
+    "heure": "19:15",
+    "description": "Quatre panneaux solaires rapportés, cinq passages de fumage achevés, viande pesée, eau et nouvelles planches"
   },
   "protocole": {
     "archives_tours_figees": 16,

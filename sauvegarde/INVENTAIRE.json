@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "statut": "defini",
-  "reference": "Fin J19 à 19 h 30 : un cerf adulte récupéré, fumoir expérimental et résurgence à 5 min ; eau corrigée par flux estimés",
+  "reference": "Fin J20 19 h 15 : quatre panneaux solaires ramenés, viande fumée 34,6 kg pesée, vivres triés et source exploitée",
   "objets": [
     {
       "id": "bidon20",
@@ -1184,11 +1184,11 @@
     {
       "id": "lot-125",
       "nom": "Conserves anciennes récupérées aux villas, non vérifiées",
-      "quantite": 13,
+      "quantite": 7,
       "masse_unitaire_kg": null,
       "categorie": "alimentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Expédition J16–J18 ; isolées, à examiner ; ne pas comptabiliser comme sûres."
+      "etat": "13 rapportées J18, 6 écartées après examen visuel par Marianne J20 ; 7 emballages paraissent acceptables mais conservation alimentaire non validée."
     },
     {
       "id": "lot-126",
@@ -1203,10 +1203,10 @@
       "id": "lot-127",
       "nom": "Lot de sel emballé ancien à examiner",
       "quantite": 1,
-      "masse_unitaire_kg": 0.7,
+      "masse_unitaire_kg": 0.6,
       "categorie": "alimentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "≈700 g récupérés aux villas, emballage et état à examiner."
+      "etat": "Lot initial ~0,7 kg de sel des villas, environ 0,1 kg affecté aux grillades/assaisonnement J19 ; reste approximatif ~0,6 kg en emballage contrôlé."
     },
     {
       "id": "lot-128",
@@ -1278,16 +1278,16 @@
       "masse_unitaire_kg": null,
       "categorie": "cuisine",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Construit J19 par Henri/Sophie avec pièces de vélo et tuyaux métalliques récupérés. Premier essai de fumage, pas de garantie de conservation; roues du deuxième chariot non prélevées."
+      "etat": "Fumoir artisanal construit J19 par Henri et Sophie, trois passages supplémentaires le soir J19 et deux passages nocturnes surveillés par Marc/Nicolas. Fonctionne mécaniquement sur cette période, sans certification de salaison/conservation durable."
     },
     {
       "id": "lot-136",
-      "nom": "Viande de grand cerf adulte (lot J19 non pesé)",
+      "nom": "Lot de viande de cerf fumée J19–J20, pesé",
       "quantite": 1,
-      "masse_unitaire_kg": null,
+      "masse_unitaire_kg": 34.6,
       "categorie": "alimentation",
       "emplacement": "stock communautaire, bâtiments B/C",
-      "etat": "Prise de chasse nocturne J18–J19, récupérée au matin. Plusieurs morceaux fumés à l'essai, sécurité et durée de conservation non certifiées ; masse nette inconnue."
+      "etat": "Marianne a pesé ~34,6 kg après cinq passages supplémentaires de fumage J19–J20 ; les 3,4 kg grillés et consommés J19 sont exclus. Conservabilité prolongée non certifiée sans contrôle des conditions de stockage."
     },
     {
       "id": "lot-137",
@@ -1297,13 +1297,22 @@
       "categorie": "equipement",
       "emplacement": "équipement personnel de Tugay, refuge B",
       "etat": "Achevé J13, aucun tir documenté J14, première réussite de chasse J19. Un succès ne valide ni précision générale ni sécurité, portée et fiabilité inconnues."
+    },
+    {
+      "id": "lot-138",
+      "nom": "Panneaux photovoltaïques récupérés, apparemment intacts",
+      "quantite": 4,
+      "masse_unitaire_kg": null,
+      "categorie": "energie",
+      "emplacement": "stock communautaire, bâtiment C, à l'abri",
+      "etat": "Rapportés par Tugay et David J20 en quatre transports après une première visite de préparation ; 4 panneaux extérieurement non fissurés, non testés, non raccordés, rendement et compatibilité inconnus."
     }
   ],
   "consommables": {
-    "eau_potable_l": 59,
+    "eau_potable_l": 82,
     "nourriture_portions": null,
     "soins_unites": null,
-    "eau_statu": "Comptabilité connue J19 : ~53 L traités au refuge fin J18 + ~24 L après traitement de l'eau de la résurgence − ~18 L consommation collective = ~59 L traités. Un reliquat d'eau de l'expédition des villas est toujours inconnu et non ajouté. Origine souterraine probable mais pureté chimique non mesurée.",
+    "eau_statu": "J20 : 59 L traités connus début J20 + ~43 L après traitement de ~45 L bruts − ~20 L consommés = ~82 L traités au refuge. Reliquat inconnu des 30 L emportés en mission J16–18 non ajouté ; pureté chimique de la nouvelle source non certifiée.",
     "charbon_disponible_kg": 14.4,
     "charbon_dernier_comptage_kg": 14.4,
     "charbon_dernier_comptage_jour": 18,
@@ -1320,8 +1329,8 @@
       "pompe": "inactive"
     },
     "denrees_dernier_comptage": {
-      "jour": 9,
-      "conserves_total": 25,
+      "jour": 20,
+      "conserves_total": 12,
       "riz_pates_kg_estime": 3.4,
       "autres_cereales_flocons_semoule_kg_estime": 1.3,
       "legumineuses_seches_kg": 0.4,
@@ -1334,10 +1343,11 @@
       "confiture_g": 150,
       "sauce_tomate_bocaux": 1,
       "legumes_henri": "Restes du don jour 4 non mesurés",
-      "attention": "Dernier recomptage alimentaire général J9. Consommations J10–J18 non consolidées, 15 portions affectées à la mission J16–J18 mais consommation/reliquat non précisés. 27 conserves de fouilles récentes à vérifier (14 de J9/J11/J13/J15 et 13 de J16–J18), plus lentilles J16–J18 (~2 kg), haricots J15 (~0,8 kg), sel et miel à examiner. L'apparence ne certifie pas la sécurité sanitaire."
+      "attention": "Recomptage visuel J20 : 12 conserves physiquement retrouvées dans ancien stock (les écarts avec les 25 comptées J9 ne sont pas entièrement expliqués), 21 conserves de fouilles récentes visuellement acceptables mais à contrôler, 6 écartées. Viande fumée pesée ~34,6 kg (sans garantie de conservation prolongée), ~3,4 kg grillés J19. Autres céréales/denrées triées qualitativement sans total fiable rétabli. Qualité sanitaire des anciennes denrées indéterminée.",
+      "conserves_avertissement": "12 conserves recensées physiquement dans l'ancien stock ; ajout séparé de 21 récentes en attente, non validées comme consommables."
     },
-    "eau_brute_l": 10,
-    "eau_brute_statu": "~5 L bruts fin J18 + ~30 L collecte J19 − 25 L traités = ~10 L bruts séparés. Nouvelle résurgence à ~5 min à pied, propreté chimique non certifiée.",
+    "eau_brute_l": 25,
+    "eau_brute_statu": "J20 : ~10 L bruts au départ + ~60 L collectés à la résurgence en plusieurs tournées − ~45 L traités = ~25 L bruts séparés.",
     "denrees_recuperees_j7_a_verifier": {
       "jour": 7,
       "conserves_non_verifiees": 0,
@@ -1474,13 +1484,14 @@
         17,
         18
       ],
-      "conserves_non_verifiees": 13,
+      "conserves_non_verifiees": 7,
       "lentilles_seches_emballees_kg_non_verifie": 2,
       "sel_emballe_kg_non_verifie": 0.7,
       "pots_miel_fermes_non_verifies": 2,
-      "etat": "Trouvailles de deux nuits dans des villas délaissées; sécurité sanitaire et conservation non garanties. Ajouter aux 14 conserves anciennes en attente, pas à l'alimentation sûre."
+      "etat": "Sur 13 conserves rapportées des villas, Marianne a écarté 6 aux emballages détériorés J20 ; 7 restent visuellement acceptables mais non certifiées, avec les 14 d'autres sorties = 21 en attente.",
+      "conserves_ecartees_j20": 6
     },
-    "conserves_recentes_non_verifiees_total": 27,
+    "conserves_recentes_non_verifiees_total": 21,
     "vivres_expedition_j16_j18": {
       "jour_depart": 16,
       "jour_retour": 18,
@@ -1515,15 +1526,64 @@
       "abattu_par": "Tugay",
       "nuitee_sur_place": true,
       "viande_recuperee_kg": null,
-      "viande_fumee_kg": null,
+      "viande_fumee_kg": 34.6,
       "viande_durablement_conservable_kg": null,
-      "etat": "Récupéré le matin J19 avec Marc, Nicolas, David et Marianne. Fumage expérimental de plusieurs lots, sans pesée ni garantie de conservation prolongée."
+      "etat": "J19 dîner ~3,4 kg grillés et salés. Trois charges supplémentaires de fumage le soir puis deux dernières surveillées par Marc/Nicolas la nuit. J20 Marianne pèse ~34,6 kg fumés (hors grillades) ; absence de contrôle permettant de certifier une longue conservation sans froid."
     },
     "bois_j19": {
       "bois_sec_consomme_kg": null,
       "etat": "Fumoir, cuisine et chauffe de l'eau mobilisent du combustible ; quantité inconnue, stock final relativement sec indéterminé."
     },
-    "charbon_j19_note": "Dernier niveau recensé ~14,4 kg avant toute consommation non renseignée, ne pas interpréter comme masse nette vérifiée J19."
+    "charbon_j19_note": "Dernier niveau recensé ~14,4 kg avant toute consommation non renseignée, ne pas interpréter comme masse nette vérifiée J19.",
+    "source_resurgence_j20": {
+      "collecte_brute_l_estime": 60,
+      "traite_brut_l_estime": 45,
+      "traite_recupere_l_estime": 43,
+      "consommation_groupe_l_estime": 20,
+      "source_proche": "5 minutes à pied",
+      "analyses_chimiques_confirmees": false
+    },
+    "grillades_j19": {
+      "viande_consomme_kg_estime": 3.4,
+      "sel_utilise_kg_estime": 0.1,
+      "etat": "Dîner collectif de neuf personnes après la prise de cerf, quantité approximative ; 3,4 kg ne sont pas inclus dans les 34,6 kg de viande fumée restante."
+    },
+    "viande_fumee_lot_j20_kg": 34.6,
+    "viande_fumee_stockage_valide_longue_duree": false,
+    "conserves_recentes_ecartees_j20": 6,
+    "conserves_ancien_stock_recomptees_j20": 12,
+    "fumoir_j20": {
+      "nouvelles_charges_soir_j19": 3,
+      "dernieres_charges_nuit_j19_j20": 2,
+      "volontaires": [
+        "Marc",
+        "Nicolas"
+      ],
+      "etat": "Cinq passages supplémentaires terminés, installation stable pendant cette séance, mais procédé non validé pour stockage prolongé."
+    },
+    "parcelles_j20": {
+      "nouveaux_espaces_communs": 2,
+      "surface_approx_m2_par_parcelle": 6,
+      "personnes": [
+        "Henri",
+        "Nicolas",
+        "Marc"
+      ],
+      "etat": "Deux planches de jardin préparées sur zone commune, aucun semis ni récolte supplémentaire."
+    },
+    "panneaux_solaire_j20": {
+      "modules_visuellement_intacts_recuperes": 4,
+      "modules_fissures_restes": 2,
+      "allers_retours": 5,
+      "visites_de_transport": 4,
+      "fonctionnement_valide": false,
+      "raccordement_operationnel": false,
+      "coordination": "David (compétences électriques déclarées)",
+      "etat": "Premier trajet de préparation, puis 4 trajets de transport un module à la fois ; stockage au refuge. Statut juridique du bâtiment et fiabilité des modules non vérifiés."
+    },
+    "combustible_j20": {
+      "etat": "Fumage nocturne, cuisine et eau traitée mobilisent du bois, quantité utilisée non mesurée, stock sec final inconnu. Dernier charbon recensé 14,4 kg avant consommations non documentées."
+    }
   },
   "capacites": {
     "contenants_alimentaires_nominale_l": 151,
@@ -1544,5 +1604,5 @@
     "Équipement électrique ancien et volumineux dans le quartier des villas (J17), repéré mais non transporté",
     "Plusieurs meubles utiles du quartier des villas (J17), repérés mais non transportés"
   ],
-  "notes": "Fin J19 : succès d'une chasse solitaire durant la nuit J18–J19, 1 grand cerf adulte rapporté en équipe J19, masse de viande non pesée; fumoir artisanal construit et utilisé à l'essai, viande à contrôler, pas de quantité de nourriture durablement conservée déclarée. Kübra/Élise découvrent résurgence souterraine à ~5 min à pied : ~30 L bruts collectés, 25 L traités donnant ~24 L, groupe ~18 L consommés, ~59 L traités connus au refuge et ~10 L bruts, reliquat eau des villas non connu. Qualité chimique source non mesurée. Combustible pour le fumoir et l'eau consommé, bois sec final inconnu, charbon ancien total recensé ~14,4 kg avant éventuels usages. 27 conserves anciennes à vérifier toujours en attente. Deux chariots conservés (aucune roue démontée du nouveau). Fatigue importante de Tugay."
+  "notes": "Fin J20 : dîner J19 ~3,4 kg de viande grillée, salée ; 3 charges fumées de plus le soir et 2 dernières la nuit par Marc/Nicolas. J20 Marianne pèse ~34,6 kg fumés restants, pas de garantie de conservation sans froid ; inventaire des denrées : 6 des 13 conserves villas écartées, 21 conserves récentes encore à contrôler (14 anciennes sorties + 7 villas), 12 conserves de vieux stock physiquement présentes, sans expliquer les consommations J10–J19. Deux nouvelles planches de cultures communes ~6 m² chacune. Tugay/David : 5 AR pour 4 modules photovoltaïques visuellement intacts, non testés ni branchés ; 2 fissurés restent sur place, état et propriété inconnus. Sophie/Kübra : ~60 L bruts de résurgence, Élise : ~45 L traités pour ~43 L récupérés, groupe ~20 L consommés => ~82 L traités et ~25 L bruts au refuge (reliquat ancien de mission inconnu). Bois sec final non mesuré, charbon dernier recensement ~14,4 kg avant usages inconnus. Pas de CI."
 }

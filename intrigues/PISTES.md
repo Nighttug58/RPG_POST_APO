@@ -50,3 +50,11 @@
 - **Source** : Kübra/Élise découvrent une résurgence souterraine à ~5 min du refuge. Meilleur accès à l'eau, mais pureté chimique non certifiée. Collecte 30 L bruts, traitement 25 L donnant ~24 L, consommation ~18 L ⇒ ~59 L traités comptables au refuge et ~10 L bruts, outre eau de mission antérieure inconnue.
 - **Stock** : bois sec final inconnu après fumoir/chauffe, bois humide théorique ~33 kg, charbon ~14,4 kg au dernier recensement avant dépenses non suivies ; 27 conserves récentes non vérifiées.
 - **Personnes** : Tugay fortement fatigué. Jour 20 non joué.
+
+## Fin du jour 20 — Avancée et urgences
+- **Viande** : fumoir fonctionnel sur trois passages supplémentaires le soir J19 et deux la nuit J19–J20, surveillés par Marc/Nicolas. ~34,6 kg de viande fumée pesés par Marianne en plus des ~3,4 kg de grillades consommées J19. Conservation longue durée non certifiée sans contrôle des conditions.
+- **Énergie** : Tugay et David rapportent quatre panneaux photovoltaïques sans fissure visible en cinq allers-retours (préparation puis quatre transports). Modules non testés ni raccordés, deux fissurés restés sur le toit ; inconnues sur installation, propriétaire et composants nécessaires.
+- **Jardins/garde** : Henri/Nicolas/Marc préparent deux nouvelles planches communes ~6 m², Marc continue les rondes ; aucun nouveau semis enregistré.
+- **Alimentation** : contrôle des 27 conserves récentes par Marianne, 6 villas écartées, 21 emballages encore acceptables à inspecter davantage. 12 conserves d'ancien stock trouvées physiquement, écart non expliqué depuis J9. Stock de denrées anciennes doit encore être réconcilié quantitativement.
+- **Eau** : Sophie/Kübra ~60 L bruts, Élise traite ~45 L pour ~43 L récupérés, consommation ~20 L => ~82 L traités au refuge, ~25 L bruts séparés ; qualité chimique non vérifiée.
+- **Ressources/fatigue** : bois sec final encore inconnu, besoin d'inventaire, fatigue de Tugay/David et des deux veilleurs. Jour 21 non commencé.

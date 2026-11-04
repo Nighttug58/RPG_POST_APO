@@ -69,7 +69,7 @@
   "etat_physique": {
     "sante": null,
     "blessures": [],
-    "fatigue": "Fatigue importante après retour d'expédition J18, sortie nocturne solitaire J18–J19, récupération et fumage J19. Aucun blessure signalée.",
+    "fatigue": "Fatigue persistante après chasse nocturne J18–J19, fumage tardif et cinq trajets pour les panneaux solaires J20 avec David ; aucune blessure signalée.",
     "faim": "Besoins alimentaires réguliers, réserves de la communauté limitées",
     "hydratation": "Approvisionnement communautaire en eau traité, non encore durable"
   },
@@ -102,7 +102,8 @@
       "J13 : Tugay consacre une longue séance à son projet d'atelier, assemblage achevé mais aucune fiabilité garantie ni utilisation extérieure. Les autres missions produisent 7 plants vivants, repérage possible de panneaux solaires, pièces de chariot et fournitures. Aucun blessé ou jet.",
       "J14 : sortie avec Nicolas pour tenter de localiser du gibier. Un chevreuil est aperçu en forêt; aucun tir, aucune prise. Tugay revendique que son arc serait fonctionnel et pourrait atteindre 50–70 m, mais fiabilité, portée et puissance ne sont pas établies objectivement.",
       "J15 : avec David, exploration extérieure du bâtiment technique solaire. Six modules visibles depuis le sol, aucun équipement photovoltaïque récupéré. Documents et petit matériel d'étude retrouvés.",
-      "Nuit J18–J19 : Tugay repart seul chasser malgré la fatigue, réussit une prise de grand cerf adulte à l'arc. Un succès ponctuel n'atteste pas les performances générales de l'équipement. J19 : récupération en groupe avec Marc, Nicolas, David et Marianne, fumoir collectif et nouvelle résurgence d'eau découverte par Kübra/Élise."
+      "Nuit J18–J19 : Tugay repart seul chasser malgré la fatigue, réussit une prise de grand cerf adulte à l'arc. Un succès ponctuel n'atteste pas les performances générales de l'équipement. J19 : récupération en groupe avec Marc, Nicolas, David et Marianne, fumoir collectif et nouvelle résurgence d'eau découverte par Kübra/Élise.",
+      "Soir J19 : dîner collectif de grillades ~3,4 kg, trois charges de fumage supplémentaires ; Marc et Nicolas restent éveillés pour deux derniers lots. J20 : Tugay et David rapportent quatre panneaux photovoltaïques apparemment intacts en cinq trajets, sans raccordement ni validation électrique. Marianne recense ~34,6 kg de viande fumée, denrées triées. La communauté aménage deux planches et collecte de l'eau à la résurgence."
     ]
   }
 }

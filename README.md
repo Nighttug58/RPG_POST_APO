@@ -2,7 +2,7 @@
 
 Campagne RPG narrative post-apocalyptique en Suisse romande, en 2043, onze ans après La Rupture. Narration immersive et détaillée, simulation exigeante, décisions et conséquences persistantes.
 
-**État : fin du jour 19, novembre 2043. Après les villas J16–J18, Tugay rapporte un grand cerf avec l'équipe J19 ; premier fumoir communautaire essayé et résurgence souterraine découverte à ~5 min du refuge. Mode = narration continue, sans CI.**
+**État : fin du jour 20, novembre 2043. 34,6 kg de viande fumée pesée (stockage durable non certifié), quatre modules photovoltaïques récupérés mais non testés, deux nouvelles planches communes, eau traitée ~82 L. Mode narratif continu, aucune CI.**
 
 ## Architecture V2
 
@@ -62,4 +62,4 @@ Depuis ChatGPT, demander **« Affiche ma fiche et mon inventaire »** : le MJ li
 Voir [la procédure d'affichage](docs/AFFICHAGE_CHAT.md).
 
 ## Reprise actuelle
-Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J19 à 19 h 30 : Tugay a réussi une chasse solitaire la nuit J18–J19 et le groupe a ramené un gros cerf adulte, viande non pesée et fumoir utilisé pour premier essai seulement. Henri/Sophie construisent le fumoir à partir de pièces disponibles sans toucher aux roues du deuxième chariot. Kübra/Élise découvrent une résurgence souterraine à ~5 min à pied du refuge et rapportent ~30 L bruts. Eau traitée connue au refuge ~59 L et eau brute ~10 L, en plus d'un éventuel reliquat d'expédition inconnu ; pureté chimique non certifiée. Bois sec final inconnu. Dernier récit : [Chapitre 028](recit/chapitre-028/scene-001.md). Jour 20 à commencer.
+Voir [POINT_DE_REPRISE](sauvegarde/POINT_DE_REPRISE.md) et [INVENTAIRE](sauvegarde/INVENTAIRE.json). Fin J20 à 19 h 15 : soirée J19 grillades ~3,4 kg, cinq charges supplémentaires de viande passées au fumoir jusqu'au matin ; Marianne recense ~34,6 kg de viande fumée non certifiée stable longtemps, 21 conserves de récupérations récentes encore à contrôler et 6 écartées. Tugay et David ramènent quatre panneaux photovoltaïques en cinq allers-retours, aucun testé ni raccordé. Henri/Nicolas/Marc aménagent deux planches communes. Sophie/Kübra rapportent ~60 L bruts de la résurgence, Élise traite 45 L, bilan ~82 L traités et ~25 L bruts ; bois sec final inconnu. Dernier récit : [Chapitre 029](recit/chapitre-029/scene-001.md). Jour 21 à commencer.

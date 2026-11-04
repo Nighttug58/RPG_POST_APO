@@ -195,3 +195,11 @@
 - Henri et Sophie aménagent un fumoir avec des pièces métalliques d'ancien vélo et des tuyaux, sans toucher aux roues du second chariot. Premier fumage d'une partie des pièces, aucun volume de viande durablement conservable validé ; combustible consommé sans pesée.
 - Kübra/Élise découvrent une résurgence d'eau souterraine à ~5 min de marche du refuge ; pureté chimique supposée mais non analysée. ~30 L bruts rapportés, 25 traités pour ~24 L récupérés, ~18 L consommés : ~59 L traités connus au refuge + reliquat éventuel des villas inconnu, ~10 L bruts.
 - Tugay très fatigué, aucun blessé ni conflit signalé. Fin J19 vers 19 h 30 ; J20 non commencé.
+
+## Soir du jour 19 et jour 20 — Fumage, panneaux et inventaire
+- Soir J19 : grillades salées de ~3,4 kg de cerf pour neuf ; trois autres charges fumées. Marc et Nicolas restent volontaires la nuit J19–J20 pour deux derniers lots, puis dorment une partie de la matinée.
+- J20 : Marianne pèse ~34,6 kg de viande fumée, stock important en masse mais conservation longue durée non certifiée. Vérifie toutes les denrées disponibles visuellement ; parmi 27 conserves récentes 6 des villas sont écartées, 21 demeurent à contrôler. Ancien stock physiquement compté à 12 boîtes, différence avec J9 inexpliquée.
+- Tugay/David : cinq AR au bâtiment solaire, premier de préparation et quatre transports d'un panneau ; quatre modules sans fissure apparente stockés au refuge, deux fissurés demeurent sur place. Aucune alimentation électrique opérationnelle ni test de rendement.
+- Henri/Nicolas/Marc : deux nouvelles planches communes ~6 m² chacune, Marc maintient garde, fatigue due à la nuit de fumage.
+- Sophie/Kübra collectent ~60 L bruts à la résurgence, Élise en traite 45 pour ~43 L récupérés ; ~20 L consommés => fin J20 ~82 L traités connus et ~25 L bruts, qualité chimique non confirmée. Bois sec non inventorié.
+- Fin J20 vers 19 h 15, pas d'incident majeur signalé ; J21 non commencé.
