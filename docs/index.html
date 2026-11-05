@@ -2,39 +2,76 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#161d1c">
-  <meta name="description" content="Tableau de bord du personnage et de l'inventaire — Les Cendres du Monde.">
-  <title>Les Cendres du Monde — Tableau de bord</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#101817">
+  <meta name="description" content="Atlas interactif des communautés — Les Cendres du Monde.">
+  <title>Les Cendres du Monde · Atlas</title>
   <link rel="stylesheet" href="./dashboard.css">
   <script src="./dashboard.js" defer></script>
 </head>
 <body>
-  <main class="shell">
-    <header class="masthead">
-      <div>
-        <p class="eyebrow">RPG POST-APO · DOSSIER DE SURVIE</p>
-        <h1>Les Cendres du Monde</h1>
-        <p class="lead">Fiche de personnage et inventaire synchronisés avec les fichiers JSON publics du dépôt GitHub.</p>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">✳</div>
+        <div><p class="eyebrow">RPG_POST_APO / CENTRE DE COMMANDEMENT</p><h1>LES CENDRES <span>DU MONDE</span></h1></div>
       </div>
-      <button type="button" id="refresh" class="primary">Actualiser les données</button>
+      <div class="head-meta"><span class="live-dot"></span><span>CHAPITRE 01</span><span class="head-sep">/</span><strong>JOUR 56</strong></div>
     </header>
-
-    <div id="status" class="status" role="status" aria-live="polite">Chargement des sauvegardes…</div>
-    <section id="summary" class="summary" aria-label="Situation du jeu"></section>
-
-    <nav class="tabs" aria-label="Catégorie de la fiche">
-      <button type="button" id="tab-personnage" role="tab" aria-controls="panel-personnage" aria-selected="true" tabindex="0">Personnage</button>
-      <button type="button" id="tab-inventaire" role="tab" aria-controls="panel-inventaire" aria-selected="false" tabindex="-1">Inventaire</button>
+    <nav class="tabs" role="tablist" aria-label="Sections du centre de commandement">
+      <button class="tab active" id="tab-map" type="button" role="tab" aria-selected="true" aria-controls="panel-map" data-tab="map"><span class="tab-icon">⌖</span> Map</button>
+      <button class="tab" id="tab-inventaire" type="button" role="tab" aria-selected="false" aria-controls="panel-inventaire" tabindex="-1" data-tab="inventaire"><span class="tab-icon">▤</span> Inventaire</button>
+      <button class="tab" id="tab-tbd1" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd1" tabindex="-1" data-tab="tbd1">TBD1</button>
+      <button class="tab" id="tab-tbd2" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd2" tabindex="-1" data-tab="tbd2">TBD2</button>
+      <button class="tab" id="tab-tbd3" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd3" tabindex="-1" data-tab="tbd3">TBD3</button>
+      <button class="tab" id="tab-tbd4" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd4" tabindex="-1" data-tab="tbd4">TBD4</button>
     </nav>
-    <section id="panel-personnage" role="tabpanel" aria-labelledby="tab-personnage" class="panel"></section>
-    <section id="panel-inventaire" role="tabpanel" aria-labelledby="tab-inventaire" class="panel" hidden></section>
-
-    <footer class="foot">
-      <p>Les valeurs « Non défini » représentent des données non encore choisies, pas des valeurs nulles de jeu.</p>
-      <p>Lecture seule : aucune modification n'est envoyée vers GitHub. Pour modifier la sauvegarde, prends une décision dans notre conversation.</p>
-      <p><a href="https://github.com/Nighttug58/RPG_POST_APO">Dépôt GitHub</a> · <a href="https://github.com/Nighttug58/RPG_POST_APO/blob/main/sauvegarde/ETAT.json">État JSON</a> · <a href="https://github.com/Nighttug58/RPG_POST_APO/blob/main/personnage/PERSONNAGE.json">Personnage JSON</a> · <a href="https://github.com/Nighttug58/RPG_POST_APO/blob/main/sauvegarde/INVENTAIRE.json">Inventaire JSON</a></p>
-    </footer>
-  </main>
+    <main>
+      <section id="panel-map" role="tabpanel" aria-labelledby="tab-map" class="page">
+        <div class="section-head">
+          <div><p class="eyebrow">MODULE 01 / RECONNAISSANCE</p><h2>Atlas de Lausanne <span class="subtitle">— 2043</span></h2><p class="description">Carte stratégique schématique · positions indicatives, non GPS · situation fin J056</p></div>
+          <div class="counter"><strong id="site-count">0</strong><span>POINTS RECENSÉS</span></div>
+        </div>
+        <div class="workspace">
+          <div class="map-card">
+            <div class="map-toolbar">
+              <div class="filter-set" aria-label="Filtrer les lieux">
+                <button class="filter active" type="button" data-filter="all" aria-pressed="true">Tous</button>
+                <button class="filter" type="button" data-filter="camp" aria-pressed="false">Communautés</button>
+                <button class="filter" type="button" data-filter="resource" aria-pressed="false">Ressources</button>
+                <button class="filter" type="button" data-filter="unknown" aria-pressed="false">À vérifier</button>
+              </div>
+              <div class="zoom-set" aria-label="Contrôles de carte">
+                <button type="button" id="zoom-out" aria-label="Dézoomer">−</button>
+                <button type="button" id="zoom-reset" aria-label="Réinitialiser la vue">⤢</button>
+                <button type="button" id="zoom-in" aria-label="Zoomer">+</button>
+              </div>
+            </div>
+            <div class="canvas-wrap" id="canvas-wrap">
+              <canvas id="world-map" role="img" aria-label="Carte schématique interactive de Lausanne avec une grille A à H et 1 à 8. Utilisez aussi la liste de lieux à droite."></canvas>
+              <div class="map-north" aria-hidden="true">N <span>↑</span></div>
+              <div class="map-hint">GLISSER POUR DÉPLACER · MOLETTE POUR ZOOMER · CLIQUER UN REPÈRE</div>
+            </div>
+            <div class="map-bottom"><div class="legend"><span><i class="dot camp"></i> Communauté</span><span><i class="dot resource"></i> Ressource</span><span><i class="dot unknown"></i> Non vérifié</span></div><span>GRILLE A–H / 1–8</span></div>
+          </div>
+          <aside class="intel" aria-label="Fiches des lieux">
+            <div class="intel-heading"><span class="eyebrow">RENSEIGNEMENTS</span><span id="intel-position" class="coord-chip">—</span></div>
+            <div class="intel-body" id="intel-body" aria-live="polite"></div>
+            <div class="index">
+              <div class="index-heading"><h3>Répertoire des lieux</h3><span id="index-count"></span></div>
+              <div id="location-index" class="location-index"></div>
+            </div>
+          </aside>
+        </div>
+        <p class="disclaimer">Le placement des lieux est volontairement approximatif. Les quartiers de Lausanne servent de repères narratifs ; aucun emplacement précis n'est confirmé pour les refuges, réserves ou personnes.</p>
+      </section>
+      <section id="panel-inventaire" role="tabpanel" aria-labelledby="tab-inventaire" class="page placeholder" hidden></section>
+      <section id="panel-tbd1" role="tabpanel" aria-labelledby="tab-tbd1" class="page placeholder" hidden></section>
+      <section id="panel-tbd2" role="tabpanel" aria-labelledby="tab-tbd2" class="page placeholder" hidden></section>
+      <section id="panel-tbd3" role="tabpanel" aria-labelledby="tab-tbd3" class="page placeholder" hidden></section>
+      <section id="panel-tbd4" role="tabpanel" aria-labelledby="tab-tbd4" class="page placeholder" hidden></section>
+    </main>
+    <footer class="footer"><span>LES CENDRES DU MONDE © 2043 · UNIVERS FICTIF</span><a href="https://github.com/Nighttug58/RPG_POST_APO" target="_blank" rel="noopener noreferrer">CODE SOURCE ↗</a><span>ATLAS V1.0 / J056</span></footer>
+  </div>
 </body>
 </html>
