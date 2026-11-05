@@ -1,8 +1,8 @@
 # Jour 28 — Les visiteurs du pick-up noir et la route de Crissier
 
-**Statut :** en_cours
+**Statut :** termine
 **Jour fictif :** J28, novembre 2043
-**Checkpoint :** 20 h 00, communauté de Crissier, Tugay et David hébergés provisoirement ; **J28 n'est pas déclaré terminé**.
+**Checkpoint :** fin J28, 21 h 30, communauté de Crissier, Tugay et David hébergés provisoirement.
 **Base consolidée :** J24 17 h 40
 **Journaux précédents :** J025 (avec addendum J24), J026 et J027
 
@@ -48,7 +48,14 @@ Nadia propose de leur montrer **au J29** des témoignages recueillis concernant 
 - **Pistes :** échange d'expertise électrique contre diagnostic du véhicule gris ; visite du site de Crissier ; potentiel rapprochement commercial ; témoignages sur les agresseurs ; objectifs hivernaux (bois et charbon) toujours urgents ; actions parallèles des habitants à résoudre lors des jours suivants.
 - **Aucun combat, vol, blessure, jet de dés ou réparation électrique/automobile accomplie.**
 
+## 20 h 12–21 h 25 : Nadia montre les témoignages avant la nuit
+Impatient, Tugay demande immédiatement à Nadia de lui montrer ses dossiers relatifs aux violences du nord de Lausanne. Elle l'accueille dans un bureau à archives et présente **trois témoignages**, en distinguant rumeurs et observations :
+1. **Voyageurs de Romanel-sur-Lausanne** : deux personnes disent avoir fui un groupe armé exigeant des provisions, aperçu en plusieurs véhicules ; description incertaine d'un utilitaire sombre et d'un véhicule tout-terrain.
+2. **Secteur du Mont-sur-Lausanne** : une habitante rapporte avoir entendu des coups de feu près d'une zone commerciale ; tireurs non vus. Les rumeurs de voyageurs évoquent ensuite plusieurs personnes en déplacement.
+3. **Samuel, voyageur passé par Crissier** : il affirme avoir observé un groupe dans un ancien secteur de stockage au nord de Lausanne et remarqué sur certaines caisses un **symbole blanc : un cercle traversé par trois traits**. L'existence, l'utilisation et l'interprétation de ce signe ne sont pas corroborées.
+Samuel est reparti vers l'ouest ; localisation actuelle inconnue. Tugay copie les témoignages et dessine le symbole dans son carnet. **Aucune preuve** que ce groupe soit à l'origine de l'attaque de son ancien camp avec Kübra. Nadia propose de comparer ces secteurs avec une carte le J29. David apprend l'existence des notes et ne reconnaît pas le symbole. Aucun nouveau contact ni confrontation.
+
 ## Reprise
-**J28, 20 h 00 : Tugay et David hébergés dans le site industriel de Crissier.** Le lendemain J29, bilan technique à conduire et témoignages proposés par Nadia ; le joueur conserve les choix importants. Au refuge, les missions données sont programmées mais leurs résultats ne sont pas encore connus. **Ne pas déclarer le J28 terminé sans la suite du récit**, et ne pas avancer au J29 sur la seule base de ce checkpoint.
+**Fin J28, vers 21 h 30 : Tugay et David hébergés à Crissier.** Nadia a présenté ses témoignages et Tugay en a copié les éléments essentiels. Le lendemain J29, bilan technique à conduire ; au refuge, les missions confiées sont programmées mais leurs résultats ne sont pas encore connus à ce checkpoint.
 
 **Protocole :** ne modifier que ce JOUR.md en sauvegarde légère ; à la consolidation globale, appliquer J025, J026, J027 puis J028, sans doublons.
