@@ -9,7 +9,7 @@
   const header=node("div","inventory-head");
   const caption=node("div");
   caption.append(node("p","eyebrow","MODULE 02 / GESTION DU REFUGE"),node("h2","","Inventaire"));
-  caption.append(node("p","description","Objets regroupés par famille · nom, quantité et description · fin J74"));
+  caption.append(node("p","description","Objets regroupés par famille · nom, quantité et description · données actualisées"));
   header.append(caption);
   panel.append(header);
   const message=node("p","inv-notice","Chargement des données…");

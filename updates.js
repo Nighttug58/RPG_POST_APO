@@ -17,5 +17,13 @@
     root.append(item);
   }
   const counter=document.querySelector(".head-meta strong");if(counter)counter.textContent="JOUR "+j;
+  const year=document.querySelector("#panel-map .section-head .subtitle");
+  if(year)year.textContent="— "+(data.reference?.date?.split(" ").slice(-1)[0]||"2044");
+  const meta=document.querySelector("#panel-map .section-head .description");
+  if(meta)meta.textContent="Carte stratégique schématique · positions indicatives, non GPS · "+data.reference?.checkpoint;
+  const village=document.querySelector("#panel-village .section-head .description");
+  if(village)village.textContent="Schéma interactif des bâtiments et équipements · "+data.reference?.checkpoint+" · implantation illustrative";
+  const footer=document.querySelector(".footer span:last-child");
+  if(footer)footer.textContent="ATLAS · INVENTAIRE · VILLAGE / J"+j;
  }).catch(err=>{root.replaceChildren(el("p","Actualités indisponibles : "+err.message));});
 })();
