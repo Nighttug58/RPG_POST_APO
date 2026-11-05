@@ -1,0 +1,12 @@
+# J041 — La voiture bouge
+**Statut :** termine
+**Date fictive :** 10 décembre 2043. **Plage :** matin–soir. **Précédent :** J040.
+## Récit
+Temps froid, soleil partiel, neige fondue. La nouvelle centrale photovoltaïque B/C fonctionne : **14 panneaux raccordés et stockage combiné composé de la batterie nominale 8 kWh et du module supplémentaire estimé à ~6 kWh utiles**. La borne de recharge fonctionne dans la limite de l'énergie solaire disponible ; consommation essentielle du refuge prioritaire. Pas de charge intégrale garantie de la batterie auto.
+**Mathieu, Bastien et Marc** restaurent des systèmes auxiliaires de la voiture grise et montent les **quatre roues/pneus cédées J40**. Au matin, la voiture effectue **quelques mètres d'essai contrôlé dans la cour** : propulsion et direction répondent, mais **freins non satisfaisants**. Elle **reste non autorisée à circuler sur route**, aucune autonomie ni vitesse déduites de cet essai. Mathieu dit avoir besoin de **pièces et outils de freinage disponibles seulement à Crissier**, et repart dans la journée grâce à un passage du pick-up conduit par **Laurent** venu le chercher. Il envisage de revenir lorsque équipé, sans date certaine. Bastien poursuit l'aide mécanique au refuge.
+Sophie, Élise et Maëlle suivent l'eau et les récipients. Le **réservoir technique de 100 L trouvé sous C J36** a été nettoyé et examiné mais n'est **pas encore considéré apte à l'eau de boisson** ; maintien des récipients habituels. Le **réservoir communal en hauteur**, vu sur anciens plans, reste non exploré. La **résurgence J37 reste interdite à la consommation**, malgré des indices visuels de clarification.
+La toiture de la bibliothèque C reste endommagée, salle fermée. Aucun nouveau résident, aucune attaque. **Population au refuge après départ Mathieu : 11 permanents dont David absent (10 présents) + Claire, Hugo, Bastien (3 invités) = 13 présents**.
+## Comptabilité
+Le total J40–J43 sera consigné dans J043 ; ne pas inventer de solde quotidien non mesuré. Référence fin J39 : 153 kg bois et 171 L eau prête. Consommations cumulées J40–J43 : −50 kg bois, −65 L eau ; gains J42–J43 +82 kg bois, et J41–J43 +75 L eau préparée hors résurgence. Charbon dernier relevé 39,5 kg sans mouvement chiffré. Viande stock général inconnu.
+## Suite
+Nora et David chez les 17 habitants de l'ouest, réparations électriques en cours. Mathieu rentre à Crissier pour du matériel. Masters JSON non modifiés.
