@@ -55,5 +55,9 @@ Tugay souhaite obtenir plus de panneaux et des batteries pour aider David à ren
 - Tugay doit décider du départ de Crissier et du retour, potentiellement avec Mathieu, et des engagements à prendre avec Nadia.
 - **J30 terminé à 21 h 00**, J31 non joué. Pas d'incident nouveau, ni de jet de dé.
 
+## Addendum J30 — 21 h 30, décision avant de dormir (postérieure au checkpoint J30 21 h)
+Tugay décide avec David de **rester à Crissier autant que nécessaire pour finaliser les nouveaux panneaux et la batterie** plutôt que rentrer immédiatement. David annonce qu'un examen plus poussé du stockage domestique récupéré J30 révèle une conservation exceptionnellement bonne et une **compatibilité avec le réseau de Crissier**. Cette nouvelle encourage l'équipe, qui prévoit des contrôles et une mise en service complète pendant J31. L'état exploitable sera confirmé par les tests du J31. Il s'agit d'une correction/évolution de l'impression prudente formulée plus tôt J30, et non d'une seconde batterie ou d'un objet supplémentaire. Le retour de Tugay et David demeure non fixé.
+**Cet addendum J30 doit être appliqué une fois avant J031 lors de toute consolidation.**
+
 ## Consolidation
 Le dernier état maître reste J24 à 17 h 40. Pour une consolidation demandée, intégrer **une seule fois** les journaux J025, J026, J027, J028, J029 et ce J030, en respectant addenda, nouveaux pesages et biens de Crissier qui ne sont pas ceux du refuge.
