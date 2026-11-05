@@ -8,8 +8,10 @@
   <title>Les Cendres du Monde · Atlas V1.1</title>
   <link rel="stylesheet" href="./dashboard.css?v=atlas-20261105-2">
   <link rel="stylesheet" href="./inventory.css?v=inventory-normalized-v2">
-  <script src="./dashboard.js?v=atlas-20261105-2" defer></script>
+  <link rel="stylesheet" href="./village.css?v=village-v1-1">
+  <script src="./dashboard.js?v=atlas-village-v1-1" defer></script>
   <script src="./inventory.js?v=inventory-normalized-v2" defer></script>
+  <script src="./village.js?v=village-v1-1" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -18,12 +20,12 @@
         <div class="brand-mark" aria-hidden="true">✳</div>
         <div><p class="eyebrow">RPG_POST_APO / CENTRE DE COMMANDEMENT</p><h1>LES CENDRES <span>DU MONDE</span></h1></div>
       </div>
-      <div class="head-meta"><span class="live-dot"></span><span>CHAPITRE 01</span><span class="head-sep">/</span><strong>JOUR 56</strong></div>
+      <div class="head-meta"><span class="live-dot"></span><span>CHAPITRE 01</span><span class="head-sep">/</span><strong>JOUR 61</strong></div>
     </header>
     <nav class="tabs" role="tablist" aria-label="Sections du centre de commandement">
       <button class="tab active" id="tab-map" type="button" role="tab" aria-selected="true" aria-controls="panel-map" data-tab="map"><span class="tab-icon">⌖</span> Map</button>
       <button class="tab" id="tab-inventaire" type="button" role="tab" aria-selected="false" aria-controls="panel-inventaire" tabindex="-1" data-tab="inventaire"><span class="tab-icon">▤</span> Inventaire</button>
-      <button class="tab" id="tab-tbd1" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd1" tabindex="-1" data-tab="tbd1">TBD1</button>
+      <button class="tab" id="tab-village" type="button" role="tab" aria-selected="false" aria-controls="panel-village" tabindex="-1" data-tab="village"><span class="tab-icon">▦</span> Village</button>
       <button class="tab" id="tab-tbd2" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd2" tabindex="-1" data-tab="tbd2">TBD2</button>
       <button class="tab" id="tab-tbd3" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd3" tabindex="-1" data-tab="tbd3">TBD3</button>
       <button class="tab" id="tab-tbd4" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd4" tabindex="-1" data-tab="tbd4">TBD4</button>
@@ -68,12 +70,42 @@
         <p class="disclaimer">Le placement des lieux est volontairement approximatif. Les quartiers de Lausanne servent de repères narratifs ; aucun emplacement précis n'est confirmé pour les refuges, réserves ou personnes.</p>
       </section>
       <section id="panel-inventaire" role="tabpanel" aria-labelledby="tab-inventaire" class="page inventory-page" hidden></section>
-      <section id="panel-tbd1" role="tabpanel" aria-labelledby="tab-tbd1" class="page placeholder" hidden></section>
+      <section id="panel-village" role="tabpanel" aria-labelledby="tab-village" class="page" hidden>
+        <div class="section-head">
+          <div><p class="eyebrow">MODULE 03 / PLAN LOCAL</p><h2>Village B/C <span class="subtitle">— Plan du refuge</span></h2><p class="description">Schéma interactif des bâtiments et équipements · fin J61 · implantation illustrative</p></div>
+          <div class="counter"><strong>11</strong><span>RÉSIDENTS</span></div>
+        </div>
+        <div class="village-layout">
+          <div class="village-map-card">
+            <div class="village-toolbar">
+              <span>VUE D'ENSEMBLE · REFUGE B/C</span>
+              <div class="village-actions">
+                <button type="button" id="village-zoom-out" aria-label="Dézoomer le village">−</button>
+                <button type="button" id="village-reset" aria-label="Réinitialiser le plan">⤢</button>
+                <button type="button" id="village-zoom-in" aria-label="Zoomer le village">+</button>
+              </div>
+            </div>
+            <div class="village-stage" id="village-stage">
+              <canvas id="village-canvas" role="img" aria-label="Plan interactif schématique du village B/C. Les bâtiments et zones sont accessibles également via la liste."></canvas>
+              <span class="village-compass" aria-hidden="true">N ↑</span>
+              <span class="village-stage-hint">CLIQUER SUR UNE ZONE · GLISSER POUR DÉPLACER · MOLETTE POUR ZOOMER</span>
+            </div>
+            <div class="village-legend"><span><i class="village-dot building"></i> Bâtiments</span><span><i class="village-dot water"></i> Eau</span><span><i class="village-dot energy"></i> Énergie</span><span><i class="village-dot garden"></i> Cultures</span><span><i class="village-dot workshop"></i> Projets / stockage</span></div>
+          </div>
+          <aside class="village-sidebar">
+            <p class="eyebrow">FICHE DU SECTEUR</p>
+            <div id="village-detail" aria-live="polite"></div>
+            <h3>Zones du village</h3>
+            <div class="village-index" id="village-index"></div>
+          </aside>
+        </div>
+        <p class="disclaimer">Plan de gestion fictionnel non géoréférencé : la position, la forme des bâtiments et l'emplacement des zones sont proposés pour la visualisation, sans établir de nouvelles constructions ni d'ouvrages défensifs dans le canon.</p>
+      </section>
       <section id="panel-tbd2" role="tabpanel" aria-labelledby="tab-tbd2" class="page placeholder" hidden></section>
       <section id="panel-tbd3" role="tabpanel" aria-labelledby="tab-tbd3" class="page placeholder" hidden></section>
       <section id="panel-tbd4" role="tabpanel" aria-labelledby="tab-tbd4" class="page placeholder" hidden></section>
     </main>
-    <footer class="footer"><span>LES CENDRES DU MONDE © 2043 · UNIVERS FICTIF</span><a href="https://github.com/Nighttug58/RPG_POST_APO" target="_blank" rel="noopener noreferrer">CODE SOURCE ↗</a><span>ATLAS + INVENTAIRE V2 / J061</span></footer>
+    <footer class="footer"><span>LES CENDRES DU MONDE © 2043 · UNIVERS FICTIF</span><a href="https://github.com/Nighttug58/RPG_POST_APO" target="_blank" rel="noopener noreferrer">CODE SOURCE ↗</a><span>ATLAS · INVENTAIRE · VILLAGE / J061</span></footer>
   </div>
 </body>
 </html>

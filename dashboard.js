@@ -64,7 +64,7 @@
   }
   function select(id) { if(!byId[id]) return;selected=id;renderInfo();renderIndex();draw(); }
   function setupPlaceholders() {
-    for(const name of ["inventaire","tbd1","tbd2","tbd3","tbd4"]){
+    for(const name of ["inventaire","tbd2","tbd3","tbd4"]){
       const root=$("panel-"+name);const card=safe("div","placeholder-card");
       card.append(safe("div","big","⊞"),safe("p","eyebrow","MODULE NON CONFIGURÉ"),safe("h2","",name==="inventaire"?"Inventaire":name.toUpperCase()),safe("p","","Cet onglet est réservé pour une prochaine étape. Aucun module ni donnée n'est encore raccordé."));
       root.append(card);

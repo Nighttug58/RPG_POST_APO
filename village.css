@@ -1,0 +1,31 @@
+/* Troisième onglet : plan interactif du refuge B/C */
+.village-layout{display:grid;grid-template-columns:minmax(0,1fr) 330px;gap:16px;align-items:stretch}
+.village-map-card,.village-sidebar{background:#15201e;border:1px solid #2d403b;min-width:0}
+.village-map-card{display:flex;flex-direction:column}
+.village-toolbar{display:flex;align-items:center;justify-content:space-between;padding:14px 17px;border-bottom:1px solid #2d403b;gap:12px;color:#9bbbab;font:700 .8rem 'Barlow Condensed',sans-serif;letter-spacing:.12em}
+.village-actions{display:flex;gap:6px}
+.village-actions button{background:#21352b;border:1px solid #42624d;color:#e1eddf;min-width:35px;height:35px;font-size:1.15rem;border-radius:3px}
+.village-actions button:hover{border-color:#b9e4b1}
+.village-stage{height:min(66vh,700px);min-height:460px;position:relative;overflow:hidden;background:#14241d;touch-action:none}
+#village-canvas{width:100%;height:100%;display:block;cursor:grab;touch-action:none}
+#village-canvas:active{cursor:grabbing}
+.village-compass{position:absolute;right:18px;top:15px;pointer-events:none;font:700 1rem 'Barlow Condensed',sans-serif;color:#b9e4b1}
+.village-stage-hint{position:absolute;left:16px;bottom:12px;pointer-events:none;font-size:.63rem;color:#c5d6c6;letter-spacing:.06em;text-shadow:0 1px 4px #000}
+.village-legend{display:flex;flex-wrap:wrap;gap:12px;padding:14px 16px;border-top:1px solid #2d403b;font-size:.72rem;color:#aabfb1}
+.village-legend span{display:flex;align-items:center;gap:6px}
+.village-dot{width:9px;height:9px;border-radius:50%;display:inline-block}
+.village-dot.building{background:#e8c7ab}.village-dot.water{background:#83cbdf}.village-dot.energy{background:#f3d189}.village-dot.garden{background:#a9d8a2}.village-dot.workshop{background:#d7c3e6}
+.village-sidebar{padding:18px 19px;display:flex;flex-direction:column}
+.village-sidebar .eyebrow{margin-bottom:13px}
+.village-sidebar h3{margin:0 0 13px;font:700 1.5rem 'Barlow Condensed',sans-serif}
+#village-detail h3{font:700 2.1rem 'Barlow Condensed',sans-serif;color:#e5f0e8;margin:0 0 8px}
+.village-type{font-size:.67rem;letter-spacing:.15em;color:#b9e4b1;margin:0 0 8px}
+.village-description{color:#b7cabc;font-size:.85rem;line-height:1.65;margin-bottom:14px}
+.village-notes{margin:0 0 24px;padding-left:18px;color:#c6d6c9;font-size:.77rem;line-height:1.65}
+.village-notes li{margin-bottom:5px}
+.village-sidebar>h3{margin-top:auto;padding-top:17px;border-top:1px solid #30463b}
+.village-index{max-height:280px;overflow-y:auto;display:grid;gap:5px}
+.village-item{background:#192923;border:1px solid #2c4235;color:#bdd4c3;padding:10px 11px;text-align:left;border-radius:3px;font-size:.79rem}
+.village-item:hover,.village-item.active{background:#2b4532;border-color:#72916f;color:#f1f7ea}
+@media(max-width:920px){.village-layout{grid-template-columns:1fr}.village-sidebar{min-height:0}.village-index{grid-template-columns:repeat(2,minmax(0,1fr));max-height:none}}
+@media(max-width:550px){.village-stage{height:54vh;min-height:410px}.village-legend{gap:8px}.village-index{grid-template-columns:1fr}.village-toolbar{font-size:.66rem}.village-stage-hint{font-size:.53rem;max-width:250px;line-height:1.4}}
