@@ -1,7 +1,7 @@
 {
   "schema": "inventaire-normalise/2.0",
-  "reference": "Fin J61 — 30 décembre 2043",
-  "note": "Noms, quantités et descriptions seulement. Les groupes historiques ne garantissent pas un stock actuel. Éléments consommés ou déjà intégrés aux totaux non ajoutés à nouveau. L'ancien fichier détaillé reste accessible dans l'historique Git, et la sauvegarde maître J24 reste intacte.",
+  "reference": "Fin J074 — 12 janvier 2044",
+  "note": "Noms, quantités et descriptions seulement. Les groupes historiques ne garantissent pas un stock actuel. Éléments consommés ou déjà intégrés aux totaux non ajoutés à nouveau. L'ancien fichier détaillé reste accessible dans l'historique Git, et la sauvegarde maître J24 reste intacte. Mise à jour des totaux et équipements explicitement établis jusqu'à J074 ; les autres lignes historiques restent non repesées.",
   "categories": [
     "Réserves",
     "Eau et cuisine",
@@ -16,26 +16,26 @@
     {
       "categorie": "Réserves",
       "nom": "Nourriture",
-      "quantite": "77,6 kg",
-      "description": "Stock alimentaire total fin J61, comprenant les conserves et les anciennes denrées. Aucun double comptage."
+      "quantite": "62,3 kg",
+      "description": "Stock alimentaire global fin J074, incluant les échanges et repas des J062–J074 ; pas de double comptage."
     },
     {
       "categorie": "Réserves",
       "nom": "Eau prête",
-      "quantite": "192 L",
-      "description": "Eau préparée fin J61 ; 251 L de capacité nominale totale et 4 L supplémentaires isolés."
+      "quantite": "193 L",
+      "description": "Eau prête estimée fin J074, capacité nominale totale inchangée à 251 L, 4 L isolés."
     },
     {
       "categorie": "Réserves",
       "nom": "Bois sec",
-      "quantite": "203 kg",
-      "description": "Réserve estimée fin J61."
+      "quantite": "210 kg",
+      "description": "Stock de bois sec estimé fin J074."
     },
     {
       "categorie": "Réserves",
       "nom": "Charbon",
-      "quantite": "39,5 kg",
-      "description": "Dernier relevé connu, non repesé à J61."
+      "quantite": "51,5 kg",
+      "description": "Dernier stock recensé fin J074, après +13 kg J070 et −1 kg J072."
     },
     {
       "categorie": "Eau et cuisine",
@@ -173,7 +173,7 @@
       "categorie": "Outils et construction",
       "nom": "Établis démontables",
       "quantite": "3",
-      "description": "Dernier inventaire matériel historique pour certains composants ; Trois établis récupérés au G/H, dont deux utilisables après nettoyage."
+      "description": "Trois établis récupérés en J060 ; deux affectés au Grand Atelier B/C, inauguré J073."
     },
     {
       "categorie": "Jardin et cultures",
@@ -262,8 +262,8 @@
     {
       "categorie": "Énergie et éclairage",
       "nom": "Luminaires récupérés",
-      "quantite": "6",
-      "description": "Dernier inventaire matériel historique pour certains composants ; Six luminaires du bâtiment D, non testés."
+      "quantite": "4 (2 installés, 2 hors service)",
+      "description": "Sur 6 luminaires récupérés J057, 2 ont été échangés J070, 2 installés à l'atelier J072 et 2 hors service sont conservés. Quantité physiquement détenue : 4."
     },
     {
       "categorie": "Énergie et éclairage",
@@ -291,9 +291,9 @@
     },
     {
       "categorie": "Transport et équipement",
-      "nom": "Chariots et plateforme manuelle",
+      "nom": "Chariots et remorque Marc Express",
       "quantite": "5",
-      "description": "Dernier inventaire matériel historique pour certains composants ; Chariot de courses, chariot artisanal, plateforme de Marc et deux chariots du bâtiment D, dont un à réparer."
+      "description": "Cinq moyens de manutention historiques : un chariot de courses, un chariot artisanal, la plateforme de Marc devenue remorque Marc Express, deux chariots D réparés. Le Marc Express a été testé J074 avec 150 kg sur trajet court (pas de certification maximale)."
     },
     {
       "categorie": "Transport et équipement",
@@ -322,8 +322,8 @@
     {
       "categorie": "Vie quotidienne",
       "nom": "Couvertures",
-      "quantite": "28",
-      "description": "Dernier inventaire matériel historique pour certains composants ; Une polaire, six épaisses, trois des villas et dix-huit du bâtiment E. Plusieurs à nettoyer."
+      "quantite": "24",
+      "description": "Quatre des dix-huit couvertures du bâtiment E échangées à La Sallaz au J066 ; quatorze de ce lot restent, ajoutées aux dix anciennes couvertures du refuge. Certaines lignes historiques non recomptées."
     },
     {
       "categorie": "Vie quotidienne",
@@ -432,6 +432,18 @@
       "nom": "Carnets et fournitures de bureau",
       "quantite": "2 carnets + 2 stylos + 1 lot",
       "description": "Dernier inventaire matériel historique pour certains composants ; Carnets d'inventaire et « Notre village », stylos et fournitures récupérées."
+    },
+    {
+      "categorie": "Transport et équipement",
+      "nom": "Coffre de toit MarcBox",
+      "quantite": "1",
+      "description": "Coffre modulaire créé J064, essai fonctionnel J074 avec 50 kg sur parcours court. Limites constructeur non validées."
+    },
+    {
+      "categorie": "Vie quotidienne",
+      "nom": "Guitare acoustique",
+      "quantite": "1",
+      "description": "Guitare en étui récupérée J062 ; Gabriel sait en jouer et chanter."
     }
   ]
 }

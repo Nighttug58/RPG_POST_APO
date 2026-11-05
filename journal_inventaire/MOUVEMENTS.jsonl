@@ -1,0 +1,1 @@
+{"transaction":"baseline-j074","jour":74,"type":"point_de_depart","reference":"fin J074","note":"Import de reference des reserves depuis les journaux J062-J074. Ce n'est pas un mouvement neuf ; ne jamais le rejouer.","soldes":{"nourriture_kg":62.3,"eau_prete_l":193,"bois_sec_kg":210,"charbon_kg":51.5,"capacite_eau_l":251,"panneaux":14}}

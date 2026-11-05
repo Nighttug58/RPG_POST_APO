@@ -5,24 +5,8 @@
 
   const W = 1200, H = 800;
   const COLORS = { camp: "#b9e4b1", resource: "#73c5d6", unknown: "#f0be75" };
-  const places = [
-    { id:"bc", name:"Refuge B/C", short:"REFUGE B/C", type:"camp", x:710,y:352, population:"11 résidents", relation:"Camp principal", description:"Base de Tugay et Kübra, bâtiments B et C. Position indicative dans le secteur de La Sallaz ; adresse exacte non fixée dans le récit.", residents:["Tugay","Kübra","Marc","David","Nicolas","Sophie","Élise","Henri","Marianne","Maëlle","Gabriel"], notes:["75,3 kg de nourriture · fin J056","173 L d'eau prête / 251 L de stockage","14 panneaux solaires raccordés","Voiture électrique et plateforme manuelle"] },
-    { id:"sallaz",name:"La Sallaz",short:"LA SALLAZ",type:"camp",x:805,y:255,population:"Non établie",relation:"Alliés · échanges",description:"Communauté partenaire du secteur de La Sallaz. Les liens agricoles et les échanges de vivres sont actifs.",residents:["Adrien","Claire","Rosa"],notes:["Serre et semences de Rosa","Claire a apporté 11 kg de vivres à Noël","Effectif total inconnu"] },
-    { id:"crissier",name:"Crissier",short:"CRISSIER",type:"camp",x:318,y:442,population:"≈ 23 habitants",relation:"Contact établi",description:"Communauté de Crissier. L'emplacement de son camp n'a pas été relevé précisément.",residents:["Laurent","Camille","Nadia","Mathieu"],notes:["Compétences connues : transport et mécanique","Échanges possibles avec B/C"] },
-    { id:"ouest",name:"Communauté de l'ouest",short:"GROUPE OUEST",type:"camp",x:228,y:292,population:"17 habitants",relation:"Partenaires",description:"Groupe partenaire à l'ouest de Lausanne. Le marqueur représente un secteur et non une adresse connue.",residents:["Hugo","Nora","Bastien"],notes:["Réseau solaire local remis en service","Deux groupes voisins souhaitent un conseil technique","Transport et troc"] },
-    { id:"est",name:"Petit groupe de l'est",short:"GROUPE EST",type:"camp",x:1015,y:405,population:"Non établie",relation:"Contact limité",description:"Petit groupe rencontré à l'est de Lausanne ; localisation précise et effectif complet inconnus.",residents:["Isabelle","André"],notes:["Besoins évoqués autour du pompage","Coopération non confirmée"] },
-    { id:"jardins",name:"Jardins d'Henri",short:"JARDINS",type:"resource",x:760,y:404,population:"—",relation:"Culture suivie",description:"Parcelles entretenues par Henri et Marianne près du refuge. Le repère n'indique pas leur position réelle.",residents:["Henri","Marianne"],notes:["Semis hivernaux d'épinards et de fèves","Premières pousses observées","Aucune récolte comptabilisée"] },
-    { id:"boveresses",name:"Jardins des Boveresses",short:"BOVERESSES",type:"resource",x:926,y:295,population:"—",relation:"Parcelles repérées",description:"Anciennes parcelles connues de Tugay et Kübra, dans le secteur des Boveresses.",residents:[],notes:["Environ 20 min à pied du refuge dans le récit","Droits et état actuel non totalement vérifiés"] },
-    { id:"serre",name:"Serre de Rosa",short:"SERRE",type:"resource",x:842,y:308,population:"—",relation:"Ressource alliée",description:"Serre exploitée par Rosa à La Sallaz. Les semences sont échangées avec son accord.",residents:["Rosa"],notes:["Culture sous serre","Semences de fèves et d'épinards déjà échangées"] },
-    { id:"ruisseau",name:"Ruisseau forestier",short:"RUISSEAU",type:"resource",x:660,y:180,population:"—",relation:"Eau brute",description:"Ancien point de collecte dans la zone boisée. Eau à préparer avant consommation.",residents:[],notes:["Eau brute, non potable directement","Localisation indicative dans la forêt"] },
-    { id:"resurgence",name:"Résurgence proche",short:"RÉSURGENCE",type:"unknown",x:738,y:307,population:"—",relation:"Non validée",description:"Résurgence découverte près du refuge. Elle reste exclue du stock d'eau potable tant que sa qualité n'est pas validée.",residents:[],notes:["À environ 5 min à pied du refuge selon le récit","Ne pas compter comme eau potable"] },
-    { id:"reservoir",name:"Ancien réservoir communal",short:"RÉSERVOIR",type:"unknown",x:593,y:458,population:"—",relation:"À expertiser",description:"Ancienne installation identifiée mais non autorisée comme source d'eau prête.",residents:[],notes:["Qualité de l'eau non validée","Aucun volume disponible confirmé"] },
-    { id:"captage",name:"Captage des jardins",short:"CAPTAGE",type:"unknown",x:812,y:445,population:"—",relation:"À expertiser",description:"Point de captage près des jardins, non validé pour la consommation.",residents:[],notes:["Ne contribue pas aux 173 L d'eau prête","Contrôles encore nécessaires"] },
-    { id:"villas",name:"Quartier des villas",short:"VILLAS",type:"resource",x:540,y:260,population:"—",relation:"Exploré J16–J18",description:"Quartier discret de villas exploré pendant plusieurs jours ; emplacement approximatif.",residents:[],notes:["Récupérations déjà effectuées","Équipements lourds laissés sur place","Propriétés non vérifiées exhaustivement"] },
-    { id:"annexe",name:"Ancienne annexe solaire",short:"ANNEXE",type:"resource",x:607,y:366,population:"—",relation:"Visitée",description:"Bâtiment technique où des panneaux et une batterie ont été récupérés. Position non relevée.",residents:[],notes:["Local technique ouvert au J23","Batterie de 8 kWh récupérée","Ne pas supposer du matériel supplémentaire"] },
-    { id:"entrepot",name:"Entrepôt au symbole",short:"SYMBOLE ?",type:"unknown",x:415,y:188,population:"—",relation:"Rumeur",description:"Entrepôt évoqué dans une rumeur au nord-ouest de Lausanne. Existence et nature du symbole non confirmées.",residents:[],notes:["Information non vérifiée","Aucune menace confirmée"] }
-  ];
-  const byId = Object.fromEntries(places.map(p => [p.id,p]));
+  let places = [];
+  let byId = {};
   const $ = id => document.getElementById(id);
   const canvas = $("world-map"), wrap = $("canvas-wrap"), ctx = canvas.getContext("2d");
   let filter = "all", selected = "bc", zoom = 1, panX = 0, panY = 0, cssW = 0, cssH = 0;
@@ -232,5 +216,14 @@
     window.addEventListener("resize",resize);
     if(typeof ResizeObserver!=="undefined")new ResizeObserver(resize).observe(wrap);
   }
-  setupPlaceholders();initTabs();initMap();renderInfo();renderIndex();resize();
+  setupPlaceholders();initTabs();initMap();resize();
+  fetch("./monde-site.json?rev=shared-j74-1",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("HTTP "+r.status);return r.json();}).then(data=>{
+    if(data.schema!=="monde-site/1.0"||!Array.isArray(data.map?.places))throw new Error("Données cartographiques invalides");
+    places=data.map.places;byId=Object.fromEntries(places.map(p=>[p.id,p]));
+    selected="bc";renderInfo();renderIndex();
+    const n=document.getElementById("map-updates");if(n){const latest=data.annonces.filter(a=>a.type==="zone").slice(0,5);n.replaceChildren();n.textContent="Découvertes : "+latest.map(a=>"J"+a.jour+" "+a.titre).join(" · ");}
+    const counter=document.getElementById("site-count");if(counter)counter.textContent=places.length;
+    draw();
+  }).catch(err=>{const el=document.getElementById("map-updates");if(el)el.textContent="Impossible de charger la carte : "+err.message;});
+
 })();

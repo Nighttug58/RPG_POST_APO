@@ -5,13 +5,15 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#101817">
   <meta name="description" content="Atlas interactif des communautés — Les Cendres du Monde.">
-  <title>Les Cendres du Monde · Atlas V1.1</title>
+  <title>Les Cendres du Monde · Centre de commandement J74</title>
   <link rel="stylesheet" href="./dashboard.css?v=atlas-20261105-2">
   <link rel="stylesheet" href="./inventory.css?v=inventory-normalized-v2">
   <link rel="stylesheet" href="./village.css?v=village-v1-1">
-  <script src="./dashboard.js?v=atlas-village-v1-1" defer></script>
-  <script src="./inventory.js?v=inventory-normalized-v2" defer></script>
-  <script src="./village.js?v=village-v1-1" defer></script>
+  <script src="./dashboard.js?v=shared-j74-1" defer></script>
+  <script src="./inventory.js?v=shared-j74-1" defer></script>
+  <script src="./village.js?v=shared-j74-1" defer></script>
+  <script src="./updates.js?v=shared-j74-1" defer></script>
+  <link rel="stylesheet" href="./updates.css?v=shared-j74-1">
 </head>
 <body>
   <div class="app-shell">
@@ -20,7 +22,7 @@
         <div class="brand-mark" aria-hidden="true">✳</div>
         <div><p class="eyebrow">RPG_POST_APO / CENTRE DE COMMANDEMENT</p><h1>LES CENDRES <span>DU MONDE</span></h1></div>
       </div>
-      <div class="head-meta"><span class="live-dot"></span><span>CHAPITRE 01</span><span class="head-sep">/</span><strong>JOUR 61</strong></div>
+      <div class="head-meta"><span class="live-dot"></span><span>CHAPITRE 01</span><span class="head-sep">/</span><strong>JOUR 74</strong></div>
     </header>
     <nav class="tabs" role="tablist" aria-label="Sections du centre de commandement">
       <button class="tab active" id="tab-map" type="button" role="tab" aria-selected="true" aria-controls="panel-map" data-tab="map"><span class="tab-icon">⌖</span> Map</button>
@@ -30,12 +32,17 @@
       <button class="tab" id="tab-tbd3" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd3" tabindex="-1" data-tab="tbd3">TBD3</button>
       <button class="tab" id="tab-tbd4" type="button" role="tab" aria-selected="false" aria-controls="panel-tbd4" tabindex="-1" data-tab="tbd4">TBD4</button>
     </nav>
+        <section class="latest-panel" id="latest-panel" aria-label="Dernières découvertes">
+      <div class="latest-title"><div><p class="eyebrow">REGISTRE DES CHANGEMENTS</p><h2>Dernières découvertes</h2></div><span id="latest-reference">Chargement…</span></div>
+      <div id="latest-events" class="latest-events" aria-live="polite"></div>
+    </section>
     <main>
       <section id="panel-map" role="tabpanel" aria-labelledby="tab-map" class="page">
         <div class="section-head">
-          <div><p class="eyebrow">MODULE 01 / RECONNAISSANCE</p><h2>Atlas de Lausanne <span class="subtitle">— 2043</span></h2><p class="description">Carte stratégique schématique · positions indicatives, non GPS · situation fin J056</p></div>
+          <div><p class="eyebrow">MODULE 01 / RECONNAISSANCE</p><h2>Atlas de Lausanne <span class="subtitle">— 2043</span></h2><p class="description">Carte stratégique schématique · positions indicatives, non GPS · situation fin J074</p></div>
           <div class="counter"><strong id="site-count">0</strong><span>POINTS RECENSÉS</span></div>
         </div>
+        <p class="site-feed" id="map-updates" role="status">Chargement des nouvelles zones…</p>
         <div class="workspace">
           <div class="map-card">
             <div class="map-toolbar">
@@ -72,9 +79,10 @@
       <section id="panel-inventaire" role="tabpanel" aria-labelledby="tab-inventaire" class="page inventory-page" hidden></section>
       <section id="panel-village" role="tabpanel" aria-labelledby="tab-village" class="page" hidden>
         <div class="section-head">
-          <div><p class="eyebrow">MODULE 03 / PLAN LOCAL</p><h2>Village B/C <span class="subtitle">— Plan du refuge</span></h2><p class="description">Schéma interactif des bâtiments et équipements · fin J61 · implantation illustrative</p></div>
+          <div><p class="eyebrow">MODULE 03 / PLAN LOCAL</p><h2>Village B/C <span class="subtitle">— Plan du refuge</span></h2><p class="description">Schéma interactif des bâtiments et équipements · fin J74 · implantation illustrative</p></div>
           <div class="counter"><strong>11</strong><span>RÉSIDENTS</span></div>
         </div>
+        <p class="site-feed" id="village-updates" role="status">Chargement des nouveaux équipements…</p>
         <div class="village-layout">
           <div class="village-map-card">
             <div class="village-toolbar">
@@ -105,7 +113,7 @@
       <section id="panel-tbd3" role="tabpanel" aria-labelledby="tab-tbd3" class="page placeholder" hidden></section>
       <section id="panel-tbd4" role="tabpanel" aria-labelledby="tab-tbd4" class="page placeholder" hidden></section>
     </main>
-    <footer class="footer"><span>LES CENDRES DU MONDE © 2043 · UNIVERS FICTIF</span><a href="https://github.com/Nighttug58/RPG_POST_APO" target="_blank" rel="noopener noreferrer">CODE SOURCE ↗</a><span>ATLAS · INVENTAIRE · VILLAGE / J061</span></footer>
+    <footer class="footer"><span>LES CENDRES DU MONDE © 2043 · UNIVERS FICTIF</span><a href="https://github.com/Nighttug58/RPG_POST_APO" target="_blank" rel="noopener noreferrer">CODE SOURCE ↗</a><span>ATLAS · INVENTAIRE · VILLAGE / J074</span></footer>
   </div>
 </body>
 </html>

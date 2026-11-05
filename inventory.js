@@ -9,7 +9,7 @@
   const header=node("div","inventory-head");
   const caption=node("div");
   caption.append(node("p","eyebrow","MODULE 02 / GESTION DU REFUGE"),node("h2","","Inventaire"));
-  caption.append(node("p","description","Objets regroupés par famille · nom, quantité et description · fin J61"));
+  caption.append(node("p","description","Objets regroupés par famille · nom, quantité et description · fin J74"));
   header.append(caption);
   panel.append(header);
   const message=node("p","inv-notice","Chargement des données…");
@@ -53,7 +53,7 @@
   }
   async function load(){
     try{
-      const response=await fetch("./inventaire-site.json?schema=v2-20261106",{cache:"no-store"});
+      const response=await fetch("./inventaire-site.json?schema=shared-j74-1",{cache:"no-store"});
       if(!response.ok)throw new Error("HTTP "+response.status);
       const value=await response.json();
       if(value.schema!=="inventaire-normalise/2.0"||!Array.isArray(value.items)||!Array.isArray(value.categories))throw new Error("Format non reconnu");
@@ -68,4 +68,5 @@
   }
   search.addEventListener("input",render);category.addEventListener("change",render);
   load();
+  // Inventaire et carte utilisent la même version du monde au jour courant.
 })();

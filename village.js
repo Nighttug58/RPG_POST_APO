@@ -7,18 +7,7 @@ if(!canvas||!stage)return;
 const ctx=canvas.getContext("2d");
 const W=1100,H=760;
 const palette={building:"#e8c7ab",water:"#83cbdf",energy:"#f3d189",garden:"#a9d8a2",workshop:"#d7c3e6"};
-const zones=[
-{id:"b",name:"Bâtiment B",category:"building",rect:[86,110,242,210],kind:"building",desc:"Logements de la communauté. Tugay et Kübra habitent notamment le bâtiment B ; éclairage essentiel alimenté par le réseau solaire.",items:["Logements et espaces de repos","Escaliers éclairés par le réseau autonome"]},
-{id:"c",name:"Bâtiment C",category:"building",rect:[362,95,345,218],kind:"building",desc:"Salle commune, réunions, cuisine et stocks collectifs. Cœur de la vie quotidienne des onze habitants.",items:["Salle commune","Cuisine et stockage principal","Local technique énergétique"]},
-{id:"solar",name:"Zone solaire",category:"energy",rect:[774,96,250,176],kind:"solar",desc:"Installation solaire commune B/C. Quatorze panneaux raccordés ; le réseau sert prioritairement l'éclairage et les petits appareils.",items:["14 panneaux raccordés","Batterie 8 kWh nominale","Module complémentaire d'environ 6 kWh utiles"]},
-{id:"water",name:"Stockage d’eau",category:"water",rect:[785,324,236,110],kind:"water",desc:"Récipients et cuve assurant une capacité totale nominale fixée à 251 L. L'eau prête stockée atteint environ 192 L en fin J61.",items:["251 L de capacité totale","Environ 192 L d'eau prête","4 L isolés hors stock utilisable"]},
-{id:"garden",name:"Jardins et parcelles",category:"garden",rect:[85,390,276,216],kind:"garden",desc:"Parcelles de culture entretenues par Henri et Marianne, avec semis d'hiver. Le plan montre un emplacement conceptuel, non une surface cadastrale.",items:["Semis d'épinards et de fèves","Premières pousses observées","Pas de récolte nouvelle confirmée"]},
-{id:"fire",name:"Foyer et auvent",category:"workshop",rect:[763,491,263,150],kind:"fire",desc:"Foyer communautaire de chauffe et de préparation d'eau. Marc a construit un auvent et des pare-vent ; le foyer reste à l'extérieur et ventilé.",items:["Auvent et pare-vent","Chauffe et cuisine extérieure","Foyer collectif existant"]},
-{id:"store",name:"Abri à matériaux",category:"workshop",rect:[395,534,145,115],kind:"store",desc:"Zone indicative de stockage des planches, tréteaux, tuyaux et matériaux récupérés. Implantation précise à confirmer.",items:["36 m de tuyauterie récupérée en J57","Tréteaux et planches","Matériaux en attente d'utilisation"]},
-{id:"atelier",name:"Atelier en projet",category:"workshop",rect:[558,534,173,115],kind:"atelier",desc:"Atelier communautaire envisagé à partir des établis et des caisses d'outillage. Le local n'est pas encore officiellement aménagé.",items:["3 établis démontables, dont 2 utilisables après nettoyage","Caisses d'outillage récupérées","Projet non terminé"]},
-{id:"car",name:"Stationnement",category:"workshop",rect:[95,645,267,79],kind:"car",desc:"Emplacement schématique de la voiture électrique grise et des transports manuels. Ce stationnement n'est pas une installation canonique supplémentaire.",items:["Voiture grise roulante","Plateforme manuelle à deux roues","Autonomie de 500 km seulement estimée"]},
-{id:"court",name:"Cour commune",category:"building",rect:[393,342,326,160],kind:"court",desc:"Zone centrale conceptuelle de circulation et de rassemblement entre les deux bâtiments. Son implantation est illustrative.",items:["Accès aux bâtiments","Rassemblements et déplacements internes"]}
-];
+let zones=[];
 const $=id=>document.getElementById(id);
 const txt=(tag,content,cls="")=>{const n=document.createElement(tag);n.textContent=content;if(cls)n.className=cls;return n;};
 let selected="c", zoom=1,panX=0,panY=0,cw=0,ch=0,pointer=null;
@@ -142,5 +131,11 @@ canvas.addEventListener("pointercancel",()=>{pointer=null;});
 window.addEventListener("resize",resize);
 if(typeof ResizeObserver!=="undefined")new ResizeObserver(resize).observe(stage);
 document.getElementById("tab-village")?.addEventListener("click",()=>requestAnimationFrame(resize));
-detail();resize();
+resize();
+fetch("./monde-site.json?rev=shared-j74-1",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("HTTP "+r.status);return r.json();}).then(data=>{
+ if(data.schema!=="monde-site/1.0"||!Array.isArray(data.village?.zones))throw new Error("Données village invalides");
+ zones=data.village.zones;selected="atelier";detail();resize();
+ const el=document.getElementById("village-updates");
+ if(el){const events=data.annonces.filter(a=>a.type==="village"||a.type==="equipement").slice(0,4);el.textContent="Nouveautés : "+events.map(e=>"J"+e.jour+" "+e.titre).join(" · ");}
+}).catch(e=>{const el=document.getElementById("village-updates");if(el)el.textContent="Impossible de charger le village : "+e.message;});
 })();
