@@ -42,3 +42,12 @@ Au dernier bilan de fin J38 : **183 L d'eau préparée** (dont 80 L échangés �
 
 ## Consolidation
 Sauvegarde légère = ce fichier uniquement, **Statut: en_cours**. Mettre à jour ce même fichier (via update_file + SHA) lorsque la journée sera réellement terminée. Les fichiers JSON maîtres / canon restent consolidés à J24 à 17 h 40.
+
+## Addendum J39 — 16 h 34 à 16 h 40 : le dessin dans la neige (journée toujours en cours)
+- En réponse à la question de Hugo sur l'électricien de Crissier, **Tugay choisit de garder le silence**, ramasse un bâton et dessine **un cercle traversé de trois traits** dans la neige boueuse devant les barrières, puis demande aux trois voyageurs : **« Ça vous parle, ça ? »** Il ne révèle pas encore le récit de l'attaque de son ancien camp, ni l'identité de David.
+- **Hugo** cesse de sourire, regarde le dessin et demande pourquoi Tugay lui montre cela. Il se raidit, déconseille de parler trop ouvertement et finit par demander si le groupe connaît ce symbole par ouï-dire ou par rencontre directe avec ses utilisateurs. Il prévient que les problèmes potentiels dépassent un échange de pneus, mais **ne fournit pas encore de récit détaillé ni de lien personnel vérifié**.
+- **Nora** a une réaction marquée, empêche Bastien de s'exprimer, dit **avoir vu quelque chose ressemblant au symbole**, demande où Tugay l'a vu et **si les personnes liées à ce symbole connaissent l'emplacement du refuge**. Elle souhaite comprendre la raison de sa recherche avant de raconter son expérience.
+- **Bastien** se crispe, regarde l'accès routier et souhaite repartir. Aucune hostilité physique, aucune arme exhibée, aucune fuite ou confrontation à ce stade.
+- Kübra murmure que les visiteurs semblent connaître quelque chose ; Marc et Mathieu observent, David reste à proximité. Le **fourgon bleu et ses trois occupants restent à l'extérieur** de la barrière, échange de pneus et question sur l'électricien **en suspens**.
+- **Checkpoint exact : J39, 16 h 40. Nora attend la réponse de Tugay à la question : pourquoi recherchez-vous ce symbole ?** Conserver le contrôle de la réponse au joueur. **Aucun lien confirmé** entre ces voyageurs, la caisse à marque circulaire indistincte, le dépôt du nord et les pillards responsables de l'attaque d'autrefois.
+- **Statut : en_cours.** Aucun échange de ressources, changement d'inventaire ou conclusion de la journée dans cet addendum.
