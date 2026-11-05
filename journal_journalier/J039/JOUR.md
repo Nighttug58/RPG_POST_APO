@@ -1,6 +1,6 @@
 # J039 — Les étrangers du dégel (checkpoint)
 
-**Statut :** en_cours
+**Statut :** termine
 **Jour fictif :** J39, 8 décembre 2043
 **Plage jouée :** 06 h 45–16 h 30
 **Dernier maître consolidé :** fin J24 17 h 40 ; intégrer J025–J039 avec tous les addenda dans l'ordre si consolidation ultérieure.
@@ -59,3 +59,32 @@ Tugay raconte aux voyageurs son ancien refuge perdu lors d'une agression et pré
 Tugay propose ouvertement deux options à Hugo, Nora et Bastien : (1) recevoir les quatre pneus, puis amener David ultérieurement dans leur communauté lorsque la voiture grise sera roulante pour leur apporter une aide électrique ; ou (2) héberger quelques jours les voyageurs, les nourrir et les chauffer, et bénéficier de leur aide mécanique sur la voiture afin d'accélérer cette visite. Il révèle explicitement que **David** est l'électricien ayant rétabli l'électricité à **Crissier** et équipé B/C ; il exprime le désir de confiance réciproque, de coopération commerciale et d'accueil pacifique, sans cacher que les réserves alimentaires diminuent pendant l'hiver.
 Hugo et Nora sont intéressés : leur communauté déclarée comprend **17 personnes à l'ouest** ; elle posséderait **six panneaux solaires, une batterie et d'autres équipements**, sans réseau fonctionnel faute de compétences. Ces quantités sont **déclarées par les visiteurs, non vérifiées**. Bastien affirme avoir travaillé dans un garage sur la mécanique automobile courante et pouvoir aider Mathieu et Marc, sans expertise électrique spécialisée. Mathieu souligne que les quatre roues proposées ont les dimensions requises mais **l'état des pneus reste à valider** ; les pneus et la voiture ne sont pas déclarés sûrs pour la route. David accepte le principe d'une future visite d'évaluation du système électrique de leur groupe, sans garantir réparations ou calendrier.
 Hugo propose une variante de la deuxième option : **Hugo et Bastien resteraient temporairement deux ou trois jours** pour nouer les relations et participer à la mécanique, **Nora repartirait avec le fourgon bleu prévenir leur groupe si les routes le permettent**, des termes d'échange seraient consignés par écrit ; en cas de validation des pneus, ils les céderaient au refuge contre une future assistance électrique de David. Hugo réaffirme ne pas vouloir révéler à des inconnus les détails du refuge ; aucune garantie réelle de discrétion n'est établie. À **17 h 45**, Hugo tend la main et attend que **Tugay accepte, refuse ou modifie sa contre-proposition**. Aucun accord signé, aucun pneu transféré, aucun départ ni nouveau résident invité autorisé à entrer. **J39 est toujours en_cours**, les trois voyageurs restent dehors et la journée n'est pas terminée.
+
+## Fin du J39 — 17 h 45 à 22 h 30 : accord de principe, invités et dégâts du dégel
+- Tugay **accepte l'offre de principe** de Hugo et lui serre la main : hébergement temporaire des voyageurs, assistance de **Bastien** pour la remise en état mécanique de la voiture grise aux côtés de Mathieu et Marc, et **visite ultérieure de David** dans leur communauté de 17 personnes à l'ouest pour examiner leurs six panneaux et leur installation électrique, **sans garantie de résultat ni calendrier**. Sophie doit consigner les engagements ; le partenariat reste conditionné à la confiance et à la validation des pneus.
+- **Nora devait repartir prévenir les siens**, mais le soleil est couché, les routes de neige fondue vont regeler ; elle juge le départ nocturne trop dangereux et **reste pour cette nuit**, avec Hugo et Bastien. Projet : repartir de jour au J40, si la route le permet. Leur **fourgon bleu reste à l'extérieur près de la barrière**. Les quatre roues/pneus de dimensions compatibles sont déposées à l'abri pour contrôle, **toujours pas transférées comme biens acquis ni montées**. Bastien admet ne pas connaître leur âge précis ; malgré un stockage apparemment correct, **des pneus très anciens pourraient rester impropres à la route**.
+- **16 personnes au refuge pour cette nuit** : 11 permanents B/C (Tugay, Kübra, Marc, Élise, David, Sophie, Nicolas, Henri, Marianne, Maëlle, Gabriel), **5 visiteurs** (Claire de La Sallaz, Mathieu de Crissier, Hugo, Nora, Bastien). Aucun des cinq n'intègre formellement la communauté.
+- Bastien dit avoir travaillé en garage avant la Rupture, compétent sur entretien automobile général, freins et roues mais pas sur l'électronique EV. Son aide est prévue et n'a pas encore réparé la voiture. Mathieu confirme la batterie de traction diagnostiquable mais les pneus/freins restent bloquants. **La voiture grise reste immobilisée**.
+- Nora et Claire discutent des bénéfices possibles de liens entre B/C, Crissier, La Sallaz et leur groupe à l'ouest, voire d'une rencontre future ; **aucune réunion intercommunautaire n'est fixée**, aucune alliance militaire ni engagement de garantie de sécurité.
+- **20 h 15 :** l'infiltration du toit sur la bibliothèque C, observée le matin, provoque **la chute d'une partie du revêtement intérieur humide**. **Aucun blessé** ; les livres avaient été mis à l'abri (trois mouillés, état à surveiller). La **bibliothèque est fermée temporairement** jusqu'à contrôle et réparation de l'étanchéité du plafond/toit. Aucun dégât structurel majeur prouvé.
+- **21 h :** Hugo dit que son groupe aurait **des bidons/réservoirs alimentaires** en stock et pourrait en proposer lors d'un prochain échange ; aucune quantité vérifiée et **aucun récipient livré aujourd'hui**. À garder distinct du marché des pneus et de l'assistance électrique.
+- **21 h 40 :** Kübra et Tugay discutent prudemment du fait que ces nouveaux voyageurs savent que B/C est éclairé, connaissent David et l'emplacement du village. Aucune hostilité observée ; nécessité de vigilance sans les déclarer suspects coupables.
+- **22 h 30 :** fin de journée. Aucun autre transfert de biens, départ ou incident.
+
+## Bilan de clôture J39
+| Poste | Fin J38 | Mouvements J39 | Fin J39 |
+| --- | --- | --- | --- |
+| Eau préparée | 183 L | −12 L usages du jour, aucune collecte validée | **~171 L** |
+| Eau séparée suspecte | 4 L isolés | aucun | **4 L en quarantaine, non buvables** |
+| Bois sec | ~165 kg | −12 kg chauffage, cuisine, eau | **~153 kg** |
+| Charbon | 39,5 kg | mouvement non compté | **39,5 kg, dernier relevé** |
+| Panneaux B/C | 4 installés, 10 en réserve | aucun | **14 possédés, 4 actifs** |
+| Batterie active B/C | 8 kWh nominal | aucune intégration | **8 kWh nominaux** |
+| Module de stockage secondaire B | ~6 kWh utiles estimés | aucun raccordement | **non raccordé** |
+| Borne de recharge EV | 1 en réserve | aucun | **non installée** |
+| Roues/pneus Hugo | 0 acquis | 4 unités confiées pour contrôle | **4 en dépôt, propriété non transférée** |
+| Viande | solde global non mesuré, -10 kg échangés à La Sallaz J38 | repas non pesés, **aucun paiement de 15 kg à Hugo** | **solde global inconnu** |
+| Personnes présentes | 11 permanents + 2 visiteurs | +3 voyageurs accueillis provisoirement | **16 présents : 11 permanents + 5 invités** |
+
+## Reprise au J40
+Priorités naturelles : départ de Nora avec fourgon pour prévenir sa communauté, si conditions sûres ; contrôle de l'âge/état des pneus et recherche de pièces pour voiture, sans essai routier prématuré ; coopération éventuelle Bastien/Mathieu/Marc ; problème d'infiltration de toiture à la bibliothèque fermée ; observation de la résurgence **toujours non déclarée potable** ; suivi des réserves eau/bois/charbon et accueil des invités. L'ancien symbole blanc et ses utilisateurs restent non identifiés quant au lien avec l'attaque de Tugay/Kübra. J39 **termine** à 22 h 30.
