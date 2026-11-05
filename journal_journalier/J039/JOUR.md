@@ -1,0 +1,44 @@
+# J039 — Les étrangers du dégel (checkpoint)
+
+**Statut :** en_cours
+**Jour fictif :** J39, 8 décembre 2043
+**Plage jouée :** 06 h 45–16 h 30
+**Dernier maître consolidé :** fin J24 17 h 40 ; intégrer J025–J039 avec tous les addenda dans l'ordre si consolidation ultérieure.
+**Point d'arrêt :** J39, 16 h 30, entrée du quartier B/C ; Tugay doit répondre à Hugo. **Ne pas avancer ou négocier au nom de Tugay** tant qu'il n'a pas répondu.
+
+## Situation initiale
+Au dernier bilan de fin J38 : **183 L d'eau préparée** (dont 80 L échangés à La Sallaz contre 10 kg de viande), **4 L d'eau séparée isolés**, **~165 kg bois sec**, **39,5 kg charbon**. Population permanente B/C = **11 membres** (Tugay, Kübra, Marc, Élise, David, Sophie, Nicolas, Henri, Marianne, Maëlle, Gabriel), plus **2 visiteurs** (Claire de La Sallaz, Mathieu de Crissier), soit 13 présents. La résurgence reste suspendue pour consommation depuis J37. **14 panneaux solaires possédés : 4 installés, 10 stockés**, batterie active nominale 8 kWh, module de stockage secondaire ~6 kWh exploitable après essais mais non raccordé, borne électrique non installée. Voiture grise électrique non roulante.
+
+## Météo J39
+−2 °C matin, jusqu'à +6 °C, dégagements et fonte progressive de neige ; sol glissant et zones de neige fondue.
+
+## 06 h 45–08 h : infiltration et protection de bibliothèque
+- Sophie découvre une **infiltration d'eau due au dégel près du plafond de la salle bibliothèque C**. Marc examine la jonction de toiture, réparation durable à prévoir lorsque accès sûr ; Sophie, Marianne et Maëlle déplacent les livres vers une zone sèche. **3 livres mouillés**, le reste préservé. Pas de perte définitive du nombre de livres encore établie. Protection provisoire et priorité future à l'étanchéité, sans inventer une toiture réparée J39.
+
+## 08 h 30–11 h 30 : électricité, voiture et eau
+- David, Gabriel et Mathieu réévaluent le **module stationnaire de ~6 kWh** récupéré sous B J37 et les références de l'ancien équipement de gestion électrique. Il existe une possibilité sérieuse de projet d'extension progressive du réseau avec les 10 panneaux nouveaux. **Aucun raccordement effectué**, capacité active toujours 8 kWh nominaux et quatre panneaux installés.
+- Mathieu et Marc identifient plusieurs petites pièces auxiliaires potentiellement utiles pour la voiture grise. Son système de traction répond ; pneus et freins restent bloquants. Les **deux roues anciennes J34 ne conviennent pas**. Mathieu envisage de demander à Laurent à Crissier la disponibilité de pneus aux bonnes dimensions. **Aucun véhicule remis en route ni achat de roues J39**.
+- Vers 11 h 30 Élise, Maëlle et Henri observent la résurgence sans prélèvement. Elle paraît **nettement moins trouble** et l'odeur s'est atténuée, compatible avec l'évacuation de particules après le glissement. **Elle n'est toujours pas considérée potable**, aucun litre ajouté au stock. L'ancien réservoir communal en hauteur, connu par plans, demeure non vérifié.
+
+## 12 h 45–16 h 30 : arrivée d'un fourgon bleu et trois visiteurs
+- Un **ancien fourgon utilitaire bleu**, usé mais fonctionnel, arrive devant les **barrières visibles et non dangereuses** du quartier. Il n'entre pas. Il transporte **trois personnes inconnues** : **Hugo** (conducteur, environ cinquante ans), **Nora** (femme avec sac), **Bastien** (homme plus jeune). Les visiteurs restent près du véhicule et se présentent comme **commerçants itinérants venant d'une petite communauté à l'ouest**. Leur origine et leurs intentions ne sont pas vérifiées.
+- Ils ont entendu parler d'une communauté locale éclairée à l'électricité ; ils disent proposer pièces automobiles, outils, contenants, produits d'entretien contre nourriture conservable ou services de réparation. Hugo présente l'intérieur du fourgon près de la porte arrière, sans laisser tout inspecter.
+- Bastien pose des questions sur le **nombre de résidents** ; Marc répond évasivement. Nora lui fait signe d'arrêter. Aucun acte hostile ou franchissement des barrières. Les visiteurs savent aussi que **Crissier a récemment rétabli l'électricité grâce à un électricien extérieur**, ce qui surprend le groupe.
+- **Mathieu**, mécanicien de Crissier, examine de loin un ensemble de roues/pneus proposés par Hugo : **dimensions compatibles avec la voiture grise électrique**, **état et sécurité des pneus toujours à contrôler**, sans achat ni pose. **Hugo demande 15 kg de viande conservable ou échange équivalent**. Pas d'accord conclu ; la communauté a déjà échangé 10 kg de viande avec La Sallaz le J38. Solde alimentaire total exact inconnu, donc **ne pas retirer encore 15 kg**.
+- **Claire**, présente à B/C depuis la tempête, confie discrètement à Tugay avoir aperçu **un fourgon bleu semblable** près de La Sallaz avant les tempêtes. Elle a aussi entendu une **rumeur** d'un véhicule bleu aperçu près d'un ancien dépôt au nord de Lausanne ; elle n'a pas identifié les occupants. Elle reconnaît une grosse marque sur la portière comme celle du véhicule croisé, mais ne peut confirmer qu'il s'agit bien du même, ni faire de lien fiable avec les pillards ou le **cercle traversé de trois traits**.
+- Tugay aperçoit sur une caisse du fourgon une **trace de peinture circulaire effacée**, sans caractère distinctif lisible. **Aucun lien établi avec le symbole des rumeurs** ; ce peut être une marque commerciale.
+- À **16 h 20**, Hugo demande à Tugay s'il connaît la communauté de Crissier et où trouver l'électricien qui y a travaillé. **Mathieu est présent et attentif, David et Marc aussi** ; Hugo ne sait pas encore officiellement que Tugay et David sont les personnes recherchées. Il demande à conclure un commerce de pneus et/ou de service d'électricité.
+- À **16 h 30**, Hugo, Nora et Bastien restent **à l'extérieur de la barrière**, attendant la réponse de Tugay. Aucun engagement commercial, admission au refuge, accusation, affrontement, identification de liens criminels ni révélation volontaire de l'identité de David décidés. **Laisser le joueur parler et agir**. Garder une intrigue prudente et plausible.
+
+## Inventaire et effets J39
+- Aucun échange réalisé ni nouvelle entrée de ressources chiffrées J39 ; **ne pas présenter les soldes fin J38 comme mesure actuelle fin J39** puisque la journée n'est pas terminée.
+- Dommages matériels : **3 livres de la bibliothèque mouillés**, zone de toiture C fuyarde à réparer, autres livres déplacés.
+- Inventaire du véhicule électrique : pneus de visiteurs seulement **proposés** à 15 kg viande, dimensions compatibles mais non contrôlés. Les pièces auxiliaires déjà au camp ne sont pas des acquis supplémentaires.
+- Eau de la résurgence toujours suspendue.
+- Groupe B/C : 11 membres permanents et 2 visiteurs Claire, Mathieu ; trois commerçants à l'extérieur non hébergés.
+
+## Point de reprise littéral
+**J39, 16 h 30. Hugo demande : « Alors ? On discute commerce ? » et veut savoir où trouver l'électricien qui a aidé Crissier.** Tugay décide ce qu'il révèle, négocie ou demande. Ne pas terminer J39 sans sa réponse.
+
+## Consolidation
+Sauvegarde légère = ce fichier uniquement, **Statut: en_cours**. Mettre à jour ce même fichier (via update_file + SHA) lorsque la journée sera réellement terminée. Les fichiers JSON maîtres / canon restent consolidés à J24 à 17 h 40.
