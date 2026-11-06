@@ -1,7 +1,7 @@
 {
   "schema": "inventaire-normalise/2.0",
-  "reference": "Fin J074 — 12 janvier 2044",
-  "note": "Noms, quantités et descriptions seulement. Les groupes historiques ne garantissent pas un stock actuel. Éléments consommés ou déjà intégrés aux totaux non ajoutés à nouveau. L'ancien fichier détaillé reste accessible dans l'historique Git, et la sauvegarde maître J24 reste intacte. Mise à jour des totaux et équipements explicitement établis jusqu'à J074 ; les autres lignes historiques restent non repesées.",
+  "reference": "Fin J091 — 29 janvier 2044 (dernier bilan net vital J88)",
+  "note": "Mise à jour narrative J89–J91 ; seules les acquisitions et cessions quantifiées sont déclarées comme telles. Les stocks vitaux au J91 sont inconnus faute de consommation chiffrée. Les soldes J88 restent indiqués comme dernier relevé net, sans double-compter les nouvelles provisions ; les objets du dépôt sont distincts des lots historiques.",
   "categories": [
     "Réserves",
     "Eau et cuisine",
@@ -16,26 +16,26 @@
     {
       "categorie": "Réserves",
       "nom": "Nourriture",
-      "quantite": "62,3 kg",
-      "description": "Stock alimentaire global fin J074, incluant les échanges et repas des J062–J074 ; pas de double comptage."
+      "quantite": "74,2 kg (dernier net J88)",
+      "description": "Dernier bilan net J88 ; ajouter +28 kg négociés J89 et 24 conserves de masse inconnue, puis retrancher consommations J89–J91 non mesurées. Solde exact J91 indéterminé."
     },
     {
       "categorie": "Réserves",
       "nom": "Eau prête",
-      "quantite": "193 L",
-      "description": "Eau prête estimée fin J074, capacité nominale totale inchangée à 251 L, 4 L isolés."
+      "quantite": "~237 L (dernier net J88)",
+      "description": "Capacité 251 L ; 4 L isolés. Usages et préparation J89–J91 non chiffrés."
     },
     {
       "categorie": "Réserves",
       "nom": "Bois sec",
-      "quantite": "210 kg",
-      "description": "Stock de bois sec estimé fin J074."
+      "quantite": "~275 kg (dernier net J88)",
+      "description": "Combustible J88 ; consommation J89–J91 inconnue. Ne pas soustraire ici les 100 kg de planches de construction échangés."
     },
     {
       "categorie": "Réserves",
       "nom": "Charbon",
-      "quantite": "51,5 kg",
-      "description": "Dernier stock recensé fin J074, après +13 kg J070 et −1 kg J072."
+      "quantite": "57,5 kg (dernier net J88)",
+      "description": "Consommation J89–J91 non mesurée."
     },
     {
       "categorie": "Eau et cuisine",
@@ -232,8 +232,8 @@
     {
       "categorie": "Énergie et éclairage",
       "nom": "Panneaux photovoltaïques",
-      "quantite": "14",
-      "description": "Quatorze panneaux raccordés au réseau solaire B/C fin J61. Le lot initial de quatre est déjà inclus."
+      "quantite": "14 raccordés + 2 × 200 Wc non raccordés",
+      "description": "Deux panneaux obtenus J89 contre planches ; inspection et contrôle de tension J91, installation non réalisée."
     },
     {
       "categorie": "Énergie et éclairage",
@@ -444,6 +444,108 @@
       "nom": "Guitare acoustique",
       "quantite": "1",
       "description": "Guitare en étui récupérée J062 ; Gabriel sait en jouer et chanter."
+    },
+    {
+      "categorie": "Réserves",
+      "nom": "Provisions obtenues de Samuel",
+      "quantite": "20 kg pommes de terre + 8 kg haricots secs",
+      "description": "Acquis J89 ; apport distinct du dernier total net de nourriture J88. Consommations ultérieures non suivies."
+    },
+    {
+      "categorie": "Réserves",
+      "nom": "Conserves récupérées J89",
+      "quantite": "24 boîtes",
+      "description": "Récupérées au dépôt J89 ; contenu et masse non détaillés ; ne pas convertir arbitrairement en kilogrammes."
+    },
+    {
+      "categorie": "Outils et construction",
+      "nom": "Planches cédées au commerce",
+      "quantite": "−100 kg J89",
+      "description": "Cession à Samuel de planches de construction ; solde de planches restant à repeser, ne pas imputer au bois de chauffage."
+    },
+    {
+      "categorie": "Énergie et éclairage",
+      "nom": "Composants électriques échangés",
+      "quantite": "1 caisse (~6 kg)",
+      "description": "Acquise au village de Samuel J89 ; composants assortis non inventoriés individuellement."
+    },
+    {
+      "categorie": "Outils et construction",
+      "nom": "Quincaillerie du dépôt J89",
+      "quantite": "18 kg",
+      "description": "Visserie et boulonnerie récupérées ; pas de double comptage avec les boîtes historiques."
+    },
+    {
+      "categorie": "Énergie et éclairage",
+      "nom": "Câbles électriques du dépôt J89",
+      "quantite": "45 m",
+      "description": "Câbles assortis non encore affectés."
+    },
+    {
+      "categorie": "Outils et construction",
+      "nom": "Outils du dépôt J89",
+      "quantite": "1 caisse",
+      "description": "Outils manuels divers ; caisse distincte des lots antérieurs."
+    },
+    {
+      "categorie": "Outils et construction",
+      "nom": "Bâches du dépôt J89",
+      "quantite": "4",
+      "description": "Bâches imperméables récupérées."
+    },
+    {
+      "categorie": "Vie quotidienne",
+      "nom": "Couvertures thermiques du dépôt J89",
+      "quantite": "12",
+      "description": "Récupérées J89 ; distinctes des couvertures anciennes."
+    },
+    {
+      "categorie": "Outils et construction",
+      "nom": "Gants du dépôt J89",
+      "quantite": "16 paires",
+      "description": "Gants de travail récupérés au dépôt."
+    },
+    {
+      "categorie": "Eau et cuisine",
+      "nom": "Bidons 20 L du dépôt J89",
+      "quantite": "6 (120 L nominaux supplémentaires)",
+      "description": "Contenants alimentaires vides J89 ; non ajoutés sans vérification à la capacité officielle en service de 251 L."
+    },
+    {
+      "categorie": "Énergie et éclairage",
+      "nom": "Batteries 12 V du dépôt J89",
+      "quantite": "2 (état inconnu)",
+      "description": "Batteries trouvées J89, non intégrées au stockage principal."
+    },
+    {
+      "categorie": "Énergie et éclairage",
+      "nom": "Chargeurs du dépôt J89",
+      "quantite": "3 (à contrôler)",
+      "description": "Chargeurs électriques récupérés."
+    },
+    {
+      "categorie": "Outils et construction",
+      "nom": "Tuyaux souples du dépôt J89",
+      "quantite": "30 m",
+      "description": "Récupérés J89 ; distincts des tuyaux historiques."
+    },
+    {
+      "categorie": "Vie quotidienne",
+      "nom": "Extincteurs du dépôt J89",
+      "quantite": "3 (à contrôler)",
+      "description": "Récupérés J89 ; état fonctionnel non validé."
+    },
+    {
+      "categorie": "Stockage et documents",
+      "nom": "Dossier OCB",
+      "quantite": "2 documents + 1 carte annotée",
+      "description": "Feuille CB-17, carnet secteur 06, carte des six secteurs possibles. Archives J90–J91."
+    },
+    {
+      "categorie": "Stockage et documents",
+      "nom": "Classeur photovoltaïque du dépôt",
+      "quantite": "1 classeur",
+      "description": "Plans d'installations, schémas électriques et notices récupérés J89, examinables par Marc."
     }
   ]
 }

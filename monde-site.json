@@ -1,23 +1,86 @@
 {
   "schema": "monde-site/1.0",
   "reference": {
-    "jour": 74,
-    "date": "12 janvier 2044",
-    "prochain_jour": 75,
-    "checkpoint": "Fin J074",
-    "statut": "État narratif opérationnel, maîtres JSON historiques J24"
+    "jour": 91,
+    "date": "29 janvier 2044",
+    "prochain_jour": 92,
+    "checkpoint": "Fin J091",
+    "statut": "J89–J91 intégrés ; chiffres vitaux J88 derniers soldes nets, apports J89 isolés ; archives maîtresses J24 non consolidées"
   },
   "resources": {
-    "nourriture_kg": 62.3,
-    "eau_prete_l": 193,
+    "nourriture_kg": 74.2,
+    "eau_prete_l": 237,
     "eau_capacite_l": 251,
     "eau_isolee_l": 4,
-    "bois_sec_kg": 210,
-    "charbon_kg": 51.5,
+    "bois_sec_kg": 275,
+    "charbon_kg": 57.5,
     "panneaux": 14,
     "habitants": 11
   },
   "annonces": [
+    {
+      "id": "j091-secteurs",
+      "jour": 91,
+      "type": "zone",
+      "titre": "Six secteurs OCB supposés",
+      "description": "Carte ancienne annotée 01 Ouest, 02 Sud, 03 Centre, 04 Nord, 05 Est, 06 Nord-est ; découpage hypothétique, lien OCB à confirmer.",
+      "location": "Map · Région lausannoise",
+      "status": "hypothèse"
+    },
+    {
+      "id": "j091-transmission",
+      "jour": 91,
+      "type": "zone",
+      "titre": "Centre de transmission repéré",
+      "description": "Un ancien centre de transmission sur les hauteurs nord est identifié comme piste à explorer, sans activité confirmée.",
+      "location": "Map · Nord Lausanne",
+      "status": "hypothèse"
+    },
+    {
+      "id": "j091-carnet",
+      "jour": 91,
+      "type": "information",
+      "titre": "Carnet du secteur 06 déchiffré",
+      "description": "Mention d'une communauté autonome de 11 à 15 personnes, d'énergie électrique probable, de cultures et de surveillance passive. Cible non identifiée.",
+      "location": "Archives · B/C",
+      "status": "confirmé"
+    },
+    {
+      "id": "j090-ocb",
+      "jour": 90,
+      "type": "zone",
+      "titre": "Trois sites marqués par un cercle blanc",
+      "description": "Bâtiment administratif, zone industrielle avec trois individus, et guérite du secteur 06 reconnus. Organisation et intentions inconnues.",
+      "location": "Map · Nord-est Lausanne",
+      "status": "confirmé"
+    },
+    {
+      "id": "j089-alliance",
+      "jour": 89,
+      "type": "communaute",
+      "titre": "Alliance commerciale avec Samuel",
+      "description": "Samuel Rochat et sa communauté de 23 personnes acceptent une alliance commerciale ; 100 kg de planches échangés contre provisions et équipement.",
+      "location": "Map · Village Est",
+      "status": "confirmé"
+    },
+    {
+      "id": "j089-depot",
+      "jour": 89,
+      "type": "zone",
+      "titre": "Dépôt de maintenance découvert",
+      "description": "Dépôt visité au retour ; matériel récupéré et classeur photovoltaïque trouvé.",
+      "location": "Map · Trajet Est",
+      "status": "confirmé"
+    },
+    {
+      "id": "j089-solaire",
+      "jour": 89,
+      "type": "equipement",
+      "titre": "Deux panneaux de 200 Wc récupérés",
+      "description": "Panneaux contrôlés visuellement J90 puis tension à vide cohérente J91, pas raccordés au réseau.",
+      "location": "Village · Grand Atelier",
+      "status": "confirmé"
+    },
     {
       "id": "j074-tests",
       "jour": 74,
@@ -454,6 +517,100 @@
           "Découverte documentée",
           "Matériel transféré selon les journaux ; ne pas recompter le loot"
         ]
+      },
+      {
+        "id": "est-samuel",
+        "name": "Village de Samuel — Est",
+        "short": "ALLIÉS EST",
+        "type": "camp",
+        "x": 1090,
+        "y": 330,
+        "population": "23 habitants",
+        "relation": "Alliance commerciale J89",
+        "description": "Communauté de Samuel Rochat dans une ancienne zone artisanale fortifiée à l'est. Alliance commerciale, pas militaire. Emplacement cartographique schématique.",
+        "residents": [
+          "Samuel Rochat"
+        ],
+        "notes": [
+          "J89 : 100 kg de planches échangés contre 20 kg pommes de terre, 8 kg haricots, deux panneaux 200 Wc et ~6 kg composants électriques",
+          "Informations sur trois points liés aux cercles blancs",
+          "À ne pas confondre avec le petit groupe de l'est (Isabelle et André)"
+        ]
+      },
+      {
+        "id": "depot-j89",
+        "name": "Dépôt de maintenance J89",
+        "short": "DÉPÔT J89",
+        "type": "resource",
+        "x": 980,
+        "y": 390,
+        "population": "Aucune présence observée",
+        "relation": "Visité / récupération",
+        "description": "Ancien dépôt de maintenance sur le trajet du retour du village de Samuel. Récupération réalisée le J89 ; position illustrative.",
+        "notes": [
+          "Outillage, quincaillerie, bâches, couvertures, bidons, conserves, batteries, câbles et tuyaux récupérés",
+          "Classeur de plans et notices photovoltaïques remis aux archives"
+        ]
+      },
+      {
+        "id": "ocb-site-a",
+        "name": "Cercles blancs — Site A",
+        "short": "OCB · A",
+        "type": "resource",
+        "x": 880,
+        "y": 212,
+        "population": "Non observée",
+        "relation": "Exploré J90",
+        "description": "Ancien bâtiment administratif au nord-est de Lausanne, symbole blanc peint et feuille CB-17 retrouvée. Position indicative.",
+        "notes": [
+          "Document : secteur 04, point 17, secteur 06, coordinateur",
+          "Marquage observé ; intentions inconnues"
+        ]
+      },
+      {
+        "id": "ocb-site-b",
+        "name": "Cercles blancs — Site B",
+        "short": "OCB · B",
+        "type": "resource",
+        "x": 1060,
+        "y": 235,
+        "population": "3 individus observés J90",
+        "relation": "Reconnu J90",
+        "description": "Zone industrielle où trois individus, un symbole sur une veste et un véhicule opérationnel ont été observés. Position indicative.",
+        "notes": [
+          "Aucune hostilité observée",
+          "Chargement de caisses, réseau logistique supposé"
+        ]
+      },
+      {
+        "id": "ocb-site-c",
+        "name": "Cercles blancs — Secteur 06",
+        "short": "OCB · 06",
+        "type": "resource",
+        "x": 1070,
+        "y": 145,
+        "population": "Aucune présence observée",
+        "relation": "Exploré J90",
+        "description": "Ancienne guérite de contrôle routier, marquage secteur 06 et carnet trouvé. Position indicative.",
+        "notes": [
+          "Carnet : surveillance passive d'une communauté autonome de 11 à 15 individus",
+          "Correspondance avec village B/C non établie"
+        ]
+      },
+      {
+        "id": "transmission-04",
+        "name": "Ancien centre de transmission",
+        "short": "TRANSMISSION",
+        "type": "resource",
+        "x": 810,
+        "y": 110,
+        "population": "Inconnue",
+        "relation": "Piste non explorée J91",
+        "description": "Ancien centre de télécommunications sur les hauteurs nord de Lausanne, relevé dans les archives. Possible lien au secteur 04, non vérifié.",
+        "notes": [
+          "À explorer, aucune occupation confirmée",
+          "Position cartographique schématique"
+        ]
       }
     ]
   },
@@ -582,7 +739,9 @@
         "items": [
           "Planches, tréteaux, tuyaux et pièces récupérées",
           "Matériel réaffecté au Grand Atelier",
-          "Quantités restantes non toujours repesées"
+          "Quantités restantes non toujours repesées",
+          "J89 : 100 kg de planches de construction cédés à Samuel (hors combustible)",
+          "J89 : outillage et quincaillerie récupérés au dépôt (détail inventaire)"
         ]
       },
       {
@@ -601,7 +760,9 @@
           "Postes mécanique et électrique opérationnels",
           "Magasin de pièces, outils agricoles, coin couture et archives",
           "Responsable réparations : Marc",
-          "Opérationnel depuis J073"
+          "Opérationnel depuis J073",
+          "J91 : deux panneaux de 200 Wc contrôlés et non raccordés",
+          "Classeur photovoltaïque et dossier OCB archivés (J89–J91)"
         ]
       },
       {
@@ -619,7 +780,9 @@
         "items": [
           "Marc Express : 150 kg de cargaison testée sur parcours court",
           "MarcBox : 50 kg testés",
-          "Limites constructeur, homologation et autonomie chargée non certifiées"
+          "Limites constructeur, homologation et autonomie chargée non certifiées",
+          "J89 : expédition commerciale Est et retour sans incident",
+          "J90 : reconnaissance des trois sites, groupe revenu sans incident"
         ]
       },
       {
@@ -671,9 +834,12 @@
         "items": [
           "Cartes et plans récoltés dans les bâtiments F et I",
           "Tableau de projets de Kübra",
-          "Archives rangées par Gabriel"
+          "Archives rangées par Gabriel",
+          "J90 : document CB-17 et carnet secteur 06",
+          "J91 : carte annotée des six secteurs possibles et dossier de recherche"
         ]
       }
     ]
-  }
+  },
+  "resources_note": "Réserves chiffrées = dernier bilan net J88 (26 janvier 2044), PAS solde exact J91. J89 : +28 kg de vivres négociés et 24 conserves (masse inconnue), moins consommations J89–J91 inconnues. Deux panneaux 200 Wc non raccordés, donc 14 panneaux actifs + 2 en stock. Les 100 kg échangés sont des PLANCHES, distinctes du bois sec de chauffage."
 }

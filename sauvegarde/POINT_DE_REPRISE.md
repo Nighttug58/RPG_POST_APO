@@ -1,3 +1,11 @@
+## Reprise opérationnelle prioritaire — Fin J91 (29 janvier 2044)
+
+J89–J91 sont joués, documentés dans `journal_journalier/J89` à `J91` et publiés dans `monde-site.json` / `inventaire-site.json`. J92 est le prochain jour. **Les JSON maîtres `sauvegarde/ETAT.json` et `INVENTAIRE.json` restent au checkpoint historique J24**, selon la règle de non-double-comptage ; ils ne décrivent pas le J91. Les journaux J25–J91 font foi pour la progression. Site synchronisé au J91 ; chiffres vitaux de référence = derniers soldes nets J88, et acquisitions J89 séparées car consommations J89–J91 non chiffrées.
+
+11 résidents B/C, alliance commerciale Samuel (23 habitants à l'Est, distincts d'Isabelle/André), échange 100 kg planches contre 28 kg de denrées + deux panneaux 200 Wc et composants. Dépôt J89 récupéré (liste en journal). Reconnaissances OCB A/B/C J90, documents CB-17 et carnet secteur 06, hypothèse de six secteurs et centre de transmission nord J91. Deux nouveaux panneaux contrôlés mais non raccordés : **14 actifs + 2 en réserve**. Aucune preuve de menace hostile ni de surveillance précisément ciblée contre B/C.
+
+---
+
 # Point de reprise — Les Cendres du Monde
 <!-- TOUR_COURANT: 16 -->
 
