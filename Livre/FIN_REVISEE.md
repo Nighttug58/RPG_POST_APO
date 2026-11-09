@@ -1,51 +1,81 @@
-# RUPTURE — Nouvelle fin : Le Pacte des étoiles
+# RUPTURE — Fin définitive de travail : L'humanité derrière les étoiles
 
-> **Document d'auteur : spoilers majeurs.** La version littéraire abandonne la fin du RPG où Tugay revit éternellement une boucle en conservant ses souvenirs. Le roman adopte un dénouement différent.
+> **Document interne avec spoilers absolus.** Remplace la fin précédente où Tugay et Kübra mouraient et où une civilisation renaissait sans eux. Cette nouvelle fin suit l'itération 52 826 323 jusqu'à une guerre intergalactique et une boucle causale impliquant le futur Tugay. Ces règles sont des conventions de science-fiction, pas des phénomènes physiques réels.
 
-## Le secret des 52 millions d'itérations
+## La grande révélation en trois étages
 
-Le récit principal se déroule pendant **l'itération 52 826 322**, de la Rupture de 2026 à la découverte de l'immortalité permanente et la visite vaelorienne vers 2082.
+1. **Premier dévoilement, vers 2082, itération 52 826 322 :** les Vaeloriens ont provoqué plus de 52 millions de Ruptures pour que l'humanité découvre un ancrage biologique permanent sans nouveau sérum. Ils concluent un pacte de non-agression, volent la méthode sous couvert d'échange, puis relancent la Rupture après l'avoir sauvegardée dans une archive Qν hors-cycle.
+2. **Deuxième dévoilement, des siècles plus tard dans l'itération 52 826 323 :** Tugay et Kübra ont été **préservés par une défaillance de la réinitialisation**, puis réinsérés plusieurs siècles après le point initial dans une civilisation humaine moderne et très avancée, construite sans leur participation. Tugay retrouve **des fragments de mémoire** sur Genesis-S, l'ancrage permanent et le danger vaelorien. Il rassemble les scientifiques et les pouvoirs politiques pour isoler la Terre avant tout essai Q-EUV, puis généraliser l'immortalité biologique.
+3. **Dernière révélation, après des années de guerre :** les Vaeloriens **ne sont pas une espèce extraterrestre née ailleurs**. Ils sont les descendants d'une ancienne humanité ayant atteint une immortalité **entretenue par traitements**, migré très loin et maîtrisé la navigation chrono-géométrique et l'ingénierie stellaire. La voix vaelorienne qui avait communiqué avec Tugay dans le cycle précédent était **Tugay lui-même, devenu un Vaelorien dans son propre futur**.
 
-**Les Vaeloriens ont intentionnellement provoqué les Ruptures** : depuis plus de cinquante-deux millions de cycles, ils explorent différentes trajectoires de l'humanité pour obtenir une découverte qui leur échappe, **la stabilisation du rajeunissement à vie sans autre injection**.
+## Règle n° 1 — Comment Tugay et Kübra arrivent-ils des siècles plus tard ?
 
-Ils surveillent les itérations depuis un dispositif de mémoire **Qν hors-cycle**, capable de conserver un nombre limité d'informations scientifiques à travers les réinitialisations. Ils n'ont pas conservé les corps, les villes ou toutes les consciences ; ce sont les archives de leur programme qui passent les cycles.
+Une Rupture rétablit l'univers dans un voisinage de l'état de 2026. Le **registre vaelorien** hors-cycle conserve normalement seulement de l'information. Cependant, lors du dernier redémarrage, un **défaut de synchronisation à l'interface de l'ancrage Qν permanent de Tugay et de son environnement immédiat** entraîne l'extraction momentanée de **Tugay et Kübra ensemble** dans une poche temporelle transitoire. Ils n'en deviennent pas invulnérables ; il s'agit d'un accident extrêmement rare, non d'une propriété reproductible de Genesis-S. L'état matériel des deux personnes est préservé, puis réinséré à une époque **plusieurs siècles après 2026**, vers **2490** comme repère éditorial.
 
-Leurs infrastructures stellaires **amorcent** une transition chrono-géométrique universelle propre aux lois imaginaires du roman ; elles ne fournissent pas directement l'énergie de créer tout l'univers. Elles peuvent provoquer un retour vers les conditions de 2026, mais **ne peuvent pas reproduire exactement chaque détail**. De minuscules écarts dans l'état initial s'amplifient selon la dynamique chaotique et produisent des vies et des civilisations radicalement différentes. Ils ont attendu plus de 52 millions d'essais pour obtenir la percée de Tugay.
+Cette proposition donne le sens **littéral** de « ce sont bien Tugay et Kübra ». Ils ne sont ni des homonymes nés par hasard, ni des réincarnations ordinaires. **Kübra est présente à ses côtés**, conserve leur lien et contribue aux choix. La mémoire de Tugay a été **partiellement désynchronisée** : la solution théorique de l'ancrage et la reconnaissance des Vaeloriens réapparaissent par fragments, alors qu'il ne connaît pas d'avance toute l'histoire de ce monde.
 
-## La négociation
+**Point à ne pas escamoter :** les personnes correspondant à leurs identités ont aussi pu exister à partir de 2026 dans la nouvelle chronologie, puis mourir avant 2490. Il n'y a pas nécessairement coexistence physique au même instant ; la paire extraite provient du **cycle précédent**. Il faut expliquer cette différence lorsque l'histoire l'aborde.
 
-Les Vaeloriens reconnaissent l'empreinte Q-EUV terrestre, puis apprennent que Tugay possède un **ancrage biologique permanent**, contrairement au seul Genesis-S qui exige ultérieurement un nouveau traitement. Ils savent qu'une nouvelle Rupture **avant acquisition** pourrait faire disparaître ce résultat pour des millions d'autres essais.
+## Règle n° 2 — Une deuxième humanité différente et pourtant très avancée
 
-Ils décident donc **de visiter la Terre**, de montrer leur avance en ingénierie stellaire et d'offrir formellement un **pacte de non-agression** en échange de la connaissance complète et vérifiable.
+La théorie du chaos rend les événements de l'itération 52 826 323 **radicalement distincts** du Village du Phénix. Durant les premiers siècles, la reconstruction est fragmentée : plusieurs sociétés renaissent, s'effondrent ou se réorganisent. Vers le XXVe siècle, une nouvelle civilisation technologiquement avancée existe, avec des nations souveraines, des centres de recherche, des capacités industrielles puissantes, des transports interplanétaires naissants et des institutions sans lien avec l'ancien OCB.
 
-Tugay, Kübra, Mira, Lina, Sofia et les autorités débattent de la sécurité terrestre, du consentement, de l'accès à l'immortalité et de la fiabilité d'une promesse face à une puissance disproportionnée. Le transfert n'est pas la remise d'une fiole : les Vaeloriens doivent comprendre la méthode de **stabilisation autonome de l'ancrage**. Ils vérifient les informations et les sauvegardent dans leur registre hors-cycle.
+La disparition de Tugay et Kübra **de la mémoire de ce monde** ne signifie pas qu'ils n'ont rien apporté à la première histoire ; cela permet au récit de montrer ce que l'humanité a construit **sans les mêmes héros**.
 
-## La trahison
+## Règle n° 3 — Le Q-EUV et le bouclier
 
-**Avant d'avoir la formule**, les Vaeloriens refusent une nouvelle Rupture. **Après l'avoir reçue, vérifiée et mise à l'abri**, une faction dirigeante décide d'effacer le pacte, les témoins et les concurrents humains. Le coût terrible d'une nouvelle transition est accepté pour protéger leur monopole.
+- Tugay reconstitue l'architecture théorique du **Q-EUV**, avec des scientifiques de cette nouvelle époque. Il **n'active pas le système et ne réalise aucun essai Q-EUV** tant que l'isolement temporel n'a pas été démontré.
+- Le dispositif de protection, **bouclier chrono-isolant terrestre**, bloque à la frontière de son domaine **les signatures et échanges Qν non locaux**, vers l'extérieur et depuis l'extérieur. Il **n'annule pas les phénomènes Q-EUV locaux** à l'intérieur : sans cette distinction, il serait impossible d'utiliser le traitement sur Terre.
+- La protection est élaborée avec des technologies **différentes de l'émission Q-EUV active**, en s'appuyant sur des mesures **passives** du bruit chrono-géométrique ambiant et des théories de phase. Sa validation commence **sans émettre de signature Q-EUV détectable**.
+- Une fois le bouclier stable, essais Q-EUV **confinés**, développement de cœurs d'ancrage **reproductibles grâce à l'industrie avancée** (le prototype unique de 2080 avait été consommé), puis traitement biologique volontaire à grande échelle.
+- « Rendre tout le monde immortel » signifie **accès universel à l'absence de vieillissement**, sous consentement et avec règles sociales ; certains peuvent refuser. L'immortalité n'est ni invulnérabilité, ni immunité aux armes, aux accidents ou aux Ruptures. Aucun effet secondaire biologique n'apparaît, comme établi dans les règles du roman.
 
-La délégation **trahit sa promesse** ; une Rupture universelle est déclenchée.
+## Règle n° 4 — Pourquoi les Vaeloriens remarquent-ils la Terre malgré le bouclier ?
 
-L'immortalité de Tugay **ne le protège que du vieillissement biologique** : elle ne l'empêche pas d'être effacé avec sa chronologie. Tugay et Kübra vivent **une dernière scène ensemble**. Le récit en première personne s'achève avec eux. Il n'y a pas de nouveau Tugay conscient se rappelant les anciennes vies.
+Le bouclier **réussit** : aucune émission Q-EUV des essais confinés n'est interceptée. Mais ce n'est pas une invisibilité optique ou gravitationnelle absolue. Les Vaeloriens disposent aussi de **vaisseaux, observatoires classiques, réseaux d'espionnage et reconnaissance des routes spatiales**. La diplomatie terrestre, les transports, les infrastructures orbitales et une expansion humaine rapide peuvent être observés par d'autres voies. Ils découvrent **l'essor d'une humanité biologiquement immortelle** par indices extérieurs ou renseignement, non par fuite Q-EUV arbitraire qui annulerait la réussite du bouclier.
 
-## L'itération 52 826 323 : une autre humanité
+Les Vaeloriens déclenchent une guerre **interstellaire**, qui s'étend progressivement à plusieurs galaxies grâce aux couloirs de transport ; l'expression « intergalactique » devient littérale à cette étape.
 
-Le redémarrage rétablit une situation proche de 2026, mais les écarts initiaux changent tout : des rencontres n'ont pas lieu, d'autres collectivités se forment, les technologies suivent des chemins inattendus et **le Village du Phénix n'est pas reconstruit à l'identique**.
+## Règle n° 5 — Les Vaeloriens sont des humains anciens
 
-Le retour en 2026 pourrait recréer les individus qui existaient à cette date, mais **ni leurs souvenirs ni leurs destins** ne sont conservés. Le roman ne prétend pas que Tugay et Kübra ont cessé d'exister dès le premier instant du nouveau monde ; en revanche, **plusieurs siècles plus tard, ils ne sont plus de ce monde** et n'ont pas été les acteurs de cette renaissance.
+Une branche d'humanité, issue d'une **itération très ancienne**, avait découvert le rajeunissement **entretenu par répétition des traitements**, sans l'ancrage permanent. Ses survivants avaient migré vers d'autres étoiles, adapté leurs corps aux générations d'exploration et construit des structures stellaire puis chrono-temporelles. L'archive Qν leur permet de conserver une continuité de **savoir et d'institutions** à travers les Ruptures. Ils se nomment désormais les Vaeloriens.
 
-Les derniers chapitres changent explicitement de voix : **troisième personne**, générations et protagonistes nouveaux, échecs, institutions inédites et lente reconstruction sur des siècles. Aucune relique miraculeuse de Tugay, aucune mémoire du monde effacé et aucune aide surnaturelle ne fournit de raccourci.
+Ainsi, leur recherche d'une **immortalité entièrement autonome** pendant des millions de cycles n'est **pas** contredite par leur immortalité déjà entretenue. Leur apparence et leur civilisation sont devenues si différentes que les Terriens les avaient pris pour une espèce extraterrestre.
 
-L'image finale répond aux premières heures de survie : une nouvelle humanité **rallume la lumière**, non par imitation, mais grâce aux efforts de personnes qui n'ont jamais connu Tugay ni Kübra.
+**Motivations divisées :** une faction impose les Ruptures afin de préserver son pouvoir et sa continuité dans la boucle ; une autre cherche depuis longtemps **une issue définitive** pour éviter que toutes les humanités recommencent sans fin. Tous les Vaeloriens ne sont pas coupables du même choix. La guerre révèle une tragédie entre branches humaines séparées par des ères et des manipulations du temps.
 
-## Plan final (chapitres 46 à 50)
+## Règle n° 6 — Le correspondant vaelorien était Tugay dans le futur
 
-46. **Cinquante-deux millions de mondes** — Révélation des itérations vaeloriennes, du registre hors-cycle et de l'objectif de la recherche.
-47. **Le pacte des étoiles** — Visite sur Terre, promesse de non-agression, négociations, remise et vérification du secret de l'ancrage.
-48. **La dernière Rupture** — Trahison, sauvegarde de l'information, déclenchement du reset ; dernier instant de Tugay et Kübra à la première personne.
-49. **L'âge des cendres** — Nouvelle itération divergente et premières générations d'une humanité fragmentée ; début de la chronique en troisième personne.
-50. **Ceux qui rallument la lumière** — Plusieurs siècles plus tard, une civilisation renaît enfin. L'humanité continue, sans ses anciens héros.
+Dans la trajectoire future de **l'itération 52 826 323**, Tugay — désormais capable de traverser les siècles en raison de l'ancrage — rejoint une faction vaelorienne et passe **hors de l'ordre habituel des cycles** grâce aux couloirs Qν. Les changements d'époque, d'apparence et d'identité publique le rendent méconnaissable.
 
-## Ton recherché
+Ce **Tugay futur** est la conscience ayant transmis le **premier message vaelorien** au Tugay du cycle 52 826 322. Il peut parler à sa propre version antérieure **d'une autre itération** parce que les communications extra-chronologiques ne respectent pas leur ordre intérieur.
 
-**Tragique pour le couple, mais plein d'espoir pour l'espèce humaine.** Les Vaeloriens conservent la recette de l'éternité. L'humanité perd son monde, sa mémoire et ses héros ; malgré cela, elle retrouve le chemin de la civilisation. Le véritable personnage qui survit au roman n'est ni Tugay ni les Vaeloriens : c'est l'humanité.
+**Paradoxe assumé et circonscrit :** un événement du futur de l'itération 52 826 323 contribue aux événements de l'itération 52 826 322, dont la Rupture permet justement l'existence de la 52 826 323. Ce n'est pas un voyage temporel ordinaire, mais une **boucle causale fermée (bootstrap)**. On peut laisser son origine ultime ouverte, mais ses règles restent constantes.
+
+Le Tugay futur est **le correspondant**, pas nécessairement l'homme qui a ordonné à lui seul la trahison des dirigeants vaeloriens. Sa présence au sein de leur société répond à une stratégie pour **empêcher de nouvelles Ruptures** ; sa complicité supposée et les choix qui l'ont conduit là deviennent la révélation tragique de la fin.
+
+## Architecture des derniers chapitres : 46 à 58
+
+46. **Les millions d'essais** — Les Vaeloriens révèlent les 52 826 322 itérations et leur obsession de la découverte.
+47. **Le pacte des étoiles** — Descente sur Terre, promesse de non-agression, transfert de la méthode après négociations.
+48. **La trahison** — Formule sauvegardée hors-cycle, nouvelle Rupture, anomalie qui entraîne Tugay et Kübra hors du redémarrage.
+49. **Un monde qui n'est pas le nôtre** — Éclats de l'histoire très différente du nouveau cycle, reconstruction difficile sur des siècles.
+50. **Quatre siècles après** — Terre futuriste vers 2490 ; réapparition réelle de Tugay et Kübra, incompréhension et adaptation.
+51. **La mémoire des impossible** — Fragments Q-EUV et identification des Vaeloriens, couple face aux souvenirs.
+52. **Silence quantique** — Équipe mondiale, reconstruction théorique sans essais ni émissions actives, premières propositions de bouclier.
+53. **Le bouclier de la Terre** — Accord de grandes nations, construction et validation **passive** de l'isolation Qν.
+54. **L'âge sans vieillesse** — Activation Q-EUV seulement après protection, reproduction des ancrages, consentement et accès mondial à l'immortalité biologique.
+55. **La guerre des étoiles** — Vaeloriens découvrent le développement humain par des voies non Qν ; guerre interstellaire.
+56. **Les siècles ennemis** — Conflit prolongé, élargissement intergalactique, coûts politiques et humains, bouclier qui tient.
+57. **Nos ennemis, nos descendants** — Preuves que les Vaeloriens sont une diaspora humaine d'une très ancienne itération, immortelle grâce à des traitements renouvelés.
+58. **L'homme derrière le signal** — Découverte que le premier interlocuteur vaelorien était **Tugay lui-même dans son futur** ; rôle des factions, boucle causale et décision de lutter pour l'avenir sans recommencer l'univers.
+
+## Règle de perspective
+
+Conserver la narration à la première personne de **Tugay** pour les événements qu'il vit. Le chapitre 49, lorsque Tugay n'est pas présent, devient un **interlude de chronique à la troisième personne** ; retour au « je » au chapitre 50. **Aucune lecture de pensée** sans scène rapportée.
+
+## Ton et sens de la fin
+
+Le roman commence par **un feu fragile et deux survivants**, passe par l'apparente altérité extraterrestre, puis révèle que l'ennemi était une branche de l'humanité. La révélation finale est plus intime : **Tugay se retrouve face à sa propre destinée**, incarnée dans la voix qui l'avait autrefois averti. La fin peut être un choix de ne pas réinitialiser encore : une promesse à Kübra de laisser l'histoire avancer, même si elle demeure imprévisible.
+
+**À éviter :** résoudre toutes les responsabilités vaeloriennes par la seule fatalité ; anéantir le libre arbitre du héros, forcer toute la population à l'immortalité, faire fuir un signal Qν malgré un bouclier déclaré parfait ou faire réapparaître miraculeusement les anciennes institutions.

@@ -75,13 +75,30 @@
 
 **Tension centrale :** le traitement est biologiquement sûr, mais ses conditions d'accès, sa monopolisation et ses usages pourraient provoquer des dommages sociaux. Présenter des débats réels entre personnages, sans décréter qu'une interdiction universelle est automatiquement juste.
 
-## 6. Le mécanisme vaelorien
+## 6. Les cycles vaeloriens et le défaut de la machine
 
-- Les Vaeloriens amorcent une **transition cosmique chrono-géométrique fictive** permettant de réinitialiser l'univers vers un état proche de 2026. Leur ingénierie stellaire en est le déclencheur, sans fournir directement l'énergie de recréer physiquement tout un univers.
-- Un **registre Qν hors-cycle** préserve des données d'expérience et la formule de l'ancrage, **pas les vies ni les souvenirs humains**.
-- Les conditions initiales ne se reproduisent pas avec une précision infinie : des divergences microscopiques s'amplifient selon le chaos, donnant des histoires imprévisibles malgré des lois identiques.
-- **Itération 52 826 322 :** la première percée humaine de l'immortalité permanente sans rappel. Avant d'avoir vérifié la connaissance, les Vaeloriens n'osent pas reset ; après acquisition et archivage, leurs dirigeants trahissent le pacte de non-agression pour éliminer les témoins et la concurrence.
-- La stabilité biologique de Tugay le préserve du vieillissement, mais **pas** de l'effacement cosmique. Les humains reconstruisent différemment pendant des siècles en **itération 52 826 323**.
-- Ne révéler les responsabilités vaeloriennes et le nombre de cycles **qu'aux chapitres 46–48**. Les chapitres 49–50 adoptent la troisième personne.
+- Les Vaeloriens, descendants d'une branche humaine très ancienne dotée d'une **immortalité entretenue par traitements répétés**, ont développé la maîtrise stellaire et les Ruptures chrono-géométriques. Ils recherchent l'**ancrage permanent autonome**.
+- Leur **registre Qν hors-cycle** conserve surtout de l'information ; les cycles sont différents à cause des minuscules écarts initiaux amplifiés par la dynamique chaotique.
+- **Défaut unique de l'itération 52 826 322 → 52 826 323 :** une erreur de synchronisation à proximité de l'ancrage Qν déjà actif préserve *Tugay et Kübra ensemble* dans une poche transitoire, puis les réinsère vers **2490**. **Exception accidentelle non reproductible** et non preuve que le sérum rend invulnérable.
+- La mémoire de Tugay est **partiellement conservée** et contient les principes du Q-EUV et l'avertissement vaelorien. Elle ne remplace pas les travaux de spécialistes de la nouvelle époque.
 
-Ces lois Qν et le reset cosmique sont des inventions propres au roman, et non de la physique réelle.
+## 7. Le bouclier chrono-isolant de la Terre
+
+- **Contrainte de sécurité :** Tugay refuse **tout essai actif Q-EUV tant que le bouclier n'est pas établi**, afin d'éviter une signature détectable.
+- Le bouclier filtre **les modes Qν non locaux à travers une frontière terrestre** : signal entrant ou sortant bloqué, mais Q-EUV et ancrage **locaux** peuvent fonctionner sous protection.
+- Le projet du bouclier utilise d'abord des mesures **passives**, des modèles et des éléments d'ingénierie sans émission Q-EUV active ; seules les vérifications passives précèdent sa mise en service.
+- Après activation du bouclier : essais Q-EUV confinés, production en série de cœurs d'ancrage grâce à la technologie industrielle des siècles futurs, **accès universel à la jeunesse permanente sous consentement**.
+- La technologie demeure **sans effets secondaires biologiques** ; absence de vieillissement ne signifie pas invulnérabilité ni obligation d'accepter le traitement.
+- **Limite :** un bouclier Qν n'est **pas** un camouflage optique, diplomatique ou gravitationnel. Les Vaeloriens détectent l'expansion humaine grâce à des moyens **non-Qν** : observatoires, reconnaissance spatiale, renseignements.
+
+## 8. Origine humaine des Vaeloriens et causalité entre cycles
+
+- Origine : diaspora humaine **issue d'une très ancienne itération**, ayant maintenu sa jeunesse par traitements renouvelés puis évolué par adaptation, migrations et ingénierie stellaire. Leurs cultures et physiques rendent leur origine méconnaissable.
+- Motifs opposés : certains Vaeloriens relancent les cycles pour perpétuer leur monopole et protéger leur continuité ; d'autres cherchent **à arrêter la boucle**.
+- À un stade ultérieur du cycle 52 826 323, Tugay accède à la société vaelorienne et aux communications **extra-chronologiques**. Il devient **le correspondant** qui avait contacté son autre version en 2079 (cycle 52 826 322).
+- Il s'agit d'une **boucle de causalité fermée** : la version future du cycle 52 826 323 peut agir sur le cycle 52 826 322 parce que l'archive et les couloirs extra-chronologiques ne respectent pas l'ordre des itérations. L'origine causale ultime peut rester philosophique ; **ne pas changer les règles du mécanisme selon les besoins d'une scène**.
+- Le correspondant Tugay futur ne doit pas être confondu automatiquement avec la faction dirigeante **responsable de la trahison du pacte**.
+- La guerre commence entre étoiles et devient **intergalactique** lorsque le conflit emprunte des passages vers d'autres galaxies.
+- Révélation graduée : origine des resets (chapitre 46), origine **humaine** des Vaeloriens (chapitre 57), correspondant **Tugay futur** (chapitre 58).
+
+**Avertissement :** tout ceci est de la science-fiction. Aucune propriété réelle des quarks, neutrinos, photons EUV ou de la dynamique chaotique ne permet la construction de ces technologies.

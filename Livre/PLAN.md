@@ -1,8 +1,8 @@
-# RUPTURE — Plan du roman (50 chapitres)
+# RUPTURE — Plan du roman (58 chapitres)
 
-**Architecture révisée : 8 parties, 50 chapitres.** Cible indicative : **112 000–140 000 mots** (~2 200–2 700 mots/chapitre, certains chapitres charnières plus longs), soit un roman d'environ 350–450 pages selon la mise en page.
+**Architecture révisée : 10 parties, 50 chapitres.** Cible indicative : **135 000–165 000 mots** (~2 200–2 700 mots/chapitre, certains chapitres charnières plus longs), soit un roman d'environ 350–450 pages selon la mise en page.
 
-**Canon littéraire :** Rupture en 2026 ; Kübra est une co-protagoniste ; attaque initiale éclaircie par l'enquête de l'OCB ; PhenixCoin seul ; Genesis-S et ancrage permanent distincts ; contact Qν / Vaeloriens développé ; itérations vaeloriennes révélées, pacte trahi et renaissance humaine des siècles plus tard.
+**Canon littéraire :** Rupture en 2026, Kübra co-protagoniste, OCB / AURORE, PhenixCoin seul, immortalité permanente, Vaeloriens responsables des resets, **Tugay et Kübra préservés accidentellement et projetés des siècles plus tard dans l'itération 52 826 323**, bouclier temporel, immortalité généralisée, guerre intergalactique et révélation du **futur Tugay derrière le premier contact**.
 
 ## PARTIE I — DEUX CONTRE LE MONDE (chapitres 1–8)
 
@@ -70,13 +70,27 @@
 44. **Le soleil des Vaeloriens** — Civilisation qui pilote son étoile, communication par couloirs chrono-géométriques limités et coûteux, arrivée d'un vaisseau vers 2082 ; inégalité technologique et manœuvres diplomatiques.
 45. **Ils veulent l'ancre** — Les Vaeloriens exigent **la permanence de Tugay sans nouvelles injections**, pas seulement le sérum ; ils ne peuvent pas simplement la saisir sans détruire son mécanisme. Offres, pression, risques pour la Terre et désaccords familiaux.
 
-## PARTIE VIII — LA DERNIÈRE RUPTURE (chapitres 46–50)
+## PARTIE VIII — LA SECONDE HUMANITÉ (chapitres 46–50)
 
-46. **Cinquante-deux millions de mondes** — Les Vaeloriens révèlent avoir provoqué 52 826 322 itérations pour obtenir l'immortalité permanente. Les trajectoires humaines divergent à cause du chaos ; le savoir vaelorien subsiste dans une archive Qν hors-cycle.
-47. **Le pacte des étoiles** — La délégation vaelorienne descend sur Terre et promet officiellement la non-agression contre la recette complète de l'ancrage permanent. Négociations humaines, réticences de Kübra, Tugay et Sofia, transfert vérifié.
-48. **La dernière Rupture** — La technologie est sauvegardée hors-cycle, les Vaeloriens trahissent et provoquent une nouvelle Rupture. Dernière scène intime de Tugay et Kübra ; **fin du « je »**.
-49. **L'âge des cendres** — Itération 52 826 323, événements entièrement différents ; des générations de nouveaux survivants peinent à reconstruire. **Troisième personne**.
-50. **Ceux qui rallument la lumière** — Plusieurs siècles plus tard, nouvelle civilisation humaine sans Tugay ni Kübra encore vivants. Fin tragique pour les héros, pleine d'espoir pour l'humanité.
+46. **Les millions d'essais** — Les Vaeloriens avouent les 52 826 322 itérations ; leur objectif réel est l'immortalité biologique autonome.
+47. **Le pacte des étoiles** — Une délégation descend sur Terre, promet la non-agression, reçoit la méthode vérifiée et la sauvegarde hors-cycle.
+48. **La trahison** — Nouvelle Rupture ; Tugay et Kübra sont entraînés ensemble dans une poche temporelle par un défaut, plutôt que simplement effacés.
+49. **Un monde qui n'est pas le nôtre** — Interlude à la troisième personne : itération 52 826 323 radicalement différente, siècles de difficultés et de reconstruction.
+50. **Quatre siècles après** — Tugay et Kübra réapparaissent vers 2490 dans une Terre redevenue très avancée. Ils sont réellement les mêmes êtres, mais Tugay n'a que des souvenirs fragmentaires du secret Q-EUV et des Vaeloriens.
+
+## PARTIE IX — LE BOUCLIER DES MORTELS (chapitres 51–54)
+
+51. **La mémoire des impossibles** — Souvenirs Q-EUV de Tugay, peur des Vaeloriens, adaptation du couple à un monde inconnu.
+52. **Silence quantique** — Scientifiques et puissances humaines reconstituent théoriquement Q-EUV **sans aucun essai actif**, pour ne pas émettre de signature.
+53. **Le bouclier de la Terre** — Alliance scientifique et politique, champ de protection bloquant les signaux Qν franchissant la limite terrestre mais non le Q-EUV local ; vérification passive.
+54. **L'âge sans vieillesse** — Essais confinés après mise en service, industrie capable de reproduire l'ancrage ; immortalité biologique offerte universellement, dans le respect du consentement.
+
+## PARTIE X — LES ENFANTS DES ÉTOILES (chapitres 55–58)
+
+55. **La guerre des étoiles** — Les Vaeloriens repèrent l'expansion humaine autrement que par Q-EUV et attaquent : début d'une guerre interstellaire.
+56. **Les siècles ennemis** — Années de combats et conséquences humaines ; le conflit s'étend à plusieurs galaxies via les couloirs vaeloriens.
+57. **Nos ennemis, nos descendants** — Découverte que les Vaeloriens sont les descendants transformés d'une humanité très ancienne, immortelle grâce à des traitements répétés, divisée sur les Ruptures.
+58. **L'homme derrière le signal** — La voix du premier contact vaelorien était **Tugay lui-même, dans son futur**. Boucle causale entre itérations, motivations opposées des factions et choix de préserver un avenir humain qui continue.
 
 ## Exigences de fabrication
 
@@ -84,5 +98,5 @@
 - **Couple :** scènes communes régulières, gestes tendres, conflits justifiés, décisions partagées et individualité de Kübra dans chacune des huit parties.
 - **Réalisme interne :** pénuries, délais, logistique, politique, financement, conséquence concrète. Les pouvoirs quantiques sont imaginaires mais obéissent à leurs propres règles. **Contrôler avant chaque chapitre les points de [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md)**.
 - **Enquête :** ne pas confondre les raiders avec l'OCB ; l'arrestation par l'OCB doit être un déclencheur narratif crédible de la recherche de la keycard.
-- **Mystère :** garder secrète la responsabilité vaelorienne jusqu'au chapitre 46, ainsi que le nombre de cycles.
-- **Fin :** renaissance d'une autre humanité au bout de plusieurs siècles, sans ses anciens héros. Voir [FIN_REVISEE.md](FIN_REVISEE.md).
+- **Mystère :** le nombre de cycles et leur origine se révèlent au chapitre 46 ; la nature humaine des Vaeloriens et l'identité du correspondant restent réservées aux chapitres 57–58.
+- **Fin :** réapparition de Tugay et Kübra après des siècles, bouclier et immortalité humaine, guerre intergalactique puis boucle causale entre le passé de Tugay et son avenir vaelorien. Voir [FIN_REVISEE.md](FIN_REVISEE.md).

@@ -71,18 +71,22 @@ Avant tout nouveau chapitre, consulter [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) 
 - Tugay veut empêcher qu'un avantage d'immortalité puisse servir à dominer l'humanité et redoute une application terrestre trop rapide sans gouvernance. Ses mesures — fermeture, secret, exclusivité — provoquent des désaccords ; ne pas les présenter comme objectivement bonnes par principe.
 - Source technique et dramaturgie : SCIENCE_FICTION.md.
 
-### Nouvelle fin — pacte, trahison, renaissance
+### Nouvelle fin : temporalité, bouclier, guerre, identité du correspondant
 
-- **Itération 52 826 322 :** cycle principal de Tugay, de 2026 à 2082. Les Vaeloriens ont provoqué les Ruptures depuis plus de 52 millions de cycles et conservé leurs résultats dans un registre Qν hors-cycle.
-- L'humanité a enfin découvert l'ancrage biologique permanent sans sérum répété. Les Vaeloriens **n'osent pas réinitialiser avant d'avoir acquis la formule**, car les trajectoires humaines chaotiques ne se reproduisent jamais exactement.
-- Ils **visitent la Terre** et promettent officiellement la **non-agression** contre la connaissance ; celle-ci est transmise, vérifiée et sauvegardée hors-cycle.
-- Les dirigeants vaeloriens **trahissent l'accord**, relancent une Rupture et effacent l'histoire connue. L'immortalité de Tugay empêche le vieillissement, **pas le reset cosmique**.
-- Tugay et Kübra sont ensemble dans leurs derniers instants conscients. **Le récit « je » s'arrête au chapitre 48.**
-- **Itération 52 826 323 :** des événements radicalement différents mènent, après plusieurs siècles, à une civilisation reconstruite par des inconnus ; Tugay et Kübra ne sont plus de ce monde. **Chapitres 49–50 à la troisième personne**. Voir [FIN_REVISEE.md](FIN_REVISEE.md).
+- Le cycle principal est **52 826 322**, de 2026 à 2082. Les Vaeloriens ont organisé des resets pour obtenir un ancrage biologique permanent.
+- Leurs dirigeants négocient un pacte de non-agression, prennent la formule, la vérifient, la conservent dans un **registre hors-cycle**, puis trahissent et relancent une Rupture.
+- Un **défaut extrêmement rare** à l'interface de l'ancrage de Tugay préserve **Tugay et Kübra physiquement** dans une poche transitoire avant de les réinsérer **vers 2490** dans le cycle **52 826 323**, après des siècles de reconstruction humaine aux trajectoires différentes. Ce sont les personnages originaux, pas deux homonymes.
+- Tugay a des souvenirs fragmentaires **de la solution Q-EUV et du danger vaelorien** ; il ne connaît pas l'avenir de cette nouvelle société. Kübra reste son épouse et sa partenaire autonome.
+- Il reconstruit **en théorie** Q-EUV, **sans essai actif** tant qu'un bouclier chrono-isolant n'est pas opérationnel. Le bouclier bloque les signatures **Qν traversant la frontière terrestre**, pas les phénomènes Q-EUV internes. Vérification passive puis essais confinés.
+- Grâce aux capacités industrielles de cette humanité avancée, les ancrages permanents deviennent reproductibles ; **accès universel** à l'immortalité biologique dans le respect du consentement, sans effet secondaire.
+- Les Vaeloriens découvrent le développement humain **par moyens non-Qν** (exploration, observation, renseignement), provoquant un conflit interstellaire puis intergalactique sur plusieurs années.
+- **Révélation 57 :** les Vaeloriens sont des humains issus d'une ancienne itération, ayant développé une immortalité **entretenue** par traitements avant de migrer vers les étoiles, puis changé d'apparence et de société. Certains veulent stopper les resets, d'autres les imposent.
+- **Révélation 58 :** le premier correspondant vaelorien du cycle 52 826 322 était **Tugay lui-même dans le futur du cycle 52 826 323**, capable de communiquer hors de l'ordre des cycles, au sein d'une faction cherchant à briser la répétition. Paradoxe causal fermé, pas machine à voyager librement dans toutes les dates.
+- Voir [FIN_REVISEE.md](FIN_REVISEE.md), source de vérité pour la dernière partie.
 
 ## Contrat narratif
 
-- Jusqu'au chapitre 48, Tugay n'entend pas les pensées des autres ; Kübra se révèle par la parole, les décisions et les gestes. Les chapitres 49–50 changent explicitement de narrateur.
+- Tugay raconte en « je » les scènes qu'il vit, y compris la deuxième époque. Le chapitre 49 est une chronique à la troisième personne couvrant les siècles avant sa réapparition ; le « je » reprend au chapitre 50. Kübra reste active et ne se réduit pas à un prétexte dramatique.
 - Une hypothèse d'un personnage n'est jamais promue en vérité par le narrateur sans preuve.
 - Éviter les pages de chiffres, les tableaux de stocks, le jargon non expliqué, les dialogues qui servent uniquement d'exposition.
 - Révéler AURORE progressivement ; réserver l'explication Qν détaillée aux parties ÉTERNITÉ / Vaeloriens ; ne pas annoncer la boucle au début.

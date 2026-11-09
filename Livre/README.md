@@ -6,13 +6,13 @@
 
 ## Format retenu
 
-- **50 chapitres**, répartis en **8 parties**.
-- Cible indicative : **112 000–140 000 mots** (environ 350–450 pages selon la maquette).
+- **58 chapitres**, répartis en **10 parties**.
+- Cible indicative : **135 000–165 000 mots** (environ 350–450 pages selon la maquette).
 - Une narration « je » de Tugay jusqu'au chapitre 48, puis une chronique à la troisième personne (chapitres 49–50).
 - La catastrophe initiale survient **en 2026** ; la reconstruction mène aux décennies suivantes.
 - **Kübra est la seconde figure centrale** du roman et une actrice autonome des décisions.
 - Le volet financier est simplifié : **PhenixCoin uniquement** ; aucune création de RuptureCoin.
-- Immortalité et contact extraterrestre approfondis ; révélation de **52 millions d'itérations vaeloriennes**, pacte de non-agression trahi et renaissance humaine après des siècles.
+- Immortalité et contact extraterrestre approfondis ; **52 millions d'itérations vaeloriennes**, pacte trahi, réapparition de Tugay et Kübra quatre siècles plus tard, bouclier temporel, humanité immortelle, guerre intergalactique et révélation du **futur Tugay derrière le premier contact**.
 - Les détails scientifiques Q-EUV sont des **lois propres à la fiction**, pas des affirmations sur la physique réelle.
 
 ## Fichiers éditoriaux
@@ -23,7 +23,7 @@
 - [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) — **24 incohérences et risques narratifs** détectés, corrections et contrôle obligatoire avant chaque chapitre.
 - [CHRONOLOGIE_ROMAN.md](CHRONOLOGIE_ROMAN.md) — repères calendaires depuis 2026 ; adaptations par rapport au RPG initial.
 - [SCIENCE_FICTION.md](SCIENCE_FICTION.md) — lois imaginaires Q-EUV, Genesis-S, permanence et Vaeloriens (**spoilers majeurs**).
-- [FIN_REVISEE.md](FIN_REVISEE.md) — nouvelle fin, pacte, trahison et cycle divergent (**spoilers majeurs**).
+- [FIN_REVISEE.md](FIN_REVISEE.md) — nouvelle fin, réapparition future, bouclier, guerre et identité du correspondant (**spoilers absolus**).
 - [chapitres/chapitre-01.md](chapitres/chapitre-01.md) — ancien **brouillon à retravailler**, non validé ; aucun autre chapitre n'est encore rédigé.
 
 ## Méthode de rédaction

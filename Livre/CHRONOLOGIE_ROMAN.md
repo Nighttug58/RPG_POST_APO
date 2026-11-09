@@ -36,7 +36,12 @@
 | Itération 52 826 322 | 2026–2082 | Percée de l'immortalité permanente ; négociations et pacte vaelorien |
 | Nouvelle Rupture | Après acquisition et sauvegarde de la formule | Trahison et effacement de la chronologie |
 | Itération 52 826 323 | Nouvel état proche de 2026 | Divergence chaotique, acteurs différents |
-| Renaissance humaine | Plusieurs siècles plus tard | Civilisation reconstruite sans Tugay ni Kübra encore vivants |
+| Reconstruction nouvelle | Vers 2026–2490, cycle 52 826 323 | Plusieurs siècles d'histoire humaine différente ; civilisation avancée vers 2490 |
+| Réapparition de Tugay et Kübra | Vers **2490** (repère éditorial) | Défaut de Rupture ; ils sont physiquement réinsérés et portent des souvenirs fragmentaires |
+| Nouveau Q-EUV et bouclier | Après 2490, durée à déterminer | Théorie sans essai actif, bouclier Qν validé passivement, puis ancrages confinés |
+| Humanité à jeunesse permanente | Après mise en service du bouclier | Accès universel et volontaire à l'ancrage biologique reproductible |
+| Guerre intergalactique | Années suivantes | Découverte terrestre par moyens non Qν ; conflit qui s'étend au-delà de la galaxie |
+| Dernières révélations | Derniers chapitres | Vaeloriens = diaspora humaine ancienne ; premier correspondant = Tugay futur |
 
 ## Repères démographiques et biographiques
 
@@ -54,4 +59,7 @@
 4. Mira, né le **16 septembre 2027**, a **52 ans en mars 2080** : cohérent avec la première procédure de régénération. Ne pas le vieillir par simple saut numérique imprécis.
 5. Les années 2052–2082 gardent leur trame générale, mais les scènes seront ajustées au cas par cas pour éviter des événements sans durée suffisante.
 6. Les Vaeloriens ont **provoqué** les cycles bien avant le Q-EUV terrestre, qui est leur découverte recherchée, non leur cause.
-7. La nouvelle itération mène à une renaissance après plusieurs siècles, pas à une reprise identique de l'aventure.
+7. La nouvelle itération mène à une **renaissance après plusieurs siècles**, puis à la **réapparition physique accidentelle de Tugay et Kübra**. Leur présence tardive ne signifie pas que l'histoire s'est répétée.
+8. Ne pas confondre leur réapparition avec une **naissance au XXVe siècle** ; ils sont conservés par un défaut de la machine Qν. La chronologie de leur couple reste intacte.
+9. Q-EUV reste **inactif** tant que le bouclier n'est pas opérationnel ; le contact extraterrestre devient possible par d'autres canaux que Qν.
+10. Le correspondant de 2079 (cycle 52 826 322) est Tugay futur du **cycle 52 826 323**, par communication hors-cycle : contrôler systématiquement ces deux numéros lors de la rédaction.

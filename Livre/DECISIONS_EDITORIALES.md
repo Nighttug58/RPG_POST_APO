@@ -65,11 +65,13 @@ Développer les conséquences réalistes **à l'échelle sociale**, même si le 
 - **Aucun effet secondaire biologique immédiat ou à long terme** de Genesis-S ou de l'ancrage dans cet univers fictif. Le sacrifice est **matériel, social, moral et existentiel**, pas une maladie inventée après coup.
 - L'ancrage Qν et la boucle finale peuvent faire écho par motifs, mais **il n'a pas créé le mécanisme d'itération, déjà utilisé par les Vaeloriens bien avant sa découverte**.
 
-## 8. Nouvelle fin de roman — décision éditoriale
+## 8. Nouvelle fin — 3e version, décidée dans le projet littéraire
 
-- Remplacer la boucle personnelle éternelle du RPG : les **Vaeloriens ont provoqué 52 826 322 itérations** pour attendre l'immortalité autonome sans dose ultérieure.
-- L'effet papillon rend les trajectoires humaines différentes ; ils ne peuvent pas compter sur un succès identique en recommençant.
-- Ils **visitent la Terre**, promettent la non-agression contre la technique complète ; après transmission, vérification et sauvegarde hors-cycle, **ils trahissent** et relancent la Rupture.
-- **Tugay n'est pas invulnérable au reset**. Son point de vue s'achève avec Kübra ; ses souvenirs ne passent pas au cycle suivant.
-- Le cycle 52 826 323 produit **une autre humanité**, qui met des siècles à se reconstruire sans Tugay ni Kübra encore vivants.
-- Les deux derniers chapitres passent à la troisième personne. Voir [FIN_REVISEE.md](FIN_REVISEE.md).
+- Après la trahison des Vaeloriens, la Rupture déclenche le **cycle 52 826 323**, mais un **défaut de synchronisation** préserve physiquement Tugay et Kübra. Ils réapparaissent **plusieurs siècles plus tard**, vers 2490, dans une humanité **moderne et très avancée** qui s'est reconstruite autrement.
+- Tugay garde des **souvenirs fragmentaires de la méthode de l'immortalité et du danger vaelorien**, et entreprend de rebâtir théoriquement Q-EUV avec des scientifiques et puissances capables de financer une recherche mondiale.
+- **Aucun essai actif Q-EUV avant la mise en place d'un bouclier temporel** qui interdit à la signature Qν de franchir la frontière terrestre ; les phénomènes locaux restent possibles, essais ensuite confinés.
+- Industrie avancée permettant de **reproduire l'ancrage permanent**, accès universel sous consentement ; immortalité biologique réelle, non invulnérabilité.
+- Les Vaeloriens découvrent autrement que par Qν la puissance humaine et engagent une **guerre interstellaire devenue intergalactique**.
+- Révélation : les Vaeloriens sont en fait des **descendants humains de très anciennes itérations**, ayant atteint l'immortalité par traitements répétés et migré vers les étoiles. Des factions ennemies cherchent à maintenir ou casser le cycle.
+- Révélation ultime : **le Vaelorien qui a contacté Tugay dans le cycle 52 826 322 est Tugay lui-même, issu d'un futur du cycle 52 826 323**. Cette causalité extra-chronologique est un paradoxe fermé assumé par les règles imaginaires.
+- Les 48 premiers chapitres, autrefois conçus comme l'épilogue définitif, constituent désormais une **charnière**, et le roman comporte **58 chapitres en 10 parties**. Voir [FIN_REVISEE.md](FIN_REVISEE.md).

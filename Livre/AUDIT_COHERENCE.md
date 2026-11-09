@@ -24,8 +24,8 @@
 | C14 | IMPORTANT | Les Vaeloriens vivent à plusieurs années-lumière mais reçoivent et rejoignent la Terre en quelques années. | Leur **canal Qν non électromagnétique** permet la réception à distance et les « couloirs géométriques » interstellaires, **coûteux à stabiliser**. La détection commence en 2079, les échanges exigent des mois de décodage, le vaisseau est repéré seulement en 2082. Pas de téléportation illimitée. | RÉSOLU dans les règles fictives |
 | C15 | IMPORTANT | Une civilisation contrôlant son étoile devrait en principe avoir des sciences avancées. | Elle est très avancée en énergie et navigation, mais **pas omnisciente** : sa médecine restaure le vivant sans savoir créer l'ancrage permanent autonome. L'innovation de la Terre est **spécialisée**. | RÉSOLU |
 | C16 | NARRATIF | Les Vaeloriens pourraient simplement prendre l'ancrage par la force, ruinant le suspense diplomatique. | Il faut les **conditions d'activation et la coopération des découvreurs** : détruire le cœur et son porteur sans les comprendre n'apporterait pas la méthode. Leurs offres et pressions restent plausibles ; ne pas supposer qu'ils sont pacifiques. | À mettre en scène |
-| C17 | IMPORTANT | Un reset cosmique effacerait aussi le cerveau d'un immortel. | Pas de mémoire de Tugay conservée ; seul le registre vaelorien Qν hors-cycle persiste. | RÉSOLU |
-| C18 | NARRATIF | Comment décrire des siècles après la fin de la voix « je » de Tugay ? | Troisième personne et nouveaux protagonistes aux chapitres 49–50 ; première personne close au 48. | RÉSOLU |
+| C17 | CRITIQUE | Un reset devrait effacer les corps ; comment Tugay et Kübra existent-ils quatre siècles plus tard ? | **Défaut rare du mécanisme vaelorien** : deux personnes préservées temporairement hors-cycle puis réinsérées vers 2490, sans transmettre toute la civilisation. | RÉSOLU par loi fictive |
+| C18 | NARRATIF | Comment Tugay raconte-t-il les siècles où il n'était pas présent ? | Chapitre 49 = **interlude historique à la troisième personne**, puis retour au « je » au chapitre 50 quand Tugay et Kübra réapparaissent. | RÉSOLU |
 | C19 | IMPORTANT | Âges et filiation peuvent dériver avec les ellipses. | Tugay **31 ans en 2026** (~1995) ; mariage ~2023 si maintien des 28 ans du jeu ; **Mira, fils, né le 16 septembre 2027** ; 52 ans en 2080 ; Tugay environ 85 ans chronologiques en 2080 avant régénération. | Sous contrôle chronologique |
 | C20 | NARRATIF | Le retour de l'OCB sur AURORE ressemble à une querelle arbitraire malgré son aide contre les assaillants. | L'OCB a aidé à résoudre une attaque et à retrouver Maya, mais considère le stock AURORE comme **bien collectif** ; Tugay cache B par peur d'une confiscation. Chaque partie a une raison compréhensible. Kübra peut défendre la transparence tout en protégeant le village. | À mettre en scène |
 | C21 | IMPORTANT | « Monde sans frontières » pourrait signifier absence totale de règles ou d'institutions locales. | Distinction entre **libre circulation** et **suppression des administrations**. La fédération européenne harmonise certains droits sans imposer instantanément une uniformité politique ou matérielle mondiale. | RÉSOLU |
@@ -34,11 +34,20 @@
 | C24 | IMPORTANT | Le récit est parfois trop facile et trop rapide. | Tous les grands projets ont une **contrainte déterminante**, une conséquence humaine et une scène de décision : logistique, maintenance, pénuries, désaccords, finance, exposition publique. **Ne pas ajouter d'échec artificiel** aux lois fondamentales fixées (Genesis-S fonctionne sans effet secondaire). | À vérifier chapitre par chapitre |
 
 | C25 | CRITIQUE | Pourquoi les Vaeloriens redémarrent-ils malgré 52 millions de cycles de recherche ? | Ils attendent l'acquisition **vérifiée et archivée hors-cycle**, puis effacent témoins et concurrents. | RÉSOLU |
-| C26 | CRITIQUE | Comment la connaissance survit-elle au reset ? | **Archive Qν d'informations hors-cycle**, sans sauvegarder la vie humaine. | RÉSOLU conceptuellement |
+| C26 | CRITIQUE | Comment conserver une technologie au-delà d'un reset tout en sauvegardant Tugay et Kübra ? | Registre Qν conserve **l'information vaelorienne** ; le couple est une **anomalie indépendante** d'extraction temporelle, rare et non contrôlée. | RÉSOLU par distinction |
 | C27 | IMPORTANT | Contrôler une étoile ne fournit pas l'énergie nécessaire pour recréer un univers. | L'installation **amorce** une transition cosmique propre à la fiction. | RÉSOLU par loi d'univers |
 | C28 | IMPORTANT | Chaos ≠ absence de lois. | Les lois restent stables mais les variations initiales sont amplifiées : destins différents. | RÉSOLU |
-| C29 | CRITIQUE | Immortalité = invulnérabilité cosmique ? | Non ; l'ancrage ne protège que du vieillissement. | RÉSOLU |
-| C30 | NARRATIF | L'épilogue sur des siècles pourrait devenir abstrait. | Suivre de nouveaux personnages et une reconstruction concrète, sans rejouer le Phénix. | À développer |
+| C29 | CRITIQUE | La conservation de Tugay contredit-elle l'absence d'invulnérabilité de son ancrage ? | La survie est causée par un **défaut externe de la machine**, pas par l'immortalité qui n'empêche que le vieillissement. | RÉSOLU |
+| C30 | NARRATIF | Quel intérêt à raconter des siècles de reconstruction si le héros est absent ? | Interlude incarné avec nouvelle société puis **réintroduction du couple** après l'ellipse ; sa relation et ses choix ont désormais une seconde vie. | À développer |
+
+| C31 | CRITIQUE | Comment bloquer toute interaction Q-EUV avec la Terre puis s'en servir pour rendre la population immortelle ? | Bloquer **les transmissions Qν à travers la frontière**, pas les interactions Q-EUV locales à l'intérieur. | RÉSOLU |
+| C32 | CRITIQUE | Comment vérifier le bouclier sans essais Q-EUV qui feraient repérer la Terre ? | Étude **passive** des signatures naturelles et contrôle de phase sans émission active, puis essais Q-EUV seulement après protection fonctionnelle. | RÉSOLU en science-fiction |
+| C33 | IMPORTANT | Si le bouclier est parfait, comment les Vaeloriens savent-ils que la Terre a maîtrisé l'immortalité ? | **Observation non-Qν** de l'expansion humaine, renseignement et surveillance classique ; aucun signal Q-EUV ne fuit. | RÉSOLU |
+| C34 | IMPORTANT | Comment produire des milliards d'ancrages quand le premier prototype était unique et détruit ? | Le cœur unique était un **prototype de 2080**. Plusieurs siècles plus tard, l'industrie avancée sait fabriquer des cœurs standardisés. | RÉSOLU |
+| C35 | CRITIQUE | Des Vaeloriens humains déjà immortels cherchent une immortalité qu'ils n'auraient pas ? | Immortalité **entretenue par traitements répétés**, différente de l'ancrage **autonome** sans nouvelle dose. | RÉSOLU |
+| C36 | CRITIQUE | Un Tugay futur peut-il avoir contacté son moi du cycle précédent ? | Canal et archive **extra-chronologiques**, donc boucle causale fermée entre cycles ; rôle de correspondant distinct de l'ordre de trahison. | Paradoxe fictif assumé |
+| C37 | IMPORTANT | « Guerre intergalactique » alors que les deux puissances sont dans la Voie lactée ? | Commence **interstellaire**, puis s'étend à **plusieurs galaxies** à travers les couloirs de transport. | RÉSOLU |
+| C38 | IMPORTANT | « Tout le monde immortel » signifie-t-il une conversion forcée de chaque humain ? | **Accès universel et consentement**, non obligation ; tous bénéficient de la possibilité, certains peuvent refuser. | RÉSOLU |
 
 ## Ajustements de rythme / intrigue recommandés
 
@@ -63,6 +72,7 @@
 - Les Vaeloriens doivent avoir **une raison de contacter** les chercheurs plutôt que d'envoyer un ultimatum : le procédé de permanence demande un savoir que l'on ne peut pas arracher simplement.
 - Tugay lutte pour protéger la Terre, mais son **secret envers Kübra et sa rupture avec Sofia** produisent un prix affectif que son immortalité ne peut corriger.
 - Le lecteur doit pouvoir comprendre sa peur **sans être forcé de juger ses décisions justifiées**.
+- Quand Tugay et Kübra arrivent au XXVe siècle, donner à **Kübra une initiative déterminante** : alliance scientifique ou diplomatique, éthique d'accès et protection du couple. Elle ne doit pas être seulement témoin du génie de Tugay.
 
 ## Contrôle obligatoire avant chaque chapitre
 
@@ -72,6 +82,6 @@
 4. **Et Kübra ?** Présence, choix ou conséquences : aucune disparition longue sans explication.
 5. **Quel lien causal ?** Chaque grande découverte découle d'un événement précédent et prépare quelque chose.
 6. **Quels personnages ?** Identités, relations et âges exacts.
-7. **Quel suspense ?** Ne jamais révéler l'origine vaelorienne des itérations ou leur nombre avant les derniers chapitres.
+7. **Quel suspense ?** La responsabilité vaelorienne et le nombre de cycles arrivent au 46 ; leur origine humaine au 57 ; le correspondant futur Tugay au 58. Ne pas confondre l'ordre des révélations.
 8. **Qu'a-t-on changé ?** Maintenir les divergences par rapport au RPG dans les documents éditoriaux.
 9. **Quel statut du texte ?** Tout chapitre non approuvé reste \`brouillon\`.
