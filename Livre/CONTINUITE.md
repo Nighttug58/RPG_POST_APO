@@ -11,7 +11,7 @@
 
 ## Référence d'audit
 
-Avant tout nouveau chapitre, consulter [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) et distinguer corrections **résolues**, problèmes **à mettre en scène** et mystères **volontairement ouverts**. Les 48 chapitres restent le plan directeur.
+Avant tout nouveau chapitre, consulter [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) et distinguer corrections **résolues**, problèmes **à mettre en scène** et mystères **volontairement ouverts**. Les 50 chapitres restent le plan directeur.
 
 ## Nouvelle chronologie unique
 
