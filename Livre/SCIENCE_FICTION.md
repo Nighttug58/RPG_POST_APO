@@ -75,8 +75,13 @@
 
 **Tension centrale :** le traitement est biologiquement sûr, mais ses conditions d'accès, sa monopolisation et ses usages pourraient provoquer des dommages sociaux. Présenter des débats réels entre personnages, sans décréter qu'une interdiction universelle est automatiquement juste.
 
-## 6. Règles finales
+## 6. Le mécanisme vaelorien
 
-- Les Vaeloriens **ne sont pas établis comme créateurs de la boucle**.
-- Une signature Qν durable de Tugay peut **rappeler visuellement ou narrativement** l'anomalie temporelle de la fin, mais la causalité reste indécidable.
-- Le système des itérations annonce « **52 826 323** », sans explication vérifiée. Aucun sauvetage final : la boucle continue à jamais.
+- Les Vaeloriens amorcent une **transition cosmique chrono-géométrique fictive** permettant de réinitialiser l'univers vers un état proche de 2026. Leur ingénierie stellaire en est le déclencheur, sans fournir directement l'énergie de recréer physiquement tout un univers.
+- Un **registre Qν hors-cycle** préserve des données d'expérience et la formule de l'ancrage, **pas les vies ni les souvenirs humains**.
+- Les conditions initiales ne se reproduisent pas avec une précision infinie : des divergences microscopiques s'amplifient selon le chaos, donnant des histoires imprévisibles malgré des lois identiques.
+- **Itération 52 826 322 :** la première percée humaine de l'immortalité permanente sans rappel. Avant d'avoir vérifié la connaissance, les Vaeloriens n'osent pas reset ; après acquisition et archivage, leurs dirigeants trahissent le pacte de non-agression pour éliminer les témoins et la concurrence.
+- La stabilité biologique de Tugay le préserve du vieillissement, mais **pas** de l'effacement cosmique. Les humains reconstruisent différemment pendant des siècles en **itération 52 826 323**.
+- Ne révéler les responsabilités vaeloriennes et le nombre de cycles **qu'aux chapitres 46–48**. Les chapitres 49–50 adoptent la troisième personne.
+
+Ces lois Qν et le reset cosmique sont des inventions propres au roman, et non de la physique réelle.

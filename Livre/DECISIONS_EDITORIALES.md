@@ -63,11 +63,13 @@ Développer les conséquences réalistes **à l'échelle sociale**, même si le 
 - **Sacrifice personnel :** Tugay consent à porter en lui une signature Qν durable qui pourrait rendre sa localisation détectable aux Vaeloriens et attirer leur intérêt sur lui ; il s'éloigne de ceux qu'il voulait protéger.
 - **Sacrifice relationnel et public :** secret imposé à Kübra, conflit avec Mira/Lina, perte de confiance de Sofia, abandon possible du droit d'être un simple retraité ; ses décisions restent contestables.
 - **Aucun effet secondaire biologique immédiat ou à long terme** de Genesis-S ou de l'ancrage dans cet univers fictif. Le sacrifice est **matériel, social, moral et existentiel**, pas une maladie inventée après coup.
-- L'ancrage Qν et la boucle finale peuvent faire écho par motifs, mais **ne pas établir comme fait qu'il a causé la boucle**.
+- L'ancrage Qν et la boucle finale peuvent faire écho par motifs, mais **il n'a pas créé le mécanisme d'itération, déjà utilisé par les Vaeloriens bien avant sa découverte**.
 
-## 8. Fin de roman
+## 8. Nouvelle fin de roman — décision éditoriale
 
-- Retour de l'univers au début de la Rupture ; Tugay conserve ses souvenirs du cycle précédent.
-- Révélation de l'**itération 52 826 323** et d'une succession inconcevable de vies.
-- Il ne découvre jamais l'origine certaine du mécanisme et n'en sort **jamais**.
-- Le roman termine sur une scène intime avec Kübra, pas sur un rapport scientifique ; le dernier choix humain de Tugay a du poids précisément parce que le cycle continuera.
+- Remplacer la boucle personnelle éternelle du RPG : les **Vaeloriens ont provoqué 52 826 322 itérations** pour attendre l'immortalité autonome sans dose ultérieure.
+- L'effet papillon rend les trajectoires humaines différentes ; ils ne peuvent pas compter sur un succès identique en recommençant.
+- Ils **visitent la Terre**, promettent la non-agression contre la technique complète ; après transmission, vérification et sauvegarde hors-cycle, **ils trahissent** et relancent la Rupture.
+- **Tugay n'est pas invulnérable au reset**. Son point de vue s'achève avec Kübra ; ses souvenirs ne passent pas au cycle suivant.
+- Le cycle 52 826 323 produit **une autre humanité**, qui met des siècles à se reconstruire sans Tugay ni Kübra encore vivants.
+- Les deux derniers chapitres passent à la troisième personne. Voir [FIN_REVISEE.md](FIN_REVISEE.md).

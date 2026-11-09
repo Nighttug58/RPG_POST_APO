@@ -6,23 +6,24 @@
 
 ## Format retenu
 
-- **48 chapitres**, répartis en **8 parties**.
-- Cible indicative : **105 000–130 000 mots** (environ 350–450 pages selon la maquette).
-- Un récit littéraire en « je », non une transcription du RPG ni un résumé de journal.
+- **50 chapitres**, répartis en **8 parties**.
+- Cible indicative : **112 000–140 000 mots** (environ 350–450 pages selon la maquette).
+- Une narration « je » de Tugay jusqu'au chapitre 48, puis une chronique à la troisième personne (chapitres 49–50).
 - La catastrophe initiale survient **en 2026** ; la reconstruction mène aux décennies suivantes.
 - **Kübra est la seconde figure centrale** du roman et une actrice autonome des décisions.
 - Le volet financier est simplifié : **PhenixCoin uniquement** ; aucune création de RuptureCoin.
-- Immortalité, contact extraterrestre et boucle temporelle sont approfondis ; **révélation de la boucle réservée à la fin**.
+- Immortalité et contact extraterrestre approfondis ; révélation de **52 millions d'itérations vaeloriennes**, pacte de non-agression trahi et renaissance humaine après des siècles.
 - Les détails scientifiques Q-EUV sont des **lois propres à la fiction**, pas des affirmations sur la physique réelle.
 
 ## Fichiers éditoriaux
 
-- [PLAN.md](PLAN.md) — sommaire commenté et développement des 48 chapitres.
+- [PLAN.md](PLAN.md) — sommaire commenté et développement des 50 chapitres.
 - [DECISIONS_EDITORIALES.md](DECISIONS_EDITORIALES.md) — modifications demandées par Tugay et choix narratifs.
 - [CONTINUITE.md](CONTINUITE.md) — bible des personnages et des faits, **avec spoilers**.
 - [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) — **24 incohérences et risques narratifs** détectés, corrections et contrôle obligatoire avant chaque chapitre.
 - [CHRONOLOGIE_ROMAN.md](CHRONOLOGIE_ROMAN.md) — repères calendaires depuis 2026 ; adaptations par rapport au RPG initial.
 - [SCIENCE_FICTION.md](SCIENCE_FICTION.md) — lois imaginaires Q-EUV, Genesis-S, permanence et Vaeloriens (**spoilers majeurs**).
+- [FIN_REVISEE.md](FIN_REVISEE.md) — nouvelle fin, pacte, trahison et cycle divergent (**spoilers majeurs**).
 - [chapitres/chapitre-01.md](chapitres/chapitre-01.md) — ancien **brouillon à retravailler**, non validé ; aucun autre chapitre n'est encore rédigé.
 
 ## Méthode de rédaction

@@ -1,8 +1,8 @@
-# RUPTURE — Plan du roman (48 chapitres)
+# RUPTURE — Plan du roman (50 chapitres)
 
-**Architecture révisée : 8 parties, 48 chapitres.** Cible indicative : **105 000–130 000 mots** (~2 200–2 700 mots/chapitre, certains chapitres charnières plus longs), soit un roman d'environ 350–450 pages selon la mise en page.
+**Architecture révisée : 8 parties, 50 chapitres.** Cible indicative : **112 000–140 000 mots** (~2 200–2 700 mots/chapitre, certains chapitres charnières plus longs), soit un roman d'environ 350–450 pages selon la mise en page.
 
-**Canon littéraire :** Rupture en 2026 ; Kübra est une co-protagoniste ; attaque initiale éclaircie par l'enquête de l'OCB ; PhenixCoin seul ; Genesis-S et ancrage permanent distincts ; contact Qν / Vaeloriens développé ; boucle éternelle comme révélation finale.
+**Canon littéraire :** Rupture en 2026 ; Kübra est une co-protagoniste ; attaque initiale éclaircie par l'enquête de l'OCB ; PhenixCoin seul ; Genesis-S et ancrage permanent distincts ; contact Qν / Vaeloriens développé ; itérations vaeloriennes révélées, pacte trahi et renaissance humaine des siècles plus tard.
 
 ## PARTIE I — DEUX CONTRE LE MONDE (chapitres 1–8)
 
@@ -70,11 +70,13 @@
 44. **Le soleil des Vaeloriens** — Civilisation qui pilote son étoile, communication par couloirs chrono-géométriques limités et coûteux, arrivée d'un vaisseau vers 2082 ; inégalité technologique et manœuvres diplomatiques.
 45. **Ils veulent l'ancre** — Les Vaeloriens exigent **la permanence de Tugay sans nouvelles injections**, pas seulement le sérum ; ils ne peuvent pas simplement la saisir sans détruire son mécanisme. Offres, pression, risques pour la Terre et désaccords familiaux.
 
-## PARTIE VIII — L'ÉTERNEL RECOMMENCEMENT (chapitres 46–48)
+## PARTIE VIII — LA DERNIÈRE RUPTURE (chapitres 46–50)
 
-46. **L'univers à rebours** — Cataclysme de l'espace-temps, disparition du monde reconstruit et de la vie vécue avec Mira ; nouvelle Rupture.
-47. **Cinquante-deux millions de fois** — Mémoire de Tugay persistante, fragments contradictoires, message de l'itération 52 826 323 et prise de conscience de l'infini.
-48. **Après la nuit, encore** — D'innombrables tentatives pour sortir du cycle ; aucune ne réussit. La toute dernière scène revient à Kübra. **Fin sans échappatoire ni cause expliquée.**
+46. **Cinquante-deux millions de mondes** — Les Vaeloriens révèlent avoir provoqué 52 826 322 itérations pour obtenir l'immortalité permanente. Les trajectoires humaines divergent à cause du chaos ; le savoir vaelorien subsiste dans une archive Qν hors-cycle.
+47. **Le pacte des étoiles** — La délégation vaelorienne descend sur Terre et promet officiellement la non-agression contre la recette complète de l'ancrage permanent. Négociations humaines, réticences de Kübra, Tugay et Sofia, transfert vérifié.
+48. **La dernière Rupture** — La technologie est sauvegardée hors-cycle, les Vaeloriens trahissent et provoquent une nouvelle Rupture. Dernière scène intime de Tugay et Kübra ; **fin du « je »**.
+49. **L'âge des cendres** — Itération 52 826 323, événements entièrement différents ; des générations de nouveaux survivants peinent à reconstruire. **Troisième personne**.
+50. **Ceux qui rallument la lumière** — Plusieurs siècles plus tard, nouvelle civilisation humaine sans Tugay ni Kübra encore vivants. Fin tragique pour les héros, pleine d'espoir pour l'humanité.
 
 ## Exigences de fabrication
 
@@ -82,5 +84,5 @@
 - **Couple :** scènes communes régulières, gestes tendres, conflits justifiés, décisions partagées et individualité de Kübra dans chacune des huit parties.
 - **Réalisme interne :** pénuries, délais, logistique, politique, financement, conséquence concrète. Les pouvoirs quantiques sont imaginaires mais obéissent à leurs propres règles. **Contrôler avant chaque chapitre les points de [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md)**.
 - **Enquête :** ne pas confondre les raiders avec l'OCB ; l'arrestation par l'OCB doit être un déclencheur narratif crédible de la recherche de la keycard.
-- **Mystère :** les Vaeloriens sont intéressés par l'immortalité autonome ; **rien ne prouve qu'ils aient créé la boucle**.
-- **Fin :** boucle éternelle et impossibilité de sortir, pas d'épilogue rassurant qui annulerait le tragique.
+- **Mystère :** garder secrète la responsabilité vaelorienne jusqu'au chapitre 46, ainsi que le nombre de cycles.
+- **Fin :** renaissance d'une autre humanité au bout de plusieurs siècles, sans ses anciens héros. Voir [FIN_REVISEE.md](FIN_REVISEE.md).

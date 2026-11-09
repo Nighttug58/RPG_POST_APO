@@ -71,16 +71,18 @@ Avant tout nouveau chapitre, consulter [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) 
 - Tugay veut empêcher qu'un avantage d'immortalité puisse servir à dominer l'humanité et redoute une application terrestre trop rapide sans gouvernance. Ses mesures — fermeture, secret, exclusivité — provoquent des désaccords ; ne pas les présenter comme objectivement bonnes par principe.
 - Source technique et dramaturgie : SCIENCE_FICTION.md.
 
-### Boucle et conclusion
+### Nouvelle fin — pacte, trahison, renaissance
 
-- Après contact, l'univers revient au début de la Rupture.
-- Un message intérieur annonce **itération 52 826 322 terminée ; itération 52 826 323 engagée**.
-- Tugay conserve les souvenirs du cycle connu et des fragments d'autres versions ; personne ne prouve la cause, y compris les Vaeloriens.
-- **Aucune sortie possible.** Le roman s'achève sur Tugay retrouvant Kübra au commencement, sans casser la boucle.
+- **Itération 52 826 322 :** cycle principal de Tugay, de 2026 à 2082. Les Vaeloriens ont provoqué les Ruptures depuis plus de 52 millions de cycles et conservé leurs résultats dans un registre Qν hors-cycle.
+- L'humanité a enfin découvert l'ancrage biologique permanent sans sérum répété. Les Vaeloriens **n'osent pas réinitialiser avant d'avoir acquis la formule**, car les trajectoires humaines chaotiques ne se reproduisent jamais exactement.
+- Ils **visitent la Terre** et promettent officiellement la **non-agression** contre la connaissance ; celle-ci est transmise, vérifiée et sauvegardée hors-cycle.
+- Les dirigeants vaeloriens **trahissent l'accord**, relancent une Rupture et effacent l'histoire connue. L'immortalité de Tugay empêche le vieillissement, **pas le reset cosmique**.
+- Tugay et Kübra sont ensemble dans leurs derniers instants conscients. **Le récit « je » s'arrête au chapitre 48.**
+- **Itération 52 826 323 :** des événements radicalement différents mènent, après plusieurs siècles, à une civilisation reconstruite par des inconnus ; Tugay et Kübra ne sont plus de ce monde. **Chapitres 49–50 à la troisième personne**. Voir [FIN_REVISEE.md](FIN_REVISEE.md).
 
 ## Contrat narratif
 
-- Tugay n'entend pas les pensées des autres ; Kübra se révèle par la parole, les décisions, les gestes et ses confrontations.
+- Jusqu'au chapitre 48, Tugay n'entend pas les pensées des autres ; Kübra se révèle par la parole, les décisions et les gestes. Les chapitres 49–50 changent explicitement de narrateur.
 - Une hypothèse d'un personnage n'est jamais promue en vérité par le narrateur sans preuve.
 - Éviter les pages de chiffres, les tableaux de stocks, le jargon non expliqué, les dialogues qui servent uniquement d'exposition.
 - Révéler AURORE progressivement ; réserver l'explication Qν détaillée aux parties ÉTERNITÉ / Vaeloriens ; ne pas annoncer la boucle au début.

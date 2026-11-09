@@ -33,7 +33,10 @@
 | ÉTERNITÉ | 2079–2080 | Après travaux de recherche préparatoires, Q-EUV, Genesis-S et observation accélérée fictive |
 | Controverse Genesis-S | 2080–2082 | Protection de l'humanité, monopole et conflit familial |
 | Vaeloriens | Signaux dès 2079 ; vaisseau vers 2082 | Détection Qν, messages mal traduits, couloirs spatio-temporels coûteux |
-| Boucle | Dénouement | Univers remis à l'origine ; itération 52 826 323 |
+| Itération 52 826 322 | 2026–2082 | Percée de l'immortalité permanente ; négociations et pacte vaelorien |
+| Nouvelle Rupture | Après acquisition et sauvegarde de la formule | Trahison et effacement de la chronologie |
+| Itération 52 826 323 | Nouvel état proche de 2026 | Divergence chaotique, acteurs différents |
+| Renaissance humaine | Plusieurs siècles plus tard | Civilisation reconstruite sans Tugay ni Kübra encore vivants |
 
 ## Repères démographiques et biographiques
 
@@ -50,4 +53,5 @@
 3. Tugay a **31 ans au début du roman** (transposition de son âge du jeu), donc naît approximativement vers 1995 ; préciser la date exacte uniquement si nécessaire. Ses âges chronologiques tardifs doivent découler de 2026.
 4. Mira, né le **16 septembre 2027**, a **52 ans en mars 2080** : cohérent avec la première procédure de régénération. Ne pas le vieillir par simple saut numérique imprécis.
 5. Les années 2052–2082 gardent leur trame générale, mais les scènes seront ajustées au cas par cas pour éviter des événements sans durée suffisante.
-6. Ne pas expliquer l'origine de la Rupture par le dispositif Q-EUV : la **boucle reste mystérieuse**. Les hypothèses des personnages ne sont pas des preuves.
+6. Les Vaeloriens ont **provoqué** les cycles bien avant le Q-EUV terrestre, qui est leur découverte recherchée, non leur cause.
+7. La nouvelle itération mène à une renaissance après plusieurs siècles, pas à une reprise identique de l'aventure.

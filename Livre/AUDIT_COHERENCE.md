@@ -24,14 +24,21 @@
 | C14 | IMPORTANT | Les Vaeloriens vivent à plusieurs années-lumière mais reçoivent et rejoignent la Terre en quelques années. | Leur **canal Qν non électromagnétique** permet la réception à distance et les « couloirs géométriques » interstellaires, **coûteux à stabiliser**. La détection commence en 2079, les échanges exigent des mois de décodage, le vaisseau est repéré seulement en 2082. Pas de téléportation illimitée. | RÉSOLU dans les règles fictives |
 | C15 | IMPORTANT | Une civilisation contrôlant son étoile devrait en principe avoir des sciences avancées. | Elle est très avancée en énergie et navigation, mais **pas omnisciente** : sa médecine restaure le vivant sans savoir créer l'ancrage permanent autonome. L'innovation de la Terre est **spécialisée**. | RÉSOLU |
 | C16 | NARRATIF | Les Vaeloriens pourraient simplement prendre l'ancrage par la force, ruinant le suspense diplomatique. | Il faut les **conditions d'activation et la coopération des découvreurs** : détruire le cœur et son porteur sans les comprendre n'apporterait pas la méthode. Leurs offres et pressions restent plausibles ; ne pas supposer qu'ils sont pacifiques. | À mettre en scène |
-| C17 | IMPORTANT | L'histoire dit « seul Tugay se souvient », mais une réinitialisation universelle devrait aussi effacer son cerveau. | Faire de cette exception **une anomalie observable, non une explication**. Une mémoire pourrait exister hors des variables du monde, une archive pourrait persister ou l'ancrage pourrait être lié : **aucune de ces idées n'est établie**. Le mystère reste intact. | Intentionnellement irrésolu |
-| C18 | NARRATIF | Comment un roman à la première personne peut-il raconter une boucle sans jamais en sortir ni être écrit après celle-ci ? | La voix « je » est **la conscience vécue de Tugay**, pas nécessairement un manuscrit fini à l'extérieur de la boucle. Le livre autobiographique *Rupture* existe **à l'intérieur** de l'intrigue, mais le roman que lit le lecteur ne prétend pas être cette édition. | RÉSOLU formellement |
+| C17 | IMPORTANT | Un reset cosmique effacerait aussi le cerveau d'un immortel. | Pas de mémoire de Tugay conservée ; seul le registre vaelorien Qν hors-cycle persiste. | RÉSOLU |
+| C18 | NARRATIF | Comment décrire des siècles après la fin de la voix « je » de Tugay ? | Troisième personne et nouveaux protagonistes aux chapitres 49–50 ; première personne close au 48. | RÉSOLU |
 | C19 | IMPORTANT | Âges et filiation peuvent dériver avec les ellipses. | Tugay **31 ans en 2026** (~1995) ; mariage ~2023 si maintien des 28 ans du jeu ; **Mira, fils, né le 16 septembre 2027** ; 52 ans en 2080 ; Tugay environ 85 ans chronologiques en 2080 avant régénération. | Sous contrôle chronologique |
 | C20 | NARRATIF | Le retour de l'OCB sur AURORE ressemble à une querelle arbitraire malgré son aide contre les assaillants. | L'OCB a aidé à résoudre une attaque et à retrouver Maya, mais considère le stock AURORE comme **bien collectif** ; Tugay cache B par peur d'une confiscation. Chaque partie a une raison compréhensible. Kübra peut défendre la transparence tout en protégeant le village. | À mettre en scène |
 | C21 | IMPORTANT | « Monde sans frontières » pourrait signifier absence totale de règles ou d'institutions locales. | Distinction entre **libre circulation** et **suppression des administrations**. La fédération européenne harmonise certains droits sans imposer instantanément une uniformité politique ou matérielle mondiale. | RÉSOLU |
-| C22 | IMPORTANT | Absence d'hypothèse solide sur la cause initiale de la Rupture peut être confondue avec preuve de causalité Q-EUV. | Cause de la Rupture et de la boucle **non révélées** ; le fait que Q-EUV et Vaeloriens soient liés à des anomalies temporelles n'implique pas qu'ils sont à l'origine du cycle. | Intentionnellement irrésolu |
+| C22 | IMPORTANT | Le Q-EUV terrestre ne peut causer une boucle qui le précède. | Les Vaeloriens ont instauré les cycles ; Q-EUV est le résultat rare cherché. | RÉSOLU |
 | C23 | NARRATIF | L'auteur risquerait d'utiliser les archives tardives comme des sources Git alors qu'elles n'y sont pas. | Archives Git détaillées **jusqu'à J91** ; suite racontée **dans la conversation**, qui devient source de travail. Ne pas inventer de journaux Git pour la suite. | RÉSOLU méthodologiquement |
 | C24 | IMPORTANT | Le récit est parfois trop facile et trop rapide. | Tous les grands projets ont une **contrainte déterminante**, une conséquence humaine et une scène de décision : logistique, maintenance, pénuries, désaccords, finance, exposition publique. **Ne pas ajouter d'échec artificiel** aux lois fondamentales fixées (Genesis-S fonctionne sans effet secondaire). | À vérifier chapitre par chapitre |
+
+| C25 | CRITIQUE | Pourquoi les Vaeloriens redémarrent-ils malgré 52 millions de cycles de recherche ? | Ils attendent l'acquisition **vérifiée et archivée hors-cycle**, puis effacent témoins et concurrents. | RÉSOLU |
+| C26 | CRITIQUE | Comment la connaissance survit-elle au reset ? | **Archive Qν d'informations hors-cycle**, sans sauvegarder la vie humaine. | RÉSOLU conceptuellement |
+| C27 | IMPORTANT | Contrôler une étoile ne fournit pas l'énergie nécessaire pour recréer un univers. | L'installation **amorce** une transition cosmique propre à la fiction. | RÉSOLU par loi d'univers |
+| C28 | IMPORTANT | Chaos ≠ absence de lois. | Les lois restent stables mais les variations initiales sont amplifiées : destins différents. | RÉSOLU |
+| C29 | CRITIQUE | Immortalité = invulnérabilité cosmique ? | Non ; l'ancrage ne protège que du vieillissement. | RÉSOLU |
+| C30 | NARRATIF | L'épilogue sur des siècles pourrait devenir abstrait. | Suivre de nouveaux personnages et une reconstruction concrète, sans rejouer le Phénix. | À développer |
 
 ## Ajustements de rythme / intrigue recommandés
 
@@ -65,6 +72,6 @@
 4. **Et Kübra ?** Présence, choix ou conséquences : aucune disparition longue sans explication.
 5. **Quel lien causal ?** Chaque grande découverte découle d'un événement précédent et prépare quelque chose.
 6. **Quels personnages ?** Identités, relations et âges exacts.
-7. **Quel suspense ?** Ne jamais annoncer la boucle avant les derniers chapitres.
+7. **Quel suspense ?** Ne jamais révéler l'origine vaelorienne des itérations ou leur nombre avant les derniers chapitres.
 8. **Qu'a-t-on changé ?** Maintenir les divergences par rapport au RPG dans les documents éditoriaux.
 9. **Quel statut du texte ?** Tout chapitre non approuvé reste \`brouillon\`.
