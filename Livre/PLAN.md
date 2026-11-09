@@ -6,7 +6,7 @@
 
 ## PARTIE I — DEUX CONTRE LE MONDE (chapitres 1–8)
 
-1. **Après la nuit** — Tugay et Kübra fuient le premier camp attaqué. Peur, culpabilité, solidarité, blessures psychologiques ; la forêt et le ruisseau. **Kübra prend une part active aux décisions.**
+1. **Après la nuit** — Trois semaines après la rupture d'octobre 2026, Tugay et Kübra fuient le premier camp attaqué. Dans la forêt, Kübra prend une décision qui les aide à survivre ; un détail du portefeuille noir est semé sans expliquer sa fonction.
 2. **L'eau et le silence** — Abri discret, eau non potable, canard capturé, premier échec d'allumage ; deux sensibilités confrontées à l'urgence.
 3. **La première flamme** — À 05h00, coopération autour des archets ; 05h20, feu durable, repas partagé ; la tendresse dans l'épuisement.
 4. **Les maisons silencieuses** — Chercher un récipient, s'assurer que les lieux sont inoccupés ; peur des autres humains et premières limites.
@@ -31,10 +31,10 @@
 17. **Cent kilos de planches** — Tugay, Nicolas et David rencontrent Samuel Rochat ; troc et dépôt de maintenance.
 18. **Les cercles blancs** — CB-17, secteur 06, cartes, rumeurs de surveillance.
 19. **Une femme nommée Isabelle** — Premiers pourparlers avec l'OCB ; ni confiance aveugle ni hostilité automatique.
-20. **Sous nos pieds** — R-0, André Vuillemin, douze survivants ; un sous-sol plus vaste que le village.
+20. **Sous nos pieds** — R-0, André Vuillemin, douze survivants ; la découverte d'une ancienne infrastructure de continuité civile explique comment l'OCB existe si peu de temps après la catastrophe.
 21. **La ferme d'AURORE** — Jacques Perrin, matériel énergétique, compartiment B inaccessible faute de carte.
-22. **Les hommes de la première nuit** — L'OCB arrête les assaillants du tout premier camp ; enquête, motivations humaines, trace précise du portefeuille disparu.
-23. **La carte de Maya** — L'arrestation déclenche une expédition au premier camp ; boîte, portefeuille, Mathieu Dutoit, carte bleue ACCÈS B, nom de Maya Vuillemin.
+22. **Les hommes de la première nuit** — L'OCB arrête les assaillants du premier camp ; leurs témoignages racontent aussi le passage ultérieur d'un récupérateur distinct, ce qui mène à la piste du portefeuille.
+23. **La carte de Maya** — Après les arrestations, retour au camp et découverte de la boîte sans portefeuille ; recherche de Mathieu Dutoit, détenteur du portefeuille noir, récupération de la carte bleue ACCÈS B liée à Maya Vuillemin.
 24. **Ce que cache la porte B** — Machines-outils, module P, réserves et logs d'accès inexpliqués ; secret risquant de diviser les alliés.
 
 ## PARTIE IV — LE PHÉNIX SE RELÈVE (chapitres 25–32)
@@ -43,9 +43,9 @@
 26. **La paix qui coûte** — Accusations de l'OCB, risque d'affrontement, accords de Lausanne ; Kübra reproche à Tugay certains secrets.
 27. **Ici Radio Lausanne** — Appels, La Sallaz, voyageurs, villages partenaires, premières connexions internationales.
 28. **Mira** — Grossesse de Kübra et naissance du fils en septembre 2027 ; nouvelles fragilités et responsabilités parentales.
-29. **Les rails retrouvés** — Élodie Marchand, chemin de fer jusqu'à Annecy, mobilité, nouveaux métiers.
+29. **Les rails retrouvés** — Élodie Marchand, chantier par tronçons, caténaires, essais difficiles et chemin de fer jusqu'à Annecy ; les premiers voyages restent espacés.
 30. **L'énergie du Léman** — Hydroélectricité, antennes, LÉMAN-COM, terminaux lourds et autonomie régionale.
-31. **Trente-cinq mille habitants** — Logements, écoles, soins, travaux, marchés, société renaissante.
+31. **Trente-cinq mille habitants** — Accueil de réfugiés et fusion de communautés existantes, restauration des quartiers, logements, écoles, soins et travail ; la croissance ne vient pas des seules naissances.
 32. **Le Franc lémanique** — Fin du troc, banque, règles d'émission, croissance et inégalités.
 
 ## PARTIE V — LA VIE APRÈS LA VICTOIRE (chapitres 33–37)
@@ -53,22 +53,22 @@
 33. **Le monde reprend forme** — Suisse et Europe reconstruites, industrie, véhicules électriques, avions régionaux et bateaux ; institutions et libre circulation.
 34. **L'homme qui refusa le pouvoir** — Élection européenne, Tugay refuse la candidature, retraite, retour aux plaisirs ordinaires avec Kübra.
 35. **Rupture, le livre** — Écrire les mémoires, souvenirs de Kübra, publication, tournée internationale et rencontres.
-36. **L'envol de PhenixCoin** — Investissement, risque accepté, hausse extraordinaire, puis vente progressive et **profits réellement encaissés** ; aucune monnaie concurrente.
+36. **L'envol de PhenixCoin** — Achat initial de PHX, vertige de la valorisation, puis vente échelonnée avec impact sur le prix et **plusieurs milliards effectivement encaissés** ; aucune monnaie concurrente.
 37. **Ce que peut acheter l'argent** — Fondations, projets dans les pays en reconstruction ; décision de financer une recherche capable de vaincre le vieillissement.
 
 ## PARTIE VI — LE PRIX DE L'ÉTERNITÉ (chapitres 38–42)
 
-38. **La lumière impossible** — Institut scientifique secret, Sofia Keller, système fictif Q-EUV et Genesis-S ; premières difficultés.
+38. **La lumière impossible** — Institut financé grâce aux profits PHX, Sofia Keller, recherche préparatoire déjà avancée ; percée Genesis-S en un an grâce au Q-EUV fictif et à sa tomographie de trajectoires biologiques.
 39. **L'écho qui précède la cause** — Tests Qν, signaux anormaux, laboratoire qui soupçonne un observateur extérieur ; tension autour du secret.
-40. **Retrouver vingt-cinq ans** — Consentement et rajeunissement de Kübra, Tugay, Mira et Lina ; scènes humaines, question du temps partagé.
+40. **Retrouver vingt-cinq ans** — Validation fictionnelle des effets à long terme, consentement distinct de Kübra, Tugay, Mira et Lina ; scènes humaines, question du temps partagé.
 41. **L'ancre et le sacrifice** — Un cœur Q-EUV unique consommé pour stabiliser **Tugay à 25 ans à vie**, sans nouvelles doses ; il devient une signature détectable et assume des sacrifices matériels et relationnels.
 42. **Le droit de vieillir** — Risques d'une immortalité mondiale, pouvoir, générations, surpopulation, accès équitable ; Tugay veut verrouiller Genesis-S, famille et scientifiques résistent.
 
 ## PARTIE VII — CEUX QUI TIENNENT UNE ÉTOILE (chapitres 43–45)
 
-43. **Le premier langage** — Séquence détaillée : détection du champ Qν par les Vaeloriens, nombres et géométrie, traduction imparfaite, premières réponses humaines.
-44. **Le soleil des Vaeloriens** — Civilisation qui pilote son étoile, vaisseau aux confins du système solaire, déséquilibre technologique et manœuvres diplomatiques.
-45. **Ils veulent l'ancre** — Ils réclament **la permanence de Tugay sans injections répétées**, pas simplement Genesis-S ; offres, pression et tentatives de Tugay pour préserver la Terre.
+43. **Le premier langage** — Reconstitution des messages commencés en 2079 : signature Qν détectée à l'aide des interféromètres stellaires vaeloriens, nombres et géométrie, traductions trompeuses, premières réponses humaines ; le récit révèle enfin ce que Tugay cachait.
+44. **Le soleil des Vaeloriens** — Civilisation qui pilote son étoile, communication par couloirs chrono-géométriques limités et coûteux, arrivée d'un vaisseau vers 2082 ; inégalité technologique et manœuvres diplomatiques.
+45. **Ils veulent l'ancre** — Les Vaeloriens exigent **la permanence de Tugay sans nouvelles injections**, pas seulement le sérum ; ils ne peuvent pas simplement la saisir sans détruire son mécanisme. Offres, pression, risques pour la Terre et désaccords familiaux.
 
 ## PARTIE VIII — L'ÉTERNEL RECOMMENCEMENT (chapitres 46–48)
 
@@ -80,7 +80,7 @@
 
 - **Point de vue :** « je » de Tugay ; chaque émotion de Kübra est découverte par son comportement ou ses paroles, jamais par accès magique à sa pensée.
 - **Couple :** scènes communes régulières, gestes tendres, conflits justifiés, décisions partagées et individualité de Kübra dans chacune des huit parties.
-- **Réalisme interne :** pénuries, délais, logistique, politique, financement, conséquence concrète. Les pouvoirs quantiques sont imaginaires mais obéissent à leurs propres règles.
+- **Réalisme interne :** pénuries, délais, logistique, politique, financement, conséquence concrète. Les pouvoirs quantiques sont imaginaires mais obéissent à leurs propres règles. **Contrôler avant chaque chapitre les points de [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md)**.
 - **Enquête :** ne pas confondre les raiders avec l'OCB ; l'arrestation par l'OCB doit être un déclencheur narratif crédible de la recherche de la keycard.
 - **Mystère :** les Vaeloriens sont intéressés par l'immortalité autonome ; **rien ne prouve qu'ils aient créé la boucle**.
 - **Fin :** boucle éternelle et impossibilité de sortir, pas d'épilogue rassurant qui annulerait le tragique.

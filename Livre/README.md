@@ -20,13 +20,14 @@
 - [PLAN.md](PLAN.md) — sommaire commenté et développement des 48 chapitres.
 - [DECISIONS_EDITORIALES.md](DECISIONS_EDITORIALES.md) — modifications demandées par Tugay et choix narratifs.
 - [CONTINUITE.md](CONTINUITE.md) — bible des personnages et des faits, **avec spoilers**.
+- [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) — **24 incohérences et risques narratifs** détectés, corrections et contrôle obligatoire avant chaque chapitre.
 - [CHRONOLOGIE_ROMAN.md](CHRONOLOGIE_ROMAN.md) — repères calendaires depuis 2026 ; adaptations par rapport au RPG initial.
 - [SCIENCE_FICTION.md](SCIENCE_FICTION.md) — lois imaginaires Q-EUV, Genesis-S, permanence et Vaeloriens (**spoilers majeurs**).
 - [chapitres/chapitre-01.md](chapitres/chapitre-01.md) — ancien **brouillon à retravailler**, non validé ; aucun autre chapitre n'est encore rédigé.
 
 ## Méthode de rédaction
 
-1. Vérifier le plan, les décisions éditoriales, les sources et les enjeux affectifs du chapitre.
+1. Vérifier le plan, l'**audit de cohérence**, les décisions éditoriales, les sources et les enjeux affectifs du chapitre.
 2. Rédiger un seul fichier autonome : Livre/chapitres/chapitre-NN.md (avec métadonnées YAML).
 3. Commit explicite par brouillon ou révision du chapitre, sans toucher au système du RPG.
 4. Tugay relit, commente, corrige le ton et les événements ; révision du même fichier par nouveau commit.
@@ -39,7 +40,7 @@ Les dossiers Livre et RPG sont distincts. **Ne pas retoucher les journaux histor
 
 - Archives Git de la campagne : jusqu'au jour 91, avec journaux et scènes ; elles sont prioritaires pour les détails de la survie.
 - Continuation dans les conversations : AURORE, reconstruction, Mira, PhenixCoin, ÉTERNITÉ, Vaeloriens et boucle ; elle n'est pas intégralement archivée dans le dépôt Git.
-- **Modifications voulues pour le roman :** priorité aux décisions explicites consignées dans DECISIONS_EDITORIALES.md ; ne pas prétendre que ces changements ont déjà été vécus dans le RPG historique.
+- **Modifications voulues pour le roman :** priorité aux décisions explicites consignées dans DECISIONS_EDITORIALES.md. **Liberté éditoriale accordée par Tugay :** ajuster, enrichir et parfois réordonner des événements quand cela sert la logique, la qualité et les personnages, en documentant les changements et en respectant les grandes étapes et la fin. Ne pas prétendre que ces changements ont déjà été vécus dans le RPG historique.
 
 ## Export futur
 

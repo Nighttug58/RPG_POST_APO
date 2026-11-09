@@ -4,7 +4,7 @@
 
 ## Point de départ et règle de conversion
 
-- **Déclenchement de la Rupture : octobre 2026**, avant l'ouverture du roman. Le premier camp a eu le temps d'exister pendant les premières semaines de désorganisation.
+- **Déclenchement de la Rupture : 9 octobre 2026** (repère de travail romanesque) : panne systémique par vagues, déplacements, ruptures de logistique et d'autorité. Le premier camp de Tugay et Kübra existe pendant environ trois semaines avant son attaque. Il ne s'agit pas de onze ans d'abandon.
 - **J1 (reprise de l'aventure dans la forêt) : 31 octobre 2026.**
 - Pour une scène numérotée Jn, date de travail = 31 octobre 2026 + (n − 1) jours.
 - La mention d'une **date civile de 2043 ou 2044** dans les archives originelles est un fait du **jeu d'origine**, pas la date retenue pour le roman.
@@ -13,7 +13,7 @@
 
 | Jalon | Date de travail roman | Fonction narrative |
 | --- | --- | --- |
-| Début de la Rupture | Octobre 2026, jour à fixer | Effondrement des réseaux et premiers refuges |
+| Début de la Rupture | **9 octobre 2026** | Début des pannes et évacuations progressives ; origine inconnue |
 | J1 | 31 octobre 2026 | Fuite après l'attaque, Kübra et Tugay en forêt |
 | J24 | 23 novembre 2026 | Énergie solaire B/C et froid |
 | J56 | 25 décembre 2026 | Noël au refuge |
@@ -29,11 +29,19 @@
 | Renaissance du monde | 2032–2052 | Suisse et coopération européenne, industrie |
 | Retraite de Tugay | Vers 2050–2052 | Cessation des fonctions de direction |
 | Livre autobiographique | 2054–2056 | Publication et tournée de Rupture dans le récit |
-| PhenixCoin | 2057–années 2060 | Gain exceptionnel ; capital investi et en partie réalisé |
-| ÉTERNITÉ | 2079–2080 | Q-EUV, Genesis-S et premier contact à développer |
+| PhenixCoin | 2057–fin des années 2060 | Achat initial 593 750 PHX ; vente progressive, profits réels pour projets et ÉTERNITÉ |
+| ÉTERNITÉ | 2079–2080 | Après travaux de recherche préparatoires, Q-EUV, Genesis-S et observation accélérée fictive |
 | Controverse Genesis-S | 2080–2082 | Protection de l'humanité, monopole et conflit familial |
-| Vaeloriens | À révéler progressivement à l'approche de 2082 | Signature Qν, messages, vaisseau |
+| Vaeloriens | Signaux dès 2079 ; vaisseau vers 2082 | Détection Qν, messages mal traduits, couloirs spatio-temporels coûteux |
 | Boucle | Dénouement | Univers remis à l'origine ; itération 52 826 323 |
+
+## Repères démographiques et biographiques
+
+- **Tugay :** 31 ans en octobre 2026 (année de naissance vers 1995, date exacte à fixer). Marié à Kübra vers 2023 si l'on conserve l'âge de 28 ans du RPG originel.
+- **Mira :** fils de Tugay et Kübra ; grossesse annoncée au début de 2027, naissance le **16 septembre 2027**, puis 52 ans en septembre 2079 et **52 ans en mars 2080**.
+- **Région lausannoise :** quelques dizaines de membres au centre, réseau élargi à quelques centaines dès 2027, **35 000 habitants à l'échelle de l'agglomération en 2032**, grâce aux réfugiés et aux communautés raccordées.
+- **Suisse et monde :** les autres régions conservent leurs propres populations survivantes ; leur reconstruction est collective, par regroupement et interconnexion, non un accroissement naturel depuis la petite communauté initiale.
+- **R-0, OCB, AURORE :** infrastructures civiles et techniques déjà existantes avant octobre 2026, mises à jour après la Rupture.
 
 ## Problèmes de cohérence à surveiller
 

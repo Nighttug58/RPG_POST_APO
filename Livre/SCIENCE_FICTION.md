@@ -19,7 +19,14 @@
 - La signature fournit une **direction et une localisation incertaines**, affinées par plusieurs observations ; la découverte de la Terre n'est ni instantanément précise ni magique.
 - Le canal chrono-géométrique, dans les règles imaginaires, autorise un **écho apparemment antérieur à l'émission vue depuis la Terre**. Cela ne démontre pas que les Vaeloriens contrôlent arbitrairement tout le passé.
 
-## 2. Premier contact : séquence de scènes
+## 2. Vitesse, limites et coût du canal Qν
+
+- **Information :** le canal chrono-géométrique Qν, pure convention du récit, ne transporte pas une onde radio ordinaire. Il peut établir des corrélations entre observatoires très éloignés avec une latence **non proportionnelle à la distance-lumière**. Les humains ne disposent initialement que d'un détecteur expérimental faible ; seuls les Vaeloriens possèdent un réseau d'écoute efficace.
+- **Navigation :** les Vaeloriens utilisent des **couloirs géométriques** accessibles depuis certains volumes d'espace-temps, qui demandent une énergie considérable, des calculs et de longues phases de stabilisation. Ils ne peuvent pas se matérialiser arbitrairement au-dessus de Lausanne.
+- **Chronologie :** émission terrestre détectée en 2079 ; échange, décodage et localisation affinée sur plusieurs mois ; **présence du vaisseau observable en 2082**. Un effet qui paraît précéder sa cause n'établit pas que les voyageurs peuvent tout changer dans le passé.
+- **Dépendance scientifique :** l'ancrage autonome est lié à un cœur Q-EUV consommé et à un mécanisme biologique à comprendre. Une prise de contrôle brutale du laboratoire risquerait de détruire précisément ce qu'ils veulent reproduire. Cela explique leur intérêt à négocier, sans prouver leur bienveillance.
+
+## 3. Premier contact : séquence de scènes
 
 1. Au laboratoire, un « écho » non corrélé aux impulsions émises est enregistré ; Sofia soupçonne d'abord une erreur instrumentale.
 2. Le signal se répète avec une structure mathématique : séries premières, rapports entre constantes, motifs géométriques simples.
@@ -30,7 +37,7 @@
 7. Messages de plus en plus appuyés : offre d'échanges, calendrier diplomatique, preuve d'un vaisseau lointain. L'intention n'est jamais établie d'emblée.
 8. Le secret de Tugay vis-à-vis de Kübra, Mira, Lina et Sofia provoque une crise de confiance ; le risque extraterrestre ne garantit pas qu'il ait pris de bonnes décisions.
 
-## 3. Genesis-S ordinaire et ancrage permanent
+## 4. Genesis-S ordinaire et ancrage permanent
 
 | Fonction | Genesis-S | Ancrage de Tugay |
 | --- | --- | --- |
@@ -42,6 +49,13 @@
 | Disponibilité | Reproductible à terme | Dépend d'un cœur Q-EUV unique sacrifié |
 | Coût principal | Industrie, accès, consentement | Perte du cœur rare et signature Qν permanente |
 
+### La vérification du long terme en un an (fiction)
+
+- Les chercheurs s'appuient sur un champ d'étude de la biologie déjà ancien : le programme ÉTERNITÉ n'invente pas toutes les sciences connexes en douze mois.
+- Q-EUV permet un **spectroscope de trajectoires biologiques** fictif : il observe, sans les produire chez le sujet, de nombreuses évolutions tissulaires possibles sur de très longues durées équivalentes, comparées à des échantillons témoins. Il a fallu plusieurs vérifications indépendantes pour éliminer les erreurs d'interprétation.
+- **Règle d'univers :** les effets biologiques de Genesis-S et de l'ancrage sont effectivement nuls à long terme. **Ce n'est pas une méthode réelle** pour prouver la sûreté clinique d'un traitement humain après un an ; l'hypothèse appartient entièrement au roman.
+- Les conséquences **diplomatiques, sociales et familiales** restent non nulles et peuvent devenir catastrophiques même quand la biologie est parfaite.
+
 ### Sacrifice et crédibilité
 
 - Une seule conversion en **ancrage autonome** est possible avec le prototype disponible ; ce processus **consume définitivement le cœur Q-EUV rare**, en privant le programme de la possibilité immédiate de reproduire l'ancrage.
@@ -50,7 +64,7 @@
 - Les Vaeloriens savent ralentir ou inverser temporairement leur vieillissement, mais ne maîtrisent pas l'ancrage permanent ; ils offrent des contreparties et deviennent de plus en plus insistants. Leur supériorité stellaire rend leur demande inquiétante.
 - **Question de suspense :** pourquoi leur technologie énergétique ne résout-elle pas le problème de stabilisation du vivant ? Réponse : domaine scientifique distinct et percée originale de la biologie terrestre fictive.
 
-## 4. Risques sociétaux si toute l'humanité devient biologiquement immortelle
+## 5. Risques sociétaux si toute l'humanité devient biologiquement immortelle
 
 - **Démographie :** natalité, migration, capacité d'accueil, générations durables, régulation non coercitive.
 - **Ressources :** énergie, logement, soins, environnement, répartition des capacités d'accueil.
@@ -61,7 +75,7 @@
 
 **Tension centrale :** le traitement est biologiquement sûr, mais ses conditions d'accès, sa monopolisation et ses usages pourraient provoquer des dommages sociaux. Présenter des débats réels entre personnages, sans décréter qu'une interdiction universelle est automatiquement juste.
 
-## 5. Règles finales
+## 6. Règles finales
 
 - Les Vaeloriens **ne sont pas établis comme créateurs de la boucle**.
 - Une signature Qν durable de Tugay peut **rappeler visuellement ou narrativement** l'anomalie temporelle de la fin, mais la causalité reste indécidable.
