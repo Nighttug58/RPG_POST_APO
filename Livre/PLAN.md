@@ -17,7 +17,7 @@
 
 ## PARTIE II — LE VILLAGE ET L'HIVER (chapitres 9–16)
 
-9. **Les rues de La Sallaz** — Adrien, Claire, Rosa, premiers contacts et confiance fragile.
+9. **Les rues de La Sallaz** — Expédition et premières rencontres avec Adrien et Claire ; confiance fragile, limites respectées et évocation d'une personne qui conserve des semences. **Rosa n'est pas encore rencontrée** : son contact sera facilité plus tard.
 10. **Le prix de la confiance** — Kübra dans l'organisation des ressources et des décisions ; désaccord avec Tugay sur le danger des inconnus.
 11. **Le quartier oublié** — Grande expédition des villas, besoin de matériel et responsabilité envers les autres.
 12. **La nuit du cerf** — Chasse et fumage, fatigue physique ; Kübra et Élise coordonnent les ressources.
