@@ -1,77 +1,86 @@
-# RUPTURE — Plan du roman (42 chapitres)
+# RUPTURE — Plan du roman (48 chapitres)
 
-**Architecture :** 7 parties, 42 chapitres. **Longueur indicative :** 2 100 à 2 700 mots par chapitre (avec des chapitres charnières plus longs), soit environ 90 000 à 110 000 mots. L'objectif est de développer un roman lisible, non de reproduire une chronologie exhaustive jour par jour.
+**Architecture révisée : 8 parties, 48 chapitres.** Cible indicative : **105 000–130 000 mots** (~2 200–2 700 mots/chapitre, certains chapitres charnières plus longs), soit un roman d'environ 350–450 pages selon la mise en page.
 
-Les mentions Jxx renvoient aux journées de la campagne. Les décennies ultérieures sont à harmoniser selon `CONTINUITE.md`.
+**Canon littéraire :** Rupture en 2026 ; Kübra est une co-protagoniste ; attaque initiale éclaircie par l'enquête de l'OCB ; PhenixCoin seul ; Genesis-S et ancrage permanent distincts ; contact Qν / Vaeloriens développé ; boucle éternelle comme révélation finale.
 
-## PARTIE I — LES DERNIERS SURVIVANTS (chapitres 1–8)
+## PARTIE I — DEUX CONTRE LE MONDE (chapitres 1–8)
 
-1. **Après la nuit** — Après l'attaque d'un premier campement, Tugay et Kübra fuient dans les bois. Épuisement, faim, peur de la poursuite ; ils gagnent un ruisseau.
-2. **L'eau n'est pas la vie** — Abri discret, eau claire mais non potable, collecte de bois, capture d'un canard, feu qui refuse de prendre. Une nuit sous la menace lointaine des coups de feu.
-3. **La première flamme** — À cinq heures, les deux archets et l'obstination ; premier feu durable, premier repas, conscience de la soif.
-4. **Les maisons silencieuses** — Quitter la forêt, fouiller sans certitude d'absence, trouver de quoi chauffer l'eau et choisir un refuge.
-5. **Le bâtiment B** — Installation dans le quartier, premières tâches partagées, peur des inconnus, eau et sécurité.
-6. **À plusieurs, ou pas du tout** — Rencontres de Marc, Élise, David, Sophie et Nicolas ; mutualisation des efforts et premières règles du groupe.
-7. **Les jardins d'Henri** — Retrouvailles avec Henri puis Marianne, parcelles, graines, travail patient, respect des voisins et des droits.
-8. **Notre village** — La communauté se définit : choix collectifs, responsabilité, stocks et premiers projets pour l'hiver.
+1. **Après la nuit** — Tugay et Kübra fuient le premier camp attaqué. Peur, culpabilité, solidarité, blessures psychologiques ; la forêt et le ruisseau. **Kübra prend une part active aux décisions.**
+2. **L'eau et le silence** — Abri discret, eau non potable, canard capturé, premier échec d'allumage ; deux sensibilités confrontées à l'urgence.
+3. **La première flamme** — À 05h00, coopération autour des archets ; 05h20, feu durable, repas partagé ; la tendresse dans l'épuisement.
+4. **Les maisons silencieuses** — Chercher un récipient, s'assurer que les lieux sont inoccupés ; peur des autres humains et premières limites.
+5. **Une promesse entre nous** — Conversation intime sur l'attaque, le futur incertain, ce que chacun refuse de perdre ; Kübra propose une stratégie concrète de survie.
+6. **Les bâtiments B et C** — Établir un refuge commun sans renoncer à l'intimité du couple.
+7. **Le conseil des sept** — Marc, David, Élise, Nicolas et Sophie ; règles et partage, Kübra défend une organisation collective.
+8. **Les mains dans la terre** — Henri, Marianne, parcelles et semences ; premières traces d'une communauté capable de durer.
 
-## PARTIE II — BÂTIR UN VILLAGE (chapitres 9–16)
+## PARTIE II — LE VILLAGE ET L'HIVER (chapitres 9–16)
 
-9. **La Sallaz** — Les premiers contacts avec Adrien, Claire et Rosa ; méfiance et coopération prudente.
-10. **Les graines de l'avenir** — Pépinière, cultures fragiles, résurgence et premiers circuits réguliers d'eau.
-11. **Le quartier oublié** — Longue expédition dans les villas abandonnées ; abondance matérielle, poids du transport et tentation de tout prendre.
-12. **La nuit du cerf** — Chasse, fumage, sécurisation alimentaire ; fatigue et prix de l'abondance.
-13. **Des réserves pour l'hiver** — Bois, charbon, contenants, inventaires, troc, surveillance des stocks.
-14. **Derrière la porte** — Batteries et panneaux solaires, installations provisoires, travail acharné des techniciens.
-15. **Que la lumière soit** — Les bâtiments B et C s'illuminent ; premier hiver, nouvelle fragilité.
-16. **Les routes retrouvées** — Véhicule électrique, chariots, remorque/transport, développement des ateliers et arrivée de nouveaux habitants.
+9. **Les rues de La Sallaz** — Adrien, Claire, Rosa, premiers contacts et confiance fragile.
+10. **Le prix de la confiance** — Kübra dans l'organisation des ressources et des décisions ; désaccord avec Tugay sur le danger des inconnus.
+11. **Le quartier oublié** — Grande expédition des villas, besoin de matériel et responsabilité envers les autres.
+12. **La nuit du cerf** — Chasse et fumage, fatigue physique ; Kübra et Élise coordonnent les ressources.
+13. **Des réserves pour demain** — Eau, nourriture, bois, charbon, travail collectif et économie du manque.
+14. **La lumière aux fenêtres** — Panneaux solaires et batterie ; événement vu aussi depuis Kübra, qui mesure ce que signifie une maison éclairée.
+15. **Noël au refuge** — 25 décembre 2026 : neuf puis onze compagnons, cadeaux simples, souvenirs du couple et lueur d'avenir.
+16. **La route retrouvée** — Véhicule électrique, atelier, transport et premières liaisons locales.
 
-## PARTIE III — LES SECRETS D'AURORE (chapitres 17–22)
+## PARTIE III — LES CERCLES BLANCS ET LA CLÉ (chapitres 17–24)
 
-17. **Cent kilos de planches** — Expédition commerciale à l'Est avec Nicolas et David, Samuel Rochat et un dépôt de maintenance.
-18. **Les cercles blancs** — Sites CB-17, secteur 06, cartes, indices de surveillance et peur d'un pouvoir invisible.
-19. **Sous nos pieds** — L'organisation des cercles blancs, Isabelle Morel, le centre R-0 et André Vuillemin.
-20. **La ferme d'AURORE** — Jacques Perrin, sa communauté, véhicules, batteries, photovoltaïque et grand changement d'échelle.
-21. **La clé bleue** — Retour au premier campement, portefeuille et carte ACCÈS B, Maya Vuillemin, secret conservé.
-22. **Le compartiment B** — Machines-outils, stocks industriels, module P et indices de visites inexpliquées.
+17. **Cent kilos de planches** — Tugay, Nicolas et David rencontrent Samuel Rochat ; troc et dépôt de maintenance.
+18. **Les cercles blancs** — CB-17, secteur 06, cartes, rumeurs de surveillance.
+19. **Une femme nommée Isabelle** — Premiers pourparlers avec l'OCB ; ni confiance aveugle ni hostilité automatique.
+20. **Sous nos pieds** — R-0, André Vuillemin, douze survivants ; un sous-sol plus vaste que le village.
+21. **La ferme d'AURORE** — Jacques Perrin, matériel énergétique, compartiment B inaccessible faute de carte.
+22. **Les hommes de la première nuit** — L'OCB arrête les assaillants du tout premier camp ; enquête, motivations humaines, trace précise du portefeuille disparu.
+23. **La carte de Maya** — L'arrestation déclenche une expédition au premier camp ; boîte, portefeuille, Mathieu Dutoit, carte bleue ACCÈS B, nom de Maya Vuillemin.
+24. **Ce que cache la porte B** — Machines-outils, module P, réserves et logs d'accès inexpliqués ; secret risquant de diviser les alliés.
 
-## PARTIE IV — LA RENAISSANCE DU MONDE (chapitres 23–28)
+## PARTIE IV — LE PHÉNIX SE RELÈVE (chapitres 25–32)
 
-23. **L'atelier sous la terre** — Les véhicules logistiques cachés, les convois, les machines installées et les premiers ateliers de fabrication.
-24. **Les accords de Lausanne** — Crise de confiance avec l'OCB, menace de guerre, négociations et réconciliation.
-25. **Ici Radio Lausanne** — Émissions, arrivées, La Sallaz et les autres communautés, premiers liens lointains, essor de la population.
-26. **Mira** — Kübra enceinte, naissance du fils, vie familiale et transmission au milieu des travaux.
-27. **Les rails, l'eau, la lumière** — Chemin de fer lémanique et vers Annecy, hydroélectricité, réseaux télécoms et premiers terminaux LÉMAN-1.
-28. **Trente-cinq mille vies** — Lausanne renaît, logement, écoles, soins, travail, conflits sociaux, monnaie et banques.
+25. **Les machines sous la terre** — Parc d'engins, transfert industriel, travail collectif.
+26. **La paix qui coûte** — Accusations de l'OCB, risque d'affrontement, accords de Lausanne ; Kübra reproche à Tugay certains secrets.
+27. **Ici Radio Lausanne** — Appels, La Sallaz, voyageurs, villages partenaires, premières connexions internationales.
+28. **Mira** — Grossesse de Kübra et naissance du fils en septembre 2027 ; nouvelles fragilités et responsabilités parentales.
+29. **Les rails retrouvés** — Élodie Marchand, chemin de fer jusqu'à Annecy, mobilité, nouveaux métiers.
+30. **L'énergie du Léman** — Hydroélectricité, antennes, LÉMAN-COM, terminaux lourds et autonomie régionale.
+31. **Trente-cinq mille habitants** — Logements, écoles, soins, travaux, marchés, société renaissante.
+32. **Le Franc lémanique** — Fin du troc, banque, règles d'émission, croissance et inégalités.
 
-## PARTIE V — LE PRIX DE LA RÉUSSITE (chapitres 29–33)
+## PARTIE V — LA VIE APRÈS LA VICTOIRE (chapitres 33–37)
 
-29. **Le Franc lémanique** — Fin du troc à grande échelle, règle d'émission, institutions et premières tensions économiques.
-30. **Le monde reprend forme** — Suisse réunifiée, industrie, voitures électriques, avions régionaux, bateaux, libre circulation et élections européennes.
-31. **Le Village du Phénix** — Tugay refuse la présidence, prend sa retraite ; devenir un symbole sans rester un dirigeant.
-32. **Rupture, le livre** — Écrire les mémoires, interviewer les proches, publication, tournée internationale et pistes sur Maya.
-33. **L'or numérique** — PhenixCoin, spéculation, gains et risques, RuptureCoin, philanthropie et vertige de la fortune.
+33. **Le monde reprend forme** — Suisse et Europe reconstruites, industrie, véhicules électriques, avions régionaux et bateaux ; institutions et libre circulation.
+34. **L'homme qui refusa le pouvoir** — Élection européenne, Tugay refuse la candidature, retraite, retour aux plaisirs ordinaires avec Kübra.
+35. **Rupture, le livre** — Écrire les mémoires, souvenirs de Kübra, publication, tournée internationale et rencontres.
+36. **L'envol de PhenixCoin** — Investissement, risque accepté, hausse extraordinaire, puis vente progressive et **profits réellement encaissés** ; aucune monnaie concurrente.
+37. **Ce que peut acheter l'argent** — Fondations, projets dans les pays en reconstruction ; décision de financer une recherche capable de vaincre le vieillissement.
 
-## PARTIE VI — ÉTERNITÉ (chapitres 34–38)
+## PARTIE VI — LE PRIX DE L'ÉTERNITÉ (chapitres 38–42)
 
-34. **Le laboratoire sans âge** — Institut secret, Sofia Keller, Q-EUV et Genesis-S ; la découverte inimaginable.
-35. **Une seconde jeunesse** — Révélation à Kübra, Mira et Lina ; consentement, mémoire conservée et traitement.
-36. **L'immortel solitaire** — Restriction de Genesis-S, rupture avec les chercheurs, désaccord familial et contestation mondiale.
-37. **La lettre des étoiles** — Confession de Tugay sur les messages reçus pendant les expériences quantiques.
-38. **Ceux qui tiennent leur soleil** — Les Vaeloriens : civilisation d'ingénierie stellaire, régénération imparfaite, premier vaisseau aux confins du système solaire.
+38. **La lumière impossible** — Institut scientifique secret, Sofia Keller, système fictif Q-EUV et Genesis-S ; premières difficultés.
+39. **L'écho qui précède la cause** — Tests Qν, signaux anormaux, laboratoire qui soupçonne un observateur extérieur ; tension autour du secret.
+40. **Retrouver vingt-cinq ans** — Consentement et rajeunissement de Kübra, Tugay, Mira et Lina ; scènes humaines, question du temps partagé.
+41. **L'ancre et le sacrifice** — Un cœur Q-EUV unique consommé pour stabiliser **Tugay à 25 ans à vie**, sans nouvelles doses ; il devient une signature détectable et assume des sacrifices matériels et relationnels.
+42. **Le droit de vieillir** — Risques d'une immortalité mondiale, pouvoir, générations, surpopulation, accès équitable ; Tugay veut verrouiller Genesis-S, famille et scientifiques résistent.
 
-## PARTIE VII — L'ÉTERNEL RECOMMENCEMENT (chapitres 39–42)
+## PARTIE VII — CEUX QUI TIENNENT UNE ÉTOILE (chapitres 43–45)
 
-39. **Quand l'univers recule** — L'espace-temps se replie ; Lausanne, Mira et les décennies reconstruites disparaissent de l'instant présent.
-40. **Au commencement** — Tugay revient au jour de la rupture avec ses souvenirs, sans ses biens ni son avenir ; Kübra ne le reconnaît pas comme un voyageur du temps.
-41. **Cinquante-deux millions** — Le message intérieur révèle l'itération 52 826 323 ; fragments d'autres vies et vertige de la boucle.
-42. **Sans fin** — Tentatives innombrables, variantes de la renaissance, impossibilité d'échapper au cycle ; Tugay rejoint Kübra une dernière fois, sachant qu'il recommencera à jamais.
+43. **Le premier langage** — Séquence détaillée : détection du champ Qν par les Vaeloriens, nombres et géométrie, traduction imparfaite, premières réponses humaines.
+44. **Le soleil des Vaeloriens** — Civilisation qui pilote son étoile, vaisseau aux confins du système solaire, déséquilibre technologique et manœuvres diplomatiques.
+45. **Ils veulent l'ancre** — Ils réclament **la permanence de Tugay sans injections répétées**, pas simplement Genesis-S ; offres, pression et tentatives de Tugay pour préserver la Terre.
 
-## Contrat de narration
+## PARTIE VIII — L'ÉTERNEL RECOMMENCEMENT (chapitres 46–48)
 
-- **Style :** roman à la première personne, incarné, sobre et sensoriel. Pas de tableaux d'inventaire, boutons, menus, jets ou chiffres administratifs dans la prose sauf lorsqu'ils jouent un rôle dramatique.
-- **Dramatisation :** développements, dialogues et transitions littéraires autorisés ; pas de réécriture silencieuse des résultats majeurs du RPG.
-- **Pacing :** prendre le temps de vivre dans les premières semaines ; accélérer les décennies par scènes clés et ellipses assumées.
-- **Personnages :** conserver l'épaisseur de Kübra, Marc, David, Nicolas, Sophie, Élise, Henri, Marianne, André, Jacques, Isabelle, Sofia, Mira et Lina.
-- **Mystère :** le retournement temporel doit rester une révélation tardive. Les Vaeloriens ne sont pas automatiquement à l'origine de la boucle.
-- **Fin :** définitive, sans sortie de la boucle et sans fausse explication de son origine.
+46. **L'univers à rebours** — Cataclysme de l'espace-temps, disparition du monde reconstruit et de la vie vécue avec Mira ; nouvelle Rupture.
+47. **Cinquante-deux millions de fois** — Mémoire de Tugay persistante, fragments contradictoires, message de l'itération 52 826 323 et prise de conscience de l'infini.
+48. **Après la nuit, encore** — D'innombrables tentatives pour sortir du cycle ; aucune ne réussit. La toute dernière scène revient à Kübra. **Fin sans échappatoire ni cause expliquée.**
+
+## Exigences de fabrication
+
+- **Point de vue :** « je » de Tugay ; chaque émotion de Kübra est découverte par son comportement ou ses paroles, jamais par accès magique à sa pensée.
+- **Couple :** scènes communes régulières, gestes tendres, conflits justifiés, décisions partagées et individualité de Kübra dans chacune des huit parties.
+- **Réalisme interne :** pénuries, délais, logistique, politique, financement, conséquence concrète. Les pouvoirs quantiques sont imaginaires mais obéissent à leurs propres règles.
+- **Enquête :** ne pas confondre les raiders avec l'OCB ; l'arrestation par l'OCB doit être un déclencheur narratif crédible de la recherche de la keycard.
+- **Mystère :** les Vaeloriens sont intéressés par l'immortalité autonome ; **rien ne prouve qu'ils aient créé la boucle**.
+- **Fin :** boucle éternelle et impossibilité de sortir, pas d'épilogue rassurant qui annulerait le tragique.

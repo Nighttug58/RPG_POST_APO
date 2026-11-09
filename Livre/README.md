@@ -1,48 +1,46 @@
 # RUPTURE — Roman
 
-**Auteur / protagoniste : Tugay**  
-**Projet d'origine :** `RPG_POST_APO` — *Les Cendres du Monde*  
-**État :** plan éditorial établi ; rédaction progressive, chapitre par chapitre.
+**Projet :** adaptation littéraire de la campagne RPG_POST_APO.  
+**Auteur et narrateur :** Tugay (récit à la première personne).  
+**Statut :** refonte éditoriale validée sur le principe, avant rédaction progressive.
 
-## Ambition
+## Format retenu
 
-Transformer l'aventure jouée en **roman de science-fiction post-apocalyptique complet**, pas en journal de partie, compte rendu de jeu ni transcription des réponses du MJ.
+- **48 chapitres**, répartis en **8 parties**.
+- Cible indicative : **105 000–130 000 mots** (environ 350–450 pages selon la maquette).
+- Un récit littéraire en « je », non une transcription du RPG ni un résumé de journal.
+- La catastrophe initiale survient **en 2026** ; la reconstruction mène aux décennies suivantes.
+- **Kübra est la seconde figure centrale** du roman et une actrice autonome des décisions.
+- Le volet financier est simplifié : **PhenixCoin uniquement** ; aucune création de RuptureCoin.
+- Immortalité, contact extraterrestre et boucle temporelle sont approfondis ; **révélation de la boucle réservée à la fin**.
+- Les détails scientifiques Q-EUV sont des **lois propres à la fiction**, pas des affirmations sur la physique réelle.
 
-- **42 chapitres**, organisés en **7 parties**.
-- **Objectif indicatif :** 90 000 à 110 000 mots, soit environ 300–400 pages selon la maquette.
-- **Narrateur :** Tugay, première personne du singulier, narration au passé.
-- **Progression :** survie âpre et intime → communauté → secrets / diplomatie → renaissance → prospérité → science-fiction → boucle temporelle.
-- **Révélation finale :** ne pas annoncer la boucle temporelle au lecteur avant les derniers chapitres.
-- **Unité :** une voix littéraire cohérente, des scènes dialoguées, des enjeux concrets et des conséquences, sans résumer des décennies en quelques lignes.
+## Fichiers éditoriaux
 
-## Organisation des fichiers
+- [PLAN.md](PLAN.md) — sommaire commenté et développement des 48 chapitres.
+- [DECISIONS_EDITORIALES.md](DECISIONS_EDITORIALES.md) — modifications demandées par Tugay et choix narratifs.
+- [CONTINUITE.md](CONTINUITE.md) — bible des personnages et des faits, **avec spoilers**.
+- [CHRONOLOGIE_ROMAN.md](CHRONOLOGIE_ROMAN.md) — repères calendaires depuis 2026 ; adaptations par rapport au RPG initial.
+- [SCIENCE_FICTION.md](SCIENCE_FICTION.md) — lois imaginaires Q-EUV, Genesis-S, permanence et Vaeloriens (**spoilers majeurs**).
+- [chapitres/chapitre-01.md](chapitres/chapitre-01.md) — ancien **brouillon à retravailler**, non validé ; aucun autre chapitre n'est encore rédigé.
 
-- [PLAN.md](PLAN.md) — sommaire commenté des 42 chapitres.
-- [CONTINUITE.md](CONTINUITE.md) — bible des personnages, faits importants, divergences chronologiques et méthode d'adaptation (**contient des spoilers**).
-- `chapitres/chapitre-01.md`, puis `chapitre-02.md`, etc. — un fichier Markdown autonome par chapitre.
+## Méthode de rédaction
 
-Le sous-répertoire `Livre/` est **indépendant** de `recit/`, `journal/`, `canon/`, des inventaires et du site GitHub Pages. Ne pas modifier les sauvegardes du RPG pour corriger la prose du roman.
+1. Vérifier le plan, les décisions éditoriales, les sources et les enjeux affectifs du chapitre.
+2. Rédiger un seul fichier autonome : Livre/chapitres/chapitre-NN.md (avec métadonnées YAML).
+3. Commit explicite par brouillon ou révision du chapitre, sans toucher au système du RPG.
+4. Tugay relit, commente, corrige le ton et les événements ; révision du même fichier par nouveau commit.
+5. Le statut **validé** est réservé à une approbation explicite.
+6. Conserver des scènes, des conversations et des conséquences, plutôt qu'une suite de bilans chiffrés.
 
-## Travail chapitre par chapitre
+Les dossiers Livre et RPG sont distincts. **Ne pas retoucher les journaux historiques, sauvegardes, cartes ou données du site** pour répondre aux choix d'adaptation romanesque. Les fichiers du jeu documentent l'histoire telle qu'elle a été jouée ; Livre documente son adaptation.
 
-1. Lire le plan, la continuité et les sources du chapitre.
-2. Écrire un premier brouillon littéraire dans `Livre/chapitres/chapitre-NN.md`.
-3. **Un commit identifiable par chapitre**, sans modifier les chapitres suivants.
-4. Recueillir les demandes éditoriales de Tugay (style, longueur, faits, rythme).
-5. Réviser le même fichier dans de nouveaux commits traçables.
-6. Marquer `statut: valide` uniquement après accord explicite ; par défaut, `brouillon`.
+## Sources et statut de l'adaptation
 
-Les métadonnées YAML en tête de chapitre permettent l'assemblage ultérieur (Pandoc, autres outils Markdown). Les résumés, notes et indications de fabrication doivent rester **hors du corps romanesque**.
+- Archives Git de la campagne : jusqu'au jour 91, avec journaux et scènes ; elles sont prioritaires pour les détails de la survie.
+- Continuation dans les conversations : AURORE, reconstruction, Mira, PhenixCoin, ÉTERNITÉ, Vaeloriens et boucle ; elle n'est pas intégralement archivée dans le dépôt Git.
+- **Modifications voulues pour le roman :** priorité aux décisions explicites consignées dans DECISIONS_EDITORIALES.md ; ne pas prétendre que ces changements ont déjà été vécus dans le RPG historique.
 
-## Sources et fidélité
+## Export futur
 
-**Sources archivées prioritaires :** `recit/`, `journal_journalier/`, `journal/`, `canon/` (jusqu'à J91 actuellement).  
-**Suite du récit :** conversation RPG ultérieure (J92 et après, jusqu'à l'épilogue cosmique), non entièrement sauvegardée dans Git au moment de ce premier commit.
-
-Les descriptions, dialogues, gestes, enchaînements et états d'âme peuvent être romancés, mais **les décisions, rencontres, découvertes, relations et événements établis doivent rester reconnaissables**. Ne pas confondre une rumeur, une hypothèse ou un témoignage avec un fait confirmé.
-
-**Point éditorial à résoudre :** les archives Git situent la campagne en **2043–2044**, tandis que des épisodes de la conversation ultérieure ont été racontés avec des dates de **2027–2082**. Les chronologies ne sont pas compatibles telles quelles. Avant de dater précisément les chapitres tardifs, choisir une convention globale avec Tugay ; ne pas déplacer silencieusement les événements ni inventer une explication diégétique. Le chapitre 1 évite les dates absolues dans la prose.
-
-## Assemblage futur
-
-L'ordre des chapitres est donné par leur nom `chapitre-01.md` → `chapitre-42.md`. Les titres et métadonnées faciliteront la conversion en PDF, EPUB ou DOCX lorsqu'une version du roman sera stabilisée. Aucune génération d'un livre final n'est implicite dans les commits de préparation.
+Une fois les chapitres écrits et validés, les fichiers Markdown numérotés pourront être assemblés en un livre PDF, EPUB ou DOCX. Ne pas inclure la bible, les documents de production ou les spoilers dans l'édition destinée aux lecteurs.
