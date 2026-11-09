@@ -17,7 +17,7 @@
 
 ## Fichiers éditoriaux
 
-- [PLAN.md](PLAN.md) — sommaire commenté et développement des 50 chapitres.
+- [PLAN.md](PLAN.md) — sommaire commenté et développement des 58 chapitres.
 - [DECISIONS_EDITORIALES.md](DECISIONS_EDITORIALES.md) — modifications demandées par Tugay et choix narratifs.
 - [CONTINUITE.md](CONTINUITE.md) — bible des personnages et des faits, **avec spoilers**.
 - [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) — **24 incohérences et risques narratifs** détectés, corrections et contrôle obligatoire avant chaque chapitre.
