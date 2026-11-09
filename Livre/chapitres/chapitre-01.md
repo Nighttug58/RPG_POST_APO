@@ -4,233 +4,546 @@ partie: 1
 chapitre: 1
 statut: brouillon
 narrateur: "Tugay"
+date_fiction: "2026-10-31"
+lieu: "Forêt au nord de Lausanne"
+version_editoriale: 2
 sources:
   - "recit/chapitre-001/scene-001.md"
   - "canon/MONDE.md"
+  - "Livre/PLAN.md"
+  - "Livre/CONTINUITE.md"
 ---
 
 # Chapitre 1 — Après la nuit
 
-Le matin ne m'a pas réveillé d'un seul coup. Il s'est insinué à travers mes paupières, lentement, comme si la forêt elle-même hésitait à nous laisser voir où nous étions.
+*31 octobre 2026 — Forêt au nord de Lausanne*
 
-Je suis resté immobile quelques secondes. J'avais froid aux épaules, une douleur sourde entre les omoplates et, dans la bouche, ce goût sec qui vient quand on a trop couru et pas assez bu. Un oiseau a lancé trois notes au-dessus de nous. Je n'ai pas su reconnaître l'espèce. Avant, j'aurais trouvé ça ridicule : vivre aussi près des bois et ne pas savoir donner un nom à un oiseau. Ce matin-là, je n'avais pas la place dans la tête pour ces regrets.
+Le premier bruit que j'ai reconnu, en ouvrant les yeux, a été celui de la respiration de Kübra.
 
-J'ai tendu l'oreille.
+Il y avait des oiseaux, quelque part au-dessus de nous. De temps en temps, le vent secouait les branches d'un hêtre et laissait tomber des gouttes sur les feuilles mortes. La forêt n'était pas silencieuse. Pourtant, dans les premières secondes, je n'ai entendu qu'elle.
 
-Pas de moteur. Pas de voix. Pas de pas précipités dans les feuilles.
+Je lui tenais toujours la main.
 
-À côté de moi, Kübra dormait encore, ou faisait semblant. Nous étions blottis dans un creux du terrain, avec nos vêtements pour seule protection. De la terre humide s'était collée au tissu de mon pantalon. Une branche courbe dessinait au-dessus de nous l'ombre d'un toit qui n'existait pas.
+Nos doigts étaient engourdis et sales. J'ignorais à quel moment nous nous étions endormis, ni combien de fois l'un de nous avait sursauté pendant la nuit. Nous avions trouvé ce creux derrière un tronc déraciné après avoir marché jusqu'à ne plus distinguer les arbres. Quelques branches basses nous dissimulaient depuis le chemin. Pour le reste, ce n'était pas un abri. C'était un endroit où deux personnes épuisées avaient fini par s'arrêter.
 
-Je me suis retourné vers elle.
+La lumière du matin filtrait à travers les feuillages.
 
-— Kübra ?
+Kübra a bougé près de moi. Ses yeux se sont ouverts d'un seul coup.
 
-Elle a ouvert les yeux aussitôt.
+— Tugay ?
 
 — Je suis là.
 
-Ces trois mots m'ont soulagé plus que je ne l'aurais admis. Nous n'avions presque rien emporté en quittant le campement. Ni sacs convenablement préparés, ni nourriture, ni eau. Nos mains étaient vides. Et si je faisais l'inventaire de ce qui nous restait, je devais commencer par nous deux.
-
-Elle s'est redressée avec précaution.
+Elle a regardé derrière mon épaule, vers les bois, puis elle a pressé mes doigts un peu plus fort.
 
 — Tu as entendu quelque chose ?
 
-— Non. Justement.
+J'ai secoué la tête.
 
-Dans la nuit, nous avions fui sans chercher à comprendre. Le campement où nous pensions pouvoir tenir quelque temps avait été attaqué. J'avais entendu l'agitation, perçu le danger, puis choisi la seule décision qui me paraissait encore possible : partir avec Kübra. Il n'y avait pas eu de dernière inspection, pas de rangement, pas même le luxe de regarder une fois en arrière pour mémoriser ce que nous abandonnions.
+— Rien qui ressemble à cette nuit.
 
-Au fond, c'était peut-être ce qui me travaillait le plus. Nous avions passé du temps à réunir ces quelques affaires. Chaque objet avait demandé des efforts, parfois des échanges, parfois des heures de recherche. Et nous avions tout laissé derrière nous en quelques instants.
+Elle s'est redressée. Une feuille s'était prise dans ses cheveux. J'ai voulu la retirer, mais ma main s'est immobilisée à mi-chemin. Une image venait de me revenir : une lampe blanche qui balayait notre ancien campement, un choc contre du métal, une voix d'homme.
 
-Kübra suivait mon regard vers les arbres.
+*Ouvrez.*
 
-— Ils peuvent nous avoir suivis ?
+Je ne savais même plus si le mot avait été prononcé exactement comme ça. Dans mon souvenir, les voix se chevauchaient, les pas couraient, quelque chose tombait sur les pavés. Mon esprit en avait fait une seule scène, trop rapide pour que j'en distingue les détails.
 
-— Je ne sais pas.
+— Tu recommences, a dit Kübra.
 
-Je n'ai pas ajouté que je ne savais pas non plus combien ils étaient, ni ce qu'ils voulaient, ni même s'ils avaient vraiment cherché à nous poursuivre. Rien dans le silence des bois ne nous donnait de réponse. Il aurait été facile de remplir ces inconnues avec la peur. La peur, elle, avait toujours une histoire prête.
+— Quoi ?
 
-Je me suis levé.
+— Tu regardes derrière moi comme si quelqu'un allait sortir des arbres.
 
-Mes jambes ont protesté, mais elles me portaient. J'ai vérifié l'état de mes chaussures, puis les vêtements de Kübra. Nous n'avions pas de blessure qui nous empêcherait de marcher. C'était déjà cela.
+Je me suis forcé à la regarder.
 
-— On ne peut pas rester ici, ai-je dit.
+— C'est possible.
 
-Elle a regardé notre maigre refuge : un creux de terre, quelques branches et l'illusion d'avoir échappé au danger.
+— Oui. Mais si ça arrive, je préfère que tu me voies.
 
-— Où est-ce qu'on va ?
+Elle a essayé de sourire. Je connaissais cette façon qu'elle avait de me ramener à elle sans minimiser ce qui nous arrivait. Avant, elle s'en servait quand je restais absorbé par un problème technique jusqu'à oublier de manger. Maintenant, elle l'utilisait pour m'empêcher de rester prisonnier de la nuit précédente.
 
-La question était simple. Je n'avais pas de réponse simple à lui donner.
+J'ai retiré la feuille de ses cheveux.
 
-J'avais grandi dans la région lausannoise. Les quartiers, les pentes, certaines traversées de forêt m'étaient familiers. Mais connaître une ville ne signifie pas pouvoir s'orienter les yeux fermés sous une couverture de feuillages, après une fuite dans l'obscurité. Nous étions quelque part dans les bois au nord de Lausanne. L'ancien camp se trouvait du côté de La Sallaz, avant Sauvabelin. En replaçant mentalement les chemins et le relief, je retrouvais une direction possible.
+— Tu as froid ?
 
-Au sud, il devait y avoir un cours d'eau.
+— Évidemment.
 
-— Je crois qu'on peut rejoindre un ruisseau, ai-je répondu. Si je ne me trompe pas, il est plus bas. On aura au moins de l'eau à portée.
+— J'ai une bonne nouvelle. Moi aussi.
 
-Kübra a passé une main sur son visage.
+Son sourire, cette fois, a tenu une seconde de plus.
 
-— À boire ?
+Nous nous sommes mis debout avec difficulté.
 
-J'ai hésité.
+Mes jambes étaient raides. J'avais la bouche pâteuse, le dos douloureux et les mains si froides que je peinais à les refermer. Kübra a tapoté ses vêtements pour en chasser la terre, puis a vérifié mes manches comme si elle cherchait une déchirure.
 
-— De l'eau, oui. À boire, on verra. Il faudra la traiter.
+— Tu saignes ?
 
-Elle a hoché la tête. Nous avions appris depuis longtemps qu'une eau transparente n'était pas une promesse. On pouvait tomber malade avec un ruisseau qui avait l'air plus propre qu'un verre sorti d'un placard. Le souvenir de l'ancien monde était plein de pièges de ce genre : on avait tellement longtemps tourné un robinet sans y penser qu'on en oubliait la quantité de travail nécessaire pour rendre une eau sûre.
+— Non.
 
-Nous sommes partis.
+— Tu es sûr ?
 
-Il n'y avait pas de sentier net à l'endroit où nous nous trouvions. Le terrain descendait par endroits, puis remontait sur de petites bosses couvertes de racines. Des feuilles anciennes collaient encore au sol. Je choisissais les passages où les branches étaient moins serrées, puis m'arrêtais pour vérifier que Kübra suivait sans difficulté.
+— Je suis surtout sale.
 
-Au bout de quelques minutes, elle m'a demandé :
+— Ça, je l'avais remarqué.
 
-— Tu es sûr de la direction ?
+Nous ne portions que nos vêtements et nos chaussures. Pas de sacs, pas de nourriture, pas de bouteille, pas de couverture. Pas même un couteau.
 
-Je me suis immobilisé et j'ai observé la pente.
+Il m'a fallu quelques instants pour accepter l'évidence. Tout ce que nous avions réussi à réunir depuis la catastrophe se trouvait ailleurs.
 
-— Non. Pas complètement. Mais je préfère avancer avec un repère que tourner autour de nous.
+Ou n'existait déjà plus.
 
-Elle n'a pas discuté. Ce n'était pas parce qu'elle n'avait pas peur. C'était parce que nous savions tous les deux qu'une discussion ne changerait rien au fait que nous n'avions pas d'eau.
+***
 
-Le froid du matin reculait à mesure que nous marchions. Sous mes vêtements, la sueur de la nuit avait séché, laissant une sensation désagréable sur la peau. Je sentais chaque accélération de mon cœur. Une fatigue plus profonde que celle de la course montait maintenant, celle qui attend que le danger immédiat s'éloigne pour réclamer son dû.
+Vingt-deux jours auparavant, le 9 octobre, le monde avait commencé à se défaire.
 
-Je me suis surpris à faire des calculs.
+Pas dans une explosion. Pas sous les images spectaculaires qu'on imaginait autrefois lorsqu'on parlait de fin du monde.
 
-Combien de temps pouvions-nous marcher avant que la soif ne ralentisse vraiment Kübra ? Combien de temps avant de devoir trouver de quoi manger ? Combien d'heures faudrait-il pour construire un abri qui résiste à la pluie ? Je n'avais ni montre fiable ni carte sous les yeux, seulement des estimations qui changeaient à chaque détour.
+Il y avait d'abord eu les coupures.
 
-Kübra s'est arrêtée près d'un arbre renversé.
+Un arrêt de courant plus long que d'habitude. Des téléphones qui captaient un instant, puis plus rien. Les distributeurs automatiques avaient cessé de répondre. Les trains s'étaient immobilisés sur certaines lignes, puis d'autres. Sur les routes de Lausanne, les files de voitures s'allongeaient devant des stations-service dont les pompes ne fonctionnaient plus.
+
+Les informations circulaient mal et se contredisaient. Une panne européenne. Une attaque informatique. Des perturbations atmosphériques. Une opération militaire. Chaque explication avait ses convaincus, mais aucune ne rendait compte de tout.
+
+Je m'étais accroché à ce qui me semblait logique : un réseau défaillant pouvait être réparé, un groupe électrogène pouvait prendre le relais, les équipes d'urgence finiraient par établir des priorités. J'avais passé ma vie à comprendre comment des systèmes s'assemblaient. Je savais qu'une panne pouvait en provoquer dix autres.
+
+Je n'avais pas compris à quelle vitesse dix autres pouvaient en provoquer mille.
+
+Au bout de quelques jours, ce n'étaient plus seulement les appareils qui manquaient. C'étaient les livraisons, les médicaments, le carburant, puis les gens capables de maintenir les services ouverts. Les commerces de certains quartiers fermaient pour se protéger. D'autres restaient accessibles, jusqu'au moment où les rayons se vidaient.
+
+Kübra avait compris avant moi qu'il fallait cesser d'attendre le retour à la normale.
+
+Un soir, à la lumière d'une petite lampe presque déchargée, elle avait posé sur la table les dernières provisions que nous avions rassemblées.
+
+— Tu comptes les boîtes depuis une heure, m'avait-elle dit.
+
+— Il faut savoir combien de jours on tient.
+
+— Et après le dernier jour ?
+
+Je n'avais rien répondu.
+
+— Ce n'est pas une critique, avait-elle ajouté. C'est juste que tu cherches combien de temps on peut rester. Moi, je veux savoir où on ira quand on ne pourra plus.
+
+Nous avions quitté notre logement peu après.
+
+Le premier campement, dans le secteur de La Sallaz, avant les bois de Sauvabelin, n'avait jamais ressemblé à une solution durable. Des bâches, quelques matériaux récupérés, un coin pour dormir, un endroit où réunir les provisions. Nous nous étions convaincus que nous serions moins exposés là qu'au milieu d'immeubles où les portes étaient chaque jour forcées un peu plus souvent.
+
+Pendant plusieurs jours, nous avions amélioré ce refuge avec l'obstination de ceux qui n'ont plus assez d'argent, ni assez d'outils, ni assez de temps, mais qui continuent tout de même.
+
+Kübra avait obtenu de l'eau en parlant à des habitants qui n'auraient probablement rien donné à un inconnu impatient. Elle savait écouter sans se soumettre, négocier sans promettre ce qu'elle ne pouvait pas offrir. Moi, je réparais ce qui pouvait l'être, je traçais des listes, je cherchais des trajets plus discrets pour rapporter les choses lourdes.
+
+Le plus difficile n'était pas de travailler.
+
+C'était de dormir en sachant que quelqu'un pouvait venir prendre le résultat de notre travail.
+
+Dans un angle du camp, derrière une planche, nous gardions une vieille boîte métallique. Elle contenait quelques papiers et divers objets sans utilité immédiate : des clés dont nous ignorions encore les serrures, des notes, un portefeuille noir trouvé dans des affaires récupérées. Je n'avais jamais pris le temps d'en vérifier soigneusement le contenu. Le métal de la boîte me rassurait davantage que ce qu'elle renfermait. C'était une façon dérisoire de croire que certaines choses pouvaient encore être mises à l'abri.
+
+La veille au soir, je m'étais dit que nous devrions la ranger mieux.
+
+Puis la nuit était tombée.
+
+Une lumière avait glissé sur notre bâche.
+
+Il y avait eu une injonction, puis une autre. Des silhouettes près de l'accès, impossibles à compter avec certitude. Un objet avait heurté le sol. Quelqu'un cherchait les provisions ; quelqu'un d'autre criait de ne pas bouger.
+
+Je m'étais retourné vers Kübra.
+
+Elle avait déjà compris.
+
+— Pas par là, avait-elle soufflé.
+
+J'avais regardé le passage que je pensais emprunter. Une lampe venait d'y apparaître.
+
+Kübra m'avait tiré vers l'arrière du camp, derrière une rangée de matériaux posés contre le talus. Nous nous étions glissés dans un passage étroit que nous avions dégagé quelques jours plus tôt pour transporter du bois.
+
+Nous n'avions pas prévu qu'il servirait à fuir.
+
+Je me souvenais de la terre sous mes paumes, du tissu de sa manche que j'avais agrippé, de la peur de faire du bruit. Je me souvenais surtout d'une chose : à un moment, j'avais ralenti.
+
+J'avais pensé à nos affaires.
+
+Aux provisions.
+
+À la boîte métallique.
+
+Kübra avait senti mon hésitation.
+
+— Tugay, maintenant.
+
+Deux mots.
+
+Ils avaient suffi.
+
+Nous avions couru.
+
+Derrière nous, des voix avaient retenti, puis s'étaient éloignées. Nous n'avions pas su si les hommes avaient tenté de nous suivre ou s'ils avaient préféré rester près des réserves. Nous n'avions pas attendu pour le découvrir.
+
+Plus tard, dans l'obscurité, la forêt nous avait accueillis sans nous promettre davantage que la possibilité de nous cacher.
+
+***
+
+— Tu comptes repartir là-bas ?
+
+La question de Kübra m'a ramené au matin.
+
+Nous étions encore près de notre arbre déraciné. Elle m'observait depuis quelques secondes.
+
+— Pas maintenant.
+
+— Ce n'est pas ce que je t'ai demandé.
+
+Je me suis passé une main sur le visage.
+
+— J'y pense.
+
+— Je sais.
+
+Son ton n'était pas accusateur. C'était presque pire. Je ne pouvais même pas me défendre contre une accusation qu'elle ne formulait pas.
+
+— On avait de quoi tenir quelques jours, ai-je dit. Un récipient, des couvertures, les outils… Si tout est encore là…
+
+— Et si ceux qui nous ont chassés sont toujours là ?
+
+Je me suis tu.
+
+— Regarde-moi, Tugay.
+
+J'ai relevé les yeux.
+
+— Je ne dis pas qu'on doit tout abandonner pour toujours. Je dis qu'aujourd'hui, on n'a même pas de quoi boire. Si on repart au camp et qu'on se fait reprendre, on aura risqué nos vies pour des boîtes de conserve qu'on n'aura peut-être plus.
+
+Elle a attendu.
+
+— Trouvons d'abord un endroit où tenir une nuit. Ensuite, on réfléchira.
+
+J'aurais voulu lui répondre que je le savais déjà. Dans ma tête, j'avais même commencé à organiser les étapes : eau, abri, feu, nourriture. Mais je n'avais pas encore renoncé à l'idée absurde de tout récupérer d'un coup.
+
+Elle avait raison.
+
+Je n'aimais pas le reconnaître aussi vite, surtout quand je me sentais impuissant.
+
+— D'accord, ai-je fini par dire.
+
+Kübra a soufflé sur ses doigts pour les réchauffer.
+
+— Et je préfère préciser une chose.
+
+— Quoi ?
+
+— Si tu te mets à me faire un plan de six mois alors qu'on n'a pas pris de petit déjeuner, je te laisse parler tout seul.
+
+J'ai ri malgré moi.
+
+C'était un bruit étrange dans cette forêt.
+
+— Six mois ? Tu me sous-estimes.
+
+— C'est bien ce qui m'inquiète.
+
+Nous avons regardé une dernière fois notre creux de terre. Nous ne laissions derrière nous rien que nous ne puissions retrouver : des feuilles aplaties, quelques branches dérangées. À peine la trace d'une nuit.
+
+J'ai examiné les pentes qui descendaient entre les arbres.
+
+Nous nous trouvions quelque part au nord de Lausanne. Je connaissais ces bois, ou plutôt je connaissais les chemins qu'on y empruntait quand on avait des chaussures propres, un téléphone chargé et la certitude de rentrer chez soi avant la nuit. Je savais où se trouvait Sauvabelin, et je pouvais replacer approximativement le secteur de La Sallaz.
+
+Mais la fuite avait brouillé mes repères.
+
+Au sud, si je ne me trompais pas, il devait y avoir un ruisseau.
+
+Je l'ai dit à Kübra.
+
+Elle a observé la pente, puis le ciel entre les branches.
+
+— Combien de temps ?
+
+— Une demi-heure, peut-être moins.
+
+— Tu le sais ou tu l'espères ?
+
+— Les deux.
+
+Elle a secoué la tête.
+
+— Alors on descend, mais pas par le sentier.
+
+J'ai regardé dans la direction qu'elle désignait. Une bande de sol plus dégagée traversait le sous-bois. À première vue, c'était le passage le plus commode.
+
+— Pourquoi ?
+
+— Parce que c'est le passage le plus commode. Et parce que je ne veux pas qu'on nous voie à cinquante mètres.
+
+Je me suis retourné vers elle. Elle avait le visage tiré par la fatigue, mais ses yeux inspectaient déjà le terrain.
+
+Elle avait peur. Moi aussi.
+
+Seulement, contrairement à moi, elle n'était pas en train de transformer cette peur en calculs sans fin.
+
+Nous avons quitté le creux en restant sous les arbres.
+
+Il était difficile de marcher vite. Certaines racines dépassaient des feuilles comme des câbles tendus. Le sol était gras par endroits. J'évitais les branches qui auraient pu claquer en se brisant, pendant que Kübra cherchait les zones où nous laisserions le moins de traces visibles.
+
+Nous n'étions ni des soldats ni des spécialistes de la fuite.
+
+Nous étions deux personnes qui avaient appris, en quelques semaines, à se méfier de choses dont elles ne s'étaient jamais méfiées auparavant.
+
+Au bout d'un moment, je me suis arrêté.
+
+— Attends.
+
+Kübra s'est immobilisée près de moi.
+
+Devant nous, une zone de terre nue traversait la pente. On y distinguait plusieurs marques de semelles. Elles étaient trop imprécises pour que je puisse savoir quand elles avaient été laissées. L'endroit était peut-être fréquenté depuis des années. Il pouvait aussi avoir servi la veille.
+
+— Tu crois qu'ils sont passés ici ? a demandé Kübra.
+
+— Je n'en sais rien.
+
+Je me suis baissé. La terre était humide. Deux marques se chevauchaient. Impossible d'en tirer davantage.
+
+J'aurais pu faire semblant de les analyser, annoncer une direction, inventer une conclusion qui nous aurait donné l'impression d'être plus en sécurité.
+
+Je me suis redressé.
+
+— On contourne.
+
+Kübra a regardé le terrain sur notre droite.
+
+— Par là. Il y a plus de buissons, mais on peut rester à couvert.
+
+Elle s'est engagée la première.
+
+Je l'ai suivie.
+
+Cette simple inversion m'a frappé. Depuis que nous avions quitté notre logement, j'avais souvent pris la tête, presque sans réfléchir, persuadé de devoir montrer le chemin. Je ne m'étais jamais demandé ce que cela lui coûtait de marcher derrière moi en se demandant si j'avais choisi le bon.
+
+Elle avançait plus lentement que moi, mais regardait mieux. Quand une branche lui barrait le passage, elle la retenait pour me la laisser franchir sans bruit. Quand je prenais trop d'avance, elle me rappelait d'un signe de main.
+
+Nous avons fini par retrouver un terrain plus ouvert.
+
+À mesure que la pente descendait, un son nouveau s'est mêlé au vent.
+
+Je l'ai d'abord pris pour le frottement des feuillages.
+
+Kübra s'est arrêtée.
 
 — Écoute.
 
-Je me suis figé.
-
-Un souffle léger traversait les branches. Au-dessous, autre chose. Un son régulier, presque imperceptible.
-
 Nous avons attendu.
 
-Le bruit était là : un froissement continu, plus fin que celui du vent.
+Un bruit continu courait quelque part en contrebas. Pas très fort. Régulier.
 
 De l'eau.
 
-J'ai senti mes épaules se détendre malgré moi.
+J'ai senti quelque chose se desserrer dans ma poitrine.
 
-— Tu l'entends aussi ?
+— C'est lui, ai-je murmuré.
 
-— Oui.
+— Alors on y est presque.
 
-Nous avons repris la marche, plus vite d'abord, puis en ralentissant à l'approche de la berge. J'avais beau chercher de l'eau, je ne voulais pas déboucher à découvert sans regarder.
+Nous avons repris la marche.
 
-Au bout d'environ vingt-cinq minutes depuis notre départ, les arbres se sont espacés. Une bande plus claire apparaissait entre les troncs. Le ruisseau coulait là, au pied d'une petite pente, avec des pierres sombres sous une eau qui semblait limpide.
+Depuis notre départ, il s'était écoulé à peu près vingt-cinq minutes. Je ne pouvais pas le vérifier, mais mes jambes me disaient que nous n'avions pas parcouru beaucoup plus. Les arbres s'espaçaient progressivement. Entre deux troncs, une bande de lumière mouvante apparaissait.
 
-Kübra a laissé échapper un souffle.
+Le ruisseau.
 
-— Enfin.
+J'ai accéléré le pas.
 
-Je me suis accroupi près du courant. Le bruit était maintenant assez fort pour couvrir celui de nos pas. Un peu plus loin, la berge s'enfonçait sous des buissons. D'autres branches surplombaient une portion plus large, presque immobile.
+Kübra m'a saisi la manche.
 
-J'ai plongé mes mains dans l'eau.
+— Doucement.
 
-Elle était froide au point de faire mal. Je l'ai laissée s'écouler entre mes doigts sans la porter à ma bouche.
+— Quoi ?
 
-Kübra s'est agenouillée à côté de moi.
+Elle m'a montré la berge.
 
-— On pourrait peut-être en boire juste un peu.
+L'eau était visible depuis plusieurs mètres. Cela signifiait que nous le serions aussi si nous descendions sans regarder.
 
-Je l'ai regardée. Sa gorge était sèche, comme la mienne. La tentation était immense.
+Nous avons pris quelques secondes pour observer les alentours.
 
-— Pas encore, ai-je répondu.
+Personne.
 
-Je craignais qu'elle prenne ces mots pour de l'entêtement. Moi-même, je les trouvais cruels. Mais je préférais supporter quelques heures de soif plutôt que risquer de nous retrouver tous les deux incapables de marcher.
+Pas de mouvement sur l'autre rive. Pas de voix. Pas de véhicule. Le courant glissait entre des pierres sombres et des branches échouées. Une partie de la berge était couverte de feuilles mouillées ; plus loin, des buissons plongeaient presque dans l'eau.
 
-— Il nous faut un récipient. Et de quoi faire du feu.
+Enfin, nous sommes descendus.
 
-Elle a observé la forêt derrière nous.
+Je me suis agenouillé et j'ai plongé les mains dans le courant.
 
-— Alors on commence par quoi ?
+Le froid m'a fait sursauter.
 
-C'était la première fois depuis notre fuite que la question avait la forme d'un véritable projet.
+J'ai laissé l'eau couler entre mes doigts. Elle était transparente. Je voyais chaque caillou sur le fond.
 
-Je me suis relevé et j'ai scruté les alentours.
+Je voulais boire.
 
-Un cours d'eau pouvait attirer des animaux. Il pouvait attirer des gens aussi. L'endroit où nous avions posé les genoux était facile à atteindre et assez visible depuis la rive opposée. J'avais besoin d'un emplacement plus discret, pas trop loin de l'eau, où nous pourrions déposer ce que nous trouverions sans surveiller constamment les deux côtés du ruisseau.
+Pas goûter, pas réfléchir, pas examiner : boire jusqu'à ce que ma gorge cesse de brûler.
 
-— On va chercher un coin pour s'abriter. Un peu à l'écart. Ensuite, on verra ce qu'on peut récupérer autour.
+J'ai porté mes mains vers mon visage.
 
-Kübra a étudié le terrain pendant que je parcourais quelques mètres sous les arbres. Elle a fini par montrer une zone où le sol remontait légèrement.
+— Attends.
 
-— Là-haut ? On entendrait encore l'eau.
+Kübra venait de s'accroupir à côté de moi.
 
-Je l'ai rejointe.
+J'ai arrêté mon geste.
 
-L'endroit n'avait rien d'extraordinaire : quelques troncs, des branches basses, une terre assez ferme et des buissons qui coupaient une partie de la vue. Mais il offrait une chose précieuse : nous pouvions nous y arrêter sans nous installer au beau milieu d'un passage évident.
+— Tu sais ce que tu allais me dire il y a dix minutes ? a-t-elle demandé.
 
-— Ça fera l'affaire pour aujourd'hui.
+J'ai regardé l'eau qui s'échappait de mes mains.
 
-Elle a souri, très légèrement.
+— Qu'il fallait la traiter.
 
-— Tu dis ça comme si on avait visité dix maisons.
+— Voilà.
 
-— On n'a pas vraiment le choix du quartier.
+Elle ne souriait plus.
 
-Elle a ri une seconde. Un petit rire fatigué, presque surpris d'exister. Il m'a donné envie de rire aussi.
+Nous sommes restés un moment à observer le courant. Dans le monde d'avant, il aurait suffi de rentrer, de tourner un robinet, d'attendre quelques secondes. Là, nous avions trouvé ce dont nous avions le plus besoin, sans pouvoir encore nous en servir.
 
-Nous avons commencé à déplacer les branches tombées, à dégager un espace à peu près plat. Rien qui ressemble à une construction digne de ce nom. Nous faisions seulement ce que nous pouvions avec nos mains, sans corde solide ni outil convenable. Kübra ramassait le bois utile tandis que j'essayais d'imaginer comment orienter un abri contre le vent. Chaque fois que je pensais avoir trouvé une solution, je découvrais ce qui me manquait pour la réaliser.
-
-Une ficelle.
-
-Une lame.
-
-Une couverture.
-
-Un simple récipient.
-
-Dans l'ancien monde, ces choses avaient tenu dans des tiroirs dont on oubliait le contenu. Ici, chacune pouvait décider de notre confort, de notre sommeil ou de notre santé.
-
-À un moment, je me suis arrêté pour regarder ce que nous avions fait.
-
-Pas grand-chose.
-
-Quelques branches posées les unes contre les autres. De la place pour nous asseoir. Un peu d'ombre. Un semblant de séparation entre les bois et nous.
-
-Kübra m'a rejoint avec une poignée de brindilles sèches.
-
-— Tu penses qu'on sera tranquilles cette nuit ?
-
-Je n'ai pas cherché à la rassurer avec une certitude inventée.
-
-— Je pense qu'on sera moins visibles qu'au bord de l'eau. Pour le reste, on verra.
-
-Elle a posé les brindilles au sec, sous la partie la mieux protégée de notre installation.
-
-— Alors il faut continuer avant que la lumière baisse.
-
-Je l'ai regardée se remettre au travail. Elle avait raison. Nous ne pouvions pas attendre qu'un plan parfait se présente. Il fallait faire quelque chose, mesurer ce qui manquait, puis recommencer.
-
-Il y a eu un instant, très bref, où j'ai cessé de penser au camp attaqué.
-
-J'ai entendu le ruisseau derrière les arbres. Les brindilles craquaient sous les pas de Kübra. Au-dessus de nous, un rayon de soleil atteignait enfin le sol.
-
-Nous n'étions pas sauvés.
-
-Nous n'avions rien à manger, rien de potable à boire, pas de vrai toit. Nous ne savions pas qui occupait encore les maisons voisines ni si quelqu'un suivait notre piste.
-
-Pourtant, en observant cet endroit minuscule que nous commencions à transformer, j'ai compris une chose.
-
-Nous avions cessé de fuir.
-
-Pour la première fois depuis la nuit précédente, nous étions en train de nous installer quelque part.
-
-Je me suis accroupi pour rassembler le petit tas de bois sec que Kübra avait constitué.
-
-— Bon, ai-je dit. Maintenant, il nous faut du feu.
-
-Elle s'est assise près de moi, les mains encore couvertes de terre.
+— On peut peut-être filtrer avec du tissu, ai-je dit.
 
 — Et après ?
 
-J'ai regardé vers les arbres, puis vers la bande argentée du ruisseau qu'on distinguait à peine.
+J'ai hésité.
 
-— Après, on trouvera comment tenir jusqu'à demain.
+— Après, il faut la chauffer. La faire bouillir.
 
-C'était une réponse bien modeste.
+— Donc il nous faut un récipient, et du feu.
 
-À cet instant, c'était tout l'avenir dont nous disposions.
+— Oui.
+
+Elle s'est passée de l'eau sur les mains et le visage, puis s'est redressée. Ce geste minuscule avait presque quelque chose de luxueux.
+
+— Très bien. Alors on sait ce qu'on cherche.
+
+J'ai rincé mes doigts à mon tour.
+
+La soif n'en était que plus insupportable.
+
+Nous avons remonté la berge de quelques pas pour regarder les alentours. Je pensais déjà aux maisons qui devaient exister au-delà de la forêt, aux casseroles oubliées dans des placards, aux outils qu'on aurait pu récupérer. Mais chaque perspective supposait une autre décision : où poser nos affaires, comment ne pas être vus, comment revenir sans nous perdre.
+
+Kübra avait les yeux fixés sur une petite élévation du terrain, en retrait du ruisseau.
+
+— Là-haut.
+
+J'ai suivi son regard.
+
+Derrière une rangée de buissons, la terre formait un replat. Un grand arbre couché le bordait sur un côté. On entendait toujours l'eau, mais on ne voyait presque plus la berge. Le sol semblait moins exposé au passage et une partie des branches coupait le vent.
+
+— Pourquoi là ?
+
+— Parce qu'on sera assez près pour revenir chercher de l'eau, mais pas assez près pour être les premiers qu'on aperçoit en arrivant au ruisseau.
+
+Elle a fait quelques pas pour vérifier l'accès. Je l'ai regardée contourner les buissons, tester la stabilité du terrain et revenir.
+
+— Et le sol est plus haut. S'il pleut, on ne dormira pas dans l'eau.
+
+Je me suis surpris à sourire.
+
+— Tu as pensé à tout.
+
+— Non. J'ai pensé à deux choses. C'est déjà mieux que rien.
+
+Nous nous sommes assis un instant sur le tronc couché.
+
+J'avais envie de fermer les yeux. La fatigue venait d'un coup, lourde comme si j'avais porté quelque chose pendant des kilomètres. Kübra a posé sa tête contre mon épaule.
+
+Je l'ai entourée d'un bras.
+
+Nous sommes restés ainsi sans parler.
+
+Dans les semaines précédentes, nous avions beaucoup parlé de ce qu'il fallait faire. Où trouver des provisions, combien de temps durerait une batterie, quel chemin éviter. Nous avions de moins en moins parlé de nous.
+
+Je me suis demandé à quand remontait notre dernière soirée normale. Pas une soirée parfaite, seulement une soirée où nous avions pu laisser une assiette dans l'évier sans nous demander si nous aurions assez d'eau pour la laver.
+
+— Je suis désolé, ai-je dit.
+
+Elle a relevé la tête.
+
+— De quoi ?
+
+— Du camp. Je voulais qu'on reste. Je pensais qu'on pourrait le rendre suffisamment sûr.
+
+— Moi aussi, j'ai voulu y croire.
+
+— J'aurais dû prévoir…
+
+— Tugay.
+
+Je me suis arrêté.
+
+— Tu peux prévoir un mur qui tient ou qui casse, un câble trop court, une batterie qui se vide. Tu ne peux pas prévoir ce que des inconnus décideront de faire au milieu de la nuit.
+
+J'ai baissé les yeux vers mes mains.
+
+— Ça ne nous rend pas nos affaires.
+
+— Non.
+
+Elle a laissé passer un moment, puis a ajouté :
+
+— Mais ça nous laisse la possibilité d'en trouver d'autres.
+
+Je l'ai regardée.
+
+— Tu dis ça comme si on allait faire les courses.
+
+— J'aimerais beaucoup. Je prendrais d'abord du pain, puis quelque chose de chaud.
+
+— Et un café.
+
+— Surtout un café.
+
+Nous avons ri doucement. Le rire s'est éteint presque aussitôt, remplacé par la faim et le bruit du ruisseau. Mais je me suis rendu compte que je n'avais pas pensé à ceux qui nous avaient attaqués pendant plusieurs minutes.
+
+Kübra s'est levée.
+
+— Bon. Il faut choisir.
+
+— Choisir quoi ?
+
+— On reste ici à regarder l'eau, ou on commence à préparer quelque chose avant qu'il fasse nuit ?
+
+Je me suis redressé à mon tour.
+
+— On prépare quelque chose.
+
+Elle a montré le replat derrière les buissons.
+
+— Alors ce sera là. Pas plus près du ruisseau. Et on ne se sépare pas tant qu'on ne sait pas ce qu'il y a autour.
+
+— D'accord.
+
+— Vraiment ?
+
+— Vraiment.
+
+Nous avons commencé par regarder les branches tombées autour de nous. Il nous faudrait un abri, même sommaire. Il nous faudrait surtout trouver un moyen d'allumer du feu. Je savais fabriquer un archet à friction, du moins j'en connaissais les gestes, mais le connaître ne signifiait pas qu'il fonctionnerait à la première tentative avec du bois humide et des mains gelées.
+
+Kübra s'est penchée pour ramasser une poignée de brindilles protégées par un tronc.
+
+— Celles-ci sont plus sèches, a-t-elle dit.
+
+Elle les a placées à l'abri des gouttes.
+
+Je l'ai rejointe.
+
+Autour de nous, la forêt continuait de vivre sans se soucier des pannes, des routes bloquées, des assaillants ou de l'ancien monde qui s'effondrait. Elle ne nous offrait ni plan ni garantie.
+
+Nous n'avions pas de nourriture. Pas d'eau potable. Pas de véritable toit.
+
+Nous ne savions pas ce qu'il était advenu du campement.
+
+Mais nous étions ensemble, et pour la première fois depuis la veille, nous avions un endroit où revenir.
+
+Kübra a déposé sa poignée de bois près de mes pieds.
+
+— Alors, monsieur les plans et les calculs, a-t-elle demandé, quelle est la première étape ?
+
+J'ai regardé les brindilles.
+
+Puis les arbres.
+
+Puis elle.
+
+— Faire du feu.
+
+— Très bien, a-t-elle répondu. Cette fois, on s'y met à deux.
+
+Et nous avons commencé.
