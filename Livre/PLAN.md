@@ -1,6 +1,6 @@
 # RUPTURE — Plan du roman (58 chapitres)
 
-**Architecture révisée : 10 parties, 58 chapitres.** Cible indicative : **135 000–165 000 mots** (~2 200–2 700 mots/chapitre, certains chapitres charnières plus longs), pagination à déterminer selon la maquette.
+**Architecture révisée : 10 parties, 58 chapitres.** **Nouvelle consigne de longueur (décision de novembre 2026) : au moins 10 000 mots de récit par chapitre à partir du chapitre 40**, hors métadonnées YAML. Les chapitres 35–39, actuellement plus courts, sont à enrichir lors d'une révision ultérieure. L'ancienne cible globale de 135 000–165 000 mots est caduque ; recalculer le volume final après révision. La pagination dépendra de la maquette.
 
 **Canon littéraire :** Rupture en 2026, Kübra co-protagoniste, OCB / AURORE, PhenixCoin seul, immortalité permanente, Vaeloriens responsables des resets, **Tugay et Kübra préservés accidentellement et projetés des siècles plus tard dans l'itération 52 826 323**, bouclier temporel, immortalité généralisée, guerre intergalactique et révélation du **futur Tugay derrière le premier contact**.
 
