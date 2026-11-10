@@ -1961,6 +1961,8 @@ Le système se maintenait sans nouvelle excitation Q-EUV.
 
 Sans injection.
 
+Sans aucune nouvelle dose.
+
 Sans retour périodique au laboratoire.
 
 Le cœur avait été consommé.
