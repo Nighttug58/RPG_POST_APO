@@ -542,3 +542,598 @@ Il m'a fallu quelques minutes pour comprendre qu'elle ne parlait pas seulement d
 
 Elle parlait de moi.
 
+
+***
+
+*18 août 2082 — La ville aux deux âges*
+
+Le débat public a commencé par une question d'urbanisme.
+
+Je m'attendais à ce qu'on nous parle immédiatement de l'immortalité, de la mort et des limites du corps humain. À la place, une responsable de l'aménagement urbain a projeté le plan d'un quartier de Lausanne.
+
+Il comportait des logements, des écoles, des espaces de soin, des commerces et plusieurs bâtiments en cours de rénovation.
+
+— Si les habitants restent biologiquement jeunes plus longtemps, a-t-elle expliqué, certaines habitudes d'occupation des logements vont changer. Cela ne signifie pas que les bâtiments deviendront éternels.
+
+Une économiste assise à côté d'elle a ajouté :
+
+— Et cela ne signifie pas non plus que les gens cesseront de mourir. Les accidents, les violences et les autres causes de décès restent possibles. Il faut distinguer une prolongation considérable de la vie biologique d'une invulnérabilité qui n'existe pas.
+
+J'ai observé les chiffres.
+
+Ils présentaient plusieurs scénarios.
+
+Dans l'un, Genesis-S se diffusait progressivement, permettant aux personnes qui le souhaitaient de retrouver leur jeunesse à intervalles choisis. Dans un autre, l'hypothèse d'une reproduction future de l'ancrage autonome ouvrait la possibilité d'un vieillissement durablement arrêté pour un nombre croissant de volontaires.
+
+Les deux situations étaient différentes.
+
+La première concernait un traitement réel, dont la production progressait.
+
+La seconde concernait une technologie encore inaccessible au-delà de mon cas.
+
+Le graphique ne prétendait pas dire ce qui allait arriver.
+
+Il montrait ce qui pourrait devenir difficile si les décisions publiques étaient prises comme si l'avenir était déjà certain.
+
+***
+
+Une urbaniste a présenté un exemple.
+
+Dans une ville où les personnes vieillissaient normalement, une partie des logements changeait d'occupants au fil des décennies. Certaines familles déménageaient, d'autres transmettaient un logement, les générations suivantes trouvaient parfois une place dans un quartier devenu trop cher pour elles.
+
+Si davantage de personnes vivaient cent cinquante ou deux cents ans, certaines conserveraient leur logement beaucoup plus longtemps.
+
+— Ce n'est pas nécessairement un problème, a précisé l'urbaniste. C'est aussi la possibilité pour les habitants de garder leur maison, leur quartier et leurs relations. Mais si l'offre reste rigide et si les patrimoines se concentrent, les nouveaux arrivants risquent de ne plus pouvoir s'installer.
+
+Un représentant des locataires a demandé :
+
+— Vous voulez donc forcer les gens à déménager lorsqu'ils auront vécu trop longtemps ?
+
+— Non, a répondu l'urbaniste. Je veux qu'on arrête de croire qu'un problème de logement se résout en décidant qui aurait trop vécu. La construction, la rénovation et les droits d'occupation doivent être pensés ensemble.
+
+Une femme au fond de la salle a levé la main.
+
+— Et si les propriétaires peuvent garder leurs biens pendant des siècles, qui pourra encore acheter ?
+
+L'économiste a répondu que les règles de transmission, la fiscalité des patrimoines, la concurrence et la production de nouveaux logements auraient une importance croissante.
+
+Elle n'a pas proposé un impôt magique.
+
+Elle a expliqué que plusieurs modèles produisaient des effets opposés selon les territoires.
+
+Dans certains, la longévité permettait de conserver des compétences et des investissements utiles.
+
+Dans d'autres, elle rendait les positions acquises presque impossibles à contester.
+
+Je regardais les simulations.
+
+Je savais parfaitement ce que signifiait conserver une position acquise.
+
+Mon propre patrimoine provenait de décennies de travail, de placements et de la fortune réalisée avec PhenixCoin.
+
+Je possédais davantage que ce dont j'aurais jamais besoin pour vivre.
+
+Je ne pouvais pas faire semblant d'être étranger à cette question.
+
+***
+
+À la pause, une jeune femme s'est approchée.
+
+Elle s'appelait **Noémie**, et elle étudiait l'architecture.
+
+— Vous êtes Tugay, n'est-ce pas ?
+
+J'ai acquiescé.
+
+— Mon professeur parle souvent de la reconstruction de Lausanne.
+
+Je l'ai remerciée.
+
+Elle a hésité, puis m'a demandé :
+
+— Vous avez acheté des immeubles avec votre fortune ?
+
+— Certains projets de notre fondation ont financé des bâtiments et des équipements. Notre patrimoine privé comporte aussi des placements, mais je ne pourrais pas vous donner chaque détail de mémoire.
+
+Elle a hoché la tête.
+
+— Vous imaginez ce que ça ferait si des gens comme vous pouvaient garder leurs propriétés pendant trois cents ans sans jamais perdre leur jeunesse ?
+
+J'ai pensé à lui répondre que l'ancrage n'existait que pour moi.
+
+Mais ce n'était pas sa question.
+
+Elle parlait du monde qui pourrait apparaître si la technologie devenait reproductible.
+
+— Ce serait une question difficile, ai-je dit.
+
+Elle a souri, sans méchanceté.
+
+— C'est ce que disent les propriétaires lorsqu'ils n'ont pas envie de parler des loyers.
+
+J'ai senti mes joues chauffer.
+
+Puis j'ai éclaté de rire.
+
+— Vous avez raison de me reprendre.
+
+Elle a semblé surprise.
+
+Je lui ai proposé de lui envoyer les travaux publics de la Fondation des Passages sur les logements accessibles, sans lui demander de passer par moi.
+
+Elle a accepté.
+
+Avant de partir, elle a ajouté :
+
+— Vous savez, je ne suis pas contre le fait de vivre longtemps. Je voudrais juste que les gens qui arrivent après aient encore un endroit où commencer.
+
+J'ai regardé sa silhouette disparaître.
+
+Je me suis demandé depuis combien de temps je n'avais pas formulé l'avenir autrement qu'à partir de ma propre vie.
+
+***
+
+L'après-midi, les discussions ont porté sur la démographie.
+
+Une chercheuse a commencé par une mise en garde :
+
+— Nous ne savons pas combien de personnes choisiront Genesis-S à long terme. Nous ne savons pas non plus si l'ancrage permanent sera un jour reproductible. Toute projection qui présente un chiffre unique comme une certitude n'est pas sérieuse.
+
+Elle a décrit plusieurs trajectoires possibles.
+
+Dans certaines régions, l'allongement de la vie entraînerait une croissance de population, surtout si les naissances restaient nombreuses et les ressources limitées.
+
+Dans d'autres, les familles pourraient choisir autrement, les migrations modifieraient les équilibres et la transition démographique continuerait d'évoluer sans pouvoir être attribuée à un seul traitement.
+
+Des territoires auraient besoin d'accueillir davantage d'habitants.
+
+D'autres seraient déjà en difficulté pour fournir de l'eau, de l'énergie ou des logements.
+
+— Il n'existe pas un seul modèle mondial, a-t-elle conclu. Et il serait dangereux de traiter la liberté des personnes comme une variable que l'on corrige d'un simple trait de crayon.
+
+Un responsable politique a proposé de limiter le nombre d'enfants autorisés aux personnes ayant reçu un éventuel ancrage.
+
+La salle s'est agitée.
+
+Une représentante d'une association familiale a demandé :
+
+— Pourquoi la possibilité de vivre longtemps donnerait-elle à l'État le droit de contrôler les naissances ?
+
+Le responsable a répondu qu'il fallait anticiper les contraintes.
+
+Kübra, assise parmi les intervenants, a pris la parole.
+
+— Anticiper n'autorise pas toutes les méthodes. Nous pouvons discuter de ressources, d'éducation, d'accès à la contraception, de droits des enfants et de choix volontaires. Mais une obligation biologique imposée à des personnes parce qu'elles ont reçu un traitement créerait une société où la médecine deviendrait un instrument de contrôle.
+
+Un économiste a objecté que certaines contraintes matérielles étaient réelles.
+
+Elle lui a donné raison.
+
+Puis elle a ajouté :
+
+— Leur réalité rend précisément nécessaire une discussion démocratique. Pas un raccourci coercitif.
+
+Je l'ai regardée.
+
+Je pensais aux premières années où nous avions dû compter chaque ration.
+
+Nous aurions pu décider qu'un nouvel arrivant ne méritait pas d'avoir des enfants parce que nos réserves étaient limitées.
+
+Nous ne l'avions pas fait.
+
+Je savais pourquoi.
+
+Une communauté qui se protège en retirant aux autres leur droit de vivre finit par ressembler davantage à une forteresse qu'à un village.
+
+***
+
+Le soir, Kübra et moi avons dîné dans un petit restaurant.
+
+Nous n'avions pas besoin de choisir des plats adaptés à notre ancien âge, mais nous continuions parfois à demander ceux que nous connaissions depuis des décennies.
+
+Elle a pris un plat de légumes.
+
+J'ai choisi du poisson.
+
+Pendant quelques minutes, nous avons parlé des saveurs, des voyageurs autour de nous et d'un serveur qui semblait reconnaître la couverture de notre livre sur le terminal de caisse.
+
+Puis je suis revenu à la réunion.
+
+— Tu crois vraiment que les gouvernements ne chercheront pas à limiter les naissances si tout le monde devient immortel ?
+
+Kübra a posé sa fourchette.
+
+— Certains pourraient essayer. D'autres défendraient des solutions différentes. C'est précisément pourquoi nous ne devons pas attendre que tout soit décidé dans l'urgence.
+
+— Il y aura des limites matérielles.
+
+— Oui.
+
+— Et elles ne disparaîtront pas parce qu'on parle de liberté.
+
+Elle a acquiescé.
+
+— Mais une limite matérielle n'est pas un permis général pour choisir qui a le droit d'exister.
+
+Je me suis adossé.
+
+Je cherchais une contradiction.
+
+Je n'en ai pas trouvé.
+
+Elle a ajouté :
+
+— Tu peux financer des modèles, des infrastructures et des études indépendantes. Tu peux soutenir des discussions où les gens concernés ont une voix. Mais tu ne peux pas appeler protection de l'humanité le fait de décider seul de ce que les autres pourront faire de leur corps.
+
+J'ai regardé par la fenêtre.
+
+La ville était pleine de personnes qui ignoraient peut-être jusqu'au nom de l'institut.
+
+Je les enviais parfois.
+
+Leur vie ne tournait pas autour de la question de savoir si une signature Qν pouvait être perçue ailleurs.
+
+Mais leurs choix allaient pourtant être influencés par les décisions que nous prendrions.
+
+C'était peut-être cela, le véritable poids de notre découverte.
+
+***
+
+*29 août 2082 — L'homme qui ne voulait pas partir*
+
+La question du pouvoir a été posée par un maire.
+
+Il n'était pas particulièrement âgé, et il ne semblait pas hostile à Genesis-S.
+
+Il expliquait simplement que plusieurs fonctions publiques avaient été organisées autour de durées limitées.
+
+Des mandats.
+
+Des élections.
+
+Des règles de succession.
+
+Des périodes pendant lesquelles une personne pouvait diriger avant de laisser la place à quelqu'un d'autre.
+
+— Si un dirigeant reste biologiquement jeune pendant deux siècles, a-t-il demandé, pourquoi accepterait-il encore de partir ?
+
+Une juriste lui a répondu que la durée d'un mandat n'avait jamais eu besoin d'être égale à la durée de vie de celui qui l'exerçait.
+
+Un professeur a rappelé que les institutions pouvaient prévoir des limites de mandat, des contrôles et des renouvellements indépendamment de l'âge biologique.
+
+Le maire a souri.
+
+— Sur le papier, oui. Mais nous savons tous qu'un responsable expérimenté peut accumuler des relations, des ressources et des moyens d'influence en dehors de son mandat.
+
+Je me suis souvenu de 2052.
+
+On m'avait demandé de me présenter à la présidence de l'instance européenne de coopération.
+
+J'avais refusé.
+
+Ce refus m'avait semblé un choix personnel.
+
+Je comprenais maintenant qu'il portait aussi sur une question plus large : à quel moment fallait-il accepter que d'autres décident à notre place ?
+
+***
+
+Après la séance, le maire est venu me parler.
+
+Il m'a demandé si je comptais reprendre des fonctions.
+
+— Non, ai-je répondu.
+
+— Vous êtes pourtant le seul homme dont le vieillissement soit arrêté.
+
+— Ce n'est pas une compétence politique.
+
+Il a ri.
+
+— Vous seriez surpris du nombre de gens qui pensent le contraire.
+
+Nous avons marché jusqu'à la sortie.
+
+Il m'a expliqué que plusieurs responsables locaux commençaient à évoquer des « conseils de continuité » composés de personnes ayant reçu Genesis-S.
+
+Leur argument était simple : une personne qui avait traversé plusieurs décennies pouvait éviter de répéter des erreurs.
+
+Je ne contestais pas cette valeur de l'expérience.
+
+Mais j'ai demandé :
+
+— Et si ces conseils finissent par ne plus écouter ceux qui n'ont pas vécu la même histoire ?
+
+Le maire a réfléchi.
+
+— Alors ils deviendraient des instruments de conservation du pouvoir.
+
+J'ai acquiescé.
+
+— Nous avons besoin de mémoire. Pas de propriétaires du futur.
+
+Il a répété la phrase.
+
+Je l'ai regretté immédiatement.
+
+Elle avait le genre de forme qu'un journal pouvait transformer en déclaration politique.
+
+Il m'a promis de ne pas l'utiliser sans contexte.
+
+Je l'ai cru.
+
+Je savais pourtant qu'aucune promesse n'empêchait toujours une phrase de vivre sa propre vie.
+
+***
+
+Le soir, Mira est passé chez nous.
+
+Il avait reçu Genesis-S l'année précédente. Son corps paraissait jeune. Pourtant, lorsqu'il s'asseyait dans mon ancien fauteuil, je retrouvais le même homme qui discutait avec moi depuis des décennies.
+
+Il avait apporté une bouteille de jus de fruit et quelques pâtisseries.
+
+— Lina travaille tard, a-t-il expliqué. Elle m'a demandé de te dire qu'elle a lu ton projet de suspension.
+
+Je me suis préparé à une critique.
+
+— Et ?
+
+— Elle pense que tu as mélangé une question de sûreté physique avec une politique de distribution médicale.
+
+J'ai soupiré.
+
+— Tout le monde semble avoir le même avis.
+
+Mira a posé les pâtisseries.
+
+— Tu trouves ça suspect ?
+
+Je l'ai regardé.
+
+Il avait ce sourire tranquille qui me rappelait Kübra.
+
+— Non.
+
+Il s'est assis.
+
+— Alors pourquoi tu résistes autant ?
+
+J'ai pris une tasse.
+
+— Parce que j'ai peur que nous ayons fait quelque chose de visible au-delà de ce que nous savons mesurer.
+
+Mira a attendu.
+
+— Tu parles des anomalies Qν ?
+
+J'ai acquiescé.
+
+— Et des effets de ton ancrage ?
+
+— Oui.
+
+Il a posé sa tasse.
+
+— Est-ce que les chercheurs connaissent tout ce qui t'inquiète ?
+
+Je n'ai pas répondu immédiatement.
+
+Il a compris.
+
+Je le voyais à son expression.
+
+— Papa, a-t-il dit, je ne te demande pas si tu as raison d'avoir peur. Je te demande si tu as donné aux personnes compétentes tous les éléments dont tu disposes.
+
+Je me suis levé pour aller chercher du café.
+
+Ce mouvement était devenu une manière de gagner du temps.
+
+Mira ne m'a pas arrêté.
+
+Il a simplement attendu que je revienne.
+
+***
+
+Je lui ai raconté l'avis demandé à Aline Gerber.
+
+Je n'ai pas ouvert la chemise violette.
+
+Je lui ai expliqué l'existence de la note, sa prudence, son absence de conclusion sur un observateur extérieur et la recommandation de recourir aux procédures collectives.
+
+Mira m'a regardé avec une déception qui m'a fait mal.
+
+— Tu l'avais avant ton ancrage ?
+
+— Oui.
+
+— Et tu ne l'as pas transmise à Sofia ?
+
+— Non.
+
+Il a baissé les yeux.
+
+— Pourquoi ?
+
+Je lui ai parlé de la peur d'une panique inutile, du fait que Sofia travaillait déjà sur le risque, de mon souhait d'attendre des données plus solides.
+
+Il a écouté.
+
+Puis il a demandé :
+
+— Est-ce que tu aurais accepté qu'un responsable d'atelier te cache un avis de sécurité parce qu'il pensait que tu avais déjà suffisamment de problèmes ?
+
+Je n'ai pas répondu.
+
+Il savait que je ne l'aurais pas accepté.
+
+Il a poursuivi :
+
+— Tu as peut-être raison sur certains dangers. Mais tu as choisi tout seul quelles informations méritaient d'entrer dans les décisions des autres. C'est exactement ce que tu dis vouloir empêcher.
+
+Je me suis assis.
+
+Mira a posé une main sur mon bras.
+
+— Je t'aime. Mais je ne peux pas t'aider à défendre une interdiction générale si tu refuses de respecter les procédures qui permettraient de l'évaluer.
+
+Je l'ai regardé.
+
+Je connaissais sa franchise depuis qu'il était adolescent.
+
+Je savais qu'il ne parlait pas pour me faire honte.
+
+Et c'est précisément pour cela que ses mots me touchaient.
+
+***
+
+Après son départ, je suis allé dans mon bureau.
+
+J'ai ouvert la chemise violette.
+
+La note d'Aline n'était pas longue.
+
+Elle ne contenait aucun secret scientifique.
+
+Elle décrivait un cadre de réflexion sur des risques hypothétiques.
+
+J'aurais pu la transmettre depuis des mois.
+
+Je me suis installé devant mon terminal.
+
+J'ai commencé un message à Sofia.
+
+*J'ai demandé un avis extérieur en juin 2080 au sujet de la gestion de risques liés à des corrélations non locales. J'aurais dû vous signaler son existence avant les revues scientifiques et la décision concernant l'ancrage. Je souhaite désormais le transmettre pour qu'il soit examiné dans le cadre approprié.*
+
+J'ai relu la phrase.
+
+Elle était exacte.
+
+Elle était aussi insuffisante.
+
+J'ai ajouté :
+
+*Je ne l'ai pas fait plus tôt parce que j'ai eu peur de ce que cette discussion pourrait entraîner. C'était une erreur de jugement.*
+
+J'ai regardé le bouton d'envoi.
+
+Puis j'ai fermé la fenêtre.
+
+Je n'avais toujours pas envoyé le message.
+
+Je me suis détesté pour cela.
+
+Le corps d'un homme de vingt-cinq ans ne me donnait aucune excuse.
+
+***
+
+*12 septembre 2082 — Les héritages qui ne passent plus*
+
+La Fondation des Passages a consacré une séance de travail aux conséquences économiques d'une longévité très prolongée.
+
+Je n'en étais plus le dirigeant.
+
+Je participais en tant que donateur et ancien membre du programme, avec les limitations prévues pour éviter que mon argent se transforme en vote supplémentaire.
+
+Un économiste a présenté un problème qui paraissait d'abord technique.
+
+Il concernait la transmission des patrimoines.
+
+Depuis des siècles, les sociétés avaient organisé des règles autour de la naissance, du travail, de la retraite, de la mort et de l'héritage. Ces règles avaient changé de nombreuses fois, mais elles supposaient presque toujours que la plupart des personnes cesseraient un jour de posséder leurs biens.
+
+Une longévité très étendue pouvait transformer cet équilibre.
+
+Une personne bénéficiant de revenus importants pendant deux cents ans pourrait accumuler des actifs considérables, même sans fraude ni volonté particulière de dominer les autres.
+
+Les générations suivantes pourraient devenir adultes sans jamais recevoir de transmission familiale.
+
+Certaines personnes pourraient choisir de donner de leur vivant.
+
+D'autres ne le feraient pas.
+
+La concentration des fortunes dépendrait alors des lois, des marchés, de la fiscalité, des choix privés et de la création de nouveaux biens.
+
+L'économiste a conclu :
+
+— La longévité n'invente pas l'inégalité. Elle peut lui donner une durée nouvelle.
+
+J'ai senti les regards se tourner vers moi.
+
+Je possédais toujours une fortune issue de mes anciennes activités et des ventes de PhenixCoin.
+
+Et je venais de devenir, biologiquement, un homme qui n'aurait plus de vieillesse pour lui imposer une fin ordinaire.
+
+J'ai compris que le sujet ne concernait pas seulement des scénarios futurs.
+
+Il me concernait déjà.
+
+***
+
+Après la présentation, une femme qui représentait une association de jeunes entrepreneurs a demandé si les fonds de dotation devaient pouvoir rester indéfiniment sous l'influence des mêmes personnes.
+
+Le président de notre fondation lui a expliqué que les mandats étaient limités et que les organes de contrôle ne dépendaient pas de moi.
+
+Elle a répondu :
+
+— C'est une bonne chose. Mais il faudra que ces règles survivent aussi à ceux qui les ont écrites.
+
+J'ai pris la parole.
+
+— Je suis d'accord.
+
+Elle m'a regardé.
+
+— Alors accepteriez-vous qu'un jour la Fondation des Passages finance un projet que vous considérez comme une erreur, si les procédures ont été respectées ?
+
+J'ai réfléchi.
+
+— Oui, dans les limites des statuts et des contrôles. Je pourrais contester publiquement la décision, mais pas retirer les fonds affectés pour punir le conseil de ne pas avoir choisi mon projet.
+
+Elle a hoché la tête.
+
+— Et si vous êtes toujours vivant dans deux cents ans ?
+
+J'ai senti une gêne monter.
+
+— La réponse devrait être la même.
+
+— Alors il faut l'écrire dès maintenant.
+
+Kübra, qui participait à la séance au titre de son travail civique, a souri.
+
+Je savais ce qu'elle pensait.
+
+Nous avions encore découvert une situation où une promesse orale ne suffisait pas.
+
+***
+
+Le conseil a lancé une révision des protections contre la concentration du pouvoir dans les structures financées par des personnes à très longue vie.
+
+Il ne s'agissait pas de punir le fait de vivre.
+
+Il s'agissait d'empêcher qu'une personne puisse conserver sans limite une autorité qui ne lui appartenait qu'à titre temporaire.
+
+Les propositions comprenaient des mandats courts, des incompatibilités, des vérifications indépendantes et des procédures permettant aux bénéficiaires de contester les décisions.
+
+Elles ne réglaient pas, à elles seules, la distribution des richesses dans la société.
+
+Mais elles empêchaient au moins notre fondation de devenir, avec le temps, une extension de ma volonté.
+
+Je les ai soutenues.
+
+Puis j'ai demandé à parler au président en privé.
+
+Je lui ai expliqué que mon projet de suspension de Genesis-S avait été rejeté par les scientifiques et que je ne voulais pas utiliser la fondation pour contourner cette décision.
+
+Il m'a répondu :
+
+— C'est votre droit de présenter une proposition. Ce n'est pas votre droit de financer une pression sur ceux qui l'examinent.
+
+J'ai acquiescé.
+
+Je m'attendais à être soulagé.
+
+À la place, j'ai éprouvé la même frustration qu'au laboratoire.
+
+Je savais que les institutions fonctionnaient précisément parce qu'elles pouvaient me dire non.
+
+J'aurais simplement aimé qu'elles soient d'accord avec moi.
+
