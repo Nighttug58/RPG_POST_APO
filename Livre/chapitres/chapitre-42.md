@@ -1137,3 +1137,556 @@ Je savais que les institutions fonctionnaient précisément parce qu'elles pouva
 
 J'aurais simplement aimé qu'elles soient d'accord avec moi.
 
+
+***
+
+*20 septembre 2082 — L'assurance de rester soi-même*
+
+Jeanne Armand est revenue dans notre vie par une lettre adressée à Kübra.
+
+Nous l'avions rencontrée lors des premières consultations sur Genesis-S. Elle avait défendu avec une clarté remarquable le droit de rester vieille sans être considérée comme une personne qui commettait une erreur médicale.
+
+Elle approchait maintenant des quatre-vingts ans.
+
+Sa lettre ne demandait ni une intervention ni de l'argent.
+
+Elle demandait un rendez-vous.
+
+Kübra l'a invitée à déjeuner.
+
+Jeanne est arrivée avec une chemise de documents et son manteau bleu, malgré une journée encore chaude. Elle avait conservé l'habitude de plier soigneusement ses papiers avant de les ranger.
+
+Elle m'a salué avec chaleur.
+
+— Vous avez toujours l'air beaucoup trop jeune pour raconter votre vie, a-t-elle plaisanté.
+
+J'ai souri.
+
+— C'était déjà le cas avant, selon certains.
+
+Nous avons mangé.
+
+Puis Jeanne a ouvert son dossier.
+
+Un organisme d'assurance lui proposait une nouvelle formule de couverture. Le tarif était plus avantageux pour les personnes qui acceptaient un programme régulier d'évaluation biologique et s'engageaient à examiner les interventions recommandées.
+
+Le texte ne mentionnait pas explicitement une obligation de recevoir Genesis-S.
+
+Mais les conditions prévoyaient des pénalités financières pour les personnes qui refusaient certaines « mesures de prévention du vieillissement » sans motif reconnu par l'assureur.
+
+Jeanne avait demandé une explication.
+
+On lui avait répondu qu'un contrat restait facultatif.
+
+— C'est vrai, a-t-elle dit. Je peux garder le contrat plus cher. Mais je voudrais savoir combien de temps il faudra avant que la formule plus chère soit la seule manière de garder mon âge.
+
+Kübra a lu les documents.
+
+Elle n'a pas porté immédiatement un jugement juridique.
+
+Elle a demandé si Jeanne avait consulté un service de défense des assurés.
+
+— Oui. Ils étudient le texte. Mais ils veulent comprendre si d'autres personnes reçoivent les mêmes conditions.
+
+Kübra a pris des notes.
+
+Jeanne a posé ses mains sur la table.
+
+— Je ne demande pas qu'on empêche les autres de se faire rajeunir. Je veux qu'on m'explique pourquoi ma décision devrait me coûter davantage si je n'ai rien demandé à personne.
+
+Je n'ai pas répondu tout de suite.
+
+J'avais voulu suspendre Genesis-S pour protéger l'humanité d'un risque théorique.
+
+Devant moi, une femme défendait la liberté de ne pas recevoir ce même traitement contre une pression économique parfaitement réelle.
+
+Je me suis senti soudain à côté de la vraie question.
+
+***
+
+Kübra a organisé, avec les associations qui travaillaient sur le consentement, une collecte de témoignages anonymisés.
+
+Il ne s'agissait pas de publier les noms des personnes ni leurs dossiers médicaux.
+
+Il s'agissait d'établir si certains employeurs, assureurs ou établissements commençaient à présenter Genesis-S comme une obligation déguisée.
+
+Les premiers retours étaient disparates.
+
+Un organisme offrait des avantages financiers aux participants qui choisissaient le traitement.
+
+Un autre projet de contrat laissait entendre qu'un refus pourrait être considéré comme une mauvaise gestion personnelle de sa santé.
+
+Plusieurs entreprises cherchaient à savoir si elles avaient le droit de demander à leurs employés leur âge biologique plutôt que leur âge chronologique.
+
+D'autres organisations, au contraire, avaient adopté des garanties explicites contre toute discrimination liée au choix de rajeunir ou de vieillir.
+
+Il n'existait pas une politique unique.
+
+Il existait déjà des lignes de fracture.
+
+Kübra a réuni des juristes et des représentants des personnes concernées.
+
+Je l'ai accompagnée à une séance, sans rôle de direction.
+
+Une intervenante a posé une question que personne ne pouvait résoudre avec un simple graphique :
+
+— Si un employeur peut obtenir un salarié biologiquement jeune pour les cinquante prochaines années, aura-t-il encore envie d'embaucher quelqu'un qui refuse le traitement ?
+
+Une autre a répondu :
+
+— Et si l'âge biologique cesse d'être un motif de mise à l'écart, n'y a-t-il pas aussi une occasion de réduire certaines discriminations anciennes ?
+
+Les deux avaient raison d'ouvrir le débat.
+
+Une technologie qui pouvait rendre de la liberté physique pouvait aussi devenir un nouvel outil de sélection.
+
+Kübra a pris la parole.
+
+— Nous devons protéger le choix dans les deux sens. Celui qui souhaite recevoir Genesis-S ne devrait pas être empêché de chercher un accès équitable. Celui qui refuse ne doit pas perdre son emploi, son assurance ou la considération de ses proches parce qu'il préfère continuer à vieillir.
+
+Elle a regardé l'assemblée.
+
+— Le corps d'une personne n'est pas une condition que la société peut renégocier à sa place.
+
+Jeanne a baissé la tête.
+
+Je crois qu'elle était émue.
+
+Je l'étais aussi.
+
+***
+
+Après la réunion, un représentant de l'organisme d'assurance a demandé à parler.
+
+Il affirmait que les nouvelles formules visaient à rendre les soins plus accessibles et à réduire certaines dépenses de long terme.
+
+— Ce n'est pas une volonté de contraindre, a-t-il expliqué. Nous devons simplement anticiper un changement considérable des besoins médicaux.
+
+Kübra lui a répondu calmement.
+
+— Alors publiez les hypothèses de vos calculs. Expliquez quels risques sont réellement modifiés par Genesis-S et lesquels ne le sont pas. Et surtout, ne transformez pas un choix médical en condition économique avant d'avoir discuté de ses conséquences avec les personnes concernées.
+
+Le représentant a reconnu que les modèles étaient encore provisoires.
+
+Jeanne lui a demandé :
+
+— Vous avez prévu une case pour ceux qui ne souhaitent pas recevoir le traitement ?
+
+— Il existe une catégorie de refus, madame.
+
+— Je ne vous demande pas s'il existe une case *refus*. Je vous demande s'il existe une case *je fais un choix que vous devez respecter*.
+
+L'homme n'a pas su répondre.
+
+Kübra a proposé qu'un groupe indépendant examine les formules avant leur généralisation.
+
+Il a accepté de transmettre la proposition.
+
+Nous ne savions pas si elle aboutirait.
+
+Mais Jeanne est repartie avec une copie des démarches et plusieurs contacts.
+
+Pour une fois, j'ai eu le sentiment qu'une décision concrète avançait davantage que tous mes projets d'interdiction.
+
+***
+
+*26 septembre 2082 — L'expérience des absents*
+
+Sofia m'a invité à assister à une présentation sur la reproduction industrielle des instruments.
+
+Elle voulait que je comprenne ce que mon projet de verrouillage aurait empêché si les centres avaient dû le suivre.
+
+Dans l'atelier, Mina avait placé plusieurs ensembles de contrôle sur des tables séparées.
+
+Il ne s'agissait pas de cœurs d'ancrage autonomes.
+
+Aucun nouveau cœur n'avait été fabriqué.
+
+Les dispositifs présentés étaient destinés à l'observation des trajectoires biologiques et à la vérification des interventions Genesis-S ordinaires. Ils ne pouvaient pas stabiliser une personne à vingt-cinq ans pour toujours.
+
+Cette distinction était écrite sur chaque dossier.
+
+Mina me l'a rappelée avant que nous commencions.
+
+— Nous savons reproduire progressivement des instruments de contrôle, a-t-elle dit. Nous ne savons pas reproduire le cœur consommé lors de votre conversion. Ce sont deux problèmes différents.
+
+J'ai acquiescé.
+
+Elle m'a montré les essais réalisés dans plusieurs centres européens.
+
+Certaines équipes avaient réussi à simplifier des opérations de vérification sans perdre la qualité des mesures. D'autres avaient dû abandonner une configuration parce que ses résultats variaient selon les conditions de maintenance.
+
+Le programme avançait lentement.
+
+Mais il avançait.
+
+— Si nous bloquons toutes les connaissances techniques, a dit Mina, les centres ne pourront plus comparer leurs instruments. Nous risquerons de conserver à Lausanne les moyens de comprendre des erreurs que les autres seraient obligés d'ignorer.
+
+J'ai regardé les dossiers.
+
+— Il faut tout de même protéger les informations sensibles.
+
+— Bien sûr. Nous avons des niveaux d'accès et des procédures de sûreté. Mais il faut distinguer une information dangereuse à diffuser sans contrôle d'une information nécessaire pour rendre les mesures fiables ailleurs.
+
+Elle a ouvert un dernier dossier.
+
+Il contenait des demandes provenant de régions qui n'avaient pas encore de centre local.
+
+Ces équipes ne demandaient pas la formule d'un ancrage permanent.
+
+Elles demandaient les moyens de vérifier correctement des traitements qu'elles espéraient un jour rendre disponibles à leurs habitants.
+
+Je suis resté devant les lettres.
+
+Je savais désormais ce que ma proposition leur aurait fait.
+
+Pas immédiatement, peut-être.
+
+Mais dans quelques années, les retards auraient porté des noms, des visages et des décisions reportées.
+
+***
+
+Sofia m'a rejoint dans le couloir.
+
+— Vous avez l'air pensif.
+
+— Je crois que j'ai voulu résoudre un problème que nous ne savons pas encore définir en fermant un programme que nous savons faire fonctionner.
+
+Elle m'a regardé.
+
+— C'est une bonne manière de résumer ce que nous vous avons reproché.
+
+J'ai souri.
+
+Elle n'a pas souri.
+
+— Il reste quelque chose, Tugay.
+
+J'ai senti une tension monter.
+
+— Quoi ?
+
+— Vos questions sur les risques Qν sont parfois plus précises que les informations officiellement disponibles à votre niveau d'accès. Ce n'est pas en soi suspect : vous connaissez bien le programme. Mais depuis des mois, vous semblez chercher à obtenir une assurance que personne ne peut vous donner.
+
+Je n'ai pas répondu.
+
+Sofia a poursuivi :
+
+— Je veux savoir si vous avez reçu des avis ou conduit des consultations qui ne figurent pas dans nos dossiers.
+
+J'ai senti mes mains devenir froides.
+
+— J'ai réfléchi de mon côté, ai-je dit.
+
+— Réfléchir n'est pas un problème. Mais si vous disposez d'éléments utiles à une évaluation collective, il faut les déclarer.
+
+Je savais que cette conversation pouvait s'arrêter là.
+
+Il me suffisait d'acquiescer.
+
+J'ai regardé Sofia.
+
+Elle n'était pas mon adversaire.
+
+Elle avait passé des années à protéger le programme contre mes impatiences, mes certitudes et les pressions financières.
+
+Elle me demandait simplement de respecter les règles que j'avais moi-même contribué à financer.
+
+J'ai pris une inspiration.
+
+— J'ai consulté quelqu'un en 2080, ai-je dit.
+
+Elle n'a pas bougé.
+
+— Au sujet des anomalies ?
+
+— Oui.
+
+— Qui ?
+
+— Aline Gerber. Une spécialiste des risques complexes.
+
+Sofia a attendu.
+
+Je lui ai expliqué que l'avis était général et n'utilisait aucune donnée confidentielle. Il ne prouvait rien sur l'origine des signaux.
+
+Puis j'ai ajouté :
+
+— Je ne vous l'ai jamais transmis.
+
+Elle a fermé les yeux un instant.
+
+Quand elle les a rouverts, son expression avait changé.
+
+— Depuis combien de temps l'avez-vous ?
+
+— Plus de deux ans.
+
+Elle a posé une main sur le mur.
+
+— Et vous avez participé à nos discussions de sécurité, à la décision concernant votre ancrage et à la proposition de suspendre Genesis-S sans nous dire que vous aviez sollicité cet avis ?
+
+Je n'ai pas essayé de me défendre.
+
+— Oui.
+
+Un silence s'est installé.
+
+Sofia a regardé la porte du laboratoire.
+
+— Il faut que nous en parlions officiellement. Avec les personnes chargées de la gouvernance et de l'évaluation des risques.
+
+— Je sais.
+
+Elle s'est tournée vers moi.
+
+— Je ne suis pas en colère parce que vous avez demandé un avis. Je suis en colère parce que vous avez décidé seul qu'il n'avait pas à entrer dans le dossier.
+
+J'ai baissé les yeux.
+
+— Vous avez raison.
+
+Elle a pris le temps de répondre.
+
+— Je ne sais pas si j'ai raison sur le phénomène. Je sais simplement que je n'ai pas pu évaluer un document dont j'ignorais l'existence.
+
+Je l'ai regardée.
+
+Cette distinction m'a fait plus mal qu'un reproche.
+
+***
+
+*3 octobre 2082 — La chemise ouverte*
+
+J'ai apporté la chemise violette au conseil de surveillance.
+
+Le dossier était resté dans mon bureau depuis 2080.
+
+Il contenait la note d'Aline, les questions que j'avais préparées et quelques références publiques.
+
+Rien n'établissait l'existence d'une civilisation inconnue.
+
+Rien ne décrivait un vaisseau, une menace identifiée ou un message extraterrestre.
+
+Il s'agissait d'une consultation générale sur la gestion de phénomènes dont la portée n'était pas comprise.
+
+Mais son existence même avait été dissimulée aux personnes qui auraient dû pouvoir en tenir compte.
+
+La séance s'est ouverte sans journalistes.
+
+Maëlle Girard a demandé que les faits soient établis avant toute conclusion sur les conséquences de cette omission.
+
+J'ai expliqué la chronologie.
+
+La première anomalie.
+
+Les structures mathématiques.
+
+Mes inquiétudes.
+
+La consultation d'Aline.
+
+La décision de ne pas transmettre la note.
+
+L'ancrage.
+
+Puis ma proposition de suspension générale.
+
+Je ne me suis pas présenté comme un homme qui avait voulu sauver le monde.
+
+Je me suis présenté comme quelqu'un qui avait eu peur et qui avait choisi de garder seul une partie des questions.
+
+Maëlle a demandé :
+
+— Vous considériez-vous comme plus compétent que le conseil scientifique pour juger ce qui était utile à sa propre évaluation ?
+
+J'ai hésité.
+
+— Pas consciemment.
+
+Elle a attendu.
+
+— Mais c'est ce que j'ai fait, ai-je reconnu.
+
+Sofia, assise en face de moi, a pris des notes.
+
+Elle n'a pas cherché à me protéger.
+
+Je ne l'aurais pas voulu.
+
+***
+
+Aline Gerber a été invitée à expliquer le contexte de sa note.
+
+Elle a précisé qu'elle n'avait pas reçu les données complètes du laboratoire et qu'elle n'avait jamais conclu à l'existence d'un observateur extérieur.
+
+Son avis recommandait des procédures de gestion des risques hypothétiques.
+
+Il n'était pas une expertise sur la physique du champ Qν.
+
+— J'avais insisté sur la nécessité d'un examen collectif, a-t-elle déclaré. Je ne pouvais pas prévoir que le document resterait privé.
+
+Maëlle lui a demandé si sa note aurait changé la décision d'ancrage.
+
+Aline a répondu qu'elle n'avait pas les compétences ni les informations nécessaires pour le dire.
+
+Sofia a confirmé qu'une partie des questions figurait déjà dans les évaluations officielles.
+
+La note n'apportait pas de preuve nouvelle.
+
+Elle ne permettait pas de conclure qu'un danger avait été ignoré.
+
+Mais elle montrait que j'avais agi en dehors des procédures de déclaration pendant une période cruciale.
+
+Le conseil a décidé de diligenter un audit sur les décisions concernées et de me retirer provisoirement de toute fonction consultative liée aux risques Qν, le temps que la situation soit clarifiée.
+
+Je n'ai pas contesté.
+
+Ce n'était pas une punition qui supprimait ma jeunesse.
+
+Ce n'était pas une menace contre mon corps.
+
+C'était la perte d'une place dans des décisions auxquelles j'avais voulu participer depuis le début.
+
+Pour la première fois, j'ai compris que le coût le plus immédiat de mon secret n'était pas une catastrophe imaginaire.
+
+C'était la confiance que j'avais abîmée.
+
+***
+
+Je suis rentré tard.
+
+Kübra était dans le salon.
+
+Elle avait entendu que le conseil se réunissait, mais ignorait les détails de la consultation que j'avais cachée.
+
+Je lui ai demandé de s'asseoir avec moi.
+
+Elle m'a regardé.
+
+— Qu'est-ce qui se passe ?
+
+J'ai posé la chemise violette sur la table.
+
+Son expression s'est fermée.
+
+Je lui ai raconté ce que j'avais fait.
+
+Je lui ai parlé d'Aline, de la note, de l'absence de preuve sur une origine extérieure et du fait que j'avais volontairement différé sa transmission.
+
+Je lui ai expliqué la décision du conseil.
+
+Elle n'a pas dit un mot pendant longtemps.
+
+Puis elle a ouvert le dossier.
+
+Elle a lu.
+
+Je la regardais tourner les pages.
+
+Elle avait retrouvé l'apparence biologique de ses vingt-cinq ans, mais ses yeux portaient toute l'expérience d'une femme qui avait appris à reconnaître les moments où je lui parlais sans lui dire toute la vérité.
+
+Elle a fermé la chemise.
+
+— Tu me l'as caché pendant plus de deux ans ?
+
+— Oui.
+
+— Après m'avoir dit plusieurs fois que tu ne voulais plus décider seul de ce qui devait m'inquiéter ?
+
+J'ai senti ma gorge se serrer.
+
+— Oui.
+
+Elle a posé le dossier entre nous.
+
+— Pourquoi ?
+
+J'ai ouvert la bouche.
+
+Je voulais parler du premier camp.
+
+Des coups de feu.
+
+Des moteurs entendus au loin.
+
+De la peur que nous avions ressentie dans la forêt.
+
+Je voulais expliquer que les anomalies Qν réveillaient en moi quelque chose que je n'avais jamais complètement réussi à laisser derrière nous.
+
+Elle m'a laissé le temps.
+
+Puis elle a dit :
+
+— Je connais ton histoire, Tugay. C'est aussi la mienne.
+
+J'ai baissé les yeux.
+
+Elle a poursuivi :
+
+— Nous avons entendu les mêmes coups de feu. Nous avons traversé la même forêt. Tu n'es pas le seul à avoir eu peur de ce qu'on ne voyait pas.
+
+Je n'ai rien trouvé à répondre.
+
+***
+
+Kübra s'est levée.
+
+Elle a marché jusqu'à la fenêtre.
+
+Je me suis approché.
+
+Elle a levé une main.
+
+— Pas maintenant.
+
+Je me suis arrêté.
+
+Elle a repris :
+
+— Tu as demandé au monde entier de se soumettre à une restriction, mais tu ne t'es pas soumis toi-même à la règle la plus simple : partager les informations utiles avec les personnes chargées de décider.
+
+Je savais qu'elle avait raison.
+
+Elle s'est tournée vers moi.
+
+— Tu as passé des années à me dire que tu voulais que nous vivions plus longtemps ensemble. Et maintenant je découvre que, dans ton esprit, vivre plus longtemps pourrait encore vouloir dire garder certaines décisions pour toi.
+
+— Je ne veux pas cela.
+
+— Alors pourquoi l'as-tu fait ?
+
+Je n'ai pas essayé de donner une nouvelle justification.
+
+— J'ai eu peur, ai-je répondu. Et j'ai cru que je pouvais protéger tout le monde en gardant le contrôle.
+
+Elle a fermé les yeux.
+
+Je voyais qu'elle cherchait ses mots.
+
+— Tu aurais pu me le dire, a-t-elle murmuré.
+
+— Oui.
+
+— J'aurais pu avoir peur avec toi. J'aurais peut-être été en désaccord. Nous aurions peut-être trouvé des personnes à consulter. Au lieu de cela, tu m'as laissé croire que je connaissais les questions auxquelles nous cherchions à répondre.
+
+Je me suis assis.
+
+Kübra n'a pas tenté de me consoler.
+
+Elle avait le droit d'être blessée.
+
+Elle avait aussi le droit de décider de ce dont elle avait besoin pour continuer à vivre avec moi.
+
+Ce soir-là, elle a choisi de dormir dans une autre chambre.
+
+Je ne l'ai pas suivie.
+
+Je n'ai pas cherché à transformer une excuse en demande de pardon immédiat.
+
+Je suis resté devant la chemise violette.
+
+Les mots d'Aline avaient toujours été là.
+
+Ils n'avaient jamais eu besoin d'être secrets.
+
