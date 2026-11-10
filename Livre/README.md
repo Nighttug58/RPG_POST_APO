@@ -26,6 +26,10 @@
 - [FIN_REVISEE.md](FIN_REVISEE.md) — nouvelle fin, réapparition future, bouclier, guerre et identité du correspondant (**spoilers absolus**).
 - [chapitres/chapitre-01.md](chapitres/chapitre-01.md) — ancien **brouillon à retravailler**, non validé ; aucun autre chapitre n'est encore rédigé.
 
+## Longueur éditoriale
+
+À partir du **chapitre 40**, chaque nouveau chapitre doit comporter **au minimum 10 000 mots de récit, hors métadonnées YAML**. Les chapitres 35 à 39 restent des brouillons plus courts à enrichir ultérieurement. Ne pas chercher à atteindre la longueur par des répétitions : privilégier des scènes incarnées, des dialogues, des conséquences concrètes et la continuité des personnages.
+
 ## Méthode de rédaction
 
 1. Vérifier le plan, l'**audit de cohérence**, les décisions éditoriales, les sources et les enjeux affectifs du chapitre.
