@@ -4,7 +4,7 @@ partie: 6
 chapitre: 42
 statut: brouillon
 narrateur: "Tugay"
-date_fiction: "2082-07-23/2082-12-29"
+date_fiction: "2082-07-23/2082-10-15"
 lieu: "Lausanne, Genève, Berne, le Phénix et le Léman"
 version_editoriale: 1
 sources:
@@ -1690,3 +1690,499 @@ Les mots d'Aline avaient toujours été là.
 
 Ils n'avaient jamais eu besoin d'être secrets.
 
+
+***
+
+*7 octobre 2082 — L'homme devant la porte*
+
+Mira est venu me voir deux jours après la réunion du conseil.
+
+Il avait appris ce qui s'était passé par Kübra, qui lui avait dit seulement ce qu'elle souhaitait partager. Je savais qu'elle ne lui avait pas demandé de choisir un camp.
+
+Nous avons marché jusqu'au lac.
+
+Je lui ai raconté l'ensemble de la chronologie, sans essayer d'améliorer ma propre place dans l'histoire.
+
+Il m'a écouté.
+
+Puis il a demandé :
+
+— Tu veux qu'on te dise que tu as eu raison d'avoir peur ?
+
+— Non.
+
+— Alors qu'est-ce que tu attends de moi ?
+
+J'ai réfléchi.
+
+— Je crois que j'ai besoin de quelqu'un qui me dise comment réparer ce que j'ai abîmé.
+
+Il a regardé l'eau.
+
+— Tu as passé des décennies à réparer des machines. Tu sais parfaitement qu'une pièce remplacée ne rend pas automatiquement à quelqu'un la confiance qu'il avait avant la panne.
+
+Je me suis arrêté.
+
+— Oui.
+
+— Tu dois peut-être commencer par accepter qu'il n'y ait pas de réparation immédiate.
+
+Je l'ai regardé.
+
+Il a poursuivi :
+
+— Maman a le droit de prendre du temps. Sofia aussi. Tu ne peux pas exiger qu'elles retrouvent confiance parce que tu as enfin fait ce que tu aurais dû faire deux ans plus tôt.
+
+Je me suis senti honteux.
+
+J'aurais voulu que le monde se réorganise aussi vite qu'une pièce bien ajustée.
+
+Il ne le ferait pas.
+
+***
+
+Nous sommes restés devant le lac.
+
+Puis Mira m'a demandé quelque chose que je n'attendais pas.
+
+— Est-ce que tu regrettes l'ancrage ?
+
+J'ai regardé mes mains.
+
+Elles n'avaient pas changé depuis la conversion.
+
+Le temps biologique ne marquait plus ma peau.
+
+Je pouvais imaginer revenir dans ce même endroit dans cent ans avec un visage identique.
+
+— Je regrette certaines décisions qui l'ont entouré, ai-je répondu. Je regrette d'avoir caché cette note. Je regrette d'avoir voulu imposer une interdiction trop large.
+
+— Mais l'ancrage lui-même ?
+
+J'ai pris le temps de répondre.
+
+— Je ne sais pas si j'aurais dû être le seul à le recevoir. Mais je ne vais pas prétendre qu'il ne compte pas pour moi. Je suis heureux de ne plus vieillir.
+
+Mira a acquiescé.
+
+— Alors ce sera plus facile de discuter avec toi si tu reconnais les deux choses.
+
+Il a regardé les bateaux.
+
+— Tu peux être heureux d'avoir vécu cette expérience et accepter qu'elle crée une injustice qu'il faudra regarder en face.
+
+Je l'ai remercié.
+
+Il s'est tourné vers moi.
+
+— Il faut aussi que tu comprennes une chose. Mon choix de recevoir Genesis-S n'est pas devenu mauvais parce que tu t'es trompé sur la sécurité du programme.
+
+J'ai baissé la tête.
+
+Il avait raison.
+
+Mon erreur ne devait pas priver les autres de leur propre décision.
+
+***
+
+Lina est venue nous rejoindre pour déjeuner.
+
+Elle a demandé si le conseil avait séparé les questions de sécurité physique de celles qui concernaient ma gouvernance.
+
+Je lui ai expliqué qu'un audit indépendant était en cours.
+
+Elle a hoché la tête.
+
+— C'est important, a-t-elle dit. On peut découvrir que la physique est correctement évaluée et que tu as mal agi. Ou découvrir qu'une précaution instrumentale doit être renforcée sans que cela te donne automatiquement raison sur la suspension de Genesis-S.
+
+J'ai souri.
+
+— J'ai l'impression que toute notre famille s'est donné pour mission de m'apprendre à distinguer des choses.
+
+— Tu passes ta vie à distinguer des pièces qui se ressemblent, a-t-elle répondu. Tu devrais aimer ça.
+
+Nous avons ri.
+
+Puis elle s'est appuyée contre le dossier de sa chaise.
+
+— Tu sais ce que je crains le plus pour l'avenir ?
+
+— Quoi ?
+
+— Qu'un jour, certaines personnes vivent des siècles et cessent d'écouter les autres parce qu'elles pensent avoir vu assez de choses pour n'avoir plus besoin d'apprendre.
+
+Je l'ai regardée.
+
+Elle avait retrouvé sa jeunesse biologique et continuait de travailler sur des problèmes dont je ne connaissais pas tous les détails.
+
+Elle représentait une génération qui avait grandi dans le monde que nous avions reconstruit, sans avoir eu à vivre les mêmes privations.
+
+Je ne voulais pas lui répondre que mon expérience me donnait raison.
+
+Je lui ai demandé :
+
+— Comment empêcher ça ?
+
+— En gardant des institutions où une personne peut être contredite même si elle a deux cents ans.
+
+Je me suis mis à rire.
+
+— Il faudra peut-être une règle spéciale pour moi.
+
+Elle a souri.
+
+— Non. C'est justement le problème. Il faut des règles qui s'appliquent aussi à toi.
+
+***
+
+*11 octobre 2082 — Le droit de dire non*
+
+La commission de gouvernance a rendu un premier avis public.
+
+Elle n'a pas validé ma proposition de suspension générale de Genesis-S.
+
+Les traitements autorisés resteraient accessibles dans le cadre des capacités disponibles, des contrôles médicaux et des procédures indépendantes déjà établies.
+
+Les recherches sur l'ancrage autonome demeureraient séparées. Aucun nouveau cœur n'était disponible et personne ne pouvait promettre une permanence reproductible.
+
+En revanche, des précautions renforcées s'appliqueraient aux expérimentations actives Q-EUV non indispensables.
+
+Les observations passives des anomalies continueraient.
+
+Les nouvelles séquences expérimentales exigeaient une revue spécifique, documentant les hypothèses, les raisons de l'essai et les conditions d'arrêt.
+
+Les équipes devaient distinguer les informations nécessaires à la vérification des résultats de celles dont la diffusion pouvait présenter des risques pour les installations.
+
+Aucune mesure ne devait transformer l'incertitude autour des corrélations Qν en interdiction générale de soins sans preuve du lien pertinent.
+
+J'ai lu ces conclusions.
+
+Elles étaient moins spectaculaires que mon projet.
+
+Elles étaient aussi beaucoup plus solides.
+
+***
+
+Le même jour, les organisations de patients et les représentants civiques ont présenté un texte de principes consacré aux choix biologiques.
+
+Il ne prétendait pas régler à lui seul les lois de tous les territoires.
+
+Il proposait des engagements pouvant être intégrés aux procédures médicales, aux contrats et aux futurs débats législatifs.
+
+Une personne devait pouvoir recevoir une information compréhensible avant de choisir Genesis-S.
+
+Elle devait pouvoir le refuser sans perdre ses droits fondamentaux.
+
+Les données liées à son âge biologique ne devaient pas devenir un outil de discrimination ou de surveillance abusive.
+
+La possibilité d'un jour arrêter durablement le vieillissement ne devait pas être présentée comme une obligation morale.
+
+Les questions démographiques, économiques et environnementales devaient être débattues publiquement, sans imposer aux corps des solutions autoritaires sous prétexte d'efficacité.
+
+Et les personnes qui souhaitaient le traitement devaient pouvoir demander un accès équitable, sans que la fortune, la réputation ou l'appartenance à une famille célèbre suffisent à les faire passer avant les autres.
+
+Jeanne Armand était présente.
+
+Elle portait toujours son manteau bleu.
+
+Elle est venue me parler après la séance.
+
+— Vous voyez, a-t-elle dit, on peut défendre le droit de rester vieux sans interdire aux autres d'être jeunes.
+
+Je lui ai souri.
+
+— Je crois que j'ai mis un peu trop de temps à le comprendre.
+
+— Alors il est heureux que vous ayez désormais du temps devant vous.
+
+Elle a ri.
+
+Moi aussi.
+
+Puis elle a ajouté :
+
+— N'en profitez pas pour refaire les mêmes erreurs pendant deux siècles.
+
+Je n'ai pas trouvé de réponse.
+
+C'était peut-être le conseil le plus utile que j'avais reçu depuis mon ancrage.
+
+***
+
+*15 octobre 2082 — La place que j'ai rendue*
+
+J'ai rencontré Sofia dans son bureau.
+
+L'audit sur ma consultation extérieure n'était pas terminé, mais il avait déjà établi qu'aucune donnée confidentielle du programme n'avait été transmise à Aline Gerber.
+
+Cela ne supprimait pas le problème de gouvernance.
+
+J'avais retenu une information susceptible d'intéresser les responsables des risques.
+
+J'avais participé à des décisions importantes sans déclarer cette consultation.
+
+Et j'avais ensuite cherché à imposer une restriction générale en invoquant une prudence que je n'avais pas entièrement appliquée à mon propre comportement.
+
+Sofia ne cherchait pas à réduire cela à une maladresse.
+
+Elle avait raison.
+
+Je lui ai annoncé que je retirais ma proposition de suspension générale et que je renonçais à toute fonction consultative concernant les risques Qν jusqu'à la fin de l'audit.
+
+Elle m'a écouté.
+
+Puis elle a répondu :
+
+— C'est une décision nécessaire. Mais ne la transformez pas en geste héroïque.
+
+J'ai souri tristement.
+
+— Je n'en ai pas l'intention.
+
+Elle a regardé mon visage.
+
+— C'est difficile, parfois, de me souvenir que vous avez presque quatre-vingt-sept ans.
+
+— Vous devriez me connaître assez bien pour ne pas confondre jeunesse et sagesse.
+
+Elle a souri pour la première fois de la journée.
+
+— Sur ce point, nous sommes d'accord.
+
+Nous avons parlé des mesures de sûreté, puis des centres qui poursuivaient la diffusion de Genesis-S.
+
+Je lui ai demandé si elle m'en voulait toujours.
+
+Elle a pris le temps de répondre.
+
+— Oui, sur certains aspects. Mais mon travail ne dépend pas de ce sentiment. Je dois continuer à évaluer les résultats avec les autres, qu'ils vous plaisent ou non.
+
+Je l'ai regardée.
+
+— C'est pour cela que vous êtes ici.
+
+— Et pas pour vous rassurer.
+
+Nous avons échangé une poignée de main.
+
+La confiance n'était pas revenue d'un seul coup.
+
+Pour la première fois, je ne lui ai pas demandé de faire semblant.
+
+***
+
+Dans le couloir, Inès Valette m'a arrêté.
+
+Elle avait un dossier de relevés passifs sous le bras.
+
+— Sofia m'a demandé de vous transmettre une information non confidentielle sur l'état du suivi Qν.
+
+Je me suis arrêté.
+
+— Quelque chose de nouveau ?
+
+— Les équipes préparent une revue élargie de certaines structures mathématiques. Les données sont suffisamment particulières pour qu'on les examine avec des spécialistes qui n'ont pas participé aux premiers traitements.
+
+— Vous pensez à un message ?
+
+Elle a hésité.
+
+— Je pense qu'il serait imprudent de prétendre le savoir avant d'avoir défini une méthode de lecture. Certains groupes ressemblent à des relations numériques élémentaires. D'autres ne se laissent pas découper de manière stable.
+
+Je me suis souvenu des premiers nombres.
+
+Des intervalles.
+
+De ces formes que j'avais observées avant de comprendre qu'elles pouvaient être autre chose que du bruit.
+
+Inès a poursuivi :
+
+— Il n'y aura pas de réponse active tant que nous n'aurons pas établi ce que nous examinons réellement et qui serait compétent pour décider d'une éventuelle communication.
+
+J'ai acquiescé.
+
+— C'est préférable.
+
+Elle m'a regardé.
+
+— Vous avez l'air inquiet.
+
+— Je le suis.
+
+Elle n'a pas essayé de me rassurer.
+
+— Nous aussi, parfois. Mais c'est pour cela que nous travaillons à plusieurs.
+
+Je l'ai remerciée.
+
+Nous nous sommes quittés.
+
+Je savais qu'une partie de l'histoire était en train de se déplacer vers un terrain où ni mon argent ni mon expérience de constructeur ne suffiraient.
+
+***
+
+Le soir, je suis rentré à Lausanne.
+
+Kübra avait préparé un sac, sans prévoir de départ immédiat.
+
+Elle voulait reprendre notre voyage, mais elle n'avait pas décidé si elle souhaitait le faire avec moi tout de suite.
+
+Nous nous sommes assis près de la fenêtre.
+
+Je lui ai raconté la décision du conseil.
+
+Elle a écouté.
+
+Puis je lui ai parlé de mon retrait des fonctions consultatives.
+
+Elle a hoché la tête.
+
+— C'était nécessaire.
+
+— Je sais.
+
+Nous sommes restés silencieux.
+
+Au loin, les trains traversaient la ville.
+
+Je me suis souvenu de toutes les conversations que nous avions eues sur un banc, dans une voiture, au bord de la mer ou dans les pièces du premier refuge.
+
+J'avais souvent voulu leur donner une conclusion rapide.
+
+Cette fois, je n'en cherchais plus.
+
+Kübra a fini par parler.
+
+— Je suis toujours en colère.
+
+— Je sais.
+
+— Et je ne sais pas combien de temps il me faudra pour retrouver confiance.
+
+— Je comprends.
+
+Elle a regardé mes mains.
+
+— Je ne veux pas te punir. Je veux simplement que tu comprennes ce que ça fait de vivre avec quelqu'un qui pense devoir décider seul de ce qui est assez grave pour être partagé.
+
+J'ai baissé les yeux.
+
+— Je vais essayer de faire autrement.
+
+Elle a secoué la tête.
+
+— Ne me promets pas seulement d'essayer. Fais-le lorsque ce sera difficile.
+
+J'ai acquiescé.
+
+Elle a posé sa main sur la table, près de la mienne.
+
+Je n'ai pas cherché à la prendre immédiatement.
+
+Après un moment, elle a avancé ses doigts.
+
+Je les ai serrés doucement.
+
+Ce n'était pas un pardon complet.
+
+Ce n'était pas non plus une rupture.
+
+C'était une possibilité de continuer à parler.
+
+***
+
+Plus tard, Kübra m'a demandé :
+
+— Tu te souviens de Jeanne ?
+
+J'ai souri.
+
+— Avec son manteau bleu ?
+
+— Oui.
+
+Elle a regardé les lumières du lac.
+
+— Elle ne veut pas être jeune. Moi, j'ai choisi Genesis-S. Tu as choisi l'ancrage. Mira et Lina ont choisi de retrouver leur jeunesse. Nous avons tous fait des choix différents, et aucun de nous ne devrait posséder le droit de décider pour les autres.
+
+Je l'ai regardée.
+
+Elle a poursuivi :
+
+— Peut-être que c'est cela, le début d'une société capable de vivre très longtemps. Pas de trouver le même destin pour tout le monde. De supporter que les destins soient différents.
+
+Je n'ai pas répondu.
+
+Je pensais à ce que cela signifierait si les générations futures vivaient beaucoup plus longtemps.
+
+Il leur faudrait apprendre à partager les logements, les ressources, les positions de pouvoir et les moyens de décider.
+
+Il leur faudrait protéger les nouveaux arrivants sans considérer les plus anciens comme des obstacles.
+
+Il leur faudrait permettre à une personne de recevoir une jeunesse nouvelle sans traiter celle qui la refuse comme une erreur.
+
+Et il leur faudrait accepter qu'aucune technologie, même parfaite biologiquement, ne remplace une discussion sur la liberté.
+
+***
+
+Cette nuit-là, je suis retourné dans mon bureau.
+
+La chemise violette avait quitté le tiroir. Elle était désormais entre les mains des personnes chargées de l'examiner.
+
+J'ai regardé l'espace vide.
+
+Pendant des mois, j'avais cru que conserver ce dossier me donnait une forme de contrôle.
+
+En réalité, il m'avait empêché de demander de l'aide.
+
+J'ai ouvert le carnet du Phénix.
+
+Sur une page ancienne, Sophie avait écrit : *Ne pas compter ce qui n'est pas encore entré dans les réserves.*
+
+Je me suis souvenu de la manière dont cette règle nous avait aidés à survivre.
+
+Une promesse de livraison n'était pas du bois.
+
+Une eau claire n'était pas une eau analysée.
+
+Un chiffre sur un marché n'était pas de l'argent reçu.
+
+Et une hypothèse inquiétante n'était pas une preuve.
+
+J'ai refermé le carnet.
+
+Dans la chambre, Kübra lisait.
+
+Je suis allé la rejoindre.
+
+Elle n'a pas levé les yeux tout de suite.
+
+Puis elle m'a demandé :
+
+— Tu as fini de travailler ?
+
+— Pour ce soir, oui.
+
+Elle a fermé son livre.
+
+Je me suis assis près d'elle.
+
+Nous n'avions pas retrouvé toutes les choses que mon secret avait abîmées.
+
+Nous avions retrouvé une manière de ne pas nous mentir sur cette difficulté.
+
+Et cela me semblait déjà plus précieux que n'importe quelle promesse d'éternité.
+
+Au-dehors, Lausanne poursuivait sa nuit.
+
+Dans les laboratoires, les instruments continuaient d'écouter passivement les variations du champ Qν. Une équipe cherchait comment distinguer un motif mathématique véritable d'une forme que les humains avaient inventée en regardant trop longtemps le bruit.
+
+Je ne savais pas encore ce qu'ils trouveraient.
+
+Je savais seulement que, lorsqu'une réponse arriverait, je n'aurais plus le droit de prétendre qu'elle m'appartenait.
+
+J'avais obtenu la jeunesse permanente.
+
+Ce que j'essayais désormais d'apprendre était infiniment plus simple, et peut-être plus difficile :
+
+**laisser aux autres le droit de choisir leur temps.**
