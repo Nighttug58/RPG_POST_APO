@@ -1116,3 +1116,570 @@ J'ai souri.
 
 Et j'étais heureux de le savoir.
 
+
+***
+
+*16 novembre 2082 — La question posée par un enfant*
+
+La discussion qui a véritablement changé ma manière d'envisager le premier contact n'a pas eu lieu avec un physicien.
+
+Elle s'est déroulée dans une bibliothèque de Lausanne.
+
+Kübra y participait à une rencontre destinée aux familles qui cherchaient à comprendre ce que les nouvelles sciences pouvaient changer dans leur vie. Le sujet principal était Genesis-S. Les organisateurs avaient toutefois ajouté un temps de questions sur les rumeurs qui circulaient autour des signaux Qν.
+
+Je m'étais installé au fond de la salle.
+
+Je ne voulais pas prendre la parole.
+
+Une petite fille s'est levée.
+
+Elle devait avoir neuf ou dix ans.
+
+— Si quelqu'un nous parle depuis très loin, a-t-elle demandé, comment est-ce qu'on sait qu'il comprend ce qu'on dit ?
+
+L'animatrice a proposé une réponse prudente sur les nombres, les images et les relations mathématiques.
+
+La fillette a réfléchi.
+
+Puis elle a demandé :
+
+— Et si on lui dit bonjour et qu'il croit qu'on lui demande de venir ?
+
+La salle est devenue silencieuse.
+
+L'animatrice a regardé Kübra.
+
+Mon épouse s'est approchée.
+
+— C'est une très bonne question, a-t-elle dit. Même entre personnes qui parlent la même langue, on peut mal comprendre une intention. Alors avec quelqu'un dont on ignore tout, il faut faire encore plus attention.
+
+La fillette a insisté.
+
+— Mais si on ne lui dit jamais rien, il ne saura pas qu'on l'a entendu.
+
+Kübra s'est accroupie pour être à sa hauteur.
+
+— Peut-être. C'est pour cela que les adultes discutent de ce qu'ils peuvent répondre sans promettre davantage que ce qu'ils savent faire.
+
+L'enfant a hoché la tête.
+
+— Alors il faudrait une réponse qui ne demande rien.
+
+Kübra a souri.
+
+— C'est une idée à examiner.
+
+Je regardais la scène.
+
+Depuis des semaines, les spécialistes débattaient des conditions d'un premier message.
+
+Une enfant venait de leur formuler une contrainte presque parfaite : reconnaître l'autre sans lui promettre une relation dont nous ne comprenions pas encore les termes.
+
+***
+
+À la sortie, Kübra m'a demandé si j'avais aimé la rencontre.
+
+— Beaucoup.
+
+— Même les questions qui n'avaient pas de réponse ?
+
+— Surtout celles-là.
+
+Nous avons marché dans les rues.
+
+La bibliothèque était installée dans un bâtiment reconstruit après la Rupture. Les premières étagères provenaient d'un ancien dépôt. Une partie des livres avait été sauvée de l'humidité au prix d'un travail que personne ne mentionnait plus dans les guides.
+
+Je me suis souvenu de nos premières tentatives de reconstituer des archives.
+
+À l'époque, nous cherchions des manuels d'électricité, des cartes routières, des documents sur l'eau et des instructions capables de nous éviter des erreurs.
+
+Nous avions trouvé beaucoup de pages abîmées.
+
+Certaines ne conservaient que des fragments de phrases.
+
+Il fallait imaginer la partie manquante.
+
+Nous nous trompions parfois.
+
+J'ai regardé Kübra.
+
+— Nous avons peut-être passé notre vie à essayer de lire des messages incomplets.
+
+— Oui, a-t-elle répondu. Et à croire que ce qui nous manque est toujours la partie la plus importante.
+
+J'ai souri.
+
+Elle a ajouté :
+
+— Parfois, il nous manque simplement une personne à qui demander ce qu'elle voulait dire.
+
+Nous avons continué à marcher.
+
+Je n'avais plus envie de voir le signal comme une menace dont je connaissais déjà la forme.
+
+Je voulais savoir s'il existait une possibilité d'entendre quelque chose sans imposer notre peur à l'interprétation.
+
+***
+
+*19 novembre 2082 — Le témoin qu'on n'avait jamais demandé*
+
+L'équipe d'Inès a découvert une nouvelle régularité en réexaminant les archives.
+
+Elle ne provenait pas d'une émission supplémentaire.
+
+Les scientifiques avaient suivi la décision de suspendre les essais Qν exploratoires non nécessaires, et l'essentiel du travail se faisait sur des données déjà enregistrées ou sur des observations passives.
+
+Le résultat venait d'une comparaison entre plusieurs familles de traces.
+
+Certains motifs associés aux expériences de 2079 et 2080 présentaient une relation que les chercheurs ne retrouvaient pas de la même manière dans les structures plus récentes, observées après mon ancrage autonome.
+
+À première vue, cela semblait être une différence de sensibilité instrumentale.
+
+Puis les équipes ont tenté de comparer les mêmes données avec un modèle unique.
+
+Elles n'ont pas réussi à rendre compte de toutes les transformations.
+
+Salomé a demandé :
+
+— Et si nous avions affaire à plusieurs conventions ?
+
+Un chercheur a répondu :
+
+— Ou plusieurs modes du même phénomène.
+
+— Exactement, a-t-elle dit.
+
+Sofia a pris la parole.
+
+— Nous devons éviter de faire d'une différence de signature la preuve de deux interlocuteurs. Mais nous devons aussi cesser d'affirmer qu'un seul interprète suffira nécessairement à toutes les archives.
+
+Je me suis assis.
+
+Cette nuance me dérangeait.
+
+J'avais fini par imaginer une source unique.
+
+Un observateur.
+
+Une intention.
+
+Peut-être une réponse.
+
+Or nous pouvions être en train de lire des traces dont certaines appartenaient au fonctionnement du champ, d'autres à des équipements inconnus et d'autres encore à une tentative délibérée d'établir un lien.
+
+Rien ne nous permettait de réunir toutes ces possibilités sous un seul nom.
+
+***
+
+Inès a montré un groupe ancien, enregistré avant certaines de nos expériences.
+
+Sa structure paraissait plus simple que les séquences récentes.
+
+Elle n'était pas nécessairement moins intéressante.
+
+Elle présentait un décalage chrono-géométrique dont les modèles actuels ne rendaient compte qu'en partie.
+
+Puis elle a montré des motifs plus récents.
+
+Ils semblaient répéter certaines relations numériques, mais pas exactement de la même manière.
+
+— Le premier groupe n'est pas la signature de votre ancrage, a-t-elle précisé en me regardant. Il date d'avant sa création.
+
+J'ai hoché la tête.
+
+— Je sais.
+
+— Et nous ne devons pas supposer qu'il provient de la même source que les nouvelles structures. Ce serait l'une des erreurs les plus faciles à commettre.
+
+J'ai regardé les deux ensembles.
+
+Le premier paraissait presque dépouillé.
+
+Le second était plus riche, plus organisé selon les modèles que nous avions appris à reconnaître.
+
+Je me suis demandé si deux personnes pouvaient utiliser la même route sans voyager ensemble.
+
+La réponse était évidemment oui.
+
+J'ai pensé à la route du village de l'Est.
+
+Nous l'avions empruntée avec des planches.
+
+D'autres l'avaient empruntée avec des vivres.
+
+D'autres encore y avaient fait passer des marchandises dont nous ignorions tout.
+
+La route ne prouvait pas l'identité des voyageurs.
+
+Le champ Qν ne prouvait pas celle des sources.
+
+Je n'ai pas dit cette comparaison à voix haute.
+
+Pour une fois, j'ai préféré écouter jusqu'au bout.
+
+***
+
+Un problème supplémentaire est apparu lorsque les mathématiciens ont tenté d'aligner les motifs.
+
+Certaines relations étaient cohérentes si l'on supposait qu'une séquence représentait une question.
+
+Les mêmes données restaient cohérentes si l'on supposait qu'elle représentait une propriété d'un phénomène.
+
+Nous n'avions aucun moyen direct de distinguer *Que vaut ceci ?* de *Voici ce que vaut ceci.*
+
+Salomé a fait écrire les deux interprétations au tableau.
+
+Puis elle a ajouté une troisième :
+
+*Nous reconnaissons cette relation.*
+
+Je me suis mis à rire.
+
+Elle s'est tournée vers moi.
+
+— Vous trouvez cela amusant ?
+
+— Non. Je me rends simplement compte que nous pourrions être incapables de distinguer une question d'une affirmation.
+
+Elle a souri.
+
+— Exactement. Et si nous prétendons traduire cela en verbes et pronoms humains, nous donnerons à la source une psychologie qu'elle ne nous a pas encore révélée.
+
+Sofia a ajouté :
+
+— Nous pouvons tester des relations sans prétendre comprendre l'intention.
+
+Ce fut la première fois que je la sentis réellement prête à discuter d'une réponse.
+
+Pas pour saluer quelqu'un.
+
+Pour vérifier si une structure produite ici pouvait être reconnue ailleurs.
+
+***
+
+*22 novembre 2082 — Les mots interdits*
+
+Une fuite a provoqué une nouvelle crise.
+
+Un site d'information a publié la traduction provisoire qui avait été rejetée dès notre première réunion : *Nous vous observons.*
+
+Le texte présentait cette phrase comme un message authentifié.
+
+Il affirmait que les scientifiques connaissaient l'origine du signal et cachaient son contenu pour protéger l'institut.
+
+Une photographie de moi accompagnait l'article.
+
+Le titre parlait de « l'homme immortel surveillé depuis les étoiles ».
+
+Il n'y avait aucune preuve de cela.
+
+La phrase n'avait jamais été validée.
+
+Le laboratoire n'avait localisé aucune source précise.
+
+Mais le récit était trop séduisant pour disparaître facilement.
+
+Il réunissait mes craintes, les rumeurs sur Genesis-S et la découverte spectaculaire d'un ancrage autonome.
+
+En quelques heures, des représentants publics ont demandé des explications.
+
+Des familles se sont inquiétées.
+
+Certains groupes ont proposé d'arrêter toutes les installations Q-EUV.
+
+D'autres ont demandé que les scientifiques envoient immédiatement une réponse pour montrer que la Terre ne se laisserait pas intimider.
+
+J'ai lu les commentaires.
+
+Je me suis reconnu dans certaines réactions.
+
+Moi aussi, j'avais voulu décider trop vite lorsque j'avais peur.
+
+***
+
+Une conférence a été organisée.
+
+Sofia a refusé de répondre seule.
+
+Elle a demandé à Inès, Salomé et aux responsables des contrôles indépendants d'expliquer chacun ce qui relevait de son domaine.
+
+Salomé a commencé par une phrase simple :
+
+— Nous n'avons traduit aucun message disant « Nous vous observons ».
+
+Un journaliste lui a demandé pourquoi cette phrase figurait dans un document.
+
+Elle a expliqué qu'il s'agissait d'une tentative de lecture, déjà rejetée faute de justifications suffisantes.
+
+Inès a montré comment les frontières entre les unités pouvaient produire plusieurs interprétations.
+
+Sofia a rappelé que les corrélations Qν n'étaient pas des transmissions radio ordinaires et que leur portée possible ne permettait pas d'identifier l'origine d'une structure.
+
+Un autre journaliste a demandé :
+
+— Est-ce que vous pensez qu'une intelligence extérieure existe ?
+
+Sofia a regardé Salomé.
+
+Puis elle a répondu :
+
+— Nous avons des observations qui justifient sérieusement cette hypothèse. Nous ne possédons pas encore les éléments nécessaires pour transformer l'hypothèse en description d'un interlocuteur.
+
+La conférence a duré longtemps.
+
+Elle n'a pas apaisé tout le monde.
+
+Mais je l'ai trouvée courageuse.
+
+Les scientifiques avaient accepté de montrer leurs incertitudes au lieu de les dissimuler derrière un grand mot.
+
+***
+
+Le soir, j'ai reçu un message d'une association qui soutenait les personnes souhaitant obtenir Genesis-S.
+
+Ses représentants craignaient que la panique ne provoque un arrêt injustifié des traitements.
+
+Ils demandaient que les autorités distinguent les recherches Qν exploratoires des procédures biologiques autorisées.
+
+Je leur ai répondu que je soutenais désormais cette distinction.
+
+Puis j'ai pris le temps de leur écrire quelque chose que je n'aurais jamais accepté d'écrire quelques semaines plus tôt :
+
+*Ma proposition de suspension générale a été trop large. Je l'ai retirée. Les précautions sur les opérations Qν doivent être examinées selon leurs propres preuves et leurs propres risques.*
+
+J'ai relu le message.
+
+Il ne faisait pas de moi un héros.
+
+Il ne réparait pas toutes les conséquences de ma décision.
+
+Mais il disait la vérité.
+
+Je l'ai envoyé.
+
+Kübra était assise dans le salon.
+
+Je lui ai montré la réponse.
+
+Elle l'a lue.
+
+Puis elle m'a demandé :
+
+— Pourquoi tu me la montres ?
+
+J'ai réfléchi.
+
+— Parce que j'aimerais que tu saches ce que j'ai décidé de dire, au lieu de te laisser le découvrir dans un journal.
+
+Elle m'a regardé.
+
+Un sourire discret est apparu sur son visage.
+
+— C'est une différence importante.
+
+Je n'ai pas cherché à en obtenir davantage.
+
+***
+
+*25 novembre 2082 — La permission de demander*
+
+Le comité interinstitutionnel a reçu une nouvelle proposition des chercheurs.
+
+Elle ne consistait pas à envoyer un message avec des mots.
+
+Elle proposait une vérification minimale d'une relation mathématique déjà observée, sans divulguer de détails sur les installations ou sur les recherches biologiques.
+
+Le principe était simple dans sa formulation.
+
+Si une source extérieure interprétait les structures numériques comme un échange, elle pourrait peut-être reconnaître une transformation élémentaire proposée par les humains et produire une relation nouvelle.
+
+Si rien ne se produisait, aucune conclusion définitive ne pourrait être tirée.
+
+Un silence ne démontrerait pas qu'aucune intelligence n'existait.
+
+Une corrélation nouvelle ne prouverait pas automatiquement qu'elle avait répondu.
+
+Il faudrait contrôler les hypothèses alternatives, les délais, les appareils et les effets de notre propre interprétation.
+
+Aline Gerber a demandé que la décision soit accompagnée de conditions d'arrêt précises.
+
+Sofia a présenté les mesures de sûreté des installations.
+
+Des représentants civiques ont demandé pourquoi les autorités participantes auraient le droit d'envoyer le premier message au nom de toute l'humanité.
+
+La réponse n'a satisfait personne complètement.
+
+Le comité ne prétendrait pas représenter chaque personne de la Terre.
+
+Il autoriserait un essai scientifique limité, soumis à des obligations de communication et à la possibilité pour d'autres institutions de contester les conditions des échanges futurs.
+
+Une délégation diplomatique permanente ne serait pas créée avant d'avoir établi qu'un interlocuteur existait réellement.
+
+La proposition a été débattue pendant deux jours.
+
+Puis elle a été autorisée, à une majorité qui laissait apparaître plusieurs oppositions.
+
+Le procès-verbal a conservé ces oppositions.
+
+Je l'ai trouvé essentiel.
+
+Le premier acte que nous envisagions envers une source inconnue ne serait pas présenté comme une décision unanime de l'espèce humaine.
+
+Il serait ce qu'il était : une expérience limitée, autorisée par des institutions dont les compétences avaient des frontières.
+
+***
+
+Kübra a assisté à une consultation citoyenne sur le projet.
+
+Elle en est revenue avec un carnet rempli de notes.
+
+— Alors ? lui ai-je demandé.
+
+— Les gens sont divisés.
+
+— Je m'y attendais.
+
+— Mais pas toujours de la manière que tu imagines.
+
+Elle s'est assise.
+
+— Certaines personnes ont peur de répondre. D'autres ont peur que seules des institutions scientifiques parlent sans que les populations soient jamais informées. Plusieurs veulent qu'on écoute plus longtemps. D'autres pensent qu'une réponse prudente peut justement servir à éviter des malentendus.
+
+Elle a ouvert le carnet.
+
+— Le point le plus intéressant, pour moi, n'était pas de savoir qui avait raison. C'était que personne ne voulait se voir retirer le droit d'être concerné.
+
+Je l'ai regardée.
+
+— Même si la communication est purement scientifique ?
+
+— Si elle ne concerne qu'une méthode de mesure, oui, les scientifiques doivent décider des détails techniques. Mais si elle devient une relation avec une intelligence qui ne partage peut-être ni nos institutions ni nos besoins, cela dépasse le laboratoire.
+
+Elle a refermé son carnet.
+
+— Et si un jour nous recevons une demande qui concerne ton corps, Tugay, cela ne fera pas automatiquement de toi le représentant de l'humanité.
+
+J'ai senti un frisson.
+
+Elle ne savait pas ce qui pourrait être demandé.
+
+Moi non plus.
+
+Mais le fait que mon ancrage portait une signature permanente rendait cette possibilité personnelle.
+
+Je lui ai répondu :
+
+— Tu as raison.
+
+Elle a attendu, comme si elle craignait que j'ajoute un *mais*.
+
+Je n'en ai pas ajouté.
+
+***
+
+*27 novembre 2082 — La première réponse*
+
+Je n'étais pas dans la salle de commande lorsque l'essai a eu lieu.
+
+C'était une décision que j'avais acceptée.
+
+Depuis mon retrait des responsabilités Qν, je n'avais aucune raison scientifique d'être présent au moment où les équipes utiliseraient les installations autorisées.
+
+J'avais cependant été invité à assister à une présentation ultérieure des résultats, dans les limites de ce qui pouvait être communiqué.
+
+Je suis resté chez nous.
+
+Kübra travaillait à son bureau.
+
+Elle avait promis d'examiner un dossier sur les droits des personnes âgées qui refusaient Genesis-S. Le fait que nous soyons sur le point de tenter un échange avec une intelligence inconnue n'avait pas supprimé les problèmes de contrats, d'assurances et de discrimination.
+
+Je l'admirais pour cela.
+
+À midi, j'ai regardé l'heure.
+
+Puis j'ai fermé le terminal.
+
+J'avais passé trop de journées de ma vie à attendre des événements que je ne pouvais pas contrôler.
+
+Kübra a relevé la tête.
+
+— Tu veux qu'on marche un peu ?
+
+J'ai accepté.
+
+Nous avons traversé les rues de Lausanne.
+
+Le ciel était gris.
+
+Un enfant essayait de faire avancer un petit véhicule dont une roue semblait mal fixée.
+
+Je me suis approché pour l'aider.
+
+Sa mère m'a remercié.
+
+J'ai expliqué que l'axe était simplement déboîté, puis j'ai reculé.
+
+Le garçon a repris son véhicule.
+
+Il est parti en courant.
+
+Kübra m'a regardé.
+
+— Tu vois ? Tu peux encore réparer quelque chose sans organiser un institut autour.
+
+J'ai ri.
+
+Pendant quelques minutes, j'ai oublié l'essai.
+
+***
+
+Le soir, Sofia a envoyé un message de synthèse.
+
+La séquence limitée avait été exécutée conformément aux conditions autorisées.
+
+Les contrôles n'avaient révélé aucune anomalie de sûreté dans les installations.
+
+Les observations passives continuaient.
+
+Aucune réponse ne pouvait encore être attribuée à l'essai.
+
+C'était tout.
+
+Je l'ai relu.
+
+Puis je l'ai montré à Kübra.
+
+Elle a pris le temps de le lire.
+
+— Tu es déçu ? m'a-t-elle demandé.
+
+— Un peu.
+
+— Tu espérais qu'on te dise bonsoir ?
+
+J'ai souri.
+
+— Peut-être.
+
+Elle a posé le terminal.
+
+— Alors tu commences à te comporter comme un homme qui attend une lettre.
+
+Je l'ai regardée.
+
+L'image me plaisait.
+
+Une lettre pouvait arriver.
+
+Elle pouvait se perdre.
+
+Elle pouvait avoir été envoyée à quelqu'un d'autre.
+
+Et même lorsqu'elle arrivait à la bonne adresse, il fallait encore apprendre à la lire.
+
+Nous avons dîné sans parler davantage du laboratoire.
+
+Je ne me souviens plus de ce que nous avons mangé.
+
+Je me souviens en revanche que, pour la première fois depuis des semaines, j'ai dormi sans rêver de courbes.
+
