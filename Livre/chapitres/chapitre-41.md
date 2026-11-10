@@ -1322,3 +1322,1163 @@ Puis elle a repris ma main.
 Elle n'avait pas pris sa décision à ma place.
 
 Elle venait de m'expliquer le prix que nous pourrions payer ensemble, même si le corps ne souffrait jamais.
+
+***
+
+*18 avril 2082 — Le vote auquel je ne participais pas*
+
+Je n'ai pas assisté à la séance où le conseil a décidé que l'utilisation du cœur pouvait être autorisée.
+
+C'était voulu.
+
+Je m'étais porté volontaire, et ma fortune avait contribué à financer le programme. Même après m'être retiré des décisions qui me concernaient, ma présence aurait pu peser sur les personnes chargées d'examiner le dossier.
+
+Je suis resté à Lausanne.
+
+Kübra avait prévu une réunion avec plusieurs associations de patients. Elle m'a proposé de déjeuner avec elle avant de partir.
+
+Nous nous sommes assis dans un café près de la gare.
+
+J'avais commandé un plat sans regarder ce qu'il contenait réellement. Je n'avais pas faim.
+
+— Tu es inquiet, a-t-elle observé.
+
+— Ils pourraient refuser.
+
+— Oui.
+
+— Et conserver le cœur pour les prochaines recherches.
+
+— Oui.
+
+J'ai soupiré.
+
+Kübra m'a regardé.
+
+— Tu veux que je te dise qu'ils auraient tort ?
+
+— Ce serait agréable.
+
+Elle a souri.
+
+— Alors je ne vais pas te faire ce plaisir.
+
+J'ai ri malgré moi.
+
+Puis elle est devenue sérieuse.
+
+— Tu as demandé qu'une décision indépendante soit prise. Si tu ne peux pas accepter une réponse négative, elle n'était pas réellement indépendante dans ton esprit.
+
+Je me suis enfoncé dans mon fauteuil.
+
+Elle avait raison.
+
+C'était devenu presque une tradition douloureuse entre nous : j'invoquais des règles pour protéger les autres, puis je découvrais que je n'aimais pas les subir.
+
+***
+
+Dans l'après-midi, j'ai marché au bord du Léman.
+
+Il faisait doux.
+
+Des enfants couraient près des quais. Un vieux couple discutait sur un banc. Plusieurs voyageurs consultaient les horaires d'un bateau.
+
+Je les ai observés.
+
+Depuis ma restauration, les années semblaient à nouveau très loin devant moi. Je pouvais imaginer un voyage de plusieurs mois, un apprentissage de plusieurs années, un nouveau métier.
+
+L'idée de rester définitivement dans cet état physique transformait ces possibilités en un horizon presque sans fin.
+
+J'essayais de me représenter cent années supplémentaires.
+
+Puis deux cents.
+
+Je n'y arrivais pas.
+
+Je pensais toujours à des projets.
+
+Des maisons.
+
+Des machines.
+
+Des régions à visiter.
+
+Je ne savais pas comment imaginer la succession des personnes, des institutions et des valeurs qui rempliraient ces siècles.
+
+Le monde avait déjà changé au-delà de ce que j'aurais cru possible en 2026.
+
+Pourtant, une partie de moi parlait encore de l'avenir comme si j'allais simplement y ajouter des pages à un carnet.
+
+J'ai compris que l'absence de vieillissement ne me donnerait pas automatiquement la capacité de comprendre un monde qui continuerait à changer sans moi.
+
+***
+
+Le conseil a rendu sa décision en fin de journée.
+
+L'utilisation expérimentale du cœur était **autorisable**, mais non obligatoire.
+
+La décision comportait des réserves précises.
+
+La conversion serait permise seulement après confirmation des dernières conditions de contrôle. Aucun membre du programme ne pourrait être contraint de participer. Le bénéficiaire serait choisi selon des critères arrêtés à l'avance, examinés indépendamment et séparés des intérêts financiers. Les conséquences de la destruction du cœur seraient documentées publiquement à un niveau compatible avec la sûreté des installations.
+
+Et le programme ne devrait pas présenter l'expérience comme la démonstration qu'une immortalité accessible à tous existait déjà.
+
+Une biologiste avait voté contre.
+
+Son avis était joint au rapport.
+
+Elle ne contestait pas les résultats sur la sécurité biologique. Elle estimait qu'un cœur aussi rare devait rester disponible pour la recherche fondamentale jusqu'à ce que sa formation soit mieux comprise.
+
+Un physicien s'était abstenu parce qu'il jugeait insuffisante la compréhension des corrélations non locales.
+
+Sofia avait soutenu une autorisation conditionnelle, à la condition que l'ensemble des réserves soit maintenu.
+
+J'ai lu les opinions divergentes.
+
+Je les ai trouvées plus importantes que le mot *autorisable*.
+
+Elles prouvaient que la décision avait coûté quelque chose à ceux qui l'avaient prise.
+
+***
+
+Le soir, Kübra m'a trouvé devant les fenêtres du salon.
+
+— Alors ?
+
+Je lui ai tendu les pages.
+
+Elle a pris le temps de lire, y compris les réserves.
+
+— Ce n'est pas un oui simple, a-t-elle dit.
+
+— Non.
+
+— Et ce n'est pas un non.
+
+— Non.
+
+Elle a reposé le rapport.
+
+— Qu'est-ce que tu comptes faire ?
+
+— Je vais attendre les conclusions des examens de sélection.
+
+Elle m'a observé.
+
+— Tu pourrais aussi retirer ta candidature.
+
+Je me suis tourné vers elle.
+
+— Tu voudrais que je le fasse ?
+
+Elle a réfléchi.
+
+— Je voudrais que tu te poses cette question sans imaginer que cela ferait de toi un lâche.
+
+Je n'avais pas considéré le retrait comme une preuve de lâcheté.
+
+Ou plutôt, je ne me l'étais pas dit aussi clairement.
+
+J'ai regardé le dossier.
+
+Je pouvais renoncer.
+
+Je ne serais pas moins jeune le lendemain.
+
+Je pourrais continuer à recevoir Genesis-S si les règles et les moyens le permettaient.
+
+L'ancrage ne m'était pas nécessaire pour traverser les prochaines années.
+
+Cette constatation rendait mon désir plus difficile à expliquer.
+
+Je ne cherchais plus à échapper à une vieillesse immédiate.
+
+Je cherchais une permanence que personne n'avait encore obtenue.
+
+***
+
+*Mai 2082 — Les noms cachés*
+
+Plusieurs personnes avaient accepté de participer à l'évaluation d'une éventuelle conversion autonome.
+
+Elles ne connaissaient pas les autres candidats.
+
+Elles avaient reçu les informations nécessaires sur le caractère unique du cœur, sa destruction, la permanence biologique et la possibilité d'une signature Qν persistante. Leur accord ne dépendait d'aucune promesse de place définitive.
+
+Les équipes avaient établi les critères avant de comparer les dossiers.
+
+Certains candidats ne remplissaient pas encore les conditions instrumentales nécessaires à une intervention aussi singulière. D'autres ont choisi de se retirer après avoir été informés du caractère irréversible de la signature.
+
+Ce retrait n'a pas été traité comme un échec.
+
+Il appartenait au protocole.
+
+Les dossiers admissibles ont été présentés sous une forme anonymisée à un groupe extérieur. Le financement, la célébrité et les relations familiales n'y figuraient pas.
+
+Il restait plusieurs personnes qui souhaitaient poursuivre.
+
+Le groupe devait examiner la qualité des données de référence et la capacité de documenter une conversion unique avec le plus faible niveau d'incertitude instrumentale possible.
+
+Je n'ai pas participé à l'évaluation.
+
+J'ai passé deux journées à attendre.
+
+Kübra m'a proposé de l'accompagner à une rencontre de son réseau civique.
+
+J'ai accepté.
+
+Nous avons parlé de droits de déplacement, d'accès aux soins et de la manière dont certains établissements commençaient à utiliser l'existence de Genesis-S dans leurs plans à long terme.
+
+Je n'ai pas prononcé le mot *cœur* pendant toute la réunion.
+
+C'était plus difficile que je ne l'aurais cru.
+
+***
+
+Quand le résultat m'a été communiqué, je suis resté longtemps sans parler.
+
+Mon dossier avait été retenu.
+
+L'équipe indépendante estimait que les données longitudinales réunies depuis ma restauration, associées aux références de phase dont elle disposait, permettaient le suivi le plus complet parmi les candidats encore volontaires.
+
+Je savais que cette conclusion ne signifiait pas que j'étais biologiquement supérieur aux autres.
+
+Je ne l'étais pas.
+
+La différence concernait la qualité des mesures disponibles dans les conditions exceptionnelles de cette expérience.
+
+Pourtant, je n'ai pas réussi à ressentir une joie simple.
+
+J'avais été choisi.
+
+Et cette phrase suffisait déjà à créer une inégalité qui pourrait durer bien plus longtemps que toutes celles que j'avais connues.
+
+J'ai demandé que les modalités de sélection soient auditées une nouvelle fois avant l'autorisation définitive.
+
+Maëlle Girard a accepté.
+
+Elle m'a prévenu :
+
+— Nous vérifierons le respect des critères. Nous ne chercherons pas à fabriquer une justification supplémentaire parce que le nom du candidat nous embarrasse.
+
+J'ai acquiescé.
+
+Je n'avais pas besoin qu'on invente une raison de me préférer.
+
+J'avais besoin de savoir qu'on ne l'avait pas fait pour me remercier.
+
+***
+
+Le soir, j'ai annoncé la nouvelle à Kübra.
+
+Elle n'a pas souri.
+
+Elle m'a pris dans ses bras.
+
+Puis elle s'est reculée.
+
+— Tu veux toujours le faire ?
+
+J'ai pris le temps de répondre.
+
+— Oui.
+
+— Même si le cœur disparaît pour toujours ?
+
+— Oui.
+
+— Même si tu restes le seul pendant très longtemps ?
+
+J'ai pensé aux dossiers, aux travaux et à la possibilité qu'une autre équipe parvienne un jour à reproduire la stabilité.
+
+— Oui.
+
+Elle a attendu.
+
+— Même si cette signature peut être perçue par quelque chose que nous ne connaissons pas ?
+
+J'ai senti un frisson parcourir mon dos.
+
+Elle connaissait les conclusions officielles.
+
+Elle ne connaissait pas la note d'Aline, ni les inquiétudes que j'avais nourries seul pendant des mois.
+
+— Oui, ai-je répondu.
+
+Le mot m'a fait peur au moment où je l'ai prononcé.
+
+Je ne pouvais plus dire que je ne savais pas.
+
+Je savais qu'il existait un risque physique non local que nous ne pouvions pas cartographier complètement.
+
+Je savais que la signature, si elle était créée, ne s'éteindrait pas comme les impulsions ordinaires.
+
+Je ne savais pas si quelqu'un serait capable de la détecter.
+
+Je choisissais de poursuivre malgré cette incertitude.
+
+Kübra m'a regardé.
+
+— Alors il faut que tu acceptes aussi ce que moi je choisis.
+
+— Quoi ?
+
+— Je serai à tes côtés. Mais je ne dirai jamais que ce choix était le mien.
+
+Je l'ai regardée.
+
+Elle ne cherchait pas à me punir.
+
+Elle protégeait la frontière que nous avions eu tant de mal à tracer entre nos deux existences.
+
+Je lui ai répondu que je comprenais.
+
+Cette fois, je crois que je comprenais réellement.
+
+***
+
+*28 mai 2082 — Ce que nous pouvions sauver*
+
+Mina Aydin a organisé une dernière visite de l'atelier.
+
+Elle ne souhaitait pas me montrer les secrets de fabrication du cœur.
+
+Elle voulait me montrer tout ce qu'il faudrait conserver lorsque l'objet aurait disparu.
+
+Il y avait des relevés.
+
+Des photographies des structures accessibles.
+
+Des contrôles effectués pendant plusieurs années.
+
+Des modèles concurrents, certains abandonnés parce qu'ils ne répondaient pas aux observations.
+
+Des témoignages de techniciens qui avaient participé aux premiers assemblages.
+
+L'institut avait préparé des copies vérifiées de ces informations pour plusieurs équipes indépendantes, selon les règles de sécurité applicables.
+
+— Ce ne sera pas la même chose que de garder le cœur, a dit Mina.
+
+— Je sais.
+
+— Mais je refuse qu'on transforme sa disparition en perte de mémoire scientifique.
+
+Je l'ai regardée.
+
+Elle avait passé une partie de sa vie à protéger cette pièce.
+
+Elle savait probablement mieux que moi ce que signifiait la sacrifier.
+
+— Vous auriez voté pour son utilisation ? ai-je demandé.
+
+Elle a hésité.
+
+— Je ne sais pas. J'aurais peut-être voté non. C'est pour cela que je n'étais pas dans le groupe qui décidait de votre candidature.
+
+Je lui ai demandé si elle m'en voulait.
+
+Elle a secoué la tête.
+
+— Je vous en voudrai si vous commencez à parler de ce cœur comme s'il était devenu inutile après vous avoir servi.
+
+Je lui ai promis de ne pas le faire.
+
+Elle a ouvert un dernier dossier.
+
+On y voyait une simulation de l'état de l'assemblage après la conversion.
+
+La configuration autonome disparaissait de l'objet. Les matériaux ordinaires demeuraient, mais ils ne portaient plus la propriété rare.
+
+Je me suis penché.
+
+— Il n'y aura donc rien à récupérer pour recommencer.
+
+— Rien que nous sachions utiliser comme un second cœur.
+
+J'ai pensé à tous les matériaux que nous avions récupérés après la Rupture, aux portes de garage transformées en structure de remorque, aux roues de récupération et aux batteries réparées.
+
+Nous avions appris à réutiliser presque tout.
+
+Cette fois, la chose la plus précieuse n'était pas une matière que l'on pouvait démonter.
+
+C'était une organisation physique que nous allions consommer.
+
+Je suis sorti de l'atelier avec la sensation d'avoir déjà perdu quelque chose.
+
+***
+
+*9 juin 2082 — Le dernier dîner avant*
+
+Nous avons invité Mira et Lina à dîner quelques jours avant la conversion.
+
+Je ne voulais pas leur annoncer une décision dans un communiqué.
+
+Je voulais qu'ils puissent me poser leurs questions et me dire ce qu'ils pensaient sans craindre d'être enregistrés.
+
+Le repas a commencé simplement.
+
+Lina racontait un problème d'intégration entre deux systèmes énergétiques.
+
+Mira lui reprochait gentiment de continuer à travailler même pendant les week-ends.
+
+Kübra a apporté le dessert.
+
+Puis j'ai parlé de la date.
+
+Le silence s'est installé.
+
+Mira m'a demandé :
+
+— Tu as conscience que nous n'aurons peut-être jamais la même possibilité ?
+
+— Oui.
+
+— Et que tu ne pourras pas revenir en arrière ?
+
+— Oui.
+
+Il a baissé les yeux.
+
+Je croyais qu'il allait me reprocher mon égoïsme.
+
+Au lieu de cela, il a dit :
+
+— Je ne sais pas comment te souhaiter bonne chance sans avoir l'impression d'accepter tout ce que ça signifie.
+
+Je suis resté silencieux.
+
+Lina a pris la parole.
+
+— Alors ne lui souhaitons pas que l'expérience soit considérée comme bonne parce qu'il en revient jeune. Souhaitons-lui que les personnes chargées des contrôles puissent dire la vérité, quelle qu'elle soit.
+
+J'ai regardé son visage.
+
+Elle avait retrouvé la jeunesse biologique à son tour, mais parlait avec la précision d'une ingénieure qui avait passé des années à examiner les conséquences des décisions.
+
+Je lui ai répondu :
+
+— C'est exactement ce dont j'ai besoin.
+
+***
+
+Après le dessert, Mira m'a accompagné sur le balcon.
+
+La ville était calme.
+
+— Tu sais, a-t-il dit, j'ai toujours trouvé que tu étais incapable de quitter un problème sans chercher à le résoudre.
+
+J'ai souri.
+
+— Je croyais que tu avais hérité de ce défaut.
+
+— Peut-être. Mais j'ai aussi hérité de maman.
+
+Il s'est appuyé contre la rambarde.
+
+— Elle sait partir quand une réunion devient une manière de ne pas écouter.
+
+Je n'ai pas répondu.
+
+Mira a repris :
+
+— Si tu réussis, il faudra que tu apprennes à vivre avec l'idée que tu ne pourras pas régler toutes les injustices que ton propre cas rendra visibles.
+
+J'ai regardé les immeubles.
+
+— Je le sais.
+
+— Pas vraiment. Tu sais le dire. Je crois que tu ne sais pas encore ce que ça te fera.
+
+Je me suis tourné vers lui.
+
+Il avait raison.
+
+Je pouvais imaginer des critiques.
+
+Je pouvais imaginer des demandes.
+
+Je pouvais imaginer des gens qui considéreraient ma permanence comme un vol, un miracle ou une faute.
+
+Je ne pouvais pas encore imaginer ce que cela ferait de vivre un siècle avec cette question, si personne d'autre ne pouvait recevoir le même traitement.
+
+Mira a posé sa main sur mon épaule.
+
+— Tu restes mon père, a-t-il dit. Mais je ne suis pas obligé de trouver toutes tes décisions bonnes pour t'aimer.
+
+Je l'ai pris dans mes bras.
+
+C'était, peut-être, la phrase la plus généreuse qu'il m'ait jamais dite.
+
+***
+
+*17 juin 2082 — Le cœur*
+
+Le matin de la conversion, je me suis réveillé avant le lever du soleil.
+
+Kübra dormait encore.
+
+Je l'ai regardée un moment.
+
+Son corps avait retrouvé vingt-cinq ans biologiques, comme le mien. Ses cheveux reposaient sur l'oreiller. Une main dépassait de la couverture.
+
+Pendant des décennies, j'avais eu peur de la perdre parce que nos corps vieillissaient.
+
+Ce matin-là, j'allais peut-être supprimer cette peur pour moi seul.
+
+Je me suis levé sans bruit.
+
+J'ai préparé du café.
+
+J'ai ouvert la fenêtre.
+
+L'air était frais.
+
+Kübra est venue quelques minutes plus tard.
+
+Elle m'a trouvé près de la table.
+
+— Tu as dormi ?
+
+— Un peu.
+
+Elle a regardé la tasse devant moi.
+
+— Et tu n'as rien cassé ?
+
+J'ai ri.
+
+Elle m'a embrassé.
+
+Nous avons pris le petit déjeuner ensemble.
+
+Je n'ai pas regardé mon terminal.
+
+Je voulais conserver une dernière heure qui ne serait pas organisée autour d'une machine.
+
+***
+
+À l'institut, les contrôles ont commencé par mon identité.
+
+Je m'appelais toujours Tugay.
+
+Je connaissais la date.
+
+Je pouvais expliquer le principe de Genesis-S, ses limites et la différence avec l'ancrage autonome.
+
+Je savais que le cœur rare serait détruit pendant la conversion.
+
+Je savais qu'aucun autre ancrage ne pourrait être créé immédiatement avec les moyens disponibles.
+
+Je savais que la configuration obtenue pourrait porter une signature Qν persistante, théoriquement détectable par un dispositif non local plus sensible que les nôtres.
+
+Je savais que personne n'avait démontré l'existence d'un tel observateur.
+
+Je savais que cette incertitude ne disparaîtrait pas simplement parce que j'avais envie du résultat.
+
+Émilie Roch m'a demandé si je maintenais mon consentement.
+
+J'ai regardé les documents.
+
+Puis j'ai répondu oui.
+
+Elle m'a demandé de le confirmer une seconde fois, après une pause pendant laquelle j'aurais pu retirer mon accord sans justification.
+
+J'ai répondu oui.
+
+Je n'étais pas forcé.
+
+Je n'étais pas malade.
+
+Je n'avais pas besoin d'une intervention urgente pour survivre.
+
+Je choisissais une permanence dont je comprenais les limites.
+
+Cela ne rendait pas mon choix irréprochable.
+
+Cela le rendait mien.
+
+***
+
+Les scientifiques ont commencé la séquence sous le contrôle des responsables autorisés.
+
+Je ne voyais pas le cœur.
+
+Il se trouvait dans une installation isolée, entourée des instruments nécessaires à son contrôle et à la vérification du transfert.
+
+Je savais que Mina était présente.
+
+Sofia aussi.
+
+Nadia suivait les mesures biologiques.
+
+D'autres équipes, indépendantes de la conversion elle-même, devaient examiner les données sans pouvoir modifier les résultats à leur convenance.
+
+Il n'y avait aucune musique.
+
+Aucune lumière destinée à créer un effet dramatique.
+
+L'installation Q-EUV accomplissait une opération physique que nous n'aurions jamais su expliquer avec les seules connaissances de notre jeunesse.
+
+Le cœur rare maintenait un état de phase collectif dont la configuration allait être transférée au système biologique déjà restauré par Genesis-S.
+
+La conversion ne consistait pas à placer la pièce dans mon corps.
+
+Elle ne me rendait pas dépendant d'un objet caché sous la peau.
+
+La propriété autonome devait devenir celle de mon organisme.
+
+Je ne sais pas combien de temps j'ai attendu.
+
+Je me souviens seulement d'avoir entendu une voix annoncer que les contrôles confirmaient le passage de l'état rare hors de son assemblage initial.
+
+Puis une autre voix a dit :
+
+— La configuration du cœur n'est plus présente dans l'appareil.
+
+Je l'ai comprise immédiatement.
+
+Nous venions de le perdre.
+
+***
+
+Il y a eu un silence.
+
+Je n'ai rien ressenti de douloureux.
+
+Aucune maladie ne s'est déclarée.
+
+Aucun souvenir n'a disparu.
+
+Je n'ai pas senti mon corps se transformer en quelque chose d'étranger.
+
+Mais les instruments avaient enregistré un changement que personne n'avait jamais observé chez un être humain.
+
+La trajectoire de vieillissement biologique ne reprenait plus son évolution ordinaire.
+
+Elle restait stabilisée au voisinage de vingt-cinq ans.
+
+Le système se maintenait sans nouvelle excitation Q-EUV.
+
+Sans injection.
+
+Sans retour périodique au laboratoire.
+
+Le cœur avait été consommé.
+
+L'ancrage existait.
+
+J'ai entendu Sofia demander une vérification indépendante.
+
+Puis une deuxième.
+
+Les équipes ont poursuivi leurs contrôles.
+
+Je n'ai pas essayé de leur demander d'aller plus vite.
+
+Cette fois, je connaissais trop bien le prix d'une belle courbe interprétée avant d'avoir été examinée.
+
+***
+
+Lorsque Nadia est venue me parler, elle avait les yeux fatigués.
+
+— Les premières mesures sont conformes aux prévisions, a-t-elle dit.
+
+J'ai attendu.
+
+— L'état biologique est stable. Les contrôles cognitifs sont cohérents. Aucune altération de mémoire, aucune conséquence biologique indésirable n'apparaît.
+
+— Et le vieillissement ?
+
+Elle m'a regardé.
+
+— Dans les limites de la tomographie de trajectoires et des vérifications indépendantes, il ne reprend pas. L'état autonome se maintient.
+
+J'ai baissé les yeux.
+
+Je pensais à la promesse que nous avions faite des décennies plus tôt : reconstruire assez pour que les personnes puissent à nouveau vivre sans craindre le lendemain.
+
+Je venais de franchir une limite que l'humanité avait considérée comme définitive.
+
+Pourtant, je n'ai pas éprouvé de triomphe.
+
+Je pensais au cœur détruit.
+
+Aux autres candidats.
+
+À Kübra, qui continuerait de vieillir tant qu'elle n'accepterait pas de nouvelles restaurations.
+
+À Mira et Lina.
+
+Et à la signature que les instruments venaient de confirmer.
+
+Nadia a posé sa main sur mon avant-bras.
+
+— Vous allez bien ?
+
+J'ai pris le temps de répondre.
+
+— Biologiquement, oui.
+
+Elle a hoché la tête.
+
+— C'est ce que je peux confirmer aujourd'hui.
+
+Je l'ai remerciée.
+
+***
+
+*18 juin 2082 — La nouvelle ligne*
+
+La signature Qν était apparue dans les instruments de surveillance au moment de la conversion.
+
+Elle n'avait pas la forme d'une impulsion brève.
+
+Elle persistait.
+
+Les capteurs locaux pouvaient suivre une variation stable liée à mon nouvel état biologique. Les modèles indiquaient que cette organisation resterait présente aussi longtemps que l'ancrage autonome fonctionnerait.
+
+Les chercheurs ont vérifié que l'installation ne produisait pas elle-même une émission résiduelle capable de tromper les capteurs.
+
+Le cœur ne se trouvait plus dans son état initial.
+
+L'appareil pouvait être arrêté.
+
+La signature demeurait.
+
+Elle était liée à moi.
+
+Sofia a regardé les courbes.
+
+Puis elle s'est tournée vers la salle.
+
+— Nous devons documenter cela comme une propriété physique du nouvel état, a-t-elle dit. Pas comme un effet biologique secondaire.
+
+Mina a acquiescé.
+
+Inès Valette a demandé si les capteurs passifs de Berne enregistraient la même relation.
+
+La réponse est arrivée après plusieurs vérifications.
+
+Ils percevaient une corrélation faible, compatible avec les modèles non locaux.
+
+Les chercheurs ne pouvaient pas déterminer jusqu'où un observateur beaucoup plus sensible aurait pu suivre une telle signature.
+
+Je me suis souvenu d'Aline Gerber.
+
+De sa question sur ce qu'un système extérieur pourrait apprendre.
+
+Je venais de choisir, en connaissance de cette incertitude, de porter une trace qui ne s'éteindrait pas.
+
+Je n'avais aucune preuve qu'une intelligence inconnue écoutait.
+
+Mais je ne pouvais plus prétendre que nous n'émettions que des signaux temporaires.
+
+***
+
+Kübra m'attendait dans une pièce voisine.
+
+Elle s'est levée lorsque je suis entré.
+
+Elle a regardé mon visage.
+
+Puis elle m'a demandé :
+
+— Alors ?
+
+J'ai répondu :
+
+— Il fonctionne.
+
+Elle m'a serré dans ses bras.
+
+Nous sommes restés ainsi longtemps.
+
+Puis elle s'est reculée.
+
+— Comment tu te sens ?
+
+— Comme hier.
+
+Elle a souri.
+
+— C'est peut-être la première fois qu'une découverte aussi grande ne se voit absolument pas sur toi.
+
+J'ai ri.
+
+Puis je lui ai parlé du cœur consommé.
+
+Elle a écouté en silence.
+
+Je lui ai dit que les contrôles montraient une stabilité permanente, sans nécessité de nouvelles doses.
+
+Je lui ai parlé des observations biologiques, des trajectoires et de la signature persistante.
+
+Elle n'a pas cherché à diminuer ma joie.
+
+Elle n'a pas non plus fait semblant que cette journée ne la concernait pas.
+
+— Tu as obtenu ce que tu voulais, a-t-elle dit.
+
+J'ai acquiescé.
+
+— Oui.
+
+Elle a pris ma main.
+
+— Alors il va falloir apprendre à vivre avec ce que cela coûte.
+
+Je l'ai regardée.
+
+Elle ne parlait pas d'une maladie.
+
+Elle ne parlait pas d'une douleur.
+
+Elle parlait de nous.
+
+Et de tous ceux pour qui le cœur n'existait plus.
+
+***
+
+*Juillet 2082 — Le seul homme qui ne vieillissait plus*
+
+Les résultats ont été présentés aux institutions compétentes avant toute communication générale.
+
+Le conseil scientifique a publié les conclusions nécessaires pour expliquer ce qui avait été démontré.
+
+Genesis-S restait un traitement de restauration biologique disponible dans des conditions progressivement élargies, sans être confondu avec l'ancrage autonome.
+
+L'ancrage avait stabilisé un organisme à vingt-cinq ans biologiques.
+
+Les vérifications fondées sur les instruments Q-EUV confirmaient l'absence de vieillissement et d'effets secondaires biologiques.
+
+Le cœur rare avait été consommé définitivement.
+
+Aucun second cœur équivalent n'était disponible.
+
+Le protocole ne pouvait pas être proposé à d'autres personnes.
+
+Ces phrases ont provoqué des réactions que je n'avais pas imaginées dans toute leur violence.
+
+Certaines personnes parlaient d'une victoire de l'humanité.
+
+D'autres voyaient dans mon cas la preuve qu'une fortune privée avait permis à un seul homme de franchir une limite inaccessible aux autres.
+
+Plusieurs commentateurs ont affirmé que nous avions caché des centaines de cœurs.
+
+D'autres ont demandé à saisir les installations pour les mettre sous contrôle public.
+
+Des personnes qui espéraient recevoir Genesis-S craignaient que le programme abandonne désormais leurs besoins pour poursuivre un projet réservé à une élite.
+
+J'ai lu ces réactions avec une inquiétude croissante.
+
+Aucune n'était entièrement absurde.
+
+Même les accusations fausses naissaient parfois d'une question légitime : pourquoi moi ?
+
+Je n'avais pas de réponse qui puisse effacer la différence créée par l'expérience.
+
+J'avais suivi les règles.
+
+J'avais accepté une sélection indépendante.
+
+Le cœur avait été consommé dans un programme autorisé.
+
+Cela ne rendait pas l'inégalité moins réelle.
+
+***
+
+Une journaliste m'a demandé, lors d'une conférence limitée :
+
+— Est-ce que vous considérez que vous avez mérité l'immortalité ?
+
+J'ai senti une colère monter.
+
+J'aurais voulu lui rappeler les décennies de travail, les premières années du Phénix, les projets financés dans le monde entier.
+
+Puis j'ai regardé la salle.
+
+La question était plus importante que la manière dont elle avait été posée.
+
+— Non, ai-je répondu.
+
+Elle a attendu.
+
+— Je n'ai pas mérité une propriété biologique que les autres n'auraient pas méritée. J'ai été retenu dans une expérience unique, autorisée après des contrôles indépendants. Je suis responsable de ce choix et de ses conséquences. Je ne peux pas demander aux autres de considérer cette situation comme juste simplement parce que les procédures ont été respectées.
+
+Un autre journaliste a demandé si je comptais financer la reproduction de l'ancrage.
+
+— Oui, dans le cadre de travaux indépendants et contrôlés. Mais je ne peux pas promettre qu'un second cœur existera à une date donnée.
+
+— Vous avez pourtant l'éternité devant vous.
+
+La formule m'a frappé.
+
+J'ai répondu :
+
+— Mon corps ne vieillit plus. Cela ne signifie pas que je suis invulnérable, que je sais tout ou que le monde me doit davantage de temps que les autres.
+
+La salle est restée silencieuse.
+
+Puis les questions ont repris.
+
+J'ai répondu autant que je pouvais sans divulguer les informations de sûreté des installations ni transformer des hypothèses sur Qν en certitudes publiques.
+
+Je ne savais pas si cela suffirait.
+
+Je savais seulement que le silence complet aurait donné à d'autres le pouvoir de raconter notre histoire à notre place.
+
+***
+
+Le soir, Mira m'a appelé.
+
+— J'ai vu la conférence.
+
+— Et ?
+
+— Tu as bien répondu à certaines questions.
+
+J'ai souri.
+
+— Seulement certaines ?
+
+— Tu as encore cette manie de donner des explications techniques quand quelqu'un te demande comment tu te sens.
+
+Je me suis assis.
+
+— Je ne sais pas comment je me sens.
+
+Il a attendu.
+
+Je lui ai raconté la première fois où j'avais compris que le cœur ne serait plus disponible.
+
+Le silence dans la salle.
+
+La voix de Nadia.
+
+Le regard de Kübra.
+
+Puis j'ai dit :
+
+— J'ai obtenu quelque chose dont j'ai rêvé pendant des années. Et je n'arrive pas à être heureux sans penser à ceux qui ne pourront pas l'avoir.
+
+Mira a répondu :
+
+— Tu peux être heureux et reconnaître le prix de ton choix. Les deux ne s'annulent pas.
+
+J'ai regardé le terminal.
+
+— Tu m'en veux ?
+
+Il a pris son temps.
+
+— Je ne sais pas encore ce que j'en penserai dans vingt ans. Mais je ne veux pas décider aujourd'hui que tu seras seulement ton erreur ou seulement ta réussite.
+
+J'ai senti mes yeux se remplir de larmes.
+
+Je l'ai remercié.
+
+Après l'appel, je suis resté longtemps devant la fenêtre.
+
+J'avais un corps jeune.
+
+Je me demandais soudain combien de relations humaines je pourrais perdre si je croyais que cela me donnait toujours raison.
+
+***
+
+*19 juillet 2082 — La lampe qui ne s'éteignait pas*
+
+Une semaine plus tard, Sofia m'a convoqué au laboratoire pour examiner les derniers relevés.
+
+Je m'attendais à une réunion sur le suivi biologique.
+
+Elle m'a conduit dans une salle où Inès Valette avait préparé plusieurs graphiques.
+
+Les mesures confirmaient la permanence de la signature.
+
+Elle ne diminuait pas avec les heures.
+
+Elle ne dépendait pas du fonctionnement de l'appareil qui avait consommé le cœur.
+
+Elle restait liée à mon organisme.
+
+Inès m'a montré les données de surveillance passive.
+
+— Nous avons quelque chose d'autre, a-t-elle dit.
+
+Je me suis approché.
+
+Sur une courbe, une variation faible apparaissait à proximité de la signature principale.
+
+Elle présentait des ressemblances avec certaines structures enregistrées avant la conversion.
+
+Les résultats n'étaient pas suffisants pour conclure à une réponse.
+
+Plusieurs explications instrumentales restaient en cours d'examen.
+
+Mais la nouvelle ligne n'était pas complètement semblable aux anciennes.
+
+Sofia a posé sa main sur le dossier.
+
+— Nous ne savons pas si ces événements ont un lien causal, a-t-elle dit. Nous devons éviter d'interpréter la proximité temporelle comme une preuve.
+
+J'ai acquiescé.
+
+Je connaissais les mots.
+
+Je connaissais les précautions.
+
+Pourtant, j'ai ressenti cette ancienne peur.
+
+Celle qui m'avait poussé, pendant le premier hiver, à éteindre toutes les lumières lorsque des coups de feu résonnaient au loin.
+
+Cette fois, il n'y avait aucun interrupteur.
+
+La signature venait de moi.
+
+***
+
+J'ai demandé :
+
+— Est-ce qu'on pourrait la masquer ?
+
+Sofia m'a regardé.
+
+— Nous ne disposons pas d'un moyen vérifié de supprimer une signature autonome tout en conservant l'ancrage. Toute proposition de ce type exigerait une nouvelle recherche.
+
+— Et si on arrêtait les autres expériences Q-EUV ?
+
+— Nous pourrions décider de suspendre des opérations selon les procédures de sécurité. Mais cela ne ferait pas disparaître votre état.
+
+Je me suis appuyé contre la table.
+
+Je savais ce qu'elle allait dire avant qu'elle le dise.
+
+— Le cœur a été consommé, Tugay. Vous portez maintenant la configuration qu'il maintenait. C'est précisément ce qui rend la permanence possible.
+
+Inès a baissé les yeux vers les instruments.
+
+— Les données sont encore faibles. Nous devons poursuivre les vérifications passives avant d'aller plus loin dans nos interprétations.
+
+Je l'ai remerciée.
+
+Puis je suis sorti.
+
+Dans le couloir, j'ai pensé au dossier violet qui m'attendait chez moi.
+
+Je n'avais toujours pas parlé de la note d'Aline à Sofia.
+
+Je l'avais conservée alors qu'elle avait organisé des revues de risques et demandé à connaître les avis extérieurs.
+
+J'avais accepté de porter consciemment une signature dont la portée demeurait incertaine.
+
+Et je n'avais pas encore trouvé le courage de lui dire depuis combien de temps je me posais cette question.
+
+***
+
+Je suis rentré chez nous en fin d'après-midi.
+
+Kübra préparait un sac de voyage.
+
+Elle voulait partir quelques jours vers la mer.
+
+La carte était posée sur la table.
+
+J'ai regardé les deux itinéraires.
+
+Puis je lui ai demandé :
+
+— Tu es toujours d'accord pour prendre le chemin le plus long ?
+
+Elle s'est tournée vers moi.
+
+— Oui.
+
+Je me suis approché.
+
+Elle a posé ses mains sur mes joues.
+
+— Tu as l'air inquiet.
+
+— Je le suis.
+
+— À cause du laboratoire ?
+
+J'ai acquiescé.
+
+Elle a attendu.
+
+Je pouvais lui parler des derniers relevés.
+
+Je pouvais lui montrer la chemise violette.
+
+Je pouvais lui dire que je craignais, sans aucune preuve définitive, qu'un phénomène que nous ne comprenions pas entièrement ait rendu notre laboratoire perceptible au-delà de la Terre.
+
+Je pouvais aussi lui avouer que j'avais continué de lui cacher une partie de mes inquiétudes après lui avoir promis d'essayer de ne plus le faire.
+
+Je n'ai pas trouvé les mots.
+
+Kübra a laissé ses mains retomber.
+
+Elle m'a regardé longtemps.
+
+— Tu sais, a-t-elle dit, tu as peut-être trouvé un moyen de ne plus vieillir. Mais cela ne te donne pas davantage de temps pour remettre toutes les conversations difficiles à demain.
+
+Je me suis senti rougir.
+
+Elle a repris son sac.
+
+Je suis resté près de la table.
+
+***
+
+La nuit, je me suis levé pour boire de l'eau.
+
+La maison était silencieuse.
+
+J'ai traversé le couloir et ouvert la porte de mon bureau.
+
+Dans le tiroir, la chemise violette reposait contre mes anciens carnets du Phénix.
+
+Je l'ai prise.
+
+Sur la première page, Aline Gerber avait écrit qu'un risque hypothétique ne donnait à personne le droit de remplacer les procédures collectives par des décisions secrètes.
+
+J'ai relu cette phrase.
+
+Puis j'ai regardé mon reflet dans la fenêtre.
+
+Un homme de vingt-cinq ans biologiques me fixait.
+
+Son visage ne vieillirait plus.
+
+Ses souvenirs demeureraient.
+
+Aucune nouvelle dose ne serait nécessaire.
+
+Je pouvais encore être blessé.
+
+Je pouvais encore mourir.
+
+Je pouvais encore faire du mal à ceux que j'aimais.
+
+Et je pouvais encore me tromper.
+
+J'avais cru que l'immortalité commencerait lorsque je n'aurais plus besoin de craindre le vieillissement.
+
+Elle commençait, en réalité, par une question à laquelle je n'avais jamais su répondre complètement :
+
+*Que fait-on d'un pouvoir que l'on ne peut pas rendre ?*
+
+J'ai reposé la chemise sur le bureau.
+
+Dehors, Lausanne continuait à dormir.
+
+Je me suis souvenu des petites lampes du premier refuge, de la batterie qui avait donné de l'électricité à nos bâtiments et des nuits où nous éteignions tout pour éviter d'être remarqués.
+
+Cette fois, aucune lumière ne traversait mes fenêtres.
+
+Pourtant, quelque part dans la géométrie invisible du champ Qν, mon existence laissait une trace qui ne s'éteindrait jamais.
+
+Je ne savais pas qui, s'il existait quelqu'un, pourrait la voir.
+
+Je savais seulement que nous n'avions pas encore fini de payer le prix de notre découverte.
