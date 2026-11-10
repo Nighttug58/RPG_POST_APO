@@ -569,3 +569,550 @@ Ce n'était pas un pardon.
 
 Mais nous pouvions au moins parler à nouveau de science sans que chaque phrase ressemble à un procès.
 
+
+***
+
+*2 novembre 2082 — Le test auquel personne ne voulait assister*
+
+Le résultat le plus convaincant n'a pas été obtenu par le laboratoire de Lausanne.
+
+Il est venu d'une équipe qui avait demandé à ne pas connaître les conclusions des autres.
+
+Ses membres n'avaient reçu ni la traduction provisoire ni les images colorées dont nous nous servions pour présenter les anomalies. Ils disposaient d'archives de mesures, de descriptions des contrôles et d'un ensemble de séries dont l'origine avait été masquée.
+
+Ils devaient établir leurs propres critères avant de savoir ce qu'ils examinaient.
+
+Sofia a accepté cette condition avec un empressement qui m'a surpris.
+
+— Vous voulez donc qu'ils essaient de nous donner tort ? ai-je demandé.
+
+— Je veux qu'ils puissent le faire.
+
+Elle m'a regardé.
+
+— Si nos conclusions survivent seulement parce que tout le monde connaît déjà l'interprétation que nous préférons, elles ne valent pas grand-chose.
+
+L'équipe extérieure a travaillé plusieurs semaines.
+
+Pendant ce temps, nos propres chercheurs ont réduit l'usage des images simplifiées qui avaient commencé à circuler en dehors des séances techniques.
+
+Une courbe présentée en couleurs vives était plus facile à partager qu'un fichier de mesures accompagné de ses incertitudes.
+
+Elle était aussi plus facile à transformer en message que personne n'avait encore démontré.
+
+J'avais vu des administrations faire la même erreur avec des cartes de transport : une ligne tracée sur un plan devenait une promesse de service, même lorsque les études n'étaient pas terminées.
+
+Le phénomène était identique.
+
+Les couleurs donnaient une impression de certitude que les données ne possédaient pas.
+
+***
+
+Le rapport de l'équipe extérieure est arrivé un lundi.
+
+Je n'avais pas accès au dossier complet, mais un résumé public a été présenté.
+
+Les spécialistes avaient retrouvé des régularités numériques dans certains enregistrements, malgré des méthodes de découpage différentes de celles utilisées à Lausanne.
+
+Ils avaient aussi identifié plusieurs « messages » apparents que les premiers chercheurs avaient surestimés.
+
+Certaines symétries provenaient d'un mode d'affichage.
+
+D'autres résultaient d'un choix arbitraire de seuil.
+
+Et plusieurs ressemblances entre séquences anciennes et récentes étaient trop faibles pour soutenir une interprétation de communication.
+
+Mais un noyau de relations subsistait.
+
+Des groupes de longueurs premières.
+
+Des correspondances de proportions entre motifs.
+
+Et, dans plusieurs archives conservées par des appareils distincts, des transformations de phase qui se répondaient avec une précision supérieure à celle des hypothèses de bruit examinées.
+
+La conclusion était prudente :
+
+*Phénomène structuré non expliqué par les chaînes instrumentales connues ; possibilité d'une organisation intentionnelle à examiner.*
+
+Je l'ai lue trois fois.
+
+J'avais espéré qu'elle dise davantage.
+
+Puis je me suis surpris à être heureux qu'elle ne le fasse pas.
+
+Nous avancions enfin sans choisir à l'avance la destination.
+
+***
+
+Inès a préparé une nouvelle expérience de lecture.
+
+Cette fois, les chercheurs ne chercheraient pas à savoir si une série ressemblait à une langue.
+
+Ils chercheraient si plusieurs représentations indépendantes permettaient de prédire une partie des motifs encore non étudiés.
+
+Une structure uniquement inventée par nos méthodes aurait beaucoup plus de difficulté à réussir ce test.
+
+Salomé a fait inscrire les hypothèses avant l'ouverture de nouvelles archives.
+
+Les premières prédictions ont échoué.
+
+D'autres ont été seulement partiellement confirmées.
+
+Une troisième a produit un résultat qui a laissé la salle silencieuse.
+
+La structure géométrique attendue apparaissait dans une portion des archives dont les spécialistes n'avaient pas encore examiné le détail, avec une relation que l'équipe avait définie à l'avance.
+
+Je me suis penché.
+
+— C'est une preuve de langage ?
+
+Salomé a secoué la tête.
+
+— Non. C'est une preuve que notre modèle prédit quelque chose d'intéressant.
+
+— Et d'une intelligence ?
+
+Elle a réfléchi.
+
+— C'est une raison supplémentaire de l'envisager. Nous ne sommes pas encore au moment de dire qui aurait produit cela, ni même si le but était de nous parler.
+
+Je l'ai regardée.
+
+Elle semblait presque déçue que nous soyons impressionnés.
+
+Puis j'ai compris qu'elle ne l'était pas.
+
+Elle était heureuse.
+
+Elle avait simplement appris à ne pas laisser son bonheur choisir ses conclusions.
+
+***
+
+*5 novembre 2082 — Les inconnus du village de l'Est*
+
+Kübra m'a proposé de passer la journée dans un petit centre de mémoire installé sur l'ancienne route des échanges vers l'est.
+
+Il était consacré aux premières alliances de communautés après la Rupture.
+
+J'avais participé à plusieurs expéditions sur cette route.
+
+Je me souvenais de la fatigue au volant, des planches transportées pour le troc, des informations que nous cherchions sur les cercles blancs et de la prudence avec laquelle nous avions approché des survivants inconnus.
+
+À l'époque, nous n'avions aucun langage commun pour décrire nos intentions.
+
+Nous parlions pourtant la même langue.
+
+La difficulté n'était pas de traduire les mots.
+
+Elle était de savoir si les autres nous croiraient.
+
+Nous sommes arrivés en fin de matinée.
+
+Un ancien chariot avait été conservé près de l'entrée, sous une protection transparente. Des photographies montraient les premiers transports de bois, d'eau et d'outils entre les villages.
+
+Un guide expliquait à des visiteurs comment une alliance commerciale avait souvent commencé par des gestes minuscules : montrer ce qu'on apportait, laisser l'autre compter les marchandises, accepter qu'il les examine avant tout échange.
+
+J'ai regardé Kübra.
+
+— Tu penses à ce qu'ils essaient de faire au laboratoire.
+
+— Oui.
+
+Nous avons continué.
+
+***
+
+Dans une petite salle, un enregistrement faisait entendre le témoignage d'une femme qui avait participé aux premières négociations.
+
+Elle racontait que les habitants du village de l'Est avaient d'abord pris notre expédition pour une tentative de repérage.
+
+Nous transportions des planches.
+
+Eux pensaient que nous cherchions leurs réserves.
+
+Nous pensions proposer une alliance.
+
+Ils craignaient d'être pillés.
+
+Il avait fallu une conversation entière pour découvrir que les mêmes gestes étaient interprétés différemment.
+
+Kübra a arrêté l'enregistrement.
+
+— Tu te souviens de ce qui a changé la discussion ? m'a-t-elle demandé.
+
+J'ai réfléchi.
+
+— Nous avons laissé des gens de leur village examiner les marchandises.
+
+— Oui. Et vous avez accepté de repartir sans obtenir immédiatement toutes les informations que vous vouliez.
+
+Je l'ai regardée.
+
+Elle a poursuivi :
+
+— Vous n'aviez pas besoin de démontrer votre puissance. Vous aviez besoin de leur donner une raison de croire que vous pouviez entendre un refus.
+
+Je suis resté devant l'écran.
+
+Dans les laboratoires, certains souhaitaient déjà envoyer une réponse spectaculaire pour montrer que la Terre avait compris le signal.
+
+J'ai eu l'impression d'entendre les mêmes erreurs.
+
+Nous aurions pu leur répondre avec une démonstration d'énergie, une représentation de nos machines ou une carte de notre planète.
+
+Mais cela aurait ressemblé à une expédition commerciale qui commencerait par montrer ses armes avant de saluer.
+
+— Qu'est-ce que tu ferais ? ai-je demandé.
+
+Kübra a réfléchi.
+
+— D'abord, je voudrais être sûre qu'on s'adresse vraiment à quelqu'un. Ensuite, je demanderais ce que nous pouvons dire sans décider seuls de ce que l'humanité entière doit révéler.
+
+J'ai souri.
+
+— Tu ferais une réunion.
+
+— Probablement plusieurs.
+
+Nous avons ri.
+
+Puis elle est devenue sérieuse.
+
+— Et je voudrais qu'on garde le droit de ne pas répondre.
+
+Je savais pourquoi elle insistait.
+
+Ce droit avait été au centre de notre dernière dispute.
+
+Nous n'avions aucune raison de l'abandonner simplement parce qu'un possible correspondant se trouvait hors de notre monde.
+
+***
+
+Nous avons déjeuné dans un petit établissement tenu par des descendants des familles qui avaient vécu les premières années de la reconstruction.
+
+Le propriétaire nous a reconnus à notre façon de parler du chariot exposé dans la cour.
+
+Il a demandé si nous étions les auteurs de *Rupture*.
+
+Kübra lui a répondu que oui.
+
+Il nous a remerciés pour le livre.
+
+Puis il a dit quelque chose qui m'a laissé silencieux.
+
+— Quand j'étais enfant, mon grand-père me racontait que vous aviez été très méfiants en arrivant. Je pensais que les héros n'avaient jamais peur.
+
+Je me suis mis à rire.
+
+— Alors votre grand-père vous a raconté la bonne version.
+
+Il a souri.
+
+— Je l'ai compris plus tard. Il disait que le courage, ce n'était pas de ne pas avoir peur. C'était d'accepter que l'autre puisse avoir peur de vous.
+
+Je l'ai regardé s'éloigner.
+
+J'ai repensé aux courbes de Lausanne.
+
+J'avais passé des mois à imaginer ce qu'un interlocuteur inconnu pourrait vouloir nous faire.
+
+Je n'avais presque jamais envisagé qu'il pourrait, lui aussi, nous prendre pour une menace.
+
+Kübra a vu mon expression.
+
+— Tu vois ? a-t-elle murmuré. Tu n'avais pas besoin d'un laboratoire pour apprendre quelque chose aujourd'hui.
+
+Je lui ai pris la main.
+
+Nous avons continué le repas sans parler de science.
+
+***
+
+*8 novembre 2082 — Les différentes manières de se taire*
+
+Le débat sur une éventuelle réponse humaine a finalement été ouvert dans un cadre interinstitutionnel.
+
+Les autorités qui participaient au programme ÉTERNITÉ ne prétendaient pas représenter toutes les sociétés de la Terre. Plusieurs régions et organisations scientifiques possédaient leurs propres compétences. Les représentations politiques étaient fragmentées, comme elles l'avaient toujours été depuis la reconstruction.
+
+Mais elles pouvaient au moins s'accorder sur une règle provisoire : aucun laboratoire privé ne prendrait, à lui seul, la responsabilité d'adresser un message volontaire à une source inconnue en utilisant les installations Qν.
+
+Les participants ont commencé par définir ce que nous savions.
+
+Un phénomène structuré existait dans les relevés.
+
+Il n'était pas expliqué par les erreurs instrumentales identifiées.
+
+Certaines structures ressemblaient à des conventions mathématiques partageables.
+
+La possibilité d'une source intentionnelle était devenue suffisamment sérieuse pour être examinée.
+
+Mais nous ne savions pas encore si la source était humaine, naturelle, automatique ou issue d'une intelligence étrangère.
+
+Nous ne savions pas non plus où elle se trouvait.
+
+Les chercheurs n'avaient pas démontré l'existence d'une communication réciproque.
+
+Le président de séance a lu ces points.
+
+Puis il a demandé :
+
+— Quelles sont les raisons de ne pas répondre ?
+
+Les mains se sont levées.
+
+***
+
+Une spécialiste de sécurité a évoqué la possibilité qu'un message révèle notre capacité technique, la forme de nos installations ou certains éléments de leur localisation.
+
+Un astrophysicien a fait remarquer que les émissions Qν de 2079 pouvaient déjà avoir été perçues par un éventuel observateur sensible. Il serait illusoire de considérer le silence d'aujourd'hui comme la preuve que personne ne pouvait nous trouver.
+
+Une juriste a demandé qui aurait la légitimité de parler.
+
+Un biologiste a demandé si les installations nécessaires à la réponse risquaient de perturber les évaluations de Genesis-S.
+
+Un représentant de plusieurs collectivités a posé une question plus simple :
+
+— Et si le message n'attend aucune réponse ? Nous aurions peut-être l'air d'un village qui répond à l'orage.
+
+Cette image a provoqué quelques sourires.
+
+Puis une personne a demandé :
+
+— Quelles sont les raisons de répondre ?
+
+Un mathématicien a expliqué qu'une réponse extrêmement limitée pourrait aider à distinguer une corrélation intentionnelle d'une structure qui se répétait indépendamment de nous.
+
+Une diplomate a rappelé qu'un silence prolongé pouvait lui aussi être interprété, si un interlocuteur existait réellement.
+
+Un responsable scientifique a insisté sur le fait qu'aucune information médicale ou industrielle sensible ne devait être incluse dans un premier essai.
+
+La discussion a duré des heures.
+
+Je n'y participais pas.
+
+J'avais été invité à écouter une partie des échanges publics, et je savais que je n'aurais pas accepté d'en être exclu par caprice.
+
+Mais je n'avais pas de voix dans la décision.
+
+Je me suis découvert capable d'entendre des arguments très différents sans vouloir immédiatement fabriquer un compromis.
+
+Cela m'a surpris.
+
+Kübra aurait dit que je progressais.
+
+***
+
+À la pause, Aline Gerber m'a rejoint.
+
+Elle n'était pas fâchée.
+
+Elle était surtout fatiguée de devoir expliquer, encore et encore, ce que son ancien avis avait réellement dit.
+
+— Vous comprenez pourquoi il aurait été préférable de me faire intervenir officiellement plus tôt ? m'a-t-elle demandé.
+
+— Oui.
+
+— Je ne cherchais pas à prouver qu'un ennemi nous observait. Je cherchais à vous pousser à définir comment décider sans attendre une certitude impossible.
+
+J'ai baissé les yeux.
+
+— Je sais.
+
+Elle a regardé le groupe qui sortait de la salle.
+
+— C'est déjà mieux. Au moins, personne n'a promis de faire parler une civilisation entière au nom du laboratoire.
+
+Je l'ai observée.
+
+— Vous pensez qu'il y a une civilisation ?
+
+Elle a souri.
+
+— Je pense que les gens qui travaillent à le démontrer savent davantage de choses que moi. Et que certains d'entre eux ont assez de prudence pour ne pas transformer leur expertise en prophétie.
+
+Je me suis senti touché.
+
+Il m'avait fallu des années pour apprendre à demander à quelqu'un ce qu'il savait réellement.
+
+Je n'avais pas encore fini cet apprentissage.
+
+***
+
+Un document de travail a été préparé.
+
+Il ne constituait pas une autorisation d'émettre.
+
+Il définissait les conditions dans lesquelles une réponse pourrait, un jour, être envisagée.
+
+Les équipes devraient d'abord présenter une hypothèse vérifiable sur la manière dont une source extérieure reconnaîtrait le message.
+
+La réponse devrait être minimale, sans détails sur les installations, sans plans scientifiques sensibles, sans données biologiques individuelles et sans informations destinées à démontrer nos capacités industrielles ou militaires.
+
+Le protocole d'arrêt devrait être défini à l'avance.
+
+Les observations passives resteraient possibles même si l'essai était refusé.
+
+Et les responsables devraient expliquer publiquement ce qui avait été décidé, sans divulguer les paramètres techniques qui pourraient compromettre la sécurité des installations.
+
+Je connaissais chacune de ces précautions.
+
+Je les avais autrefois considérées comme des obstacles trop nombreux entre une idée et sa réalisation.
+
+Cette fois, je les lisais comme autant de protections contre notre envie de faire quelque chose simplement parce que nous en étions capables.
+
+***
+
+*12 novembre 2082 — Une image qui n'était pas un visage*
+
+La première structure que les équipes ont réussi à reconstruire avec un accord raisonnable n'était pas une phrase.
+
+C'était une relation entre plusieurs formes.
+
+Salomé l'a décrite comme une proposition de correspondance.
+
+Un ensemble de groupes pouvait représenter des quantités.
+
+Un second montrait une manière de les transformer.
+
+Un troisième semblait indiquer que certaines transformations conservaient une propriété commune.
+
+La représentation pouvait être dessinée comme un motif géométrique, mais elle ne dépendait pas d'un système humain de chiffres ou d'unités.
+
+Le résultat était assez stable pour qu'un second groupe, travaillant indépendamment, parvienne à une construction comparable.
+
+Je l'ai regardé longtemps.
+
+Il n'avait rien d'extraterrestre au sens où j'avais imaginé ce mot dans ma jeunesse.
+
+Il ressemblait à un exercice que j'aurais pu donner à un élève en dessin technique.
+
+Quelques contraintes.
+
+Des rapports.
+
+Une relation à retrouver.
+
+Salomé a remarqué mon expression.
+
+— Cela vous paraît familier ?
+
+— Oui.
+
+— C'est justement une raison de nous méfier.
+
+J'ai ri.
+
+— Je commence à reconnaître cette phrase.
+
+Elle a montré le dessin.
+
+— Nous l'avons obtenu à partir des données en imposant un minimum de conventions. C'est une bonne chose. Mais chaque fois que nous choisissons une représentation, nous ajoutons quelque chose de nous-mêmes.
+
+Elle a fait disparaître les lignes de l'écran.
+
+Il ne restait que les relevés de phase.
+
+— Voilà ce que nous avons réellement reçu.
+
+J'ai regardé les variations.
+
+La beauté du dessin n'était plus là.
+
+Pourtant, quelque chose m'a frappé.
+
+Même sans la représentation, les relations subsistaient.
+
+Je n'aurais pas su leur donner un sens.
+
+Mais je ne pouvais plus les regarder simplement comme un bruit.
+
+***
+
+Un jeune chercheur a proposé de traduire le motif en une formule.
+
+Une autre personne a objecté que la formule dépendait de conventions algébriques humaines qui n'étaient peut-être pas celles de la source.
+
+Ils ont débattu.
+
+Puis Inès a demandé :
+
+— Est-ce qu'on peut au moins établir que l'ordre des groupes a une importance ?
+
+L'équipe a présenté plusieurs tests.
+
+Lorsque l'ordre était inversé ou mélangé, les correspondances prédictives disparaissaient.
+
+Cela ne démontrait pas une grammaire.
+
+Mais cela montrait que la séquence n'était pas interchangeable avec n'importe quelle autre.
+
+Salomé a proposé un terme provisoire.
+
+— Nous pourrions parler d'une syntaxe de relations.
+
+Sofia a hoché la tête.
+
+— Tant que nous précisons qu'il s'agit de notre modèle.
+
+Un physicien a demandé si cette syntaxe pouvait provenir d'un processus automatique.
+
+La réponse était oui.
+
+Une intelligence pouvait concevoir un système automatique.
+
+Un phénomène naturel pouvait également produire une organisation complexe.
+
+La frontière ne pouvait pas être franchie par un seul dessin.
+
+Pourtant, la salle semblait différente.
+
+Nous ne cherchions plus seulement à montrer qu'une courbe était étrange.
+
+Nous commencions à examiner ce qu'une structure pouvait permettre de faire : établir un point commun entre deux observateurs qui n'auraient jamais partagé un mot.
+
+***
+
+En sortant, j'ai appelé Kübra.
+
+Je lui ai expliqué qu'aucune phrase n'avait été traduite, mais que les chercheurs disposaient d'une relation suffisamment stable pour être discutée comme une syntaxe possible.
+
+Elle a écouté.
+
+Puis elle a demandé :
+
+— Et qu'est-ce que tu ressens ?
+
+J'ai réfléchi.
+
+— Une curiosité que je n'avais pas ressentie comme ça depuis longtemps.
+
+— Plus de peur ?
+
+— Si. Mais ce n'est plus la seule chose.
+
+Elle est restée silencieuse quelques secondes.
+
+Puis elle a répondu :
+
+— C'est déjà différent.
+
+Je lui ai demandé si elle avait envie de venir voir les présentations publiques.
+
+Elle a accepté.
+
+Pas pour m'accompagner.
+
+Pour comprendre ce que les institutions étaient en train de faire et participer aux discussions civiques sur les limites d'une réponse.
+
+Je l'ai remerciée.
+
+Elle a ri.
+
+— Tu sais que je peux choisir de venir sans qu'on me remercie comme une invitée ?
+
+J'ai souri.
+
+— Je sais.
+
+Et j'étais heureux de le savoir.
+
