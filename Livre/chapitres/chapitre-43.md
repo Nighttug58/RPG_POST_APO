@@ -1683,3 +1683,525 @@ Je ne me souviens plus de ce que nous avons mangé.
 
 Je me souviens en revanche que, pour la première fois depuis des semaines, j'ai dormi sans rêver de courbes.
 
+
+***
+
+*30 novembre 2082 — Le courrier arrivé avant son envoi*
+
+Le premier indice d'une réponse est apparu dans une archive que personne n'avait prévu de consulter cette semaine-là.
+
+Inès Valette m'a raconté plus tard comment cela s'était passé.
+
+Une équipe de Berne comparait des relevés passifs enregistrés pendant les jours précédant l'essai humain. Les chercheurs cherchaient surtout à savoir si les anomalies anciennes changeaient de structure lorsque l'institut préparait une émission nouvelle.
+
+Ils ne s'attendaient pas à y trouver une relation précise avec la transformation mathématique utilisée le 27 novembre.
+
+Et pourtant, dans une portion des données enregistrées avant l'essai, une structure ressemblait à cette transformation suivie d'une opération supplémentaire.
+
+À la première lecture, les scientifiques ont cru à un défaut d'archivage.
+
+Puis ils ont pensé à une fuite involontaire des paramètres.
+
+Ensuite, ils ont repris les historiques des fichiers et des procédures.
+
+La transformation humaine avait été choisie dans un cadre préétabli et validée après que certains des enregistrements suspects avaient déjà été réalisés.
+
+Les équipes ont vérifié les versions.
+
+Elles ont contrôlé les horodatages.
+
+Elles ont demandé à des personnes n'ayant pas participé à la préparation de l'essai de refaire les rapprochements.
+
+Le résultat n'a pas disparu.
+
+Il n'était pas non plus devenu une preuve définitive.
+
+D'autres explications devaient encore être éliminées.
+
+Mais, pour la première fois, la question ne portait pas seulement sur un phénomène mystérieux enregistré à proximité de nos propres expériences.
+
+Elle portait sur une relation qui semblait tenir compte de ce que nous avions choisi d'émettre.
+
+***
+
+La nouvelle m'a été communiquée à l'occasion d'une séance de synthèse, après qu'Inès avait présenté les contrôles préliminaires.
+
+Je me suis assis près de la porte.
+
+Kübra était venue avec un groupe d'observateurs civiques, chargé d'examiner les conditions dans lesquelles les informations sur l'éventuel contact seraient rendues publiques.
+
+Nous n'étions pas côte à côte.
+
+Je l'ai trouvée plus distante qu'autrefois.
+
+Puis je me suis souvenu que nous avions précisément voulu éviter que le fait d'être mariés nous transforme en une seule personne.
+
+Je l'ai regardée travailler avec les autres.
+
+Elle prenait des notes.
+
+Elle posait des questions sur les informations que la population pourrait comprendre sans avoir accès à des données sensibles.
+
+Je l'ai admirée.
+
+Cela ne suffisait pas à effacer mes erreurs.
+
+Mais je pouvais au moins me réjouir qu'elle continue à participer aux décisions qui la concernaient.
+
+***
+
+Inès a projeté les deux séries.
+
+Dans la première figurait la structure retenue pour la réponse humaine.
+
+Dans la seconde, une transformation apparentée, enregistrée par un capteur passif.
+
+Les chercheurs avaient établi les ressemblances selon une méthode définie avant l'examen final.
+
+Le degré de correspondance n'était pas une impression visuelle.
+
+Il reposait sur des relations que des équipes indépendantes avaient vérifiées.
+
+Un mathématicien a demandé :
+
+— Si la seconde série a été enregistrée avant la nôtre, peut-on dire qu'elle nous répond ?
+
+Sofia a pris le temps de répondre.
+
+— Nous pouvons dire qu'il existe une corrélation compatible avec une interaction par le chemin chrono-géométrique que nos modèles décrivent. Mais notre ordre chronologique local ne suffit pas à établir qui a choisi quoi en premier.
+
+J'ai senti un frisson.
+
+Elle a poursuivi :
+
+— Nous ne savons pas si la relation provient d'un correspondant intentionnel, d'une propriété de la connexion ou d'un mécanisme dont nous n'avons encore qu'une description partielle.
+
+Salomé a ajouté :
+
+— Et même s'il s'agit d'une réponse, nous ne savons pas encore ce qu'elle veut dire.
+
+Un participant a levé la main.
+
+— Vous êtes en train de nous dire que nous avons peut-être reçu une réponse avant d'envoyer le message ?
+
+Sofia a regardé l'écran.
+
+— Je dis que la corrélation apparaît dans des archives antérieures à notre émission. C'est différent de prétendre que quelqu'un peut modifier librement notre passé.
+
+Je connaissais la distinction.
+
+Je l'avais entendue plusieurs fois.
+
+Pourtant, lorsque j'ai regardé les dates, j'ai ressenti la même émotion que devant le premier feu de notre forêt : une chose que je croyais impossible se produisait devant moi, sans que je sois capable de dire ce qu'elle changerait ensuite.
+
+***
+
+À la fin de la séance, un chercheur a proposé d'envoyer immédiatement une seconde transformation pour tester la relation.
+
+Sofia a refusé.
+
+— Nous n'avons pas d'autorisation pour cela.
+
+Il a protesté.
+
+— Mais nous avons un résultat !
+
+— Justement, a-t-elle répondu. Nous devons d'abord le vérifier.
+
+Je n'ai pas bougé.
+
+Une partie de moi aurait voulu que quelqu'un appuie sur un bouton.
+
+Une autre se souvenait de toutes les fois où nous avions évité un accident en acceptant qu'une procédure ne soit pas une simple formalité.
+
+Kübra s'est levée au moment des questions.
+
+— Est-ce que les informations nouvelles changent ce que les personnes concernées ont accepté lors de la consultation publique ?
+
+La présidente de séance a réfléchi.
+
+— Elles renforcent l'intérêt scientifique d'une interaction. Elles ne nous autorisent pas à élargir le contenu d'une émission sans nouvel examen.
+
+Kübra a hoché la tête.
+
+— Alors il faudra que ce soit clair dans la communication.
+
+Je l'ai regardée.
+
+Elle avait posé la question que j'aurais dû penser à poser avant de demander des essais supplémentaires.
+
+Il m'a semblé que, pour une fois, nous étions en train d'avancer sans répéter toutes nos erreurs.
+
+***
+
+*2 décembre 2082 — Le nom qu'on n'avait pas entendu*
+
+La structure suivante a été détectée dans un ensemble de relevés que les équipes avaient classé comme distinct des premiers échos de 2079.
+
+Ce détail était important.
+
+Les archives anciennes n'avaient pas encore d'auteur identifié.
+
+Les chercheurs ne pouvaient pas les attribuer automatiquement à la source qui semblait désormais répondre à nos transformations mathématiques.
+
+Certaines relations étaient partagées.
+
+D'autres divergeaient.
+
+L'idée d'un seul interlocuteur expliquait une partie du phénomène, pas sa totalité.
+
+Salomé a présenté cette réserve dès l'ouverture de la réunion.
+
+— Avant que quelqu'un parle d'un peuple, a-t-elle dit, je voudrais qu'on se souvienne que notre modèle est encore incomplet.
+
+Puis elle a montré une structure nouvelle.
+
+Elle n'était pas plus spectaculaire que les précédentes.
+
+Elle avait seulement une propriété remarquable : un même groupe revenait dans plusieurs séquences, toujours à proximité de la transition entre une structure géométrique et ce qui semblait être une nouvelle proposition.
+
+Une équipe pensait qu'il s'agissait d'un marqueur de début.
+
+Une autre y voyait un identifiant de source.
+
+Une troisième le considérait comme une simple convention de synchronisation.
+
+Les trois interprétations restaient possibles.
+
+Mais l'identifiant semblait conserver sa forme à travers des variations que les autres groupes ne partageaient pas.
+
+Salomé a dessiné une boîte autour de lui.
+
+— S'il s'agit d'une tentative de communication, c'est peut-être ce qui se rapproche le plus d'une désignation stable.
+
+Un chercheur a demandé :
+
+— Un nom ?
+
+Elle a hésité.
+
+— Éventuellement. Mais il peut aussi désigner un observatoire, un instrument, un protocole ou une catégorie que nous ne savons pas distinguer.
+
+Je regardais la boîte.
+
+J'avais envie de lui donner un mot.
+
+Un mot aurait rendu la source moins abstraite.
+
+Je savais désormais à quel point ce désir pouvait être dangereux.
+
+***
+
+L'équipe a adopté une convention de transcription.
+
+Elle ne reposait pas sur la supposition que les signes Qν produisaient réellement des sons.
+
+Les chercheurs avaient besoin d'un moyen de distinguer les groupes dans leurs échanges sans réciter chaque fois une longue série de relations abstraites.
+
+Ils ont donc attribué des syllabes à certaines unités récurrentes, selon un ordre stable et publié.
+
+Cette convention pouvait être remplacée.
+
+Elle n'était pas présentée comme la phonétique d'une langue étrangère.
+
+Le groupe qui revenait avec le plus de régularité a reçu, dans cette transcription provisoire, la forme **Vaelor**.
+
+Le mot était simple.
+
+Je l'ai répété mentalement.
+
+Il n'avait aucune signification pour moi.
+
+Sofia a demandé que le rapport conserve aussi l'identifiant numérique d'origine.
+
+— Je ne veux pas qu'un mot facile à prononcer efface l'incertitude de sa lecture, a-t-elle précisé.
+
+Salomé a acquiescé.
+
+— Nous pouvons appeler cette famille de motifs *Vaelor* pour travailler. Cela ne signifie pas que quelqu'un nous a dit : « Je m'appelle Vaelor. »
+
+J'ai regardé l'écran.
+
+Un nom venait d'apparaître sans bouche pour le prononcer.
+
+Il suffisait pourtant à changer la manière dont une salle entière regardait les données.
+
+J'ai compris pourquoi les hommes avaient toujours commencé leurs rencontres en demandant un nom.
+
+Même lorsqu'ils n'étaient pas certains de le comprendre.
+
+***
+
+*4 décembre 2082 — Les deux erreurs*
+
+La deuxième tentative de traduction a été meilleure que la première.
+
+Elle était aussi fausse.
+
+Un groupe de travail a proposé de lire une séquence récurrente comme une relation entre une source et un destinataire. Plusieurs personnes y voyaient une forme d'adresse.
+
+Associée au marqueur *Vaelor*, elle pouvait donner une phrase comme :
+
+*Vaelor vous demande de répondre.*
+
+Cette lecture a circulé dans les discussions techniques.
+
+Salomé a demandé un examen immédiat.
+
+Elle a montré que le groupe interprété comme une demande apparaissait également dans des séquences dont l'organisation ne supposait aucun destinataire connu.
+
+La relation pouvait signifier une répétition, une inversion ou une opération de comparaison.
+
+Le mot *demande* avait été ajouté par les traducteurs.
+
+Le mot *vous* aussi.
+
+Je me suis souvenu de la première phrase que nous avions cru lire.
+
+*Nous vous observons.*
+
+Elle était presque aussi séduisante que celle-ci.
+
+Et presque aussi peu justifiée.
+
+Salomé a fait effacer les deux traductions du tableau.
+
+Elle les a remplacées par une description beaucoup moins agréable :
+
+*Motif stable associé à une transformation récurrente de relations quantitatives.*
+
+Personne n'aurait fait la couverture d'un livre avec cette phrase.
+
+Elle avait pourtant un mérite immense.
+
+Elle disait ce que nous savions réellement.
+
+***
+
+L'autre erreur ne venait pas des linguistes.
+
+Elle venait de moi.
+
+Pendant une pause, j'ai demandé à Sofia si la source baptisée Vaelor pouvait avoir détecté mon ancrage permanent.
+
+Elle m'a regardé.
+
+— C'est une possibilité que nous devons examiner. Mais nous ne disposons pas d'une preuve reliant ce marqueur à votre état biologique.
+
+— Pourtant, les nouvelles structures apparaissent après ma conversion.
+
+— Certaines, oui. D'autres anomalies lui sont antérieures. Et nous ne savons pas encore si la succession locale des enregistrements décrit la succession des événements au niveau de la source.
+
+J'ai baissé les yeux.
+
+Je m'étais encore placé au centre de l'histoire.
+
+Sofia a ajouté :
+
+— Vous portez une signature permanente. Nous devons la protéger et comprendre ce qu'elle rend éventuellement perceptible. Mais ce n'est pas parce que vous êtes inquiet qu'un interlocuteur inconnu s'intéresse nécessairement à vous.
+
+Je l'ai regardée.
+
+— Vous avez raison.
+
+Elle a souri tristement.
+
+— J'aimerais seulement que nous finissions par découvrir ce qui est vrai, pas ce qui vous rassure ou vous effraie.
+
+J'ai acquiescé.
+
+J'avais cessé de vieillir.
+
+Je n'avais pas cessé de devoir apprendre la même leçon.
+
+***
+
+*6 décembre 2082 — Ce qu'on peut appeler une réponse*
+
+Une troisième série de contrôles a renforcé l'hypothèse d'une interaction.
+
+La structure associée à la réponse humaine se retrouvait, sous une transformation déterminée, dans des relevés que plusieurs équipes avaient examinés indépendamment.
+
+Le rapprochement ne dépendait plus d'un seul programme ni d'un seul choix de représentation.
+
+Les données n'éliminaient pas toutes les explications possibles.
+
+Mais la possibilité d'une organisation intentionnelle était désormais considérée comme sérieuse par une majorité des spécialistes consultés.
+
+Un rapport a proposé de parler de **premier échange de structures mathématiques probablement intentionnelles**.
+
+Pas de conversation.
+
+Pas de traduction de phrases.
+
+Pas de pacte.
+
+Pas même de certitude quant à l'identité d'un seul correspondant.
+
+C'était déjà immense.
+
+Je me suis assis dans le couloir après la présentation.
+
+Je regardais mes mains.
+
+Elles avaient l'apparence de celles d'un jeune homme.
+
+Le monde venait peut-être de devenir beaucoup plus vaste que tout ce que nous avions imaginé en quittant notre premier campement.
+
+Et je ne pouvais pas savoir si cette expansion serait une chance ou un danger.
+
+Kübra est venue me rejoindre.
+
+Elle s'est assise à côté de moi.
+
+Nous avons regardé les passants traverser la cour.
+
+Puis elle a demandé :
+
+— Qu'est-ce que tu ressens ?
+
+J'ai pris le temps de répondre.
+
+— J'ai peur.
+
+Elle a hoché la tête.
+
+— Moi aussi.
+
+J'ai tourné la tête.
+
+Elle a ajouté :
+
+— Mais je préfère avoir peur de quelque chose que nous cherchons à comprendre ensemble plutôt que d'une chose que tu essaies de porter seul.
+
+Je l'ai regardée.
+
+Je n'ai pas dit que tout allait bien.
+
+Cela aurait été faux.
+
+Je lui ai pris la main.
+
+Elle l'a serrée.
+
+Ce geste n'effaçait pas notre dispute.
+
+Il lui donnait un avenir possible.
+
+***
+
+*9 décembre 2082 — Le langage qui commence par une limite*
+
+La dernière réunion de l'année n'a pas annoncé que nous avions rencontré une civilisation.
+
+Elle a annoncé que les chercheurs disposaient d'une méthode de lecture provisoire, d'un ensemble de relations mathématiques cohérentes et d'indices sérieux qu'au moins certaines structures avaient été produites dans le cadre d'une interaction.
+
+Les archives de 2079 restaient partiellement inexpliquées.
+
+Le marqueur *Vaelor* était une convention de transcription, pas encore la preuve du nom d'un peuple.
+
+Les données ne permettaient pas d'identifier une planète, une étoile ou une position précise.
+
+Les scientifiques continuaient à distinguer les mesures, les modèles et les hypothèses.
+
+La possibilité de plusieurs sources demeurait ouverte.
+
+Mais personne ne parlait plus du dossier comme d'une simple erreur d'horloge.
+
+Pendant la séance, une responsable des institutions participantes a posé une question que tous attendaient :
+
+— Que faisons-nous maintenant ?
+
+Sofia a regardé Salomé, puis Inès.
+
+Elle a répondu :
+
+— Nous continuons à vérifier. Nous préparons un cadre permettant d'interpréter les prochaines observations. Et nous ne transmettons aucune information sensible sur les traitements, les installations ou la signature de Tugay tant que nous ne savons pas à qui nous avons affaire et ce que cette information pourrait signifier.
+
+Une diplomate a demandé si nous devions attendre une preuve astronomique.
+
+Sofia a réfléchi.
+
+— Nous devons chercher des observations indépendantes. Un interlocuteur peut prétendre être n'importe qui. Ce qu'il sait, ce qu'il peut démontrer et ce qu'il demande sont des questions distinctes.
+
+Je l'ai regardée.
+
+Elle n'avait jamais cessé d'être la personne qui me rappelait qu'un nom n'était pas une preuve.
+
+***
+
+À la fin, les participants se sont levés sans applaudir.
+
+Personne n'avait découvert le visage d'une autre intelligence.
+
+Personne n'avait reçu de carte stellaire.
+
+Il n'y avait ni ambassade ni promesse d'amitié.
+
+Il y avait des questions nouvelles, assez solides pour être discutées publiquement, et une procédure destinée à éviter que l'enthousiasme ou la peur ne décide à notre place.
+
+Je suis sorti dans le froid.
+
+Kübra m'attendait près de l'entrée.
+
+Nous avons marché ensemble jusqu'à l'arrêt du transport.
+
+Les lampes de la ville s'allumaient progressivement.
+
+Je me suis souvenu de nos premières ampoules au Phénix.
+
+À l'époque, chaque point de lumière me semblait être une victoire sur l'obscurité.
+
+Puis j'avais appris que la lumière pouvait aussi attirer ceux que nous ne connaissions pas.
+
+Pendant longtemps, j'avais cru qu'il fallait choisir entre éclairer et se cacher.
+
+Désormais, j'essayais d'accepter une autre possibilité : apprendre ce que nous rendions visible, sans prétendre pouvoir commander à tout ce qui existait au-delà de notre regard.
+
+Kübra a glissé sa main dans la mienne.
+
+— Tu penses encore au nom ? m'a-t-elle demandé.
+
+— Vaelor ?
+
+Elle a acquiescé.
+
+— Oui.
+
+J'ai regardé le ciel.
+
+Nous ne savions pas encore si ce mot représentait un être, un groupe, une machine ou autre chose.
+
+Il avait simplement cessé d'être une série de nombres impossible à prononcer.
+
+— Tu crois qu'il signifie quelque chose ? ai-je demandé.
+
+Kübra a souri.
+
+— Je crois surtout que nous avons encore beaucoup de questions à poser.
+
+Le transport est arrivé.
+
+Nous sommes montés.
+
+Je me suis assis près de la fenêtre et j'ai regardé les lumières de Lausanne défiler.
+
+J'avais passé cinquante-six ans à croire que la Rupture nous avait appris la pire vérité possible sur le monde : les choses dont nous dépendons peuvent disparaître sans prévenir.
+
+Je découvrais maintenant une vérité différente.
+
+Il pouvait exister, au-delà de notre expérience, des êtres ou des phénomènes capables de nous répondre dans un langage que nous commencions seulement à comprendre.
+
+Je ne savais pas s'ils nous souhaitaient du bien.
+
+Je ne savais pas s'ils savaient qui nous étions.
+
+Je ne savais même pas si tous les signes provenaient du même endroit.
+
+Mais nous avions posé une question minuscule.
+
+Et quelque chose, dans les profondeurs de cette géométrie invisible, semblait avoir reconnu la forme de notre question.
+
+Ce n'était pas encore une conversation.
+
+C'était assez pour que le silence ne ressemble plus jamais au même silence.
