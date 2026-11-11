@@ -39,8 +39,9 @@
 | Preuve astronomique et vaisseau | **19 décembre 2082–11 avril 2083**, chapitre 44 écrit | Vérification astronomique le 14 janvier ; nom collectif le 28 ; secours orbital le 23 février ; limite civique le 17 mars ; véhicule au-delà de Neptune et freinage confirmés le 11 avril |
 | Rencontre et demande d'ancrage | **18 avril–27 juin 2083**, chapitre 45 écrit | Demande autonome clarifiée en avril ; unité au sol et rencontre le 18 juin sur un plateau alpin ; mesure passive consentie, offre industrielle sous conditions ; référence à 2026 inexpliquée le 27 juin |
 | Les millions d'essais | **27 juin–16 juillet 2083**, chapitre 46 écrit | Catalogue vérifié ; démonstration et aveu le 5 juillet ; travail sur le registre et les relais les 10–12 juillet ; mandat de négociation le 16, aucun pacte encore signé |
-| Itération 52 826 322 | 2026–**2083**, repère de fin prévu | Responsabilité des resets révélée au 46 ; acquisition autonome vérifiée et archivée au 47 |
-| Rupture du chapitre 47 | **2083**, après acquisition et archivage | Purge volontaire pour effacer témoins et concurrents ; le couple est préservé par un défaut externe |
+| Pacte et acquisition | **20 juillet–17 octobre 2083**, chapitre 47 écrit | Déclaration publique le 20 juillet ; pacte le 7 septembre ; cœur neuf consommé le 8 octobre ; autonomie vérifiée le 15 ; méthode complète acquise et relue hors-cycle le 17 |
+| Itération 52 826 322 | 2026–**18 octobre 2083**, fin racontée au 47 | Responsabilité des resets révélée au 46 ; acquisition autonome vérifiée et archivée au 47 |
+| Rupture du chapitre 47 | **18 octobre 2083**, événement écrit | Purge volontaire après acquisition et archivage ; seuil irréversible le 17 à 17 h 40 ; défaut externe conservant physiquement le couple dans une poche, aucune réapparition encore racontée |
 | Itération 52 826 323 | Nouvel état proche de 2026 | Divergence chaotique, acteurs différents |
 | Reconstruction nouvelle | Vers 2026–2490, cycle 52 826 323 | Plusieurs siècles d'histoire humaine différente ; civilisation avancée vers 2490 |
 | Réapparition de Tugay et Kübra | Vers **2490** (repère éditorial) | Défaut de Rupture ; ils sont physiquement réinsérés et portent des souvenirs fragmentaires |

@@ -2,12 +2,12 @@
 
 **Projet :** adaptation littéraire de la campagne RPG_POST_APO.  
 **Auteur et narrateur :** Tugay (récit à la première personne).  
-**État au 11 novembre 2026 :** chapitres 1 à 46 présents ; chapitre 46 achevé en rédaction (6 907 mots de récit), au statut `brouillon`. Prochain chapitre à écrire : **47 — Le pacte des étoiles**. L'achèvement ne vaut pas validation explicite par l'auteur.
+**État au 12 novembre 2026 :** chapitres 1 à 47 présents ; chapitre 47 achevé en rédaction (8 832 mots de récit), au statut `brouillon`. Prochain chapitre à écrire : **48 — Quatre siècles après**. L'achèvement ne vaut pas validation explicite par l'auteur.
 
 ## Format retenu
 
 - **50 chapitres**, répartis en **8 parties**.
-- **6 000 à 10 000 mots de récit par nouveau chapitre dès le chapitre 46** ; quatre chapitres restent après le 46, soit 24 000 à 40 000 mots. Les chapitres 1 à 45 conservent leur longueur. Recalculer le volume total à l'assemblage.
+- **6 000 à 10 000 mots de récit par nouveau chapitre dès le chapitre 46** ; trois chapitres restent après le 47, soit 18 000 à 30 000 mots. Les chapitres 1 à 45 conservent leur longueur. Recalculer le volume total à l'assemblage.
 - Narration principalement en « je » de Tugay ; bref interlude externe au début du chapitre 48 pour les siècles vécus sans lui, puis retour au « je ». Une brève coda externe reste possible après la Rupture finale.
 - La catastrophe initiale survient **en 2026** ; la reconstruction mène aux décennies suivantes.
 - **Kübra est la seconde figure centrale** du roman et une actrice autonome des décisions.
@@ -25,7 +25,7 @@
 - [SCIENCE_FICTION.md](SCIENCE_FICTION.md) — lois imaginaires Q-EUV, Genesis-S, permanence et Vaeloriens (**spoilers majeurs**).
 - [FIN_REVISEE.md](FIN_REVISEE.md) — causalité et calendrier des révélations jusqu'à la Rupture finale (**spoilers absolus**).
 - [PREPARATION_CHAPITRE_44.md](PREPARATION_CHAPITRE_44.md) — reprise exacte du chapitre 43, scènes prévues et limites des révélations.
-- [chapitres/chapitre-46.md](chapitres/chapitre-46.md) — dernier chapitre achevé : **Les millions d'essais** (27 juin–16 juillet 2083).
+- [chapitres/chapitre-47.md](chapitres/chapitre-47.md) — dernier chapitre achevé : **Le pacte des étoiles** (20 juillet–18 octobre 2083).
 
 ## Longueur éditoriale
 

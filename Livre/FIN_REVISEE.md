@@ -1,6 +1,6 @@
 # RUPTURE — Fin de travail : les réponses avant la dernière Rupture
 
-> **Document interne avec spoilers absolus — clôture ramenée à 50 chapitres après le 45.** Les chapitres **46–50** restent à écrire, chacun entre **6 000 et 10 000 mots de récit**. Le calendrier des étapes est réorganisé ; aucun chapitre 1–45 n'est réécrit. Les deux Ruptures, l'acquisition vaelorienne et la continuité du couple sont conservées. Ces mécanismes sont des conventions de science-fiction.
+> **Document interne avec spoilers absolus — clôture ramenée à 50 chapitres après le 45.** Les chapitres **46–47 sont écrits** ; les **48–50** restent à écrire, chacun entre **6 000 et 10 000 mots de récit**. L'acquisition autonome, l'archivage, la trahison et la poche conservant le couple ont été racontés au 47 ; la réapparition ne l'a pas encore été. Le calendrier des étapes est réorganisé ; aucun chapitre 1–45 n'est réécrit. Les deux Ruptures, l'acquisition vaelorienne et la continuité du couple sont conservées. Ces mécanismes sont des conventions de science-fiction.
 
 ## La grande révélation en trois étages
 
