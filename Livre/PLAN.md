@@ -1,8 +1,10 @@
 # RUPTURE — Plan du roman (58 chapitres)
 
-**Architecture révisée : 10 parties, 58 chapitres.** **Nouvelle consigne de longueur (décision de novembre 2026) : au moins 10 000 mots de récit par chapitre à partir du chapitre 40**, hors métadonnées YAML. Les chapitres 35–39, actuellement plus courts, sont à enrichir lors d'une révision ultérieure. L'ancienne cible globale de 135 000–165 000 mots est caduque ; recalculer le volume final après révision. La pagination dépendra de la maquette.
+**Architecture de clôture : 10 parties, 58 chapitres. Décision du 11 novembre 2026 : 3 000 à 5 000 mots de récit par nouveau chapitre dès le chapitre 44**, hors métadonnées. Cette fourchette remplace l'ancien minimum de 10 000 mots ; préserver les chapitres existants sans réduction ni extension automatique. Quinze chapitres restent à écrire, soit 45 000 à 75 000 mots supplémentaires. L'ancienne cible globale est caduque ; la pagination dépendra de la maquette.
 
-**Canon littéraire :** Rupture en 2026, Kübra co-protagoniste, OCB / AURORE, PhenixCoin seul, immortalité permanente, Vaeloriens responsables des resets, **Tugay et Kübra préservés accidentellement et projetés des siècles plus tard dans l'itération 52 826 323**, bouclier temporel, immortalité généralisée, guerre intergalactique et révélation du **futur Tugay derrière le premier contact**.
+**Canon et direction conservés :** Rupture en 2026, Kübra coprotagoniste, OCB / AURORE, PhenixCoin seul, immortalité permanente, Vaeloriens responsables des resets, **couple original préservé puis réinséré vers 2490 dans l'itération 52 826 323**, bouclier, accès volontaire à l'immortalité et guerre intergalactique. **Contrat de fin :** acquisition effective de l'ancrage autonome par les Vaeloriens, mystère résolu, correspondant futur révélé, puis Rupture vers l'itération **52 826 324** ; sort final des Vaeloriens inconnu.
+
+**Reprise vérifiée :** chapitre 43 achevé, dernier événement le **9 décembre 2082**. Les chapitres 44–58 ci-dessous sont des événements **prévus**, pas du canon déjà raconté. L'arrivée du vaisseau et le pacte passent à **2083** pour respecter le rythme des découvertes ; les chapitres 1–43 restent intacts. Voir [PREPARATION_CHAPITRE_44.md](PREPARATION_CHAPITRE_44.md).
 
 ## PARTIE I — DEUX CONTRE LE MONDE (chapitres 1–8)
 
@@ -66,37 +68,37 @@
 
 ## PARTIE VII — CEUX QUI TIENNENT UNE ÉTOILE (chapitres 43–45)
 
-43. **Le premier langage** — Reconstitution des messages commencés en 2079 : signature Qν détectée à l'aide des interféromètres stellaires vaeloriens, nombres et géométrie, traductions trompeuses, premières réponses humaines ; le récit révèle enfin ce que Tugay cachait.
-44. **Le soleil des Vaeloriens** — Civilisation qui pilote son étoile, communication par couloirs chrono-géométriques limités et coûteux, arrivée d'un vaisseau vers 2082 ; inégalité technologique et manœuvres diplomatiques.
-45. **Ils veulent l'ancre** — Les Vaeloriens exigent **la permanence de Tugay sans nouvelles injections**, pas seulement le sérum ; ils ne peuvent pas simplement la saisir sans détruire son mécanisme. Offres, pression, risques pour la Terre et désaccords familiaux.
+43. **Le premier langage** — **Écrit : 18 octobre–9 décembre 2082.** Premier essai humain le 27 novembre, corrélation antérieure à l'émission, transcription provisoire « Vaelor ». Aucun peuple, astre ni vaisseau encore identifié ; plusieurs sources restent possibles. Tugay est toujours retiré des décisions Qν ; Kübra intervient comme observatrice civique.
+44. **Le soleil des Vaeloriens** — **Prévu : décembre 2082–printemps 2083.** Une référence astronomique vérifiée fait émerger le nom collectif et l'ingénierie stellaire. Offre utile et rassurante, puis contradiction sur les droits de passage ; détection indépendante d'un vaisseau à l'extérieur des orbites habitées. Ni menace immédiate ni exposé sur les cycles.
+45. **Ils veulent l'ancre** — Approche négociée et première rencontre physique, sur un site choisi conjointement. Ils veulent **la permanence sans injections**, et ont besoin du savoir expérimental des équipes. Leur aide a une valeur réelle ; la pression monte. Kübra impose le consentement individuel, Mira et Lina refusent que leurs travaux de sûreté servent à isoler Tugay sous contrainte.
 
 ## PARTIE VIII — LA SECONDE HUMANITÉ (chapitres 46–50)
 
-46. **Les millions d'essais** — Les Vaeloriens avouent les 52 826 322 itérations ; leur objectif réel est l'immortalité biologique autonome.
-47. **Le pacte des étoiles** — Une délégation descend sur Terre, promet la non-agression, reçoit la méthode vérifiée et la sauvegarde hors-cycle.
-48. **La trahison** — Nouvelle Rupture ; Tugay et Kübra sont entraînés ensemble dans une poche temporelle par un défaut, plutôt que simplement effacés.
-49. **Un monde qui n'est pas le nôtre** — Interlude à la troisième personne : itération 52 826 323 radicalement différente, siècles de difficultés et de reconstruction.
-50. **Quatre siècles après** — Tugay et Kübra réapparaissent vers 2490 dans une Terre redevenue très avancée. Ils sont réellement les mêmes êtres, mais Tugay n'a que des souvenirs fragmentaires du secret Q-EUV et des Vaeloriens.
+46. **Les millions d'essais** — Une preuve d'archive contredit le récit diplomatique ; aveu contraint des **52 826 322 itérations** et de leur fonction de recherche. Montrer des vies divergentes et le coût des resets ; établir les limites du registre et du mécanisme distribué. L'origine humaine des Vaeloriens reste cachée.
+47. **Le pacte des étoiles** — Négociation sous menace d'une nouvelle purge, promesse de non-agression et transfert contrôlé. **Succès vaelorien explicite :** reproduction indépendante de l'ancrage autonome, contrôles chrono-biologiques et archivage hors-cycle confirmés à Sofia. Le protocole de purge est faussement déclaré désarmé ; Mira et Lina en conservent une trace exploitable.
+48. **La trahison** — La faction dirigeante utilise les relais pour effacer témoins et concurrents malgré sa promesse. Séquences de secours et séparation effective d'avec Mira, Lina et Sofia. Un défaut de synchronisation externe préserve physiquement Tugay et Kübra ensemble ; la Rupture ouvre **52 826 323**.
+49. **Un monde qui n'est pas le nôtre** — Interlude incarné à la troisième personne : quelques scènes liées par un lieu ou un objet traversent les siècles d'une reconstruction différente. Aucune répétition automatique du Phénix ; pas de résumé encyclopédique. Les archives tardives permettront au couple de distinguer cette histoire de la sienne.
+50. **Quatre siècles après** — Réapparition vers 2490, retour au « je ». Identités et relation conservées ; souvenirs techniques de Tugay fragmentés par le transfert externe. Kübra obtient un statut et des interlocuteurs indépendants. Le deuil des proches de l'autre cycle est vécu avant tout nouveau projet.
 
 ## PARTIE IX — LE BOUCLIER DES MORTELS (chapitres 51–54)
 
-51. **La mémoire des impossibles** — Souvenirs Q-EUV de Tugay, peur des Vaeloriens, adaptation du couple à un monde inconnu.
-52. **Silence quantique** — Scientifiques et puissances humaines reconstituent théoriquement Q-EUV **sans aucun essai actif**, pour ne pas émettre de signature.
-53. **Le bouclier de la Terre** — Alliance scientifique et politique, champ de protection bloquant les signaux Qν franchissant la limite terrestre mais non le Q-EUV local ; vérification passive.
-54. **L'âge sans vieillesse** — Essais confinés après mise en service, industrie capable de reproduire l'ancrage ; immortalité biologique offerte universellement, dans le respect du consentement.
+51. **La mémoire des impossibles** — Fragments techniques confrontés aux mesures passives de l'ancrage et à des archives indépendantes. Tugay accepte de ne plus posséder seul le projet ; Kübra construit une alliance civique. Découverte de la perte de synchronisation comme indice, sans promettre de réitérer leur survie.
+52. **Silence quantique** — Reconstruction **théorique sans essai actif** avec des spécialistes contemporains. L'ancrage préexistant de Tugay est une source passive à contenir ; distinguer sa faible portée non triangulée d'un nouveau signal expérimental reconnaissable. Choix du confinement et coût politique assumés.
+53. **Le bouclier de la Terre** — Construction et validation passive d'une frontière filtrant les transmissions Qν, puis seulement autorisation des essais. **Limite annoncée :** elle ne bloque ni la lumière, ni une attaque matérielle, ni la transition globale d'une Rupture.
+54. **L'âge sans vieillesse** — Essais confinés et industrie reproduisant les cœurs. Accès universel à l'immortalité biologique sous consentement, avec refus possibles ; Kübra choisit elle-même l'ancrage devenu reproductible. Scènes de transformation du quotidien et décisions collectives, pas simple bilan triomphal.
 
 ## PARTIE X — LES ENFANTS DES ÉTOILES (chapitres 55–58)
 
-55. **La guerre des étoiles** — Les Vaeloriens repèrent l'expansion humaine autrement que par Q-EUV et attaquent : début d'une guerre interstellaire.
-56. **Les siècles ennemis** — Années de combats et conséquences humaines ; le conflit s'étend à plusieurs galaxies via les couloirs vaeloriens.
-57. **Nos ennemis, nos descendants** — Découverte que les Vaeloriens sont les descendants transformés d'une humanité très ancienne, immortelle grâce à des traitements répétés, divisée sur les Ruptures.
-58. **L'homme derrière le signal** — La voix du premier contact vaelorien était **Tugay lui-même, dans son futur**. Boucle causale entre itérations, motivations opposées des factions et choix de préserver un avenir humain qui continue.
+55. **La guerre des étoiles** — Reconnaissance matérielle des routes humaines, indépendamment du Qν filtré, puis attaque interstellaire et sauvetage coûteux. Les Vaeloriens possèdent déjà la méthode autonome ; ils combattent pour le contrôle des relais et des archives. Une faction engage le protocole de purge contre leur capture.
+56. **Les siècles ennemis** — Années de guerre racontées autour d'opérations et de pertes précises ; extension intergalactique par un petit nombre de corridors coûteux. Une tentative d'arrêter les relais échoue avec une conséquence durable. Établir la fenêtre d'intervention avant le seuil irréversible et les désaccords vaeloriens.
+57. **Nos ennemis, nos descendants** — Des preuves croisées révèlent la diaspora humaine ancienne, les traitements autrefois répétés et les factions. Le couple contribue à sauver une archive de vies et de savoirs. La purge distribuée franchit son seuil : une Rupture demeure inévitable même si son auteur est neutralisé. Préparer la dernière opération, sans ajouter une nouvelle énigme centrale.
+58. **L'homme derrière le signal** — Tugay découvre puis accomplit l'envoi des premiers motifs intentionnels de 2079 depuis un relais hors-cycle ; les sources officielles récentes étaient distinctes. Kübra mène la préservation limitée d'archives choisies et refuse une nouvelle sélection de sujets d'expérience. La réussite clôt leur action ; les contacts vaeloriens deviennent invérifiables. **Dernière scène : Rupture effective vers 52 826 324**, avec bref retour concret au 9 octobre 2026 dans une histoire différente. Sort final vaelorien inconnu ; aucune annonce de suite.
 
 ## Exigences de fabrication
 
 - **Point de vue :** « je » de Tugay ; chaque émotion de Kübra est découverte par son comportement ou ses paroles, jamais par accès magique à sa pensée.
-- **Couple :** scènes communes régulières, gestes tendres, conflits justifiés, décisions partagées et individualité de Kübra dans chacune des huit parties.
+- **Couple :** scènes communes régulières, gestes tendres, conflits justifiés et individualité de Kübra dans chacune des dix parties. Mira et Lina prennent des décisions qui changent les événements ; Sofia reste l'autorité scientifique de son domaine.
 - **Réalisme interne :** pénuries, délais, logistique, politique, financement, conséquence concrète. Les pouvoirs quantiques sont imaginaires mais obéissent à leurs propres règles. **Contrôler avant chaque chapitre les points de [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md)**.
 - **Enquête :** ne pas confondre les raiders avec l'OCB ; l'arrestation par l'OCB doit être un déclencheur narratif crédible de la recherche de la keycard.
 - **Mystère :** le nombre de cycles et leur origine se révèlent au chapitre 46 ; la nature humaine des Vaeloriens et l'identité du correspondant restent réservées aux chapitres 57–58.
-- **Fin :** réapparition de Tugay et Kübra après des siècles, bouclier et immortalité humaine, guerre intergalactique puis boucle causale entre le passé de Tugay et son avenir vaelorien. Voir [FIN_REVISEE.md](FIN_REVISEE.md).
+- **Fin :** clore la recherche et le mystère des Ruptures avant le dernier redémarrage. Le sort des Vaeloriens reste inconnu pour une raison observable, pas par omission. Réserver au chapitre 58 des scènes pour l'opération finale, le couple et la Rupture ; ne pas y concentrer toutes les explications. Voir [FIN_REVISEE.md](FIN_REVISEE.md).

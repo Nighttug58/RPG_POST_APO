@@ -2,6 +2,8 @@
 
 > **Version adaptée du roman uniquement.** Ne pas modifier les dates ni les données des sauvegardes Git du RPG. Les dates fines ci-dessous sont des **repères éditoriaux** et peuvent être ajustées lors des chapitres si une scène l'exige. L'année de la Rupture (2026) est fixée.
 
+**Harmonisation du 11 novembre 2026 :** l'ancrage est daté du **17 juin 2082** dans le chapitre 41 et le chapitre 43 se clôt le **9 décembre 2082** sans étoile localisée. L'ancien repère d'un vaisseau et d'un pacte vers 2082 est donc reporté à **2083**, pour les seuls événements encore à écrire. Aucune date d'un chapitre existant n'est modifiée.
+
 ## Point de départ et règle de conversion
 
 - **Déclenchement de la Rupture : 9 octobre 2026** (repère de travail romanesque) : panne systémique par vagues, déplacements, ruptures de logistique et d'autorité. Le premier camp de Tugay et Kübra existe pendant environ trois semaines avant son attaque. Il ne s'agit pas de onze ans d'abandon.
@@ -32,9 +34,12 @@
 | PhenixCoin | 2057–fin des années 2060 | Achat initial 593 750 PHX ; vente progressive, profits réels pour projets et ÉTERNITÉ |
 | ÉTERNITÉ | 2079–2080 | Après travaux de recherche préparatoires, Q-EUV, Genesis-S et observation accélérée fictive |
 | Controverse Genesis-S | 2080–2082 | Protection de l'humanité, monopole et conflit familial |
-| Vaeloriens | Signaux dès 2079 ; vaisseau vers 2082 | Détection Qν, messages mal traduits, couloirs spatio-temporels coûteux |
-| Itération 52 826 322 | 2026–2082 | Percée de l'immortalité permanente ; négociations et pacte vaelorien |
-| Nouvelle Rupture | Après acquisition et sauvegarde de la formule | Trahison et effacement de la chronologie |
+| Ancrage autonome de Tugay | **17 juin 2082** — chapitre 41 | Cœur rare consommé ; âge biologique maintenu sans injection répétée |
+| Premier langage | **18 octobre–9 décembre 2082** — chapitre 43 | Essai humain le 27 novembre ; « Vaelor » provisoire, plusieurs sources possibles, pas d'étoile identifiée |
+| Preuve astronomique et vaisseau | Décembre 2082–printemps **2083**, prévu au 44 | Échanges autorisés, référence stellaire indépendante, arrivée distante par corridor stabilisé |
+| Rencontre et demande d'ancrage | **2083**, prévu au 45 | Contact physique négocié, offres utiles et pressions croissantes |
+| Itération 52 826 322 | 2026–**2083**, repère de fin prévu | Responsabilité des resets révélée au 46 ; acquisition autonome vérifiée et archivée au 47 |
+| Rupture du chapitre 48 | **2083**, après acquisition et archivage | Purge volontaire pour effacer témoins et concurrents ; le couple est préservé par un défaut externe |
 | Itération 52 826 323 | Nouvel état proche de 2026 | Divergence chaotique, acteurs différents |
 | Reconstruction nouvelle | Vers 2026–2490, cycle 52 826 323 | Plusieurs siècles d'histoire humaine différente ; civilisation avancée vers 2490 |
 | Réapparition de Tugay et Kübra | Vers **2490** (repère éditorial) | Défaut de Rupture ; ils sont physiquement réinsérés et portent des souvenirs fragmentaires |
@@ -42,6 +47,10 @@
 | Humanité à jeunesse permanente | Après mise en service du bouclier | Accès universel et volontaire à l'ancrage biologique reproductible |
 | Guerre intergalactique | Années suivantes | Découverte terrestre par moyens non Qν ; conflit qui s'étend au-delà de la galaxie |
 | Dernières révélations | Derniers chapitres | Vaeloriens = diaspora humaine ancienne ; premier correspondant = Tugay futur |
+| Purge finale engagée | Pendant la guerre, chapitres 55–56 | Une faction arme les relais ; tentative de révocation avant le seuil irréversible |
+| Seuil de transition franchi | Chapitre 57, après les années de guerre | La neutralisation d'un dirigeant ne suffit plus ; la Rupture est causée par les engagements distribués |
+| Dernier contact et sauvegarde | Chapitre 58, fin de 52 826 323 | Motifs de 2079 envoyés par Tugay futur, dépôt limité d'archives et communications coupées |
+| **Rupture finale / 52 826 324** | **Dernière scène ; nouvel état proche du 9 octobre 2026** | Nouvelle itération effective et divergente ; sort des Vaeloriens indéterminable, aucune annonce de suite |
 
 ## Repères démographiques et biographiques
 
@@ -63,3 +72,5 @@
 8. Ne pas confondre leur réapparition avec une **naissance au XXVe siècle** ; ils sont conservés par un défaut de la machine Qν. La chronologie de leur couple reste intacte.
 9. Q-EUV reste **inactif** tant que le bouclier n'est pas opérationnel ; le contact extraterrestre devient possible par d'autres canaux que Qν.
 10. Le correspondant de 2079 (cycle 52 826 322) est Tugay futur du **cycle 52 826 323**, par communication hors-cycle : contrôler systématiquement ces deux numéros lors de la rédaction.
+11. Distinguer la Rupture du **48** (52 826 322 → 52 826 323, trahison après acquisition) de celle du **58** (52 826 323 → 52 826 324, purge distribuée engagée pendant la guerre). Le déplacement du couple vers 2490 appartient seulement à la première ; la deuxième ne garantit pas un nouveau sauvetage.
+12. Les observations optiques d'une étoile montrent un état ancien à cause du trajet de la lumière. La correspondance Qν peut avoir une autre latence ; ne pas confondre l'heure des photons reçus avec le présent de la source ou une modification instantanée d'un astre lointain.
