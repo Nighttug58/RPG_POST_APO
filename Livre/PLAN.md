@@ -1,10 +1,10 @@
 # RUPTURE — Plan du roman (58 chapitres)
 
-**Architecture de clôture : 10 parties, 58 chapitres. Décision du 11 novembre 2026 : 3 000 à 5 000 mots de récit par nouveau chapitre dès le chapitre 44**, hors métadonnées. Cette fourchette remplace l'ancien minimum de 10 000 mots ; préserver les chapitres existants sans réduction ni extension automatique. Quinze chapitres restent à écrire, soit 45 000 à 75 000 mots supplémentaires. L'ancienne cible globale est caduque ; la pagination dépendra de la maquette.
+**Architecture de clôture : 10 parties, 58 chapitres. Décision du 11 novembre 2026 : 3 000 à 5 000 mots de récit par nouveau chapitre dès le chapitre 44**, hors métadonnées. Cette fourchette remplace l'ancien minimum de 10 000 mots ; préserver les chapitres existants sans réduction ni extension automatique. Après le chapitre 44, quatorze chapitres restent à écrire, soit 42 000 à 70 000 mots supplémentaires. L'ancienne cible globale est caduque ; la pagination dépendra de la maquette.
 
 **Canon et direction conservés :** Rupture en 2026, Kübra coprotagoniste, OCB / AURORE, PhenixCoin seul, immortalité permanente, Vaeloriens responsables des resets, **couple original préservé puis réinséré vers 2490 dans l'itération 52 826 323**, bouclier, accès volontaire à l'immortalité et guerre intergalactique. **Contrat de fin :** acquisition effective de l'ancrage autonome par les Vaeloriens, mystère résolu, correspondant futur révélé, puis Rupture vers l'itération **52 826 324** ; sort final des Vaeloriens inconnu.
 
-**Reprise vérifiée :** chapitre 43 achevé, dernier événement le **9 décembre 2082**. Les chapitres 44–58 ci-dessous sont des événements **prévus**, pas du canon déjà raconté. L'arrivée du vaisseau et le pacte passent à **2083** pour respecter le rythme des découvertes ; les chapitres 1–43 restent intacts. Voir [PREPARATION_CHAPITRE_44.md](PREPARATION_CHAPITRE_44.md).
+**Reprise vérifiée :** chapitre 44 achevé, dernier événement le **11 avril 2083** ; prochain : **45 — Ils veulent l'ancre**. Les chapitres 45–58 restent des événements prévus. Le vaisseau est confirmé au-delà de Neptune ; aucune rencontre physique ni demande médicale explicite encore traduite.
 
 ## PARTIE I — DEUX CONTRE LE MONDE (chapitres 1–8)
 
@@ -69,7 +69,7 @@
 ## PARTIE VII — CEUX QUI TIENNENT UNE ÉTOILE (chapitres 43–45)
 
 43. **Le premier langage** — **Écrit : 18 octobre–9 décembre 2082.** Premier essai humain le 27 novembre, corrélation antérieure à l'émission, transcription provisoire « Vaelor ». Aucun peuple, astre ni vaisseau encore identifié ; plusieurs sources restent possibles. Tugay est toujours retiré des décisions Qν ; Kübra intervient comme observatrice civique.
-44. **Le soleil des Vaeloriens** — **Prévu : décembre 2082–printemps 2083.** Une référence astronomique vérifiée fait émerger le nom collectif et l'ingénierie stellaire. Offre utile et rassurante, puis contradiction sur les droits de passage ; détection indépendante d'un vaisseau à l'extérieur des orbites habitées. Ni menace immédiate ni exposé sur les cycles.
+44. **Le soleil des Vaeloriens** — **Écrit : 19 décembre 2082–11 avril 2083 ; 3 324 mots de récit.** Preuve astronomique indépendante, nom collectif, reconstruction stellaire partielle ; renseignement permettant un sauvetage auquel Mira et Lina contribuent. Kübra distingue échange et droit d'approche ; trajet néanmoins déjà engagé. Vaisseau et freinage confirmés au-delà de Neptune. La source stable évoquée pourrait désigner Tugay ; aucune donnée médicale transmise.
 45. **Ils veulent l'ancre** — Approche négociée et première rencontre physique, sur un site choisi conjointement. Ils veulent **la permanence sans injections**, et ont besoin du savoir expérimental des équipes. Leur aide a une valeur réelle ; la pression monte. Kübra impose le consentement individuel, Mira et Lina refusent que leurs travaux de sûreté servent à isoler Tugay sous contrainte.
 
 ## PARTIE VIII — LA SECONDE HUMANITÉ (chapitres 46–50)

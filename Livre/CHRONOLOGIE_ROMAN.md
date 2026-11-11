@@ -36,7 +36,7 @@
 | Controverse Genesis-S | 2080–2082 | Protection de l'humanité, monopole et conflit familial |
 | Ancrage autonome de Tugay | **17 juin 2082** — chapitre 41 | Cœur rare consommé ; âge biologique maintenu sans injection répétée |
 | Premier langage | **18 octobre–9 décembre 2082** — chapitre 43 | Essai humain le 27 novembre ; « Vaelor » provisoire, plusieurs sources possibles, pas d'étoile identifiée |
-| Preuve astronomique et vaisseau | Décembre 2082–printemps **2083**, prévu au 44 | Échanges autorisés, référence stellaire indépendante, arrivée distante par corridor stabilisé |
+| Preuve astronomique et vaisseau | **19 décembre 2082–11 avril 2083**, chapitre 44 écrit | Vérification astronomique le 14 janvier ; nom collectif le 28 ; secours orbital le 23 février ; limite civique le 17 mars ; véhicule au-delà de Neptune et freinage confirmés le 11 avril |
 | Rencontre et demande d'ancrage | **2083**, prévu au 45 | Contact physique négocié, offres utiles et pressions croissantes |
 | Itération 52 826 322 | 2026–**2083**, repère de fin prévu | Responsabilité des resets révélée au 46 ; acquisition autonome vérifiée et archivée au 47 |
 | Rupture du chapitre 48 | **2083**, après acquisition et archivage | Purge volontaire pour effacer témoins et concurrents ; le couple est préservé par un défaut externe |

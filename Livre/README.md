@@ -2,12 +2,12 @@
 
 **Projet :** adaptation littéraire de la campagne RPG_POST_APO.  
 **Auteur et narrateur :** Tugay (récit à la première personne).  
-**État au 11 novembre 2026 :** chapitres 1 à 43 présents ; chapitre 43 achevé en rédaction, au statut `brouillon`. Prochain chapitre à écrire : **44 — Le soleil des Vaeloriens**. L'achèvement ne vaut pas validation explicite par l'auteur.
+**État au 11 novembre 2026 :** chapitres 1 à 44 présents ; chapitre 44 achevé en rédaction (3 324 mots de récit), au statut `brouillon`. Prochain chapitre à écrire : **45 — Ils veulent l'ancre**. L'achèvement ne vaut pas validation explicite par l'auteur.
 
 ## Format retenu
 
 - **58 chapitres**, répartis en **10 parties**.
-- **3 000 à 5 000 mots de récit par nouveau chapitre dès le chapitre 44** ; soit 45 000 à 75 000 mots pour les quinze chapitres restants. Recalculer le volume total à l'assemblage ; l'ancienne cible globale est caduque.
+- **3 000 à 5 000 mots de récit par nouveau chapitre dès le chapitre 44** ; soit 42 000 à 70 000 mots pour les quatorze chapitres restant après le 44. Recalculer le volume total à l'assemblage ; l'ancienne cible globale est caduque.
 - Narration principalement en « je » de Tugay, y compris après sa réapparition ; exception motivée au chapitre 49, chronique incarnée à la troisième personne. Une brève coda externe est permise après la Rupture finale.
 - La catastrophe initiale survient **en 2026** ; la reconstruction mène aux décennies suivantes.
 - **Kübra est la seconde figure centrale** du roman et une actrice autonome des décisions.
@@ -25,7 +25,7 @@
 - [SCIENCE_FICTION.md](SCIENCE_FICTION.md) — lois imaginaires Q-EUV, Genesis-S, permanence et Vaeloriens (**spoilers majeurs**).
 - [FIN_REVISEE.md](FIN_REVISEE.md) — causalité et calendrier des révélations jusqu'à la Rupture finale (**spoilers absolus**).
 - [PREPARATION_CHAPITRE_44.md](PREPARATION_CHAPITRE_44.md) — reprise exacte du chapitre 43, scènes prévues et limites des révélations.
-- [chapitres/chapitre-43.md](chapitres/chapitre-43.md) — dernier chapitre achevé : **Le premier langage**.
+- [chapitres/chapitre-44.md](chapitres/chapitre-44.md) — dernier chapitre achevé : **Le soleil des Vaeloriens** (19 décembre 2082–11 avril 2083).
 
 ## Longueur éditoriale
 

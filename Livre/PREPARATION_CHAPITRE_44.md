@@ -1,6 +1,6 @@
 # Préparation — Chapitre 44 : Le soleil des Vaeloriens
 
-> **Dossier d'auteur — spoilers de préparation. Établi le 11 novembre 2026.** Ce document prépare la prochaine rédaction ; il n'est ni le chapitre ni une modification des événements déjà racontés. Objectif : un chapitre complet de **3 000 à 5 000 mots de récit**, principalement au « je » de Tugay.
+> **Dossier d'auteur — spoilers de préparation. Établi le 11 novembre 2026.** **Dossier désormais réalisé :** chapitre 44 rédigé, 3 324 mots de récit, du 19 décembre 2082 au 11 avril 2083. Les scènes ci-dessous conservent leur statut de préparation ; les faits acquis sont consignés dans CONTINUITE.md. Ce dossier n'est pas le chapitre. Objectif : un chapitre complet de **3 000 à 5 000 mots de récit**, principalement au « je » de Tugay.
 
 ## Point de reprise vérifié
 
@@ -62,4 +62,4 @@ La première rencontre physique est réservée au **chapitre 45 — Ils veulent 
 
 Récit intégral de 3 000 à 5 000 mots hors métadonnées ; narration « je » ; une preuve astronomique vécue ; une décision indépendante de Kübra ; un choix conséquent de Mira et Lina ; rôle scientifique de Sofia ; coopération encore crédible ; contradiction concrète ; vaisseau distant confirmé ; aucun secret de fin dévoilé. Reporter les faits effectivement écrits dans CONTINUITE.md, CHRONOLOGIE_ROMAN.md et l'état de reprise du README.
 
-À la demande « next », écrire `Livre/chapitres/chapitre-44.md`, vérifier son nombre de mots et sa continuité, l'enregistrer sur **`main`** avec les mises à jour nécessaires, puis vérifier le commit et le fichier. Retour à l'auteur : lien, compte de mots, résumé concis et **Chapitre 45 — Ils veulent l'ancre** comme prochain titre. Aucun fichier de chapitre vide n'est créé à ce stade.
+**Étape accomplie :** `Livre/chapitres/chapitre-44.md` rédigé intégralement et contrôlé. Prochaine demande « next » : **Chapitre 45 — Ils veulent l'ancre**, à partir du véhicule distant confirmé et de la demande encore ambiguë. Consulter la dernière continuité avant toute rédaction.

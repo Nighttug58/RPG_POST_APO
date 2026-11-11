@@ -13,9 +13,20 @@
 
 Avant tout nouveau chapitre, consulter [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) et distinguer corrections **résolues**, problèmes **à mettre en scène** et mystères **volontairement ouverts**. Les 58 chapitres restent le plan directeur.
 
-**État du manuscrit :** chapitres 1–43 présents, 43 achevé mais encore `brouillon` ; prochaine rédaction : **44 — Le soleil des Vaeloriens**. À partir du 44 : **3 000 à 5 000 mots de récit**, sans modifier automatiquement les longueurs antérieures. Les sections de direction future ci-dessous décrivent un **plan**, pas des événements déjà racontés.
+**État du manuscrit :** chapitres 1–44 présents, 44 achevé mais encore `brouillon` (3 324 mots de récit) ; prochaine rédaction : **45 — Ils veulent l'ancre**. À partir du 44 : **3 000 à 5 000 mots de récit**, sans modifier automatiquement les longueurs antérieures. Les sections de direction future ci-dessous décrivent un **plan**, pas des événements déjà racontés.
 
-## Dernier état effectivement raconté — 9 décembre 2082
+## Dernier état effectivement raconté — 11 avril 2083
+
+- Chapitre 44 : du **19 décembre 2082 au 11 avril 2083**. Les échanges astronomiques ont été élargis avec autorisation ; aucune donnée médicale sensible transmise. Tugay reste un invité autorisé, sans réinstallation dans la direction Qν.
+- **Nour Benali**, astronome d'un observatoire alpin partenaire, dirige les observations. Le 14 janvier, une séquence d'occultations et de polarisation annoncée se vérifie indépendamment. Les photons décrivent un état ancien de l'astre ; les données Qν suivent une autre chronologie.
+- Le 28 janvier, une reconstruction partielle étaye l'ingénierie stellaire. **Vaeloriens** devient le nom collectif terrestre fondé sur les correspondances acquises ; aucune phonétique étrangère authentifiée. Lieu de vie, apparence et intentions demeurent inconnus. Inès conserve les motifs anciens de 2079 à part des messages récents.
+- Le **23 février**, leur renseignement sur un nuage de fragments permet l'évacuation de trois personnes et le dégagement d'une plateforme. **Lina refuse une manœuvre mécaniquement risquée et choisit le sacrifice d'un bras de service ; Mira coordonne des vérifications au sol.** La plateforme survit avec pertes matérielles et travaux différés. Leur aide a une valeur réelle.
+- Le **17 mars**, Kübra fait suspendre puis réécrire un message : échanger n'autorise ni l'approche ni l'accès aux espaces habités. Une réponse reconnaît la distinction mais décrit un trajet déjà engagé. Erreur de traduction, contrainte matérielle ou décision imposée restent possibles. Mira et Lina maintiennent cette réserve dans leur rapport malgré l'inquiétude de Tugay.
+- Le **11 avril**, plusieurs instruments confirment un véhicule **au-delà de l'orbite de Neptune**, puis un freinage compatible avec les données reçues. Aucun contact physique, aucune descente sur Terre. Les institutions demandent son maintien à distance ; aucune acceptation de cette demande n'est encore acquise.
+- Le message de manœuvre évoque une source terrestre continue et persistante. **L'ancrage de Tugay est une hypothèse, pas une demande d'accès déjà traduite.** Sofia refuse de transmettre ses données pour tester cette lecture. Le cœur consommé reste perdu ; aucun second ancrage terrestre.
+- Reprise au **45 — Ils veulent l'ancre** : clarifier la demande et négocier l'approche avant toute première rencontre physique. Ne pas divulguer les cycles, l'origine humaine des Vaeloriens ou l'identité du correspondant ancien.
+
+## État antérieur — 9 décembre 2082 (fin du chapitre 43)
 
 - Le chapitre 41 situe la conversion permanente de Tugay au **17 juin 2082** ; le cœur rare est définitivement consommé. Genesis-S ordinaire reste accessible sous contrôle et ne confère pas la permanence.
 - Après son projet de suspension générale et la révélation de sa consultation privée d'**Aline Gerber**, Tugay reste **retiré des décisions et de l'évaluation des risques Qν**, dans l'attente de l'audit. Il assiste à des présentations autorisées, sans accès automatique aux données sensibles. Il ne peut reprendre la direction au chapitre 44 sans décision explicite en scène.
