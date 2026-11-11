@@ -38,6 +38,7 @@
 | Premier langage | **18 octobre–9 décembre 2082** — chapitre 43 | Essai humain le 27 novembre ; « Vaelor » provisoire, plusieurs sources possibles, pas d'étoile identifiée |
 | Preuve astronomique et vaisseau | **19 décembre 2082–11 avril 2083**, chapitre 44 écrit | Vérification astronomique le 14 janvier ; nom collectif le 28 ; secours orbital le 23 février ; limite civique le 17 mars ; véhicule au-delà de Neptune et freinage confirmés le 11 avril |
 | Rencontre et demande d'ancrage | **18 avril–27 juin 2083**, chapitre 45 écrit | Demande autonome clarifiée en avril ; unité au sol et rencontre le 18 juin sur un plateau alpin ; mesure passive consentie, offre industrielle sous conditions ; référence à 2026 inexpliquée le 27 juin |
+| Les millions d'essais | **27 juin–16 juillet 2083**, chapitre 46 écrit | Catalogue vérifié ; démonstration et aveu le 5 juillet ; travail sur le registre et les relais les 10–12 juillet ; mandat de négociation le 16, aucun pacte encore signé |
 | Itération 52 826 322 | 2026–**2083**, repère de fin prévu | Responsabilité des resets révélée au 46 ; acquisition autonome vérifiée et archivée au 47 |
 | Rupture du chapitre 47 | **2083**, après acquisition et archivage | Purge volontaire pour effacer témoins et concurrents ; le couple est préservé par un défaut externe |
 | Itération 52 826 323 | Nouvel état proche de 2026 | Divergence chaotique, acteurs différents |

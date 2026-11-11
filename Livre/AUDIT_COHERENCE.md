@@ -1,6 +1,6 @@
 # Audit de cohérence du roman RUPTURE — Révision du 11 novembre 2026
 
-> **Interne à la rédaction — contient des spoilers.** Référence obligatoire avant chaque chapitre ; reprise actuelle au **46**, après le chapitre 45 achevé. Les corrections ne modifient pas la chronologie sauvegardée du jeu : elles concernent **uniquement son adaptation littéraire**. Une règle résolue dans le plan doit encore être préparée et démontrée dans les scènes futures.
+> **Interne à la rédaction — contient des spoilers.** Référence obligatoire avant chaque chapitre ; reprise actuelle au **47**, après le chapitre 46 achevé. Les corrections ne modifient pas la chronologie sauvegardée du jeu : elles concernent **uniquement son adaptation littéraire**. Une règle résolue dans le plan doit encore être préparée et démontrée dans les scènes futures.
 >
 > Niveaux : **CRITIQUE** = contradiction qui casse la logique ; **IMPORTANT** = enchaînement peu crédible ; **NARRATIF** = perte de tension, de causalité ou de personnalité.
 
@@ -54,7 +54,7 @@
 | C44 | IMPORTANT | Le sort inconnu des Vaeloriens ressemble à un oubli. | Coupure observée des corridors ; accusés limités au dépôt des savoirs, aucune mesure globale des corps ou des institutions après transition. Acquisition certaine, destin ultérieur indéterminable. | À vivre au 50 |
 | C45 | CRITIQUE | Une signature permanente devrait révéler Tugay dès sa réapparition avant le bouclier. | Ne pas l'éteindre arbitrairement : source isolée, triangulation distante incertaine, mesures passives et pas d'amplification avant confinement. Le risque motive la rapidité du bouclier ; aucune garantie d'invisibilité. | À traiter aux 48 |
 | C46 | NARRATIF | Le retour du couple efface Mira, Lina et Sofia ou les remplace par des doubles. | Choix et secours déterminants aux 45–47, séparation et deuil vécus au 48. Des personnes d'une autre itération ne restaurent pas ces relations par homonymie. | À mettre en scène |
-| C47 | CRITIQUE | Une ancienne règle de longueur ou de clôture continue à guider la rédaction. | **50 chapitres, 6 000–10 000 mots de récit par chapitre 46–50** ; 45 achevé et prochain « next » au 46. Les chapitres 1–45 restent intacts. | Consignes actualisées |
+| C47 | CRITIQUE | Une ancienne règle de longueur ou de clôture continue à guider la rédaction. | **50 chapitres, 6 000–10 000 mots de récit par chapitre 46–50** ; 46 achevé et prochain « next » au 47. Les chapitres 1–45 restent intacts. | Consignes actualisées |
 | C48 | CRITIQUE | La fin montre seulement la menace d'un reset ou annonce une suite. | Dernière scène = Rupture effective **52 826 323 → 52 826 324**, nouvelle date de référence du 9 octobre 2026 et détail divergent ; aucun slogan de suite. | Contrat fixé ; à exécuter au 50 |
 
 **Contrôle de contraction :** cinq chapitres restent. Au 47, acquisition vérifiée avant la trahison ; au 48, deuil avant nouveau projet et bouclier passif avant essais ; au 49, vie transformée avant guerre et irréversibilité établie avant le 50. Conserver le temps des décisions et des pertes ; les ellipses ne remplacent pas les climax.
