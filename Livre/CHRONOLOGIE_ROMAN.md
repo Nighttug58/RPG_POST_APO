@@ -46,11 +46,11 @@
 | Reconstruction nouvelle | Vers 2026–2490, cycle 52 826 323 | Plusieurs siècles d'histoire humaine différente ; civilisation avancée vers 2490 |
 | Réapparition de Tugay et Kübra | **4 juin 2490**, chapitre 48 écrit | Réinsertion des corps originaux au plateau ; blessure droite conservée, aucun passage inverse ; identité et deuil vécus |
 | Théorie Q-EUV et bouclier | **2490–22 septembre 2494**, chapitre 48 écrit | Fragments et science contemporaine ; confinement local qualifié fin 2491 ; défaut orbital et délai en juillet 2493 ; fermeture le 21 septembre 2494, validation passive et autorisation le 22 ; aucun essai actif avant clôture |
-| Humanité à jeunesse permanente | **Après le 22 septembre 2494**, événement encore prévu au 49 | D'abord essais confinés et cœurs industriels, puis accès universel et volontaire ; pas encore accompli au 48 |
-| Guerre intergalactique | Années suivantes | Découverte terrestre par moyens non Qν ; conflit qui s'étend au-delà de la galaxie |
-| Dernières révélations | Derniers chapitres | Vaeloriens = diaspora humaine ancienne ; premier correspondant = Tugay futur |
-| Purge finale engagée | Pendant la guerre, chapitres 49 | Une faction arme les relais ; tentative de révocation avant le seuil irréversible |
-| Seuil de transition franchi | Chapitre 49, après les années de guerre | La neutralisation d'un dirigeant ne suffit plus ; la Rupture est causée par les engagements distribués |
+| Traitements et jeunesse permanente | **2494–2498 puis années suivantes**, chapitre 49 écrit | Essai actif confiné le 23 septembre 2494 ; restauration humaine en 2496, premier ancrage quelques mois après ; Kübra choisit l'autonomie en 2498 ; industrie et accès volontaire élargis |
+| Guerre interstellaire puis intergalactique | **2510–2521**, chapitre 49 écrit | Attaque physique d'Orée le 14 février 2510 ; reconnaissance optique/thermique/radio, aucun signal Q-EUV échappé ; relais allié en 2514, corridor vers autre galaxie constaté en 2516 |
+| Origine humaine et factions | **2518**, chapitre 49 écrit | Archives et biologie consentie établissent la diaspora humaine ; continuité et méthode autonome acquise en 2083 confirmées. Correspondant de 2079 encore réservé au 50 |
+| Purge finale engagée | **2520**, chapitre 49 écrit | Gardiens arment les relais pour empêcher la capture du registre ; tentative de révocation le 15 mai 2521, poste détruit avant retrait complet et mort d'Anja |
+| Seuil de transition franchi | **17 mai 2521**, chapitre 49 écrit | Confirmation indépendante et terrestre ; au plus quelques jours, aucun arrêt global encore possible ; Nacre en route vers le relais de sauvegarde, reset pas encore survenu |
 | Dernier contact et sauvegarde | Chapitre 50, fin de 52 826 323 | Motifs de 2079 envoyés par Tugay futur, dépôt limité d'archives et communications coupées |
 | **Rupture finale / 52 826 324** | **Dernière scène ; nouvel état proche du 9 octobre 2026** | Nouvelle itération effective et divergente ; sort des Vaeloriens indéterminable, aucune annonce de suite |
 

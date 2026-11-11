@@ -129,3 +129,13 @@
 - Fermeture terrestre **21 septembre 2494**, validation **passive** jusqu'au 22 : bruit naturel et références indépendantes dedans/dehors, fonctionnement interne conservé. Alimentations pour refroidissement et positionnement ; aucune excitation Q-EUV servant de test.
 - Le réseau qualifié couvre la Terre et les installations proches intégrées au projet, **pas la Lune, les vaisseaux ou toutes les colonies**. Avant des usages hors de ce domaine, concevoir et qualifier des confinements propres ; ne pas faire fuir une signature puis attribuer arbitrairement le conflit à une panne du filtre terrestre.
 - Le **22 septembre**, les essais confinés sont autorisés pour la suite. Leur réussite, l'industrialisation et les traitements restent au chapitre 49. Le bouclier ne garantit ni invisibilité classique ni résistance à une Rupture globale.
+
+
+## 11. État contraignant après le chapitre 49
+
+- Essais actifs seulement après le 22 septembre 2494, en domaine qualifié. Restauration humaine puis ancrages industriels vérifiés ; **Kübra ancrée en 2498** par choix propre. Accès volontaire et refus protégés, pas d'invulnérabilité.
+- Nacre et Orée disposent de confinements qualifiés hors Terre, avec raccordements contrôlés. La navigation reste observable ; l'attaque de 2510 découle de reconnaissance **optique, thermique et radio**, pas d'une fuite Q-EUV.
+- Méthode vaelorienne autonome toujours acquise depuis le 47 ; le 49 montre des dépôts et bénéficiaires, sans connaissance exhaustive de la civilisation. Origine humaine établie par preuves recoupées, pas déduite d'un seul visage.
+- Purge engagée contre capture du registre ; poste de révocation attaqué avant retrait complet le **15 mai 2521** ; mort d'Anja par lésions et perte d'air malgré son ancrage. Aucun traitement ne la ressuscite.
+- **17 mai 2521 : transition irréversible**, au plus quelques jours. Le filtre terrestre fonctionne et ne peut l'arrêter ; la destruction d'une commande ne suffit plus. Pas de boucle temporelle libre permettant d'annuler le seuil.
+- Le relais vers lequel Nacre se dirige permet une sauvegarde **informationnelle bornée**, avec critères et consentements, distincte de copies de personnes. Les fenêtres extra-chronologiques sont contraintes par les références déjà établies ; le 50 devra montrer l'envoi ancien, puis la Rupture effective sans garantir la conservation physique du couple.
