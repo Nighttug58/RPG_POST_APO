@@ -1,10 +1,10 @@
 # RUPTURE — Plan du roman (58 chapitres)
 
-**Architecture de clôture : 10 parties, 58 chapitres. Décision du 11 novembre 2026 : 3 000 à 5 000 mots de récit par nouveau chapitre dès le chapitre 44**, hors métadonnées. Cette fourchette remplace l'ancien minimum de 10 000 mots ; préserver les chapitres existants sans réduction ni extension automatique. Après le chapitre 44, quatorze chapitres restent à écrire, soit 42 000 à 70 000 mots supplémentaires. L'ancienne cible globale est caduque ; la pagination dépendra de la maquette.
+**Architecture de clôture : 10 parties, 58 chapitres. Décision du 11 novembre 2026 : 3 000 à 5 000 mots de récit par nouveau chapitre dès le chapitre 44**, hors métadonnées. Cette fourchette remplace l'ancien minimum de 10 000 mots ; préserver les chapitres existants sans réduction ni extension automatique. Après le chapitre 45, treize chapitres restent à écrire, soit 39 000 à 65 000 mots supplémentaires. L'ancienne cible globale est caduque ; la pagination dépendra de la maquette.
 
 **Canon et direction conservés :** Rupture en 2026, Kübra coprotagoniste, OCB / AURORE, PhenixCoin seul, immortalité permanente, Vaeloriens responsables des resets, **couple original préservé puis réinséré vers 2490 dans l'itération 52 826 323**, bouclier, accès volontaire à l'immortalité et guerre intergalactique. **Contrat de fin :** acquisition effective de l'ancrage autonome par les Vaeloriens, mystère résolu, correspondant futur révélé, puis Rupture vers l'itération **52 826 324** ; sort final des Vaeloriens inconnu.
 
-**Reprise vérifiée :** chapitre 44 achevé, dernier événement le **11 avril 2083** ; prochain : **45 — Ils veulent l'ancre**. Les chapitres 45–58 restent des événements prévus. Le vaisseau est confirmé au-delà de Neptune ; aucune rencontre physique ni demande médicale explicite encore traduite.
+**Reprise vérifiée :** chapitre 45 achevé, dernier événement le **27 juin 2083** ; prochain : **46 — Les millions d'essais**. Première rencontre physique accomplie ; demande d'ancrage autonome explicite, aucun transfert du procédé. Un catalogue vaelorien contient une référence terrestre au 9 octobre 2026 dont l'origine demeure inexpliquée. Les chapitres 46–58 restent prévus.
 
 ## PARTIE I — DEUX CONTRE LE MONDE (chapitres 1–8)
 
@@ -70,7 +70,7 @@
 
 43. **Le premier langage** — **Écrit : 18 octobre–9 décembre 2082.** Premier essai humain le 27 novembre, corrélation antérieure à l'émission, transcription provisoire « Vaelor ». Aucun peuple, astre ni vaisseau encore identifié ; plusieurs sources restent possibles. Tugay est toujours retiré des décisions Qν ; Kübra intervient comme observatrice civique.
 44. **Le soleil des Vaeloriens** — **Écrit : 19 décembre 2082–11 avril 2083 ; 3 324 mots de récit.** Preuve astronomique indépendante, nom collectif, reconstruction stellaire partielle ; renseignement permettant un sauvetage auquel Mira et Lina contribuent. Kübra distingue échange et droit d'approche ; trajet néanmoins déjà engagé. Vaisseau et freinage confirmés au-delà de Neptune. La source stable évoquée pourrait désigner Tugay ; aucune donnée médicale transmise.
-45. **Ils veulent l'ancre** — Approche négociée et première rencontre physique, sur un site choisi conjointement. Ils veulent **la permanence sans injections**, et ont besoin du savoir expérimental des équipes. Leur aide a une valeur réelle ; la pression monte. Kübra impose le consentement individuel, Mira et Lina refusent que leurs travaux de sûreté servent à isoler Tugay sous contrainte.
+45. **Ils veulent l'ancre** — **Écrit : 18 avril–27 juin 2083 ; 3 384 mots de récit.** La demande vise l'autonomie sans rappel. Refus d'un séjour à bord non librement réversible ; station terrestre à deux environnements et sorties indépendantes. Première rencontre le 18 juin, mesure passive consentie ; offre industrielle réelle à vérifier. Kübra obtient trois consentements distincts ; Mira et Lina refusent une fausse garantie de retour. Aucune méthode complète remise. Le 27 juin, un catalogue d'observations présente une carte du Léman datée du 9 octobre 2026 ; origine et authenticité à enquêter au 46.
 
 ## PARTIE VIII — LA SECONDE HUMANITÉ (chapitres 46–50)
 
