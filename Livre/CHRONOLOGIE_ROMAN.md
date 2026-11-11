@@ -44,9 +44,9 @@
 | Rupture du chapitre 47 | **18 octobre 2083**, événement écrit | Purge volontaire après acquisition et archivage ; seuil irréversible le 17 à 17 h 40 ; défaut externe conservant physiquement le couple dans une poche, aucune réapparition encore racontée |
 | Itération 52 826 323 | Nouvel état proche de 2026 | Divergence chaotique, acteurs différents |
 | Reconstruction nouvelle | Vers 2026–2490, cycle 52 826 323 | Plusieurs siècles d'histoire humaine différente ; civilisation avancée vers 2490 |
-| Réapparition de Tugay et Kübra | Vers **2490** (repère éditorial) | Défaut de Rupture ; ils sont physiquement réinsérés et portent des souvenirs fragmentaires |
-| Nouveau Q-EUV et bouclier | Après 2490, durée à déterminer | Théorie sans essai actif, bouclier Qν validé passivement, puis ancrages confinés |
-| Humanité à jeunesse permanente | Après mise en service du bouclier | Accès universel et volontaire à l'ancrage biologique reproductible |
+| Réapparition de Tugay et Kübra | **4 juin 2490**, chapitre 48 écrit | Réinsertion des corps originaux au plateau ; blessure droite conservée, aucun passage inverse ; identité et deuil vécus |
+| Théorie Q-EUV et bouclier | **2490–22 septembre 2494**, chapitre 48 écrit | Fragments et science contemporaine ; confinement local qualifié fin 2491 ; défaut orbital et délai en juillet 2493 ; fermeture le 21 septembre 2494, validation passive et autorisation le 22 ; aucun essai actif avant clôture |
+| Humanité à jeunesse permanente | **Après le 22 septembre 2494**, événement encore prévu au 49 | D'abord essais confinés et cœurs industriels, puis accès universel et volontaire ; pas encore accompli au 48 |
 | Guerre intergalactique | Années suivantes | Découverte terrestre par moyens non Qν ; conflit qui s'étend au-delà de la galaxie |
 | Dernières révélations | Derniers chapitres | Vaeloriens = diaspora humaine ancienne ; premier correspondant = Tugay futur |
 | Purge finale engagée | Pendant la guerre, chapitres 49 | Une faction arme les relais ; tentative de révocation avant le seuil irréversible |

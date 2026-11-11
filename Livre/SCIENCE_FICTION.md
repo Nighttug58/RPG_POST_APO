@@ -119,3 +119,13 @@
 - Détails de dramaturgie et ordre des preuves : [FIN_REVISEE.md](FIN_REVISEE.md). Ces règles guident les chapitres futurs, sans transformer les hypothèses des personnages du 43 en faits qu'ils sauraient déjà.
 
 **Avertissement :** tout ceci est de la science-fiction. Aucune propriété réelle des quarks, neutrinos, photons EUV ou de la dynamique chaotique ne permet la construction de ces technologies.
+
+
+## 10. État vérifié au terme du chapitre 48
+
+- Réinsertion du couple le **4 juin 2490**, puis reconstruction théorique avec les sciences et l'industrie contemporaines ; lacunes techniques dues au transfert externe, jamais à un effet secondaire du sérum.
+- Les sciences de phase de cette Terre ont des archives passives depuis au moins 2448 et des matériaux filtrants développés indépendamment. Le bouclier n'est pas inventé tout seul par Tugay à partir d'un souvenir.
+- Signature préexistante non amplifiée ; confinement local qualifié en décembre 2491. Aucun nouvel essai actif Q-EUV, même sous ce volume local, avant la validation du domaine commun.
+- Fermeture terrestre **21 septembre 2494**, validation **passive** jusqu'au 22 : bruit naturel et références indépendantes dedans/dehors, fonctionnement interne conservé. Alimentations pour refroidissement et positionnement ; aucune excitation Q-EUV servant de test.
+- Le réseau qualifié couvre la Terre et les installations proches intégrées au projet, **pas la Lune, les vaisseaux ou toutes les colonies**. Avant des usages hors de ce domaine, concevoir et qualifier des confinements propres ; ne pas faire fuir une signature puis attribuer arbitrairement le conflit à une panne du filtre terrestre.
+- Le **22 septembre**, les essais confinés sont autorisés pour la suite. Leur réussite, l'industrialisation et les traitements restent au chapitre 49. Le bouclier ne garantit ni invisibilité classique ni résistance à une Rupture globale.
