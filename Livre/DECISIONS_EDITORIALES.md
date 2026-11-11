@@ -32,7 +32,7 @@
 ## 4. La Rupture en 2026
 
 - La catastrophe initiale commence **en octobre 2026** (date exacte de déclenchement à préciser dans la prose).
-- Première journée de campagne reprise **le 31 octobre 2026**, pour conserver Noël au jour 56 et la plupart des durées journalières.
+- Première journée de campagne reprise **le 31 octobre 2026**, pour conserver Noël au jour 49 et la plupart des durées journalières.
 - Aucune ellipse de onze ans entre la catastrophe et l'ouverture. Les premières semaines de crise précèdent la fuite et permettent l'existence d'un premier camp attaqué.
 - Décaler **les dates de 2043–2044 des archives pour le roman uniquement**, sans modifier les archives ; voir CHRONOLOGIE_ROMAN.md.
 - Le développement ultérieur (naissance de Mira, Lausanne de 2032, retraite autour de 2052, recherche 2079–2082) devient compatible avec ce départ après harmonisation.
@@ -74,16 +74,30 @@ Développer les conséquences réalistes **à l'échelle sociale**, même si le 
 - Les Vaeloriens découvrent autrement que par Qν la puissance humaine et engagent une **guerre interstellaire devenue intergalactique**.
 - Révélation : les Vaeloriens sont en fait des **descendants humains de très anciennes itérations**, ayant atteint l'immortalité par traitements répétés et migré vers les étoiles. Des factions ennemies cherchent à maintenir ou casser le cycle.
 - Révélation ultime : **le Vaelorien qui a contacté Tugay dans le cycle 52 826 322 est Tugay lui-même, issu d'un futur du cycle 52 826 323**. Cette causalité extra-chronologique est un paradoxe fermé assumé par les règles imaginaires.
-- Les 48 premiers chapitres, autrefois conçus comme l'épilogue définitif, constituent désormais une **charnière**, et le roman comporte **58 chapitres en 10 parties**. Voir [FIN_REVISEE.md](FIN_REVISEE.md).
+- Les 47 premiers chapitres, autrefois conçus comme l'épilogue définitif, constituent désormais une **charnière**, et le roman comporte **50 chapitres en 8 parties**. Voir [FIN_REVISEE.md](FIN_REVISEE.md).
 
-## 9. Finalisation du livre — consignes du 11 novembre 2026
+## 9. Première consigne de finalisation — remplacée pour les chapitres 46–50
 
-- **Longueur : 3 000 à 5 000 mots de récit par chapitre à partir du 44**, hors métadonnées ; l'ancien minimum de 10 000 mots est remplacé. Aucune remise à longueur automatique des chapitres déjà écrits.
+- **Règle historique, appliquée aux chapitres 44–45 : 3 000 à 5 000 mots de récit**, hors métadonnées ; l'ancien minimum de 10 000 mots est remplacé. Aucune remise à longueur automatique des chapitres déjà écrits.
 - **État de reprise :** chapitre 43 achevé, encore au statut `brouillon` ; prochaine rédaction : **Le soleil des Vaeloriens**. « Next » autorise la rédaction complète, les mises à jour documentaires et l'enregistrement direct sur `main`, sans validation intermédiaire systématique. Voir la méthode de [README.md](README.md).
 - **Priorité aux scènes :** aventure immersive et accessible, révélations par les événements, alternance de calme, découverte, conflit et action. Éviter les rapports de réunion successifs, les monologues scientifiques et les conclusions moralisatrices. Un chapitre apporte une évolution significative ; un climax ne se règle pas en quelques paragraphes.
 - **Personnages :** maintenir le « je » de Tugay, les initiatives de Kübra, la vie indépendante de Mira et Lina, et le rôle scientifique essentiel de Sofia. L'amour et la jeunesse biologique n'annulent ni les désaccords ni la vulnérabilité.
 - **Acquisition obligatoire :** au chapitre 47, les Vaeloriens obtiennent réellement le savoir Q-EUV / Genesis-S **dans sa version d'ancrage autonome sans injections répétées**, avec paramètres de fabrication et de calibration. Une reproduction indépendante vérifiée et un accusé d'archivage hors-cycle rendent leur réussite explicite. Le sort ultérieur de leur civilisation ne sera pas déduit de ce seul succès.
-- **Ruptures motivées :** les itérations explorent des trajectoires scientifiques différentes ; les résultats sélectionnés sont conservés hors-cycle. La trahison du chapitre 48 efface des témoins et des concurrents après l'acquisition. Le redémarrage final provient d'un dispositif de purge distribué, engagé pendant la guerre par une faction ; son seuil d'irréversibilité est préparé avant le chapitre 58.
-- **Dernière scène obligatoire :** une nouvelle Rupture ouvre l'itération **52 826 324** après les révélations et le climax du chapitre 58. L'ancienne option d'une fin où le couple décide simplement de ne plus réinitialiser est remplacée. Le mystère central est résolu, le sort final des Vaeloriens reste inconnu faute de contact vérifiable après la transition. Ni « À suivre » ni annonce d'un deuxième livre.
+- **Ruptures motivées :** les itérations explorent des trajectoires scientifiques différentes ; les résultats sélectionnés sont conservés hors-cycle. La trahison du chapitre 47 efface des témoins et des concurrents après l'acquisition. Le redémarrage final provient d'un dispositif de purge distribué, engagé pendant la guerre par une faction ; son seuil d'irréversibilité est préparé avant le chapitre 50.
+- **Dernière scène obligatoire :** une nouvelle Rupture ouvre l'itération **52 826 324** après les révélations et le climax du chapitre 50. L'ancienne option d'une fin où le couple décide simplement de ne plus réinitialiser est remplacée. Le mystère central est résolu, le sort final des Vaeloriens reste inconnu faute de contact vérifiable après la transition. Ni « À suivre » ni annonce d'un deuxième livre.
 - **Modification explicite des seuls repères futurs :** le chapitre 43 se termine le **9 décembre 2082**, sans étoile identifiée ni vaisseau. Reporter à **2083** l'arrivée précédemment envisagée vers 2082 et les négociations suivantes. L'ancrage de Tugay a eu lieu le **17 juin 2082** dans le chapitre 41 ; corriger les documents qui le plaçaient en 2080. Aucun chapitre existant n'est réécrit pour cette harmonisation.
-- **Préparation, pas faits déjà racontés :** les événements des chapitres 44 à 58 restent un plan révisable dans les limites de ce contrat. Le calendrier détaillé et les mécanismes retenus figurent dans [FIN_REVISEE.md](FIN_REVISEE.md) et [PREPARATION_CHAPITRE_44.md](PREPARATION_CHAPITRE_44.md).
+- **Préparation, pas faits déjà racontés :** les événements des chapitres 44 à 50 restent un plan révisable dans les limites de ce contrat. Le calendrier détaillé et les mécanismes retenus figurent dans [FIN_REVISEE.md](FIN_REVISEE.md) et [PREPARATION_CHAPITRE_44.md](PREPARATION_CHAPITRE_44.md).
+
+
+## 10. Réduction à 50 chapitres et doublement des longueurs — décision après le 45
+
+Cette décision de l'auteur remplace l'objectif antérieur de 58 chapitres et l'ancienne fourchette pour les textes restant à écrire.
+
+- **50 chapitres au total, en 8 parties ; cinq nouveaux chapitres, 46 à 50.**
+- **6 000 à 10 000 mots de récit par nouveau chapitre dès le 46**, hors métadonnées, titre et datations. Les deux bornes sont doublées ; une simple hausse du plafond à 10 000 n'est pas la règle retenue. La longueur peut varier librement dans cette fourchette selon les scènes. Aucun remplissage pour atteindre le maximum.
+- Les chapitres 1–45 sont préservés, y compris les longueurs de 3 324 et 3 384 mots des chapitres 44 et 45. Aucun nouveau chapitre rédigé par cette seule révision de structure.
+- Le 46 garde **Les millions d'essais** et porte la vérification de l'archive et les premières explications. Le 47, **Le pacte des étoiles**, réunit acquisition réussie, trahison, secours et première nouvelle Rupture. Le 48, **Quatre siècles après**, réunit réapparition, deuil, alliance et bouclier. Le 49, **Les enfants des étoiles**, porte essais confinés, immortalité accessible, conflit, filiation humaine et irréversibilité de la purge. Le 50 garde **L'homme derrière le signal** et clôt le livre par l'opération finale et la nouvelle Rupture.
+- L'ancien interlude historique autonome devient un passage externe bref au début du 48 ; le « je » reprend dès la réapparition dans ce chapitre. Les années de recherche et de guerre sont reliées par des ellipses claires, avec quelques opérations vécues en scènes complètes.
+- Les motifs obligatoires restent : **acquisition effective vaelorienne de l'autonomie biologique au 47**, survie accidentelle du couple original, règles scientifiques cohérentes, origine humaine révélée au 49, correspondant futur au 50, cause du dernier reset préparée aux 46–49, **Rupture finale effective au 50** et sort final vaelorien volontairement inconnu.
+- La contraction réduit les transitions, bilans et répétitions. Préserver les décisions de Kübra, les choix conséquents de Mira/Lina/Sofia, le deuil, les scènes intimes et les climax. Ne pas faire de la conclusion une succession de résumés.
+- Sources de vérité mises à jour : [PLAN.md](PLAN.md) pour les cinq chapitres et [FIN_REVISEE.md](FIN_REVISEE.md) pour leur causalité. « Next » continue directement au **46** selon cette nouvelle structure et publie sur `main` après vérifications.

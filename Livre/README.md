@@ -6,18 +6,18 @@
 
 ## Format retenu
 
-- **58 chapitres**, répartis en **10 parties**.
-- **3 000 à 5 000 mots de récit par nouveau chapitre dès le chapitre 44** ; soit 39 000 à 65 000 mots pour les treize chapitres restant après le 45. Recalculer le volume total à l'assemblage ; l'ancienne cible globale est caduque.
-- Narration principalement en « je » de Tugay, y compris après sa réapparition ; exception motivée au chapitre 49, chronique incarnée à la troisième personne. Une brève coda externe est permise après la Rupture finale.
+- **50 chapitres**, répartis en **8 parties**.
+- **6 000 à 10 000 mots de récit par nouveau chapitre dès le chapitre 46** ; cinq chapitres restent, soit 30 000 à 50 000 mots. Les chapitres 1 à 45 conservent leur longueur. Recalculer le volume total à l'assemblage.
+- Narration principalement en « je » de Tugay ; bref interlude externe au début du chapitre 48 pour les siècles vécus sans lui, puis retour au « je ». Une brève coda externe reste possible après la Rupture finale.
 - La catastrophe initiale survient **en 2026** ; la reconstruction mène aux décennies suivantes.
 - **Kübra est la seconde figure centrale** du roman et une actrice autonome des décisions.
 - Le volet financier est simplifié : **PhenixCoin uniquement** ; aucune création de RuptureCoin.
-- Cap de clôture : mystère des Ruptures expliqué, acquisition effective de l'ancrage autonome par les Vaeloriens, réapparition du couple, bouclier, guerre et révélation du correspondant futur. **Une nouvelle Rupture clôt le chapitre 58 ; le sort final des Vaeloriens demeure délibérément inconnu.**
+- Cap de clôture : mystère des Ruptures expliqué, acquisition effective de l'ancrage autonome par les Vaeloriens, réapparition du couple, bouclier, guerre et révélation du correspondant futur. **Une nouvelle Rupture clôt le chapitre 50 ; le sort final des Vaeloriens demeure délibérément inconnu.**
 - Les détails scientifiques Q-EUV sont des **lois propres à la fiction**, pas des affirmations sur la physique réelle.
 
 ## Fichiers éditoriaux
 
-- [PLAN.md](PLAN.md) — sommaire commenté et développement des 58 chapitres.
+- [PLAN.md](PLAN.md) — sommaire commenté et développement des 50 chapitres.
 - [DECISIONS_EDITORIALES.md](DECISIONS_EDITORIALES.md) — modifications demandées par Tugay et choix narratifs.
 - [CONTINUITE.md](CONTINUITE.md) — bible des personnages et des faits, **avec spoilers**.
 - [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) — contradictions, risques et contrôles obligatoires avant chaque chapitre.
@@ -29,7 +29,7 @@
 
 ## Longueur éditoriale
 
-Décision du **11 novembre 2026** : du chapitre **44** à la fin, chaque chapitre contient **entre 3 000 et 5 000 mots de récit**, hors métadonnées YAML, titre et intertitres de datation. Cette fourchette remplace l'ancien minimum de 10 000 mots. Les chapitres 1 à 43 sont préservés : aucune réduction ni extension automatique pour les faire entrer dans la nouvelle règle.
+Décision révisée après le chapitre 45 : **50 chapitres au total** ; chaque chapitre **46 à 50** contient **6 000 à 10 000 mots de récit**, hors métadonnées YAML, titre et intertitres de datation. Le doublement concerne les deux bornes de l'ancienne fourchette. Les chapitres **44 et 45** ont été écrits sous la règle de 3 000 à 5 000 mots et restent intacts ; aucune remise à longueur automatique des chapitres 1–45.
 
 Pour un comptage reproductible, retirer le bloc YAML initial et les lignes de titre, de datation et de séparation ; compter les unités contenant au moins une lettre ou un chiffre, séparées par des espaces. Une apostrophe ou un trait d'union interne ne scinde pas un mot ; un tiret de dialogue isolé ne compte pas. Annoncer le nombre effectivement vérifié avec le chapitre.
 
@@ -47,7 +47,7 @@ Chaque chapitre doit faire progresser l'intrigue par une découverte, une décis
 6. Enregistrer directement sur **`main`**, via les outils GitHub disponibles, avec un commit explicite. Vérifier que le commit appartient à `main` et que le fichier est accessible avec le contenu attendu.
 7. Fournir le lien GitHub du chapitre, son nombre de mots, un résumé concis et le titre du chapitre suivant. Si GitHub est inaccessible, le dire et fournir le texte intégral sans prétendre l'avoir commité.
 
-Le statut **`validé`** reste réservé à une approbation explicite ; conserver **`brouillon`** n'empêche ni l'achèvement ni la continuation au prochain « next ». L'objectif est de **terminer ce livre en 58 chapitres**, sans prolongement indéfini ni annonce d'un tome suivant.
+Le statut **`validé`** reste réservé à une approbation explicite ; conserver **`brouillon`** n'empêche ni l'achèvement ni la continuation au prochain « next ». L'objectif est de **terminer ce livre en 50 chapitres**, sans prolongement indéfini ni annonce d'un tome suivant.
 
 Les dossiers Livre et RPG sont distincts. **Ne pas retoucher les journaux historiques, sauvegardes, cartes ou données du site** pour répondre aux choix d'adaptation romanesque. Les fichiers du jeu documentent l'histoire telle qu'elle a été jouée ; Livre documente son adaptation.
 

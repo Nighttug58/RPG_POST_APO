@@ -11,9 +11,9 @@
 
 ## Référence d'audit
 
-Avant tout nouveau chapitre, consulter [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) et distinguer corrections **résolues**, problèmes **à mettre en scène** et mystères **volontairement ouverts**. Les 58 chapitres restent le plan directeur.
+Avant tout nouveau chapitre, consulter [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) et distinguer corrections **résolues**, problèmes **à mettre en scène** et mystères **volontairement ouverts**. Le plan directeur est désormais de **50 chapitres**, répartis en 8 parties. Les chapitres 1–45 restent intacts ; les cinq derniers regroupent les anciennes étapes futures.
 
-**État du manuscrit :** chapitres 1–45 présents, 45 achevé mais encore `brouillon` (3 384 mots de récit) ; prochaine rédaction : **46 — Les millions d'essais**. À partir du 44 : **3 000 à 5 000 mots de récit**, sans modifier automatiquement les longueurs antérieures. Les sections de direction future ci-dessous décrivent un **plan**, pas des événements déjà racontés.
+**État du manuscrit :** chapitres 1–45 présents, 45 achevé mais encore `brouillon` (3 384 mots de récit) ; prochaine rédaction : **46 — Les millions d'essais**. À partir du 46 : **6 000 à 10 000 mots de récit**, sans modifier automatiquement les longueurs antérieures. Les sections de direction future ci-dessous décrivent un **plan**, pas des événements déjà racontés.
 
 ## Dernier état effectivement raconté — 27 juin 2083
 
@@ -26,7 +26,7 @@ Avant tout nouveau chapitre, consulter [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) 
 - Lina termine la qualification de la station puis reprend son chantier ; Mira choisit un mois de permanence des communications avec relève prévue. Ils conservent une vie et des obligations indépendantes.
 - L'offre vaelorienne porte sur synthèse, analyse et capacités industrielles susceptibles de produire de nouveaux cœurs. **Promesse technique, pas reproduction réussie à ce stade.** L'accès dépend de données expérimentales ; les visiteurs pressent pour une date et évoquent un déplacement réduisant les fenêtres d'échange. Leurs contraintes peuvent être réelles ; leur loyauté n'est pas établie.
 - **27 juin :** dans une étape d'échange strictement instrumentale acceptée par Maëlle, un catalogue intitulé provisoirement « Références terrestres antérieures au contact » contient une carte du bassin lémanique et un repère converti en **9 octobre 2026**. Un document terrestre ultérieur ou une erreur restent possibles. Sofia ordonne la conservation du paquet et suspend le transfert suivant ; les visiteurs n'ont pas expliqué l'origine de la référence.
-- Reprise au **46 — Les millions d'essais** : vérifier conversion, provenance et contenu du catalogue avant d'en faire une preuve ; confrontation puis révélation prévue des itérations et de leur fonction. Réserver l'origine humaine au 57 et le correspondant futur au 58. L'acquisition autonome effective reste prévue au 47.
+- Reprise au **46 — Les millions d'essais** : vérifier conversion, provenance et contenu du catalogue avant d'en faire une preuve ; confrontation puis révélation prévue des itérations et de leur fonction. Réserver l'origine humaine au 49 et le correspondant futur au 50. L'acquisition autonome effective reste prévue au 47.
 
 ## État antérieur — 11 avril 2083 (fin du chapitre 44)
 
@@ -116,17 +116,17 @@ Avant tout nouveau chapitre, consulter [AUDIT_COHERENCE.md](AUDIT_COHERENCE.md) 
 - Un **défaut extrêmement rare** à l'interface de l'ancrage de Tugay préserve **Tugay et Kübra physiquement** dans une poche transitoire avant de les réinsérer **vers 2490** dans le cycle **52 826 323**, après des siècles de reconstruction humaine aux trajectoires différentes. Ce sont les personnages originaux, pas deux homonymes.
 - Tugay a des souvenirs fragmentaires **de la solution Q-EUV et du danger vaelorien** ; il ne connaît pas l'avenir de cette nouvelle société. Kübra reste son épouse et sa partenaire autonome.
 - Il reconstruit **en théorie** Q-EUV, **sans essai actif** tant qu'un bouclier chrono-isolant n'est pas opérationnel. Le bouclier bloque les signatures **Qν traversant la frontière terrestre**, pas les phénomènes Q-EUV internes. Vérification passive puis essais confinés.
-- Sa signature préexistante n'est pas supprimée avant le bouclier : observations passives et absence d'amplification réduisent l'exposition sans promettre l'invisibilité. Le bouclier ne bloque pas une Rupture globale, dont la géométrie de référence change elle-même ; expliquer cette limite dès le 53.
+- Sa signature préexistante n'est pas supprimée avant le bouclier : observations passives et absence d'amplification réduisent l'exposition sans promettre l'invisibilité. Le bouclier ne bloque pas une Rupture globale, dont la géométrie de référence change elle-même ; expliquer cette limite dès le 48.
 - Grâce aux capacités industrielles de cette humanité avancée, les ancrages permanents deviennent reproductibles ; **accès universel** à l'immortalité biologique dans le respect du consentement, sans effet secondaire.
 - Les Vaeloriens découvrent le développement humain **par moyens non-Qν** (exploration, observation, renseignement), provoquant un conflit interstellaire puis intergalactique sur plusieurs années.
-- **Révélation 57 :** les Vaeloriens sont des humains issus d'une ancienne itération, ayant développé une immortalité **entretenue** par traitements avant de migrer vers les étoiles, puis changé d'apparence et de société. Certains veulent stopper les resets, d'autres les imposent.
-- **Révélation 58 :** les premiers motifs intentionnels de 2079 provenaient de **Tugay dans le futur du cycle 52 826 323**, depuis un relais d'une faction vaelorienne ; les communications officielles récentes avaient une autre source. Créneaux limités et cohérence des archives : il n'envoie ni avertissement illimité ni formule à l'origine de sa propre invention.
-- **Fin imposée :** une faction engage une purge distribuée pendant la guerre ; la fenêtre d'arrêt se ferme au 57. Le couple accomplit une sauvegarde limitée au 58, mais la transition est irréversible. **Nouvelle Rupture effective vers 52 826 324 dans la dernière scène**, après les réponses essentielles. La perte des communications empêche de déterminer le sort final des Vaeloriens. La survie du couple à cette dernière transition n'est pas garantie par l'accident précédent.
+- **Révélation 49 :** les Vaeloriens sont des humains issus d'une ancienne itération, ayant développé une immortalité **entretenue** par traitements avant de migrer vers les étoiles, puis changé d'apparence et de société. Certains veulent stopper les resets, d'autres les imposent.
+- **Révélation 50 :** les premiers motifs intentionnels de 2079 provenaient de **Tugay dans le futur du cycle 52 826 323**, depuis un relais d'une faction vaelorienne ; les communications officielles récentes avaient une autre source. Créneaux limités et cohérence des archives : il n'envoie ni avertissement illimité ni formule à l'origine de sa propre invention.
+- **Fin imposée :** une faction engage une purge distribuée pendant la guerre ; la fenêtre d'arrêt se ferme au 49. Le couple accomplit une sauvegarde limitée au 50, mais la transition est irréversible. **Nouvelle Rupture effective vers 52 826 324 dans la dernière scène**, après les réponses essentielles. La perte des communications empêche de déterminer le sort final des Vaeloriens. La survie du couple à cette dernière transition n'est pas garantie par l'accident précédent.
 - Voir [FIN_REVISEE.md](FIN_REVISEE.md), source de vérité pour la dernière partie.
 
 ## Contrat narratif
 
-- Tugay raconte en « je » les scènes qu'il vit, y compris la deuxième époque. Le chapitre 49 est une chronique à la troisième personne couvrant les siècles avant sa réapparition ; le « je » reprend au chapitre 50. Kübra reste active et ne se réduit pas à un prétexte dramatique.
+- Tugay raconte en « je » les scènes qu'il vit, y compris la deuxième époque. Seul un bref interlude au début du 48 raconte les siècles où il est absent ; le « je » reprend dès sa réapparition dans ce même chapitre. Kübra demeure actrice des décisions.
 - Une hypothèse d'un personnage n'est jamais promue en vérité par le narrateur sans preuve.
 - Éviter les pages de chiffres, les tableaux de stocks, le jargon non expliqué, les dialogues qui servent uniquement d'exposition.
 - Révéler AURORE progressivement ; réserver l'explication Qν détaillée aux parties ÉTERNITÉ / Vaeloriens ; ne pas annoncer la boucle au début.

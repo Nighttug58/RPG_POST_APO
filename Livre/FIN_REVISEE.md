@@ -1,16 +1,16 @@
 # RUPTURE — Fin de travail : les réponses avant la dernière Rupture
 
-> **Document interne avec spoilers absolus — révision du 11 novembre 2026.** Direction des chapitres 44–58, encore non rédigés. Préserve la réapparition du couple et la boucle du correspondant ; remplace l'ancienne option d'une fin sans redémarrage par une **Rupture finale effective**. Chaque chapitre futur compte **3 000 à 5 000 mots de récit**. Ces mécanismes sont des conventions de science-fiction.
+> **Document interne avec spoilers absolus — clôture ramenée à 50 chapitres après le 45.** Les chapitres **46–50** restent à écrire, chacun entre **6 000 et 10 000 mots de récit**. Le calendrier des étapes est réorganisé ; aucun chapitre 1–45 n'est réécrit. Les deux Ruptures, l'acquisition vaelorienne et la continuité du couple sont conservées. Ces mécanismes sont des conventions de science-fiction.
 
 ## La grande révélation en trois étages
 
-1. **Premier dévoilement, en 2083, itération 52 826 322 :** les Vaeloriens ont provoqué plus de 52 millions de Ruptures pour obtenir un ancrage biologique permanent sans nouveau sérum. Une archive les oblige à avouer leur responsabilité au chapitre 46. Au 47, sous couvert d'un pacte de non-agression, ils acquièrent réellement la méthode complète, la reproduisent et la sauvegardent hors-cycle. Au 48, une faction dirigeante efface témoins et concurrents en déclenchant une nouvelle Rupture. Les autres factions ne sont pas encore comprises par les humains.
+1. **Premier dévoilement, en 2083, itération 52 826 322 :** les Vaeloriens ont provoqué plus de 52 millions de Ruptures pour obtenir un ancrage biologique permanent sans nouveau sérum. Une archive les oblige à avouer leur responsabilité au chapitre 46. Au 47, sous couvert d'un pacte de non-agression, ils acquièrent réellement la méthode complète, la reproduisent et la sauvegardent hors-cycle. Au 47, une faction dirigeante efface témoins et concurrents en déclenchant une nouvelle Rupture. Les autres factions ne sont pas encore comprises par les humains.
 2. **Deuxième dévoilement, des siècles plus tard dans l'itération 52 826 323 :** Tugay et Kübra ont été **préservés par une défaillance de la réinitialisation**, puis réinsérés plusieurs siècles après le point initial dans une civilisation humaine moderne et très avancée, construite sans leur participation. Tugay retrouve **des fragments de mémoire** sur Genesis-S, l'ancrage permanent et le danger vaelorien. Il rassemble les scientifiques et les pouvoirs politiques pour isoler la Terre avant tout essai Q-EUV, puis généraliser l'immortalité biologique.
 3. **Dernière révélation, après des années de guerre :** les Vaeloriens **ne sont pas une espèce extraterrestre née ailleurs**. Ils sont les descendants d'une ancienne humanité ayant atteint une immortalité **entretenue par traitements**, migré très loin et maîtrisé la navigation chrono-géométrique et l'ingénierie stellaire. La voix vaelorienne qui avait communiqué avec Tugay dans le cycle précédent était **Tugay lui-même, devenu un Vaelorien dans son propre futur**.
 
 ## Règle n° 1 — Comment Tugay et Kübra arrivent-ils des siècles plus tard ?
 
-Une Rupture rétablit l'univers dans un voisinage de l'état du **9 octobre 2026**. Le **registre vaelorien** hors-cycle conserve normalement seulement de l'information. Cependant, lors du redémarrage du **chapitre 48**, un **défaut de synchronisation à l'interface de l'ancrage Qν permanent de Tugay et de son environnement immédiat** entraîne l'extraction momentanée de **Tugay et Kübra ensemble** dans une poche temporelle transitoire. Préparer leur proximité physique et l'anomalie de phase avant la transition ; ne pas les sauver par le seul contact de leurs mains. Ils n'en deviennent pas invulnérables ; il s'agit d'un accident extrêmement rare, non d'une propriété reproductible de Genesis-S. L'état matériel des deux personnes est préservé, puis réinséré plusieurs siècles après 2026, vers **2490**. Aucun moyen de reproduire ce sauvetage au dernier chapitre n'est garanti.
+Une Rupture rétablit l'univers dans un voisinage de l'état du **9 octobre 2026**. Le **registre vaelorien** hors-cycle conserve normalement seulement de l'information. Cependant, lors du redémarrage du **chapitre 47**, un **défaut de synchronisation à l'interface de l'ancrage Qν permanent de Tugay et de son environnement immédiat** entraîne l'extraction momentanée de **Tugay et Kübra ensemble** dans une poche temporelle transitoire. Préparer leur proximité physique et l'anomalie de phase avant la transition ; ne pas les sauver par le seul contact de leurs mains. Ils n'en deviennent pas invulnérables ; il s'agit d'un accident extrêmement rare, non d'une propriété reproductible de Genesis-S. L'état matériel des deux personnes est préservé, puis réinséré plusieurs siècles après 2026, vers **2490**. Aucun moyen de reproduire ce sauvetage au dernier chapitre n'est garanti.
 
 Cette proposition donne le sens **littéral** de « ce sont bien Tugay et Kübra ». Ils ne sont ni des homonymes nés par hasard, ni des réincarnations ordinaires. **Kübra est présente à ses côtés**, conserve leur lien et contribue aux choix. La mémoire de Tugay a été **partiellement désynchronisée** : la solution théorique de l'ancrage et la reconnaissance des Vaeloriens réapparaissent par fragments, alors qu'il ne connaît pas d'avance toute l'histoire de ce monde.
 
@@ -29,7 +29,7 @@ La disparition de Tugay et Kübra **de la mémoire de ce monde** ne signifie pas
 - La protection est élaborée avec des technologies **différentes de l'émission Q-EUV active**, en s'appuyant sur des mesures **passives** du bruit chrono-géométrique ambiant et des théories de phase. Sa validation commence **sans émettre de signature Q-EUV détectable**.
 - Une fois le bouclier stable, essais Q-EUV **confinés**, développement de cœurs d'ancrage **reproductibles grâce à l'industrie avancée** (le prototype unique avait été consommé le **17 juin 2082**), puis traitement biologique volontaire à grande échelle.
 - Tugay porte déjà une signature autonome à sa réapparition. Il n'est pas rendu silencieux par décret : sa source isolée n'offre initialement ni réseau d'émission ni localisation non locale immédiatement exploitable. Les mesures restent passives, son lieu est compartimenté et aucune stimulation destinée à amplifier sa signature n'est autorisée avant protection. Cette marge est une incertitude de détection, pas une invisibilité garantie.
-- **Limite annoncée dès le chapitre 53 :** le filtre agit sur les transmissions Qν traversant sa frontière. Une Rupture change la géométrie de référence elle-même ; ce n'est pas un message incident à filtrer. Le bouclier continue donc de fonctionner sans pouvoir empêcher un reset global.
+- **Limite annoncée dès le chapitre 48 :** le filtre agit sur les transmissions Qν traversant sa frontière. Une Rupture change la géométrie de référence elle-même ; ce n'est pas un message incident à filtrer. Le bouclier continue donc de fonctionner sans pouvoir empêcher un reset global.
 - « Rendre tout le monde immortel » signifie **accès universel à l'absence de vieillissement**, sous consentement et avec règles sociales ; certains peuvent refuser. L'immortalité n'est ni invulnérabilité, ni immunité aux armes, aux accidents ou aux Ruptures. Aucun effet secondaire biologique n'apparaît, comme établi dans les règles du roman.
 
 ## Règle n° 4 — Pourquoi les Vaeloriens remarquent-ils la Terre malgré le bouclier ?
@@ -44,7 +44,7 @@ Une branche d'humanité, issue d'une **itération très ancienne**, avait décou
 
 Ainsi, leur recherche d'une **immortalité entièrement autonome** pendant des millions de cycles n'est **pas** contredite par leur immortalité déjà entretenue. Leur apparence et leur civilisation sont devenues si différentes que les Terriens les avaient pris pour une espèce extraterrestre.
 
-Après le succès du chapitre 47, ne plus affirmer qu'ils ignorent toujours comment produire l'ancrage : **ils possèdent la percée**. Des usages ultérieurs peuvent être constatés sans que le déploiement à l'ensemble de leur civilisation soit connu. Au 57, les traitements répétés expliquent leur histoire antérieure à l'acquisition, pas un échec rétroactif de celle-ci.
+Après le succès du chapitre 47, ne plus affirmer qu'ils ignorent toujours comment produire l'ancrage : **ils possèdent la percée**. Des usages ultérieurs peuvent être constatés sans que le déploiement à l'ensemble de leur civilisation soit connu. Au 49, les traitements répétés expliquent leur histoire antérieure à l'acquisition, pas un échec rétroactif de celle-ci.
 
 **Motivations divisées :** une faction impose les Ruptures afin de préserver son pouvoir et sa continuité dans la boucle ; une autre cherche depuis longtemps **une issue définitive** pour éviter que toutes les humanités recommencent sans fin. Tous les Vaeloriens ne sont pas coupables du même choix. La guerre révèle une tragédie entre branches humaines séparées par des ères et des manipulations du temps.
 
@@ -58,7 +58,7 @@ Ce **Tugay futur** est la conscience ayant transmis **les premiers motifs intent
 
 Le Tugay futur est **le correspondant**, pas nécessairement l'homme qui a ordonné à lui seul la trahison des dirigeants vaeloriens. Sa présence au sein de leur société répond à une stratégie pour **empêcher de nouvelles Ruptures** ; sa complicité supposée et les choix qui l'ont conduit là deviennent la révélation tragique de la fin.
 
-**Limites à mettre en scène :** le relais n'ouvre qu'un petit nombre de créneaux dont les traces sont déjà fixées dans les archives. Le canal ancien n'a ni vocabulaire partagé ni débit suffisant pour un récit autobiographique ; il transmet les relations effectivement observées, pas une conversation secrète illimitée. Tugay ne peut ni annuler sa première Rupture ni envoyer la formule à Sofia avant qu'elle ne la découvre. La recherche Q-EUV a une origine indépendante : **la boucle concerne le contact, pas l'invention**. Au 58, on le voit produire les motifs connus et reconnaître leurs contraintes ; une simple affirmation de son identité ne suffit pas.
+**Limites à mettre en scène :** le relais n'ouvre qu'un petit nombre de créneaux dont les traces sont déjà fixées dans les archives. Le canal ancien n'a ni vocabulaire partagé ni débit suffisant pour un récit autobiographique ; il transmet les relations effectivement observées, pas une conversation secrète illimitée. Tugay ne peut ni annuler sa première Rupture ni envoyer la formule à Sofia avant qu'elle ne la découvre. La recherche Q-EUV a une origine indépendante : **la boucle concerne le contact, pas l'invention**. Au 50, on le voit produire les motifs connus et reconnaître leurs contraintes ; une simple affirmation de son identité ne suffit pas.
 
 ## Causalité des expériences et des deux redémarrages
 
@@ -80,17 +80,17 @@ Au chapitre 47, Sofia relie les conditions du pacte à trois preuves successives
 
 Le cœur terrestre a bien été consommé en 2082. Un cœur construit ailleurs ne le fait pas réapparaître et ne donne pas aussitôt à la Terre de 2083 l'industrie nécessaire pour les produire en série. Cette asymétrie explique l'espoir suscité par l'échange et le risque accepté. Le succès scientifique reste réel malgré la trahison.
 
-### Rupture du chapitre 48 : une trahison volontaire
+### Rupture du chapitre 47 : une trahison volontaire
 
 La faction dirigeante avait préparé une purge, annoncée comme une procédure de sûreté désarmée par le pacte. Après la réception du savoir, elle la déclenche pour supprimer témoins, concurrents et moyens de contester son monopole. La menace annoncée au 46 et une divergence de journaux de relais relevée au 47 rendent ce choix lisible. Le succès de l'ancrage **n'exige pas** le reset : ce sont les responsables qui le choisissent. Les secours et le défaut qui préserve le couple sont vécus en scènes complètes.
 
 Mira et Lina conservent la divergence des journaux et ouvrent une voie de secours plutôt que de rejoindre Tugay sous contrainte. Kübra choisit de revenir l'aider ; leur proximité au point de désynchronisation est ainsi causale. Sofia vérifie la réussite vaelorienne et reste engagée auprès des autres. Le récit donne une fin à leurs décisions avant le changement d'époque ; leurs doubles éventuels dans une autre histoire ne remplacent pas ces proches.
 
-### Rupture du chapitre 58 : une chaîne devenue irréversible
+### Rupture du chapitre 50 : une chaîne devenue irréversible
 
 Le même réseau possède une procédure de purge distribuée contre la capture des registres. Ses relais accumulent des engagements de phase à distance. **Avant leur seuil commun**, une révocation coordonnée peut les arrêter ; **après**, la transition ne dépend plus d'une commande centrale. Cela ne retire pas toute responsabilité : les dirigeants qui ont engagé le processus pendant la guerre en connaissaient le coût.
 
-Préparer cette règle au 46 par une archive de fonctionnement, au 47 par le faux désarmement, au 53 par la limite du bouclier. Une faction arme de nouveau la procédure au 55 pour empêcher la capture des archives ; une tentative d'arrêt échoue au 56 ; au 57, les observations montrent le seuil franchi. Ni la mort d'un dirigeant ni la victoire locale au 58 ne suffisent alors à annuler la transition. **La Rupture finale ne vient ni du traitement ni d'une expérience improvisée de Tugay.**
+Préparer cette règle au 46 par une archive de fonctionnement et au 47 par le faux désarmement ; annoncer au 48 la limite du bouclier. Au 49, une faction arme de nouveau la procédure contre la capture des archives ; une tentative d'arrêt échoue, puis les observations montrent le seuil franchi. Ces phases sont des scènes distinctes, séparées si nécessaire par des ellipses datées. Ni la mort d'un dirigeant ni la victoire locale au 50 n'annulent alors la transition. **La Rupture finale ne vient ni du traitement ni d'une expérience improvisée de Tugay.**
 
 L'action finale a un but limité que les personnages atteignent : empêcher l'effacement sélectif des traces et préserver un ensemble borné de témoignages et de savoirs dans le registre existant. Kübra fait renoncer à une nouvelle liste de populations à expérimenter ; Tugay accomplit le contact ancien et ouvre le créneau d'archivage. Ce gain n'annule pas le prix de la Rupture et ne garantit ni la survie du couple ni la destination de chaque archive.
 
@@ -98,31 +98,25 @@ L'action finale a un but limité que les personnages atteignent : empêcher l'ef
 
 Les corridors sont coupés et l'état des relais diverge avant la transition. Les derniers accusés reçus attestent le dépôt des connaissances et de certains témoignages, **pas l'état biologique ou politique d'une civilisation entière**. Certaines stations cessent de répondre ; aucune vue extérieure à l'ensemble de la transition n'est disponible au narrateur. Ne montrer ni victoire totale, ni extinction, ni salut certain. La rupture des communications constitue un événement de la fin ; le lecteur sait exactement pourquoi le récit ne peut conclure sur leur sort.
 
-## Architecture de clôture : chapitres 44 à 58
+## Architecture de clôture : cinq derniers chapitres
 
-| Chapitre | Progression et révélation permise |
+Le plan détaillé et les volumes indicatifs figurent dans [PLAN.md](PLAN.md). Le cadre comporte désormais **8 parties et 50 chapitres**.
+
+| Chapitre | Révélations, scènes et seuil de clôture |
 | --- | --- |
-| 44 — Le soleil des Vaeloriens | Décembre 2082–printemps 2083 : preuve astronomique, nom collectif, puissance stellaire, offre utile et vaisseau distant ; aucune explication des cycles. |
-| 45 — Ils veulent l'ancre | Première rencontre physique, demande précise de permanence, désaccords et pressions ; la coopération reste crédible. |
-| 46 — Les millions d'essais | Archive contradictoire, responsabilité des resets et nombre d'itérations ; règles du registre et des relais. |
-| 47 — Le pacte des étoiles | Négociation puis acquisition, reproduction et archivage **réussis** ; indice du faux désarmement. |
-| 48 — La trahison | Purge volontaire, pertes vécues, défaut de synchronisation et passage à 52 826 323. |
-| 49 — Un monde qui n'est pas le nôtre | Quelques scènes à la troisième personne traversent une histoire différente jusqu'au XXVe siècle. |
-| 50 — Quatre siècles après | Réapparition vers 2490, « je » retrouvé, reconnaissance des identités et deuil. |
-| 51 — La mémoire des impossibles | Validation progressive des souvenirs et alliance choisie par le couple. |
-| 52 — Silence quantique | Reconstruction théorique uniquement ; prise en compte de la signature préexistante de Tugay. |
-| 53 — Le bouclier de la Terre | Construction, validation passive, limite face à une transition globale. |
-| 54 — L'âge sans vieillesse | Essais confinés, cœurs industriels, accès volontaire à l'ancrage ; choix propre de Kübra. |
-| 55 — La guerre des étoiles | Détection non-Qν, attaque et engagement de la purge distribuée. |
-| 56 — Les siècles ennemis | Combats sur des années, corridors intergalactiques, tentative d'arrêt coûteuse. |
-| 57 — Nos ennemis, nos descendants | Origine humaine, factions et seuil de purge franchi ; toutes les pièces causales du dernier reset sont présentes. |
-| 58 — L'homme derrière le signal | Identité du correspondant prouvée en action, sauvegarde limitée accomplie, adieu et Rupture finale vers **52 826 324**. |
+| 46 — Les millions d'essais | Vérification de l'archive du 45, aveu des 52 826 322 itérations, fonction de recherche, registre borné et règles des relais de purge. Réactions et choix humains ; le pacte reste possible. |
+| 47 — Le pacte des étoiles | Négociations, acquisition autonome effectivement reproduite et archivée, faux désarmement, puis trahison volontaire. Scènes de secours et séparation d'avec Mira, Lina et Sofia ; défaut qui conserve le couple et Rupture vers 52 826 323. |
+| 48 — Quatre siècles après | Bref interlude historique, réapparition du couple vers 2490, identités et deuil, alliance propre de Kübra, reconstruction théorique sans essai actif, bouclier construit et vérifié passivement. Fin avant le déploiement industriel généralisé. |
+| 49 — Les enfants des étoiles | Essais confinés, ancrages industriels, accès volontaire et choix de Kübra ; années vécues avec ellipses. Détection non-Qν, opérations de guerre limitées à quelques corridors, preuves de l'origine humaine et des factions. Engagement de purge, échec d'arrêt, puis seuil irréversible constaté. |
+| 50 — L'homme derrière le signal | Identité du correspondant prouvée par l'envoi des motifs de 2079 ; opération limitée de sauvegarde menée avec Kübra, réussite et prix vécus ; perte de contact vaelorien. Dernière scène : Rupture effective vers 52 826 324 et coda divergente en 2026. |
 
-**Répartition du climax :** le 57 porte l'origine humaine et la preuve d'irréversibilité ; le 58 dispose de vraies scènes pour le relais, l'action de Kübra, le choix du couple et la transition. Ne pas ajouter une nouvelle guerre ou une nouvelle civilisation dans la dernière page.
+**Répartition du climax :** le 46 prépare le mécanisme des Ruptures, le 47 fait vivre l'acquisition puis la première transition, le 48 établit la limite du bouclier, le 49 révèle la filiation et rend le dernier reset irréversible. Le 50 concentre l'opération finale, le correspondant et le couple, sans devoir expliquer à lui seul la recherche, les factions et le mécanisme du reset.
+
+**Temps et espace narratifs :** conserver plusieurs scènes pour le pacte et les secours du 47 ; pour l'arrivée, le deuil et la construction du 48 ; pour l'immortalité vécue et les opérations du 49. Les ellipses raccourcissent les années de travaux et de guerre, pas les moments décisifs. Le théâtre intergalactique reste borné à quelques corridors identifiés. Aucun nouveau front ni grand arc secondaire à ouvrir dans le 50.
 
 ## Règle de perspective
 
-Conserver la narration à la première personne de **Tugay** pour les événements qu'il vit. Le chapitre 49, lorsque Tugay n'est pas présent, devient un **interlude incarné à la troisième personne** ; retour au « je » au chapitre 50. Une très brève coda externe peut montrer le nouvel état après la Rupture finale, sans attribuer au narrateur des souvenirs qu'il n'a pas. **Aucune lecture de pensée** sans scène rapportée.
+Conserver le « je » de **Tugay** pour ce qu'il vit. Au début du **48**, un **bref interlude externe incarné** couvre les siècles où le couple est absent ; retour au « je » dès la réapparition, dans ce même chapitre. La coda externe du **50** montre le nouvel état après la dernière Rupture sans conférer au narrateur des souvenirs qu'il n'a pas. Aucune lecture de pensée sans scène rapportée.
 
 ## Ton et sens de la fin
 

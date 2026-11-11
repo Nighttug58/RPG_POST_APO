@@ -94,7 +94,7 @@
 - Après activation du bouclier : essais Q-EUV confinés, production en série de cœurs d'ancrage grâce à la technologie industrielle des siècles futurs, **accès universel à la jeunesse permanente sous consentement**.
 - La technologie demeure **sans effets secondaires biologiques** ; absence de vieillissement ne signifie pas invulnérabilité ni obligation d'accepter le traitement.
 - **Limite :** un bouclier Qν n'est **pas** un camouflage optique, diplomatique ou gravitationnel. Les Vaeloriens détectent l'expansion humaine grâce à des moyens **non-Qν** : observatoires, reconnaissance spatiale, renseignements.
-- **Limite globale, à exposer dès le chapitre 53 :** le bouclier filtre des transmissions sur une géométrie donnée ; il n'arrête pas une Rupture qui modifie cette géométrie de référence dans son ensemble. Le redémarrage final ne prouve donc ni fuite ni panne du filtre.
+- **Limite globale, à exposer dès le chapitre 48 :** le bouclier filtre des transmissions sur une géométrie donnée ; il n'arrête pas une Rupture qui modifie cette géométrie de référence dans son ensemble. Le redémarrage final ne prouve donc ni fuite ni panne du filtre.
 
 ## 8. Origine humaine des Vaeloriens et causalité entre cycles
 
@@ -105,16 +105,16 @@
 - Le correspondant Tugay futur ne doit pas être confondu automatiquement avec la faction dirigeante **responsable de la trahison du pacte**.
 - Les premiers motifs intentionnels de 2079 et les échanges officiels plus récents ont des sources distinctes, comme le permet le chapitre 43. Le relais du futur offre quelques créneaux déjà présents dans les archives, pas un choix illimité de destinataires et de dates. Aucun envoi de formule ne fonde l'invention Q-EUV : la boucle porte sur le contact.
 - La guerre commence entre étoiles et devient **intergalactique** lorsque le conflit emprunte des passages vers d'autres galaxies.
-- Révélation graduée : origine des resets (chapitre 46), origine **humaine** des Vaeloriens (chapitre 57), correspondant **Tugay futur** (chapitre 58).
+- Révélation graduée : origine des resets (chapitre 46), origine **humaine** des Vaeloriens (chapitre 49), correspondant **Tugay futur** (chapitre 50).
 
 ## 9. Acquisition autonome et cause du redémarrage final
 
 - **Verrou de recherche :** l'énergie stellaire et la restauration d'un état biologique ne suffisent pas à connaître les conditions de fermeture autonome du couplage Qν vivant. Les simulations vaeloriennes héritent d'un modèle incomplet ; des trajectoires historiques variées produisent les équipes, les matériaux et les expériences qui lui manquent. Les resets sont leur stratégie de recherche, pas une loi obligeant à sacrifier l'humanité.
 - **Réussite au chapitre 47 :** transfert des principes Q-EUV / Genesis-S permanent, de la fabrication et de la calibration ; cœur neuf produit par l'industrie vaelorienne ; ancrage autonome reproduit et vérifié sans apport extérieur ni rappel, puis méthode archivée hors-cycle. Utiliser la tomographie chrono-biologique déjà établie pour contrôler la permanence. Le cœur terrestre consommé n'est pas recréé rétroactivement.
 - Les Vaeloriens ont donc **effectivement obtenu l'immortalité biologique autonome**. Les traitements répétés expliquent leur histoire avant cette acquisition. La diffusion à toute leur population et leur sort final ne sont pas connus.
-- **Rupture du 48 :** décision de purge prise après l'acquisition pour effacer les témoins et les concurrents ; elle n'est pas un besoin du traitement. Un défaut externe préserve exceptionnellement le couple.
+- **Rupture du 47 :** décision de purge prise après l'acquisition pour effacer les témoins et les concurrents ; elle n'est pas un besoin du traitement. Un défaut externe préserve exceptionnellement le couple.
 - **Réseau de purge :** des relais stellaires amorcent une transition cosmique fictive. Leurs engagements de phase sont révocables collectivement avant un seuil ; une fois ce seuil franchi, détruire le poste central n'annule pas la transition. Les relais ne produisent pas l'énergie entière d'un nouvel univers.
-- **Rupture du 58 :** une faction engage cette procédure contre la capture de ses archives pendant la guerre ; échec d'arrêt au 56, seuil franchi au 57, transition vers **52 826 324** au terme du 58. La cause est connue avant le climax ; ni nouveau pouvoir quantique ni panne soudaine de Genesis-S.
+- **Rupture du 50 :** une faction engage cette procédure contre la capture de ses archives pendant la guerre ; échec d'arrêt au 49, seuil franchi au 49, transition vers **52 826 324** au terme du 50. La cause est connue avant le climax ; ni nouveau pouvoir quantique ni panne soudaine de Genesis-S.
 - La dernière sauvegarde est **informationnelle, bornée et réalisée avec le registre déjà établi**. Elle ne garantit pas la conservation du couple ni de toute la civilisation. La coupure des corridors empêche de vérifier le destin vaelorien ; cette incertitude ne remet pas en cause l'acquisition constatée.
 - Détails de dramaturgie et ordre des preuves : [FIN_REVISEE.md](FIN_REVISEE.md). Ces règles guident les chapitres futurs, sans transformer les hypothèses des personnages du 43 en faits qu'ils sauraient déjà.
 

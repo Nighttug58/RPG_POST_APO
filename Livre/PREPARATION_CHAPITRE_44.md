@@ -1,6 +1,6 @@
 # Préparation — Chapitre 44 : Le soleil des Vaeloriens
 
-> **Dossier d'auteur — spoilers de préparation. Établi le 11 novembre 2026.** **Dossier désormais réalisé :** chapitre 44 rédigé, 3 324 mots de récit, du 19 décembre 2082 au 11 avril 2083. Les scènes ci-dessous conservent leur statut de préparation ; les faits acquis sont consignés dans CONTINUITE.md. Ce dossier n'est pas le chapitre. Objectif : un chapitre complet de **3 000 à 5 000 mots de récit**, principalement au « je » de Tugay.
+> **Archive de préparation du chapitre 44, déjà rédigé.** La fourchette historique ci-dessous concerne ce chapitre ; la règle active après le 45 est **6 000 à 10 000 mots pour les chapitres 46–50**. **Dossier d'auteur — spoilers de préparation. Établi le 11 novembre 2026.** **Dossier désormais réalisé :** chapitre 44 rédigé, 3 324 mots de récit, du 19 décembre 2082 au 11 avril 2083. Les scènes ci-dessous conservent leur statut de préparation ; les faits acquis sont consignés dans CONTINUITE.md. Ce dossier n'est pas le chapitre. Objectif : un chapitre complet de **3 000 à 5 000 mots de récit**, principalement au « je » de Tugay.
 
 ## Point de reprise vérifié
 
@@ -53,13 +53,13 @@ La première rencontre physique est réservée au **chapitre 45 — Ils veulent 
 
 - Le nombre d'itérations, la responsabilité des Ruptures et la fonction expérimentale de la Terre : **46**.
 - La réussite vaelorienne dans l'acquisition autonome : **47**, par une reproduction et un archivage réellement montrés.
-- Le défaut qui sauvera le couple et l'histoire du XXVe siècle : **48–50** ; aucun personnage n'en a la prescience.
-- L'origine humaine des Vaeloriens et l'histoire de leurs traitements répétés : **57**.
-- L'identité de Tugay derrière les motifs de 2079 : **58**. Les messages récents ne doivent pas être fusionnés avec eux.
+- Le défaut qui sauvera le couple et l'histoire du XXVe siècle : **47–48** ; aucun personnage n'en a la prescience.
+- L'origine humaine des Vaeloriens et l'histoire de leurs traitements répétés : **49**.
+- L'identité de Tugay derrière les motifs de 2079 : **50**. Les messages récents ne doivent pas être fusionnés avec eux.
 - La purge finale irréversible : ses éléments sont semés, mais ni son déclenchement ni son issue ne sont annoncés dans le 44.
 
 ## Contrôle avant enregistrement
 
 Récit intégral de 3 000 à 5 000 mots hors métadonnées ; narration « je » ; une preuve astronomique vécue ; une décision indépendante de Kübra ; un choix conséquent de Mira et Lina ; rôle scientifique de Sofia ; coopération encore crédible ; contradiction concrète ; vaisseau distant confirmé ; aucun secret de fin dévoilé. Reporter les faits effectivement écrits dans CONTINUITE.md, CHRONOLOGIE_ROMAN.md et l'état de reprise du README.
 
-**Étape accomplie :** `Livre/chapitres/chapitre-44.md` rédigé intégralement et contrôlé. Prochaine demande « next » : **Chapitre 45 — Ils veulent l'ancre**, à partir du véhicule distant confirmé et de la demande encore ambiguë. Consulter la dernière continuité avant toute rédaction.
+**Étape accomplie :** `Livre/chapitres/chapitre-44.md` rédigé intégralement et contrôlé ; le chapitre 45 est lui aussi achevé. Reprise actuelle : **46 — Les millions d'essais** selon la règle de 6 000 à 10 000 mots. Consulter PLAN.md et CONTINUITE.md pour la clôture à 50 chapitres.
