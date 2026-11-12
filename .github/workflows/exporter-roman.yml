@@ -1,0 +1,54 @@
+name: Export du roman RUPTURE
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Livre/chapitres/**'
+      - 'Livre/outils/exporter_roman.py'
+      - '.github/workflows/exporter-roman.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  produire-manuscrit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installer les outils d'edition
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends libreoffice-writer fonts-ebgaramond
+          python -m pip install --disable-pip-version-check python-docx PyYAML markdown-it-py
+      - name: Assembler les 50 chapitres en Word
+        run: python Livre/outils/exporter_roman.py
+      - name: Produire la version PDF
+        run: |
+          libreoffice -env:UserInstallation=file:///tmp/lo-rupture --headless --convert-to pdf --outdir Livre/exports Livre/exports/RUPTURE_manuscrit_integral.docx
+          test -s Livre/exports/RUPTURE_manuscrit_integral.pdf
+          test -s Livre/exports/RUPTURE_manuscrit_integral.docx
+      - name: Publier les fichiers telechargeables
+        uses: actions/upload-artifact@v4
+        with:
+          name: RUPTURE-manuscrit-integral
+          path: |
+            Livre/exports/RUPTURE_manuscrit_integral.docx
+            Livre/exports/RUPTURE_manuscrit_integral.pdf
+            Livre/exports/controle_assemblage.json
+          if-no-files-found: error
+      - name: Archiver les editions dans le depot
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Livre/exports/RUPTURE_manuscrit_integral.docx Livre/exports/RUPTURE_manuscrit_integral.pdf Livre/exports/controle_assemblage.json
+          if ! git diff --cached --quiet; then
+            git commit -m "build(livre): versions Word et PDF du roman [skip ci]"
+            git push
+          fi
