@@ -139,3 +139,14 @@
 - Purge engagée contre capture du registre ; poste de révocation attaqué avant retrait complet le **15 mai 2521** ; mort d'Anja par lésions et perte d'air malgré son ancrage. Aucun traitement ne la ressuscite.
 - **17 mai 2521 : transition irréversible**, au plus quelques jours. Le filtre terrestre fonctionne et ne peut l'arrêter ; la destruction d'une commande ne suffit plus. Pas de boucle temporelle libre permettant d'annuler le seuil.
 - Le relais vers lequel Nacre se dirige permet une sauvegarde **informationnelle bornée**, avec critères et consentements, distincte de copies de personnes. Les fenêtres extra-chronologiques sont contraintes par les références déjà établies ; le 50 devra montrer l'envoi ancien, puis la Rupture effective sans garantir la conservation physique du couple.
+
+
+## 12. Clôture effective — chapitre 50
+
+- **18 mai 2521 :** Tugay opère avec les Délieurs et transmet les premiers motifs intentionnels vers **2079 dans 52 826 322**. Concordance contrôlée, origine du contact établie ; communications officielles des Gardiens distinctes.
+- Relation fermée entre les itérations, créneaux et formes admises bornés. Aucun accès libre à toute date, aucune révocation rétrospective de la purge, aucune formule scientifique fondée sur elle-même. L'invention terrestre conserve l'origine dans les travaux de Sofia.
+- Commandes humaines vers un générateur extérieur, corps sous leur confinement ; ni émission biologique magique ni modification d'identité nécessaire. Le rôle d'opérateur rend Tugay membre fonctionnel du réseau vaelorien des Délieurs.
+- Une ancienne référence établie permet l'adresse stable d'une branche indépendante de l'index de purge. Validation répartie et relecture hors de la copie locale attestent un **dépôt borné réellement conservé**, pas toutes les archives.
+- Les documents décrivant les plans des Gardiens restent des preuves ; fonctions automatiques de sélection de populations retirées de cette branche. Pas de copies de corps considérées comme personnes sauvées.
+- Le registre protège l'information ; son relais d'accès reste physiquement dans l'histoire affectée. Aucun mécanisme ne garantit une seconde conservation du couple. La connaissance autonome reste acquise aux Vaeloriens, leur sort civil et biologique n'est plus mesurable depuis le récit.
+- **19 mai 2521 : transition globale vers 52 826 324**, indépendante de l'envoi du signal et du dépôt. Coda au **9 octobre 2026** : nouvelle itération concrète et divergente. Ni invulnérabilité, ni voyage temporel arbitraire, ni promesse de reconstruction universelle.

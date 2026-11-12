@@ -51,8 +51,8 @@
 | Origine humaine et factions | **2518**, chapitre 49 écrit | Archives et biologie consentie établissent la diaspora humaine ; continuité et méthode autonome acquise en 2083 confirmées. Correspondant de 2079 encore réservé au 50 |
 | Purge finale engagée | **2520**, chapitre 49 écrit | Gardiens arment les relais pour empêcher la capture du registre ; tentative de révocation le 15 mai 2521, poste détruit avant retrait complet et mort d'Anja |
 | Seuil de transition franchi | **17 mai 2521**, chapitre 49 écrit | Confirmation indépendante et terrestre ; au plus quelques jours, aucun arrêt global encore possible ; Nacre en route vers le relais de sauvegarde, reset pas encore survenu |
-| Dernier contact et sauvegarde | Chapitre 50, fin de 52 826 323 | Motifs de 2079 envoyés par Tugay futur, dépôt limité d'archives et communications coupées |
-| **Rupture finale / 52 826 324** | **Dernière scène ; nouvel état proche du 9 octobre 2026** | Nouvelle itération effective et divergente ; sort des Vaeloriens indéterminable, aucune annonce de suite |
+| Dernier contact et sauvegarde | **18 mai 2521**, chapitre 50 écrit | Tugay transmet les motifs de 2079 vers 52 826 322 ; branche documentaire protégée, scellée et relue hors-cycle, sans sélection automatique de populations ; routes et voix perdues |
+| **Rupture finale / 52 826 324** | **19 mai 2521 côté narrateur, puis 9 octobre 2026 dans la nouvelle itération**, chapitre 50 écrit | Transition effectivement vécue, coda externe à Lausanne et cabine d'ascenseur vide ; sort du couple après transition et sort vaelorien non établis ; fin du roman |
 
 ## Repères démographiques et biographiques
 

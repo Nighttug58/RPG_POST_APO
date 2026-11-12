@@ -1,6 +1,6 @@
-# RUPTURE — Fin de travail : les réponses avant la dernière Rupture
+# RUPTURE — Fin racontée : les réponses avant la dernière Rupture
 
-> **Document interne avec spoilers absolus — clôture ramenée à 50 chapitres après le 45.** Les chapitres **46–49 sont écrits** ; **seul le 50 reste à écrire**, entre **6 000 et 10 000 mots de récit**. Au **17 mai 2521**, origine humaine établie, purge engagée, révocation échouée et seuil irréversible confirmé ; Nacre en route vers un relais de sauvegarde bornée. Identité du correspondant et Rupture finale restent à vivre au 50. Acquisition vaelorienne et première nouvelle Rupture au 47 ; réapparition le **4 juin 2490**, puis bouclier validé passivement et autorisation d'essais le **22 septembre 2494** au 48. Aucun nouvel essai actif ni déploiement biologique encore accompli dans cette itération. Le calendrier des étapes est réorganisé ; aucun chapitre 1–45 n'est réécrit. Les deux Ruptures, l'acquisition vaelorienne et la continuité du couple sont conservées. Ces mécanismes sont des conventions de science-fiction.
+> **Document interne avec spoilers absolus — roman achevé en 50 chapitres.** Le chapitre 50 compte **7 693 mots de récit** : opération les **18–19 mai 2521**, puis Rupture effective et coda à **Lausanne, 9 octobre 2026**, itération **52 826 324**. Source ancienne prouvée, sauvegarde limitée accomplie, sort vaelorien inconnu et aucune continuation annoncée. Les règles ci-dessous expliquent la fin écrite ; elles ne prescrivent plus de chapitres futurs.
 
 ## La grande révélation en trois étages
 
@@ -50,7 +50,7 @@ Après le succès du chapitre 47, ne plus affirmer qu'ils ignorent toujours comm
 
 ## Règle n° 6 — Le correspondant vaelorien était Tugay dans le futur
 
-Dans la trajectoire future de **l'itération 52 826 323**, Tugay — désormais capable de traverser les siècles en raison de l'ancrage — rejoint une faction vaelorienne et passe **hors de l'ordre habituel des cycles** grâce aux couloirs Qν. Les changements d'époque, d'apparence et d'identité publique le rendent méconnaissable.
+Au relais d'accès en **2521, itération 52 826 323**, Tugay prend une fonction d'opérateur dans le réseau des Délieurs. Son identité et son corps restent ceux qui ont été conservés lors de la Rupture de 2083. La transmission ancienne ne porte ni voix ni visage : sa nature mathématique, la séparation des époques et des itérations expliquent qu'il n'ait pas reconnu son auteur. Aucune métamorphose biologique n'a été ajoutée pour produire le retournement.
 
 Ce **Tugay futur** est la conscience ayant transmis **les premiers motifs intentionnels de 2079**, dont les équipes du chapitre 43 ont précisément refusé de confondre l'origine avec celle des messages officiels plus récents. Il peut atteindre sa propre version antérieure **d'une autre itération** par un accès extra-chronologique limité. Sa place dans une faction vaelorienne ne remplace ni sa conscience ni son identité d'origine.
 
@@ -98,7 +98,7 @@ L'action finale a un but limité que les personnages atteignent : empêcher l'ef
 
 Les corridors sont coupés et l'état des relais diverge avant la transition. Les derniers accusés reçus attestent le dépôt des connaissances et de certains témoignages, **pas l'état biologique ou politique d'une civilisation entière**. Certaines stations cessent de répondre ; aucune vue extérieure à l'ensemble de la transition n'est disponible au narrateur. Ne montrer ni victoire totale, ni extinction, ni salut certain. La rupture des communications constitue un événement de la fin ; le lecteur sait exactement pourquoi le récit ne peut conclure sur leur sort.
 
-## Architecture de clôture : cinq derniers chapitres
+## Architecture réalisée : les cinq derniers chapitres
 
 Le plan détaillé et les volumes indicatifs figurent dans [PLAN.md](PLAN.md). Le cadre comporte désormais **8 parties et 50 chapitres**.
 
@@ -122,8 +122,17 @@ Conserver le « je » de **Tugay** pour ce qu'il vit. Au début du **48**, un **
 
 Le roman s'ouvre sur **la respiration de Kübra, leurs mains serrées et une forêt humide**, trois semaines après la cascade de 2026. La dernière scène peut reprendre une respiration, une goutte ou un geste, après une action accomplie ensemble. Le vertige vient d'une transition désormais comprise, pas d'une révélation abstraite ajoutée après coup.
 
-**Dernière scène fixée :** le redémarrage se produit réellement. Une discontinuité sensible vécue par Tugay, puis une courte coda portant explicitement le **9 octobre 2026** et l'itération **52 826 324**, montre un événement ordinaire interrompu par les premières pannes, avec au moins un détail divergent. Ne pas faire passer cette scène pour un souvenir, un rêve ou la simple menace d'un reset. Aucun nouveau personnage central, aucune quête annoncée, aucune résurrection automatique du couple ; son sort au-delà de la transition n'est pas affirmé sans preuve.
+**Dernière scène racontée :** le redémarrage se produit réellement. Une discontinuité sensible vécue par Tugay, puis une courte coda portant explicitement le **9 octobre 2026** et l'itération **52 826 324**, montre un événement ordinaire interrompu par les premières pannes, avec au moins un détail divergent. Ne pas faire passer cette scène pour un souvenir, un rêve ou la simple menace d'un reset. Aucun nouveau personnage central, aucune quête annoncée, aucune résurrection automatique du couple ; son sort au-delà de la transition n'est pas affirmé sans preuve.
 
 Le lecteur sait pourquoi les Ruptures ont eu lieu, comment les connaissances ont traversé les cycles et pourquoi celle-ci arrive encore malgré la réussite scientifique. Il ignore volontairement ce que sont devenus les Vaeloriens. L'opération finale du couple a une issue précise ; l'univers peut dépasser cette issue sans que le livre reste inachevé.
 
 **À éviter :** résoudre toutes les responsabilités vaeloriennes par la seule fatalité ; anéantir le libre arbitre du héros, forcer toute la population à l'immortalité, faire fuir un signal Qν malgré un bouclier déclaré parfait ou faire réapparaître miraculeusement les anciennes institutions.
+
+
+## Résultat effectivement accompli au chapitre 50
+
+Tugay prépare et transmet les motifs de 2079 par le créneau borné : le contrôle d'opérateur et la concordance avec les enregistrements établissent son identité de correspondant. La référence ainsi établie sert d'appui stable à la nouvelle adresse documentaire ; elle ne révoque pas la transition et ne contient pas la formule de Sofia.
+
+Kübra fait distinguer la conservation des actes, preuves et savoirs des commandes qui assigneraient des populations à des expériences. Un dernier droit d'exécution est retiré après vérification. Le dépôt est séparé de l'ancien index, scellé et relu par une voie indépendante de la copie locale. Cette branche est protégée dans le périmètre annoncé ; ni l'ensemble du registre ni tous les êtres ne sont sauvés.
+
+Les retours du dépôt confirment des informations. Les routes, les communications et les accès aux communautés ne permettent plus de connaître leur état présent. Le relais n'est pas un refuge corporel hors-cycle : le couple partage son dernier moment observé, puis subit la Rupture du **19 mai 2521**. La coda montre la nouvelle itération au **9 octobre 2026**, un geste qui laisse un ascenseur vide au moment de la panne et une main tendue ; aucun des anonymes n'est identifié au couple. L'histoire du livre est close.

@@ -2,12 +2,12 @@
 
 **Projet :** adaptation littéraire de la campagne RPG_POST_APO.  
 **Auteur et narrateur :** Tugay (récit à la première personne).  
-**État au 12 novembre 2026 :** chapitres 1 à 49 présents ; chapitre 49 achevé en rédaction (8 680 mots de récit), au statut `brouillon`. Dernier chapitre à écrire : **50 — L'homme derrière le signal**. L'achèvement ne vaut pas validation explicite par l'auteur.
+**État au 12 novembre 2026 :** **Rédaction du roman achevée en 50 chapitres.** Le chapitre 50, **L'homme derrière le signal**, contient **7 693 mots de récit**. Les fichiers conservent leur statut `brouillon` tant que l'auteur n'a pas validé leur révision ; cet état n'enlève rien à la clôture de l'histoire.
 
 ## Format retenu
 
 - **50 chapitres**, répartis en **8 parties**.
-- **6 000 à 10 000 mots de récit par nouveau chapitre dès le chapitre 46** ; un seul chapitre reste après le 49, soit 6 000 à 10 000 mots. Les chapitres 1 à 45 conservent leur longueur. Recalculer le volume total à l'assemblage.
+- **6 000 à 10 000 mots de récit par nouveau chapitre dès le chapitre 46** ; les chapitres 46 à 50 sont désormais écrits et aucun chapitre supplémentaire n'est prévu. Les chapitres 1 à 45 conservent leur longueur. Recalculer le volume total à l'assemblage.
 - Narration principalement en « je » de Tugay ; bref interlude externe au début du chapitre 48 pour les siècles vécus sans lui, puis retour au « je ». Une brève coda externe reste possible après la Rupture finale.
 - La catastrophe initiale survient **en 2026** ; la reconstruction mène aux décennies suivantes.
 - **Kübra est la seconde figure centrale** du roman et une actrice autonome des décisions.
@@ -25,7 +25,7 @@
 - [SCIENCE_FICTION.md](SCIENCE_FICTION.md) — lois imaginaires Q-EUV, Genesis-S, permanence et Vaeloriens (**spoilers majeurs**).
 - [FIN_REVISEE.md](FIN_REVISEE.md) — causalité et calendrier des révélations jusqu'à la Rupture finale (**spoilers absolus**).
 - [PREPARATION_CHAPITRE_44.md](PREPARATION_CHAPITRE_44.md) — reprise exacte du chapitre 43, scènes prévues et limites des révélations.
-- [chapitres/chapitre-49.md](chapitres/chapitre-49.md) — dernier chapitre achevé : **Les enfants des étoiles** (23 septembre 2494–17 mai 2521).
+- [chapitres/chapitre-50.md](chapitres/chapitre-50.md) — **dernier chapitre du roman : L'homme derrière le signal** (18–19 mai 2521 ; coda du 9 octobre 2026 dans l'itération 52 826 324).
 
 ## Longueur éditoriale
 
@@ -37,7 +37,9 @@ Chaque chapitre doit faire progresser l'intrigue par une découverte, une décis
 
 ## Méthode de rédaction
 
-À chaque demande **« next »**, effectuer le travail complet sans demander systématiquement une validation préalable :
+**Clôture atteinte :** aucun chapitre 51 à créer. Une nouvelle demande « next » doit signaler que le roman est terminé ; ne pas prolonger l'histoire ni lancer une réécriture sans demande explicite. Les étapes ci-dessous décrivent la méthode employée pour la rédaction et restent utiles aux révisions autorisées.
+
+Pendant la rédaction, chaque demande **« next »** déclenchait le travail complet sans validation intermédiaire systématique :
 
 1. Lire sur GitHub le dernier chapitre et vérifier l'état de `main` dans `Nighttug58/RPG_POST_APO` ; consulter plan, continuité, science-fiction, décisions, chronologie et audit.
 2. Vérifier les révélations autorisées, le savoir des personnages et les enjeux affectifs ; suivre le dossier de préparation lorsqu'il existe.

@@ -101,3 +101,13 @@ Cette décision de l'auteur remplace l'objectif antérieur de 58 chapitres et l'
 - Les motifs obligatoires restent : **acquisition effective vaelorienne de l'autonomie biologique au 47**, survie accidentelle du couple original, règles scientifiques cohérentes, origine humaine révélée au 49, correspondant futur au 50, cause du dernier reset préparée aux 46–49, **Rupture finale effective au 50** et sort final vaelorien volontairement inconnu.
 - La contraction réduit les transitions, bilans et répétitions. Préserver les décisions de Kübra, les choix conséquents de Mira/Lina/Sofia, le deuil, les scènes intimes et les climax. Ne pas faire de la conclusion une succession de résumés.
 - Sources de vérité mises à jour : [PLAN.md](PLAN.md) pour les cinq chapitres et [FIN_REVISEE.md](FIN_REVISEE.md) pour leur causalité. « Next » continue directement au **46** selon cette nouvelle structure et publie sur `main` après vérifications.
+
+
+## 11. Clôture réalisée — chapitre 50, 12 novembre 2026
+
+- **Rédaction achevée en 50 chapitres.** Dernier chapitre : **L'homme derrière le signal**, **7 693 mots de récit**. Les statuts de révision restent inchangés jusqu'à validation explicite de l'auteur.
+- Identité du correspondant prouvée par la préparation, l'envoi et la concordance des premiers motifs de 2079. L'appartenance vaelorienne de Tugay est ici **un rôle d'opérateur dans le réseau des Délieurs** ; aucune métamorphose ni remplacement de conscience n'a été nécessaire. Cette réalisation précise l'ancienne option de changement d'apparence prévue dans le plan, sans modifier les chapitres précédents.
+- Conserver la distinction des motifs anciens et des communications officielles récentes ; le livre n'attribue ni l'invention de Sofia ni l'ordre des purges à Tugay.
+- Sauvegarde informationnelle limitée, critères de Kübra et absence de sélection automatique de populations, relecture indépendante constatée. Aucune promesse de rendre les proches à la vie.
+- Dernière Rupture **effectivement survenue** au terme du 50, nouvelle itération **52 826 324**, coda au 9 octobre 2026 avec un geste divergent et une main tendue. Sort des Vaeloriens inconnu pour cause de communications et de routes devenues invérifiables ; survie du couple après la transition non affirmée.
+- **Aucun chapitre 51, aucune annonce de deuxième livre.** Une demande « next » après cette clôture ne doit pas relancer automatiquement la narration. Toute révision, export ou continuation requiert une demande distincte ; la rédaction achevée n'est pas une validation éditoriale formelle.
