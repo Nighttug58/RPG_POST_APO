@@ -1,0 +1,460 @@
+{
+  "title": "RUPTURE",
+  "author": "Tugay",
+  "chapters": 50,
+  "parts": 8,
+  "estimated_words": 356454,
+  "source_files": [
+    {
+      "number": 1,
+      "part": 1,
+      "title": "Après la nuit",
+      "file": "Livre/chapitres/chapitre-01.md",
+      "bytes": 22288,
+      "words": 3444,
+      "sha256": "50b564068ab578f7f1ccc208005dc9984053f5f106750079bcc6025200565bd5"
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "title": "L'eau et le silence",
+      "file": "Livre/chapitres/chapitre-02.md",
+      "bytes": 26135,
+      "words": 4089,
+      "sha256": "bf22fe2cb61e8b845cfc4d2b690128649c41534ef197bf7be41091a4c1636e65"
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "title": "La première flamme",
+      "file": "Livre/chapitres/chapitre-03.md",
+      "bytes": 26345,
+      "words": 4081,
+      "sha256": "636c8b291a78e972cfadcdaa5a0ba7793141d9276b5a0cb05f3e388128005478"
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "title": "Les maisons silencieuses",
+      "file": "Livre/chapitres/chapitre-04.md",
+      "bytes": 30162,
+      "words": 4626,
+      "sha256": "576d21d7edf8f7543553b8f7b047e25190c434d24b8c66b351670bc77749c195"
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "title": "Une promesse entre nous",
+      "file": "Livre/chapitres/chapitre-05.md",
+      "bytes": 28739,
+      "words": 4551,
+      "sha256": "1c1da01d88bb46ef5d608cc97254a8a2dde7cd4624632740518cf19d02c6769c"
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "title": "Les bâtiments B et C",
+      "file": "Livre/chapitres/chapitre-06.md",
+      "bytes": 32396,
+      "words": 5008,
+      "sha256": "f06148ae904fc7208e00167f96f6cccb262505ae01d835828f81e0bd2dc1f256"
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "title": "Le conseil des sept",
+      "file": "Livre/chapitres/chapitre-07.md",
+      "bytes": 31570,
+      "words": 4962,
+      "sha256": "9bd27adf906414a7da4717e3d3e4a758d50c46db5ca5821f69b1347875c56978"
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "title": "Les mains dans la terre",
+      "file": "Livre/chapitres/chapitre-08.md",
+      "bytes": 36255,
+      "words": 5602,
+      "sha256": "469cb1edd3023426ae70ecfb131e1fd1c1eb9d3308f10c003f641ce6dc87da61"
+    },
+    {
+      "number": 9,
+      "part": 2,
+      "title": "Les rues de La Sallaz",
+      "file": "Livre/chapitres/chapitre-09.md",
+      "bytes": 34472,
+      "words": 5284,
+      "sha256": "3e0f4d552e72c34d8b7350a1174f933ae2d2d556be8a6d255dd40f68bacdd0ec"
+    },
+    {
+      "number": 10,
+      "part": 2,
+      "title": "Le prix de la confiance",
+      "file": "Livre/chapitres/chapitre-10.md",
+      "bytes": 35937,
+      "words": 5521,
+      "sha256": "0252f956ec5ac29b60a1f0f39e552b3f4f3bd27d8779cd20522cc19f673a44a6"
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "title": "Le quartier oublié",
+      "file": "Livre/chapitres/chapitre-11.md",
+      "bytes": 46392,
+      "words": 7078,
+      "sha256": "9a983def0940df66f188f66bed1c3d314a86c4ba2321c4866b9a3bc038875ad5"
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "title": "La nuit du cerf",
+      "file": "Livre/chapitres/chapitre-12.md",
+      "bytes": 36196,
+      "words": 5692,
+      "sha256": "348952be2736f62559a42587f0a50f6561dece73d48045c5b1184f455f5feb1e"
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "title": "Des réserves pour demain",
+      "file": "Livre/chapitres/chapitre-13.md",
+      "bytes": 39974,
+      "words": 6062,
+      "sha256": "d9752b7b342fb0b3e5f51ff5c1fa779d28a77f91386166ba98729c771c9e7e86"
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "title": "La lumière aux fenêtres",
+      "file": "Livre/chapitres/chapitre-14.md",
+      "bytes": 32794,
+      "words": 5034,
+      "sha256": "ed456ccbce9f0a3a8d4615a62d71c4727b66042852be9a588f472a7c183d5a12"
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "title": "Noël au refuge",
+      "file": "Livre/chapitres/chapitre-15.md",
+      "bytes": 54330,
+      "words": 8256,
+      "sha256": "cb5383ab491751d5c3442f52ea499e9d600f42c0ff2e7850e7f3525189608a8f"
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "title": "La route retrouvée",
+      "file": "Livre/chapitres/chapitre-16.md",
+      "bytes": 45568,
+      "words": 6857,
+      "sha256": "93f4e4f306b243ad45906d16fa86b1410b9a001b6f463724b98704cc3a49244a"
+    },
+    {
+      "number": 17,
+      "part": 3,
+      "title": "Cent kilos de planches",
+      "file": "Livre/chapitres/chapitre-17.md",
+      "bytes": 54159,
+      "words": 8217,
+      "sha256": "bd2c0ed3c1f23492c214a01b0d10151bbbaf09e8a93431eeb12ebe178208f2f6"
+    },
+    {
+      "number": 18,
+      "part": 3,
+      "title": "Les cercles blancs",
+      "file": "Livre/chapitres/chapitre-18.md",
+      "bytes": 53831,
+      "words": 8098,
+      "sha256": "742dc7d5228e69a745e32ebbdd92d1976472443c1a0af37605893bc6e3b0202e"
+    },
+    {
+      "number": 19,
+      "part": 3,
+      "title": "Une femme nommée Isabelle",
+      "file": "Livre/chapitres/chapitre-19.md",
+      "bytes": 52706,
+      "words": 7956,
+      "sha256": "40305199b6b1d9a859651c0266fc0ae5d11a6921f2b5944cc7bd7274e449f1ee"
+    },
+    {
+      "number": 20,
+      "part": 3,
+      "title": "Sous nos pieds",
+      "file": "Livre/chapitres/chapitre-20.md",
+      "bytes": 54840,
+      "words": 8257,
+      "sha256": "9f51833b21520194d5410061e4968efbac0a55b65074784a22ef6069d9cd8a20"
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "title": "La ferme d'AURORE",
+      "file": "Livre/chapitres/chapitre-21.md",
+      "bytes": 59476,
+      "words": 8997,
+      "sha256": "af33fe65ff1f14368b67583318fed40c9440e1de67c344e0a4773d38a900d445"
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "title": "Les hommes de la première nuit",
+      "file": "Livre/chapitres/chapitre-22.md",
+      "bytes": 44672,
+      "words": 6858,
+      "sha256": "82e03b1e4b6d0d91e9b7b44a0d878a37dc8e26a7c93ba5a9985c7c93a1926731"
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "title": "La carte de Maya",
+      "file": "Livre/chapitres/chapitre-23.md",
+      "bytes": 56254,
+      "words": 8732,
+      "sha256": "186a0cf289684eedc237704cd91243b9b7e29a538a3b2f236948f08d52624fa2"
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "title": "Ce que cache la porte B",
+      "file": "Livre/chapitres/chapitre-24.md",
+      "bytes": 63342,
+      "words": 9535,
+      "sha256": "bb7504f9ff23878b6451c7faf662ed0df0aa332fd74d53fe759c8c7bc978e3ba"
+    },
+    {
+      "number": 25,
+      "part": 4,
+      "title": "Les machines sous la terre",
+      "file": "Livre/chapitres/chapitre-25.md",
+      "bytes": 52078,
+      "words": 7890,
+      "sha256": "0d53b2f4f90135474fc9a337bb86a46c23bf87a5835fc4c0ba7d0872d4c988ae"
+    },
+    {
+      "number": 26,
+      "part": 4,
+      "title": "La paix qui coûte",
+      "file": "Livre/chapitres/chapitre-26.md",
+      "bytes": 47560,
+      "words": 7212,
+      "sha256": "c72ff1efbbaeb593b1aa10180bdc6e9347f8befd557f5047b215c2d2fb42888e"
+    },
+    {
+      "number": 27,
+      "part": 4,
+      "title": "Ici Radio Lausanne",
+      "file": "Livre/chapitres/chapitre-27.md",
+      "bytes": 50948,
+      "words": 7685,
+      "sha256": "273ec8ec3d3be45d4de8ac6f81a6f47d37f38855bd26ed56d34bf67de067c14b"
+    },
+    {
+      "number": 28,
+      "part": 4,
+      "title": "Mira",
+      "file": "Livre/chapitres/chapitre-28.md",
+      "bytes": 51603,
+      "words": 8022,
+      "sha256": "9629f22e2e4db742958e03a83fddf93b160dce47d004fce2c7c4f884eb9ae3c3"
+    },
+    {
+      "number": 29,
+      "part": 4,
+      "title": "Les rails retrouvés",
+      "file": "Livre/chapitres/chapitre-29.md",
+      "bytes": 62835,
+      "words": 9433,
+      "sha256": "bc117367a3a9143891d143f1d8a79872db6d54e390ead02607cde07b22ee96da"
+    },
+    {
+      "number": 30,
+      "part": 4,
+      "title": "L'énergie du Léman",
+      "file": "Livre/chapitres/chapitre-30.md",
+      "bytes": 59471,
+      "words": 8718,
+      "sha256": "5cea5096ec1aad4a79b13efa0804d57e48797bc3178eb95e0b4d185c0185eca8"
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "title": "Trente-cinq mille habitants",
+      "file": "Livre/chapitres/chapitre-31.md",
+      "bytes": 60337,
+      "words": 9045,
+      "sha256": "6f6a6ff09da79540dfbf59078d238777461d564218a947dd59875c9b748e9195"
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "title": "Le Franc lémanique",
+      "file": "Livre/chapitres/chapitre-32.md",
+      "bytes": 55454,
+      "words": 8319,
+      "sha256": "f3d31dd98f9627a4f1f68413af3c9b5422f20add9d56956341b49de8dad4b3d8"
+    },
+    {
+      "number": 33,
+      "part": 5,
+      "title": "Le monde reprend forme",
+      "file": "Livre/chapitres/chapitre-33.md",
+      "bytes": 60353,
+      "words": 8897,
+      "sha256": "842c7957a0dc6dd035b1026cd4ca6a950ad14fe3223b8faa7d6227a68d760116"
+    },
+    {
+      "number": 34,
+      "part": 5,
+      "title": "L'homme qui refusa le pouvoir",
+      "file": "Livre/chapitres/chapitre-34.md",
+      "bytes": 62463,
+      "words": 9420,
+      "sha256": "35d0f0d1c3c1e8aba8b082e3e8657655cd84a599aebbb03064d8c2b1e096a490"
+    },
+    {
+      "number": 35,
+      "part": 5,
+      "title": "Rupture, le livre",
+      "file": "Livre/chapitres/chapitre-35.md",
+      "bytes": 28660,
+      "words": 4365,
+      "sha256": "0d58f0fefd6268f80beb7f8f5348106e455e63ea487a74709731a29eb2edc51c"
+    },
+    {
+      "number": 36,
+      "part": 5,
+      "title": "L'envol de PhenixCoin",
+      "file": "Livre/chapitres/chapitre-36.md",
+      "bytes": 33748,
+      "words": 4953,
+      "sha256": "1dfd40892f8aa085fb5dae3365c5a3add4ac162f74842a0d29a8949fa087f24f"
+    },
+    {
+      "number": 37,
+      "part": 5,
+      "title": "Ce que peut acheter l'argent",
+      "file": "Livre/chapitres/chapitre-37.md",
+      "bytes": 37990,
+      "words": 5479,
+      "sha256": "27521e76143b68433107f16cf2f5b137513a6f4d725b351a3a51e15b8df7cc28"
+    },
+    {
+      "number": 38,
+      "part": 6,
+      "title": "La lumière impossible",
+      "file": "Livre/chapitres/chapitre-38.md",
+      "bytes": 37115,
+      "words": 5347,
+      "sha256": "5b580848dab80635faab6eefde314f277c37b4b41b1bd0ae6803d16e95a48515"
+    },
+    {
+      "number": 39,
+      "part": 6,
+      "title": "L'écho qui précède la cause",
+      "file": "Livre/chapitres/chapitre-39.md",
+      "bytes": 37675,
+      "words": 5460,
+      "sha256": "16b5d1f842b3708ac3efc8396546761ccf1a0da8b1006c197ad1322b94704147"
+    },
+    {
+      "number": 40,
+      "part": 6,
+      "title": "Retrouver vingt-cinq ans",
+      "file": "Livre/chapitres/chapitre-40.md",
+      "bytes": 72553,
+      "words": 10708,
+      "sha256": "13053c1de2d40e7a22653adea832ca193f0187b471e35bfeef4aa45ff813d71d"
+    },
+    {
+      "number": 41,
+      "part": 6,
+      "title": "L'ancre et le sacrifice",
+      "file": "Livre/chapitres/chapitre-41.md",
+      "bytes": 79983,
+      "words": 11861,
+      "sha256": "1c772d3ed3112b4b2d74bd899498bc1246ba9f94e88365971c5563c7d8a1d95e"
+    },
+    {
+      "number": 42,
+      "part": 6,
+      "title": "Le droit de vieillir",
+      "file": "Livre/chapitres/chapitre-42.md",
+      "bytes": 76836,
+      "words": 11362,
+      "sha256": "2fb5ca86cd5c7aeab21a0e62c1ae5896fecb14416178c98f40206c00195efb74"
+    },
+    {
+      "number": 43,
+      "part": 7,
+      "title": "Le premier langage",
+      "file": "Livre/chapitres/chapitre-43.md",
+      "bytes": 79112,
+      "words": 11334,
+      "sha256": "e29088e222b3d382cf63352d242f04780181f258c8dcd6e396b013cdae521d7c"
+    },
+    {
+      "number": 44,
+      "part": 7,
+      "title": "Le soleil des Vaeloriens",
+      "file": "Livre/chapitres/chapitre-44.md",
+      "bytes": 23003,
+      "words": 3363,
+      "sha256": "f2eed2a8989f2e313742d20fbd0042f1ea7917c821c09be9a11cc340bdfb01f3"
+    },
+    {
+      "number": 45,
+      "part": 7,
+      "title": "Ils veulent l'ancre",
+      "file": "Livre/chapitres/chapitre-45.md",
+      "bytes": 23101,
+      "words": 3421,
+      "sha256": "ff16c21d6098638508e319a5ccbc889d2bc53246d2e7a70470549bddc2a54b78"
+    },
+    {
+      "number": 46,
+      "part": 8,
+      "title": "Les millions d'essais",
+      "file": "Livre/chapitres/chapitre-46.md",
+      "bytes": 46552,
+      "words": 6972,
+      "sha256": "6051322bcfc300d3ed3420de5ec947d74a35400d4a21a5caafb3358715377ccf"
+    },
+    {
+      "number": 47,
+      "part": 8,
+      "title": "Le pacte des étoiles",
+      "file": "Livre/chapitres/chapitre-47.md",
+      "bytes": 58222,
+      "words": 8902,
+      "sha256": "2c66ce3e9c61e9aad0f75d0f9bed285b85d415144da1537b0593b03768164a32"
+    },
+    {
+      "number": 48,
+      "part": 8,
+      "title": "Quatre siècles après",
+      "file": "Livre/chapitres/chapitre-48.md",
+      "bytes": 59579,
+      "words": 9002,
+      "sha256": "07b421b4c7986a571e280239c830055feacb548490f7ca9c88b2be5320f59c92"
+    },
+    {
+      "number": 49,
+      "part": 8,
+      "title": "Les enfants des étoiles",
+      "file": "Livre/chapitres/chapitre-49.md",
+      "bytes": 57869,
+      "words": 8739,
+      "sha256": "2ed2a4c896ac6a13ca917340e6b7670c5d357aa47a9d1660cad0e7bb9e3d49d4"
+    },
+    {
+      "number": 50,
+      "part": 8,
+      "title": "L'homme derrière le signal",
+      "file": "Livre/chapitres/chapitre-50.md",
+      "bytes": 50575,
+      "words": 7748,
+      "sha256": "5c9ce5fa43924035c4f61cc7702c1f7eec894c7f52ea931dc62ded79d1670b1b"
+    }
+  ],
+  "note": "Les fichiers source sont intacts. Seuls le YAML et les signes de mise en forme Markdown sont retirés de l'affichage."
+}
