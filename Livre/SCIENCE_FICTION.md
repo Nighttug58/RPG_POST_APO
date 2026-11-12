@@ -23,7 +23,8 @@
 
 - **Information :** le canal chrono-géométrique Qν, pure convention du récit, ne transporte pas une onde radio ordinaire. Il peut établir des corrélations entre observatoires très éloignés avec une latence **non proportionnelle à la distance-lumière**. Les humains ne disposent initialement que d'un détecteur expérimental faible ; seuls les Vaeloriens possèdent un réseau d'écoute efficace.
 - **Navigation :** les Vaeloriens utilisent des **couloirs géométriques** accessibles depuis certains volumes d'espace-temps, qui demandent une énergie considérable, des calculs et de longues phases de stabilisation. Ils ne peuvent pas se matérialiser arbitrairement au-dessus de Lausanne.
-- **Chronologie :** émission terrestre détectée en 2079 ; échange, décodage et localisation affinée sur plusieurs mois ; **présence du vaisseau observable en 2082**. Un effet qui paraît précéder sa cause n'établit pas que les voyageurs peuvent tout changer dans le passé.
+- **Chronologie :** anomalies dès 2079, premier essai de réponse humaine le **27 novembre 2082** ; au **9 décembre 2082**, aucune étoile n'est encore identifiée. Localisation et vaisseau sont prévus en **2083**, après plusieurs mois d'échanges et de stabilisation. Ce repère futur remplace l'ancienne arrivée envisagée vers 2082, sans modifier les chapitres écrits. Un effet antérieur à sa cause apparente n'autorise pas à choisir librement le passé.
+- **Preuve astronomique :** les photons d'une étoile lointaine décrivent son état passé. Une source peut annoncer des structures ou variations de cette lumière qui seront vérifiées depuis la Terre ; cela atteste un savoir précis et peut étayer l'ingénierie de l'astre, sans montrer instantanément son présent. Les données Qν et les observations optiques gardent leurs horloges distinctes.
 - **Dépendance scientifique :** l'ancrage autonome est lié à un cœur Q-EUV consommé et à un mécanisme biologique à comprendre. Une prise de contrôle brutale du laboratoire risquerait de détruire précisément ce qu'ils veulent reproduire. Cela explique leur intérêt à négocier, sans prouver leur bienveillance.
 
 ## 3. Premier contact : séquence de scènes
@@ -79,17 +80,21 @@
 
 - Les Vaeloriens, descendants d'une branche humaine très ancienne dotée d'une **immortalité entretenue par traitements répétés**, ont développé la maîtrise stellaire et les Ruptures chrono-géométriques. Ils recherchent l'**ancrage permanent autonome**.
 - Leur **registre Qν hors-cycle** conserve surtout de l'information ; les cycles sont différents à cause des minuscules écarts initiaux amplifiés par la dynamique chaotique.
+- Ce registre est borné : résultats sélectionnés, modèles, repères de phase et instructions de restauration. Il ne simule pas toutes les histoires et ne sauvegarde pas tous les corps. La continuité des institutions vaeloriennes passe par ces restaurations ; elle ne constitue pas l'immortalité autonome d'un organisme.
 - **Défaut unique de l'itération 52 826 322 → 52 826 323 :** une erreur de synchronisation à proximité de l'ancrage Qν déjà actif préserve *Tugay et Kübra ensemble* dans une poche transitoire, puis les réinsère vers **2490**. **Exception accidentelle non reproductible** et non preuve que le sérum rend invulnérable.
 - La mémoire de Tugay est **partiellement conservée** et contient les principes du Q-EUV et l'avertissement vaelorien. Elle ne remplace pas les travaux de spécialistes de la nouvelle époque.
+- La désynchronisation des souvenirs est une conséquence du **transfert externe**, pas un effet secondaire de Genesis-S ou de l'ancrage. Kübra conserve sa propre expérience ; les identités ne sont pas remises à zéro.
 
 ## 7. Le bouclier chrono-isolant de la Terre
 
 - **Contrainte de sécurité :** Tugay refuse **tout essai actif Q-EUV tant que le bouclier n'est pas établi**, afin d'éviter une signature détectable.
 - Le bouclier filtre **les modes Qν non locaux à travers une frontière terrestre** : signal entrant ou sortant bloqué, mais Q-EUV et ancrage **locaux** peuvent fonctionner sous protection.
 - Le projet du bouclier utilise d'abord des mesures **passives**, des modèles et des éléments d'ingénierie sans émission Q-EUV active ; seules les vérifications passives précèdent sa mise en service.
+- L'ancrage préexistant de Tugay émet déjà une faible signature : ne pas prétendre qu'il l'éteint. Les modèles ne donnent pas à un observateur lointain une localisation instantanée à partir de cette seule trace ; les humains évitent amplification et essais reconnaissables avant le confinement. Cette situation reste un risque à traiter, pas une protection absolue.
 - Après activation du bouclier : essais Q-EUV confinés, production en série de cœurs d'ancrage grâce à la technologie industrielle des siècles futurs, **accès universel à la jeunesse permanente sous consentement**.
 - La technologie demeure **sans effets secondaires biologiques** ; absence de vieillissement ne signifie pas invulnérabilité ni obligation d'accepter le traitement.
 - **Limite :** un bouclier Qν n'est **pas** un camouflage optique, diplomatique ou gravitationnel. Les Vaeloriens détectent l'expansion humaine grâce à des moyens **non-Qν** : observatoires, reconnaissance spatiale, renseignements.
+- **Limite globale, à exposer dès le chapitre 48 :** le bouclier filtre des transmissions sur une géométrie donnée ; il n'arrête pas une Rupture qui modifie cette géométrie de référence dans son ensemble. Le redémarrage final ne prouve donc ni fuite ni panne du filtre.
 
 ## 8. Origine humaine des Vaeloriens et causalité entre cycles
 
@@ -98,7 +103,50 @@
 - À un stade ultérieur du cycle 52 826 323, Tugay accède à la société vaelorienne et aux communications **extra-chronologiques**. Il devient **le correspondant** qui avait contacté son autre version en 2079 (cycle 52 826 322).
 - Il s'agit d'une **boucle de causalité fermée** : la version future du cycle 52 826 323 peut agir sur le cycle 52 826 322 parce que l'archive et les couloirs extra-chronologiques ne respectent pas l'ordre des itérations. L'origine causale ultime peut rester philosophique ; **ne pas changer les règles du mécanisme selon les besoins d'une scène**.
 - Le correspondant Tugay futur ne doit pas être confondu automatiquement avec la faction dirigeante **responsable de la trahison du pacte**.
+- Les premiers motifs intentionnels de 2079 et les échanges officiels plus récents ont des sources distinctes, comme le permet le chapitre 43. Le relais du futur offre quelques créneaux déjà présents dans les archives, pas un choix illimité de destinataires et de dates. Aucun envoi de formule ne fonde l'invention Q-EUV : la boucle porte sur le contact.
 - La guerre commence entre étoiles et devient **intergalactique** lorsque le conflit emprunte des passages vers d'autres galaxies.
-- Révélation graduée : origine des resets (chapitre 46), origine **humaine** des Vaeloriens (chapitre 57), correspondant **Tugay futur** (chapitre 58).
+- Révélation graduée : origine des resets (chapitre 46), origine **humaine** des Vaeloriens (chapitre 49), correspondant **Tugay futur** (chapitre 50).
+
+## 9. Acquisition autonome et cause du redémarrage final
+
+- **Verrou de recherche :** l'énergie stellaire et la restauration d'un état biologique ne suffisent pas à connaître les conditions de fermeture autonome du couplage Qν vivant. Les simulations vaeloriennes héritent d'un modèle incomplet ; des trajectoires historiques variées produisent les équipes, les matériaux et les expériences qui lui manquent. Les resets sont leur stratégie de recherche, pas une loi obligeant à sacrifier l'humanité.
+- **Réussite au chapitre 47 :** transfert des principes Q-EUV / Genesis-S permanent, de la fabrication et de la calibration ; cœur neuf produit par l'industrie vaelorienne ; ancrage autonome reproduit et vérifié sans apport extérieur ni rappel, puis méthode archivée hors-cycle. Utiliser la tomographie chrono-biologique déjà établie pour contrôler la permanence. Le cœur terrestre consommé n'est pas recréé rétroactivement.
+- Les Vaeloriens ont donc **effectivement obtenu l'immortalité biologique autonome**. Les traitements répétés expliquent leur histoire avant cette acquisition. La diffusion à toute leur population et leur sort final ne sont pas connus.
+- **Rupture du 47 :** décision de purge prise après l'acquisition pour effacer les témoins et les concurrents ; elle n'est pas un besoin du traitement. Un défaut externe préserve exceptionnellement le couple.
+- **Réseau de purge :** des relais stellaires amorcent une transition cosmique fictive. Leurs engagements de phase sont révocables collectivement avant un seuil ; une fois ce seuil franchi, détruire le poste central n'annule pas la transition. Les relais ne produisent pas l'énergie entière d'un nouvel univers.
+- **Rupture du 50 :** une faction engage cette procédure contre la capture de ses archives pendant la guerre ; échec d'arrêt au 49, seuil franchi au 49, transition vers **52 826 324** au terme du 50. La cause est connue avant le climax ; ni nouveau pouvoir quantique ni panne soudaine de Genesis-S.
+- La dernière sauvegarde est **informationnelle, bornée et réalisée avec le registre déjà établi**. Elle ne garantit pas la conservation du couple ni de toute la civilisation. La coupure des corridors empêche de vérifier le destin vaelorien ; cette incertitude ne remet pas en cause l'acquisition constatée.
+- Détails de dramaturgie et ordre des preuves : [FIN_REVISEE.md](FIN_REVISEE.md). Ces règles guident les chapitres futurs, sans transformer les hypothèses des personnages du 43 en faits qu'ils sauraient déjà.
 
 **Avertissement :** tout ceci est de la science-fiction. Aucune propriété réelle des quarks, neutrinos, photons EUV ou de la dynamique chaotique ne permet la construction de ces technologies.
+
+
+## 10. État vérifié au terme du chapitre 48
+
+- Réinsertion du couple le **4 juin 2490**, puis reconstruction théorique avec les sciences et l'industrie contemporaines ; lacunes techniques dues au transfert externe, jamais à un effet secondaire du sérum.
+- Les sciences de phase de cette Terre ont des archives passives depuis au moins 2448 et des matériaux filtrants développés indépendamment. Le bouclier n'est pas inventé tout seul par Tugay à partir d'un souvenir.
+- Signature préexistante non amplifiée ; confinement local qualifié en décembre 2491. Aucun nouvel essai actif Q-EUV, même sous ce volume local, avant la validation du domaine commun.
+- Fermeture terrestre **21 septembre 2494**, validation **passive** jusqu'au 22 : bruit naturel et références indépendantes dedans/dehors, fonctionnement interne conservé. Alimentations pour refroidissement et positionnement ; aucune excitation Q-EUV servant de test.
+- Le réseau qualifié couvre la Terre et les installations proches intégrées au projet, **pas la Lune, les vaisseaux ou toutes les colonies**. Avant des usages hors de ce domaine, concevoir et qualifier des confinements propres ; ne pas faire fuir une signature puis attribuer arbitrairement le conflit à une panne du filtre terrestre.
+- Le **22 septembre**, les essais confinés sont autorisés pour la suite. Leur réussite, l'industrialisation et les traitements restent au chapitre 49. Le bouclier ne garantit ni invisibilité classique ni résistance à une Rupture globale.
+
+
+## 11. État contraignant après le chapitre 49
+
+- Essais actifs seulement après le 22 septembre 2494, en domaine qualifié. Restauration humaine puis ancrages industriels vérifiés ; **Kübra ancrée en 2498** par choix propre. Accès volontaire et refus protégés, pas d'invulnérabilité.
+- Nacre et Orée disposent de confinements qualifiés hors Terre, avec raccordements contrôlés. La navigation reste observable ; l'attaque de 2510 découle de reconnaissance **optique, thermique et radio**, pas d'une fuite Q-EUV.
+- Méthode vaelorienne autonome toujours acquise depuis le 47 ; le 49 montre des dépôts et bénéficiaires, sans connaissance exhaustive de la civilisation. Origine humaine établie par preuves recoupées, pas déduite d'un seul visage.
+- Purge engagée contre capture du registre ; poste de révocation attaqué avant retrait complet le **15 mai 2521** ; mort d'Anja par lésions et perte d'air malgré son ancrage. Aucun traitement ne la ressuscite.
+- **17 mai 2521 : transition irréversible**, au plus quelques jours. Le filtre terrestre fonctionne et ne peut l'arrêter ; la destruction d'une commande ne suffit plus. Pas de boucle temporelle libre permettant d'annuler le seuil.
+- Le relais vers lequel Nacre se dirige permet une sauvegarde **informationnelle bornée**, avec critères et consentements, distincte de copies de personnes. Les fenêtres extra-chronologiques sont contraintes par les références déjà établies ; le 50 devra montrer l'envoi ancien, puis la Rupture effective sans garantir la conservation physique du couple.
+
+
+## 12. Clôture effective — chapitre 50
+
+- **18 mai 2521 :** Tugay opère avec les Délieurs et transmet les premiers motifs intentionnels vers **2079 dans 52 826 322**. Concordance contrôlée, origine du contact établie ; communications officielles des Gardiens distinctes.
+- Relation fermée entre les itérations, créneaux et formes admises bornés. Aucun accès libre à toute date, aucune révocation rétrospective de la purge, aucune formule scientifique fondée sur elle-même. L'invention terrestre conserve l'origine dans les travaux de Sofia.
+- Commandes humaines vers un générateur extérieur, corps sous leur confinement ; ni émission biologique magique ni modification d'identité nécessaire. Le rôle d'opérateur rend Tugay membre fonctionnel du réseau vaelorien des Délieurs.
+- Une ancienne référence établie permet l'adresse stable d'une branche indépendante de l'index de purge. Validation répartie et relecture hors de la copie locale attestent un **dépôt borné réellement conservé**, pas toutes les archives.
+- Les documents décrivant les plans des Gardiens restent des preuves ; fonctions automatiques de sélection de populations retirées de cette branche. Pas de copies de corps considérées comme personnes sauvées.
+- Le registre protège l'information ; son relais d'accès reste physiquement dans l'histoire affectée. Aucun mécanisme ne garantit une seconde conservation du couple. La connaissance autonome reste acquise aux Vaeloriens, leur sort civil et biologique n'est plus mesurable depuis le récit.
+- **19 mai 2521 : transition globale vers 52 826 324**, indépendante de l'envoi du signal et du dépôt. Coda au **9 octobre 2026** : nouvelle itération concrète et divergente. Ni invulnérabilité, ni voyage temporel arbitraire, ni promesse de reconstruction universelle.
