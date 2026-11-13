@@ -1,6 +1,0 @@
-.env
-.env.*
-__pycache__/
-*.py[cod]
-.DS_Store
-mj/prive/
