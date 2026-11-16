@@ -120,7 +120,7 @@ Elle a laissé passer un silence.
 
 Nous avons ri, brièvement, comme si le son appartenait à une autre époque.
 
-Puis elle s'est relevée. La lumière baissait déjà.
+Puis elle s'est relevée. Le matin avançait et le froid ne cédait pas. Nous avions encore quelques heures pour préparer la nuit.
 
 — On reste là à rêver d'un café, ou on prépare la nuit ?
 
@@ -132,9 +132,9 @@ Kübra a posé sa poignée de bois à mes pieds.
 
 — Alors, monsieur les plans et les calculs, on commence par quoi ?
 
-— Par faire du feu.
+— Par nous construire un abri. Ensuite, on essaiera de faire du feu.
 
-— Très bien. Cette fois, on s'y met à deux.
+— Très bien. Et cette fois, pour le feu, on s'y met à deux.
 
 · · ·
 
@@ -206,7 +206,17 @@ Puis mon ventre s'est contracté.
 
 Nous n'avions toujours rien à manger.
 
-· · ·
+Dans l'après-midi, en descendant chercher de l'eau brute, nous avons aperçu une dizaine de canards sur une portion plus calme du ruisseau. Je n'avais ni arc ni couteau. Il nous aurait fallu les laisser passer si l'un d'eux n'avait pas tenté de se faufiler entre des branches immergées.
+
+Son aile s'est prise un instant dans l'enchevêtrement. Kübra, qui surveillait la rive, m'a montré où me placer. Nous avons réussi à le saisir sans nous jeter dans le courant. Les autres oiseaux se sont envolés. J'ai mis fin à sa lutte le plus vite possible. Une fois l'urgence passée, je suis resté immobile devant ce que nous venions de faire.
+
+— On pourra le manger ? a demandé Kübra.
+
+— Si on arrive à faire du feu.
+
+Nous avons gardé le canard dans un endroit frais, à l'écart de la terre. Puis j'ai improvisé un archet avec une branche courbe, une corde de fibres et une planchette prélevée dans du bois aussi sec que possible. La tige glissait. La poussière de bois chauffait, fumait à peine, puis refroidissait. Kübra stabilisait le support pendant que je recommençais. Nous avons changé la pression, la corde, l'amadou. À chaque tentative, nos mains perdaient un peu plus de force.
+
+Quand le jour a décliné, nous avions un abri, un canard et un tas de brindilles protégées de la pluie. Mais pas la moindre braise durable.
 
 À la tombée du jour, nous n'avions toujours ni feu ni eau potable. Les coups de feu, d'abord si lointains que je les ai pris pour des branches cassées, nous ont fait oublier la fatigue.
 
@@ -282,9 +292,13 @@ Il n'y avait rien d'autre à dire.
 
 · · ·
 
-1er novembre 2026 — Avant l'aube
+1er novembre 2026 — De l'aube au matin
 
-Nous avons recommencé le feu ensemble, corrigé l'archet, protégé la braise et fini par cuire le canard. Quand nous l'avons partagé, mes mains tremblaient encore. Sans pain ni sel, la viande avait le goût d'une victoire qui nous avait coûté toute une matinée.
+Nous nous sommes réveillés avant cinq heures, avec les doigts engourdis et le canard toujours intact. La première chose que j'ai faite a été de reprendre l'archet de la veille. Sa corde avait cédé ; j'en ai façonné un second avec une branche mieux courbée. Kübra a préparé une poignée de fibres sèches, puis maintenu la planchette pendant que je faisais tourner la tige. Cette fois, une poussière sombre a continué de fumer après l'arrêt du mouvement.
+
+Nous avons nourri la braise avec une prudence presque ridicule. Quand les brindilles se sont enfin enflammées, Kübra a laissé échapper un rire de soulagement. Il restait pourtant à préparer le canard sans couteau, à retirer les plumes et à cuire correctement chaque morceau. Nous avons utilisé une pierre à arête vive et surveillé longuement la viande au-dessus des braises ; les parties insuffisamment cuites y retournaient.
+
+Quand nous avons enfin partagé le repas, mes mains tremblaient encore. Sans pain ni sel, la viande avait le goût d'une victoire qui nous avait coûté la nuit et une partie du matin.
 
 Je n'ai jamais rien mangé qui m'ait semblé aussi précieux.
 
@@ -588,7 +602,7 @@ Nous avons vérifié la maison à la vitre brisée, puis renoncé à y entrer da
 
 · · ·
 
-Nous avons quitté le muret et fouillé un bâtiment dont l'entrée était ouverte. Dans un placard presque vide, derrière deux pots de confiture, j'ai trouvé une bouteille d'eau minérale encore capsulée. Je l'ai saisie sans parler.
+Nous avons quitté cette rue et exploré prudemment un bâtiment dont l'entrée était ouverte. Dans un placard presque vide, derrière deux pots de confiture, j'ai trouvé une bouteille d'eau minérale encore capsulée. Je l'ai saisie sans parler.
 
 Kübra a vu l'étiquette.
 
@@ -670,7 +684,7 @@ Nous avons trouvé aussi un faitout plus grand, une cuillère métallique, deux 
 
 J'ai ajouté deux conserves et une bouteille dans mon sac. Elle a gardé la casserole et une petite réserve d'eau, suffisamment accessible pour que nous puissions boire sans tout déballer.
 
-Nous avons laissé sur la table le mot écrit plus tôt, ainsi qu'une note indiquant les objets emportés.
+Avant de sortir, nous avons laissé sur la table un mot indiquant les objets emportés et notre intention de les rendre si les occupants revenaient.
 
 À la sortie, j'ai pris le temps de refermer la porte.
 
@@ -755,6 +769,20 @@ Kübra a regardé vers le palier où nous avions aperçu un mouvement derrière 
 J'aurais préféré une règle moins incertaine. Mais depuis que nous avions fui notre campement, chaque choix reposait sur une incertitude.
 
 Nous avons commencé à monter.
+
+Au premier étage, deux portes fermées portaient des messages de départ. Au deuxième, nous avons trouvé un logement entrouvert. Une note expliquait que ses habitants étaient partis précipitamment rejoindre leur famille et demandaient qu'on referme la porte après passage.
+
+Nous avons appelé depuis le palier. Personne n'a répondu. À l'intérieur, un rideau bougeait devant une fenêtre mal fermée ; c'était le mouvement qui nous avait inquiétés depuis la rue. Nous avons annoncé notre présence une dernière fois, vérifié les pièces sans ouvrir les meubles fermés, puis refermé la fenêtre. Pas de bruit humain, pas de provisions installées pour quelqu'un qui serait simplement sorti.
+
+— On pourrait rester ici cette nuit, a dit Kübra.
+
+J'ai regardé le lit défait, la porte et les sacs à nos pieds.
+
+— Sans savoir si les propriétaires reviennent ?
+
+— Alors on leur laissera un mot. Et s'ils reviennent, on partira.
+
+Nous avons posé nos affaires dans le salon, vérifié que nous pouvions ressortir librement et inscrit sur une feuille ce que nous possédions. Une autre expliquait pourquoi nous occupions provisoirement les lieux. Nous avions enfin un toit, mais pas encore un droit de nous y croire chez nous.
 
 · · ·
 
@@ -858,9 +886,19 @@ Nous sommes restés un long moment dans le salon, sans nous demander ce qu'il fa
 
 2 novembre 2026 — Bâtiment B
 
-Marc nous avait montré une partie des installations communes et accepté de monter discuter chez nous. Il a franchi le seuil du deuxième étage sous mon regard encore méfiant. La veille, j'aurais caché nos affaires ; Kübra a préféré lui montrer l'inventaire sans lui promettre ce que nous ne pouvions partager.
+La première nuit dans l'appartement nous avait laissé quelques heures de sommeil, assez pour retourner au problème de l'eau. Nous avions trouvé un barbecue dans la cour et tenté d'y chauffer une petite quantité d'eau récupérée au ruisseau, sans la mélanger à nos bouteilles scellées. Ce n'était pas encore une solution durable.
 
-Kübra avait insisté pour qu'on ne dissimule pas l'existence de notre inventaire, sans pour autant présenter chaque paquet comme une offrande.
+Une voix nous a interpellés près des locaux de service. L'homme tenait une lampe et gardait une porte entrouverte entre nous et lui.
+
+— C'est vous qui faites de la fumée dans la cour ?
+
+J'ai expliqué le barbecue. Il a regardé les deux bouteilles marquées « EAU BRUTE » et la casserole cabossée que nous avions apportée. Kübra lui a raconté notre fuite du campement, puis notre installation provisoire au deuxième étage. Nous n'avions pas forcé l'appartement, a-t-elle précisé, et nous avions laissé un mot.
+
+— Marc, a-t-il fini par dire. J'étais concierge ici.
+
+Il nous a montré son local de maintenance et une partie des installations communes. Il savait quelles conduites étaient isolées, quelles portes ne devaient pas être ouvertes et quels logements avaient été signalés vacants. Rien ne fonctionnait comme avant, mais il continuait à tenir un registre. Quand nous lui avons proposé de poursuivre la discussion à l'étage, il a hésité avant d'accepter.
+
+Marc a franchi le seuil du deuxième étage sous mon regard encore méfiant. La veille, j'aurais caché nos affaires ; Kübra a préféré lui montrer notre inventaire sans lui promettre ce que nous ne pouvions partager.
 
 — Voilà ce qu'on a trouvé, a-t-elle dit. Et voilà ce qu'on a déjà consommé.
 
@@ -1248,9 +1286,7 @@ Puis, en dessous :
 
 Communauté B–C — essai de sept jours.
 
-Sophie a laissé une ligne vide sous le nom de Nicolas, au lieu d'y écrire un oui de convenance. Elle avait déjà préparé les tours d'eau et les heures de garde. Cette abstention compliquait le planning, mais personne n'a demandé qu'on efface la ligne. Nicolas a proposé de participer aux trajets qu'il saurait assurer. Il ne promettait pas davantage.
-
-J'ai longtemps regardé cette case vide. Sophie a repris le tableau des gardes et des corvées. Le nom de Nicolas figurait sur les trajets qu'il avait acceptés, pas sur les tâches qu'il n'avait pas promises. Cela compliquerait le lendemain. Personne n'a proposé de remplir la case à sa place.
+Sophie a laissé une ligne vide sous le nom de Nicolas, au lieu d'y écrire un oui de convenance. Elle a ajusté les tours d'eau et les heures de garde en n'inscrivant son nom que sur les trajets qu'il acceptait. Cela compliquerait le lendemain, mais personne ne lui a demandé de promettre davantage.
 
 Je me suis rendu compte que j'attendais quelque chose.
 
@@ -1266,7 +1302,9 @@ Simplement, nous avions pris une décision ensemble.
 
 4 novembre 2026 — Au nord de Lausanne
 
-Henri Favre nous a accueillis avec une fourche.
+Au conseil, la question de l'eau avait occupé toute la soirée. Celle de la nourriture était restée ouverte. Nos conserves diminuaient ; même en récupérant ce qui était encore consommable dans les logements vides, nous ne tiendrions pas indéfiniment. Nicolas connaissait d'anciens jardins collectifs. Le lendemain du vote, il m'a proposé d'aller voir si un de leurs occupants acceptait de nous conseiller avant que nous touchions à la moindre parcelle.
+
+C'est ainsi que nous avons rencontré Henri Favre. Il nous a accueillis avec une fourche.
 
 Il se tenait au milieu d'un carré de terre sombre, un bonnet de laine sur la tête et les manches d'un vieux pull remontées jusqu'aux coudes. Ses bottes étaient couvertes d'une boue épaisse. Il avait soixante-sept ans, même si je ne l'ai appris que plus tard, et le regard de quelqu'un qui n'avait pas l'intention de laisser deux inconnus gâcher sa matinée.
 
@@ -1978,6 +2016,8 @@ Je lui ai pris la main.
 
 Le deuxième chariot faisait un bruit de casserole vide.
 
+Depuis notre visite à La Sallaz, une semaine s'était écoulée à traiter l'eau, répartir les gardes et consolider les réserves. Marc et David avaient assemblé ce nouveau chariot avec les roues d'un vieux vélo et des planches récupérées ; le premier, plus petit, servait déjà aux transports courts. Nous avions essayé le second dans la cour, mais jamais sur les longues pentes qui nous attendaient.
+
 Chaque fois que Marc poussait la poignée, quelque chose vibrait dans le bois, se répercutait le long d'une pièce métallique et finissait par un petit claquement sec. Il s'immobilisait, soulevait une roue, examinait la structure, puis reprenait ses essais comme si le chariot avait commis une faute personnelle.
 
 — Il va tenir ? ai-je demandé.
@@ -2529,6 +2569,8 @@ Elle m'a embrassé.
 ## Chapitre 7 — La lumière de Noël
 
 19 novembre 2026 — L'odeur de la fumée
+
+Deux nuits auparavant, au retour de l'expédition des villas, j'avais commis une faute que notre réserve de viande ne ferait pas disparaître. Je m'étais levé sans prévenir Kübra et étais parti seul dans la forêt avec un arc artisanal à peine éprouvé. J'avais abattu un cerf, trop lourd pour être ramené sans aide. Au petit matin, Kübra avait découvert mon absence et compris que j'avais trahi notre promesse de décider ensemble des risques. Le groupe était retourné récupérer l'animal, puis avait passé le 18 novembre à découper, cuire ou fumer ce qui pouvait être conservé sans attendre. Nous avions gagné de la nourriture et perdu une part de confiance. Kübra m'adressait toujours la parole, mais je ne pouvais pas prétendre que l'incident était clos.
 
 À mon réveil, le cerf avait cessé d'être un animal.
 
