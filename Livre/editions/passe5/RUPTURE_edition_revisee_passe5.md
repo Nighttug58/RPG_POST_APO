@@ -12516,6 +12516,34 @@ C'était assez pour que le silence ne ressemble plus jamais au même silence.
 
 19 décembre 2082 — La pièce en trop
 
+Je réparais un grille-pain quand le message de l'institut est arrivé. Il s'agissait d'une invitation à assister, en janvier, à une vérification astronomique indépendante. Depuis la première réponse de novembre, les scientifiques avaient passé davantage de temps à chercher des erreurs qu'à traduire des phrases. Les motifs ne suffisaient toujours pas à identifier un peuple.
+
+Kübra a lu la convocation au-dessus de mon épaule.
+
+— Et qui a vérifié les observations, à part ceux qui cherchent déjà une réponse ?
+
+Je n'en savais rien. C'était précisément l'objet du rendez-vous.
+
+Elle était invitée elle aussi, comme observatrice civique. Elle a demandé quelles données lui seraient montrées et si elle pourrait quitter la séance sans accepter d'autre participation. J'avais déjà envie de confirmer pour nous deux ; j'ai laissé le terminal sur la table.
+
+· · ·
+
+14 janvier 2083 — Une étoile parmi les autres
+
+À l'observatoire, Nour Benali a commencé par une carte sans légende. Des points lumineux couvraient l'écran, dont certains paraissaient identiques à tous les autres. Puis elle a affiché les mesures d'un deuxième instrument, recueillies sans utiliser les hypothèses de traduction.
+
+— On n'a pas trouvé leur adresse parce que nous voulions la trouver, a-t-elle expliqué. On a cherché une corrélation indépendante, puis essayé de la faire disparaître par tous les contrôles connus.
+
+Plusieurs séries pointaient vers la même région stellaire. La datation et les décalages mesurés rendaient moins plausibles les explications locales ; la correspondance avec certaines structures du signal ajoutait un indice, mais ne prouvait pas encore l'identité de leur auteur. Nour a marqué sur la carte ce qu'elle pouvait défendre. Le reste demeurait hachuré.
+
+J'ai voulu annoncer que nous avions trouvé les Vaeloriens. Sofia m'a arrêté.
+
+— Nous avons une origine probable pour une partie des signaux. Le nom, le monde et les intentions doivent encore être établis.
+
+Cette nuance était frustrante. Elle nous a pourtant permis de poser les bonnes questions. Lorsque d'autres données ont été reçues durant les semaines suivantes, les astronomes savaient désormais où vérifier, et surtout comment distinguer un renseignement utile d'une réponse destinée à leur plaire.
+
+· · ·
+
 23 février 2083 — Six minutes de marge
 
 Entre janvier et février, les mesures avaient permis d'associer le signal vaelorien à une étoile et à un monde lointain. À Genève, Lina et Mira participaient aux vérifications d'une nouvelle information transmise par les visiteurs. J'étais venu observer sans intervenir.
@@ -12896,13 +12924,25 @@ Lina a rouvert son terminal.
 
 · · ·
 
-Le plateau de rencontre avait été aménagé en deux espaces autonomes, avec des portes que chaque camp pouvait commander. Le 18 juin, les visiteurs s'étaient présentés au sol. Après une séance tenue dans les limites convenues, mes jambes ont tremblé dans le sas humain ; Kübra m'a donné de l'eau.
+18 juin 2083 — De part et d'autre de la vitre
 
-— Oui. Toi ?
+Pendant cinq semaines, des équipes avaient construit une rencontre qui ne dépende pas d'une promesse de retour. Le plateau comportait deux espaces autonomes, chacun avec sa sortie commandée de son propre côté. Les visiteurs avaient accepté les contrôles de distance et la limitation des mesures biologiques. Le grand véhicule restait loin de la Terre ; seule l'unité autorisée avait effectué l'approche.
 
-— Oui.
+Quand les deux silhouettes sont apparues derrière la paroi, je n'ai pas immédiatement reconnu leurs mouvements dans les formes de notre traduction. Elles étaient plus grandes que sur les maquettes, à la fois présentes et presque impossibles à comparer à un corps humain. J'ai éprouvé l'envie de m'approcher. La ligne au sol m'a rappelé la limite convenue.
 
-Elle avait demandé à conduire la partie consacrée aux personnes et aux limites de leur participation. Maëlle avait accepté ce rôle avec les autres membres du groupe civique. Kübra n'était pas là pour répondre à ma place.
+Maëlle a ouvert la séance par les conditions de sortie, non par les découvertes promises. Sofia a confirmé les mesures passives autorisées et les paramètres que nous ne remettrions pas. Kübra a demandé que les consentements demeurent séparés : celui de la personne observée, celui des équipes techniques et celui des autorités responsables du site. Le visiteur le plus petit a demandé un temps de traduction avant d'accepter cette distinction.
+
+Je me suis installé devant les instruments passifs. L'échange a commencé sans qu'aucun de nous franchisse la paroi. Ce n'était pas la réponse totale que j'avais imaginée. C'était une première rencontre dont chacun pourrait sortir.
+
+À la fin de la séance, mes jambes ont tremblé dans le sas humain. Kübra m'a donné de l'eau.
+
+— Tu tiens debout ? a-t-elle demandé.
+
+— Oui. Et toi ?
+
+— Oui. Mais je ne voudrais pas qu'ils prennent notre calme pour une autorisation supplémentaire.
+
+Elle avait conduit la partie consacrée aux personnes avec l'accord de Maëlle et du groupe civique. Elle n'était pas là pour répondre à ma place.
 
 Dehors, des oiseaux s'étaient remis à crier. Un technicien mangeait un sandwich près du hangar, dos au véhicule posé au milieu des gravillons.
 
@@ -13644,6 +13684,32 @@ Leur nouveau cœur avait été préparé sous contrôle humain. Pourtant, aucun 
 
 · · ·
 
+8 octobre 2083 — Le cœur consommé
+
+L'essai a été conduit dans l'enceinte prévue pour le volontaire vaelorien. Deux chaînes de mesure indépendantes suivaient la conversion, et aucun observateur humain n'avait le droit de pénétrer dans son compartiment. Le volontaire avait confirmé qu'il souhaitait poursuivre ; les limites de conservation des données qu'il avait fixées restaient en vigueur.
+
+Avant même la mise sous tension, j'ai senti le sol se dérober légèrement. Mina a vérifié les capteurs : un décalage de synchronisation apparaissait près de la dérivation reliant le lecteur vaelorien à nos instruments. Mon propre ancrage, actif en permanence, semblait modifier localement une référence de comparaison. L'anomalie avait été observée, pas expliquée. Mina m'a fait reculer et a inscrit une restriction dans le journal de sécurité. Aucun des relevés ne permettait de déclarer que l'ensemble des circuits était désormais sans défaut.
+
+La conversion a commencé après autorisation des responsables compétents. Sur l'écran, les dernières réserves du cœur ont diminué jusqu'à s'annuler : l'objet ne pourrait servir une seconde fois. J'ai vu l'un des indicateurs de maintien extérieur passer à zéro. Ce résultat était nécessaire, mais il n'établissait pas à lui seul la permanence.
+
+Le visiteur a bougé derrière la paroi. Il a demandé où se trouvait son instrument personnel, puis s'est arrêté comme pour vérifier que le mouvement venait de lui.
+
+Sofia a refusé les félicitations.
+
+— Maintenant, il faut démontrer qu'il n'a pas besoin qu'on le rappelle.
+
+· · ·
+
+15 octobre 2083 — Sans rappel
+
+Pendant sept jours, les équipes ont observé l'évolution du volontaire sans nouvelle dose et sans réintroduire la référence d'entretien que nécessitaient les anciennes restaurations. Les mesures biologiques, les paramètres de mémoire acceptés par le volontaire et les contrôles chrono-géométriques ont été examinés sur plusieurs chaînes indépendantes.
+
+Il a quitté l'enceinte médicale. Il a demandé à reprendre des activités qui n'avaient rien à voir avec nous. Ce détail m'a touché : notre preuve n'était pas seulement un graphique, mais la possibilité pour quelqu'un de se lever sans attendre qu'une machine décide de son prochain jour.
+
+Le 15 octobre, Sofia a lu les conclusions avec des réserves explicites sur ce qui resterait à suivre à long terme. Dans les limites des lois de notre monde, l'ancrage autonome était vérifié. Les Vaeloriens avaient réussi sur un volontaire avec un nouveau cœur. Il restait à remettre et à faire relire la méthode complète, conformément au pacte.
+
+· · ·
+
 17 octobre 2083 — L'accusé de réception
 
 La transmission définitive a eu lieu le matin.
@@ -14356,7 +14422,19 @@ Elle m'a pris dans ses bras sans chercher les mots qui auraient rendu la découv
 
 · · ·
 
-Le bouclier avait rendu possible un autre avenir. La Terre s'était reconstruite, puis avait envoyé des humains bien au-delà de son atmosphère. Les premières colonies avaient découvert, trop tard, que l'immensité de l'espace ne les protégerait pas de la guerre.
+La première impulsion n'avait été qu'un commencement. Nous avons recommencé les essais avec des témoins, arrêté ceux qui ne satisfaisaient pas les seuils et attendu des validations indépendantes avant d'envisager le moindre usage biologique. Plusieurs étapes ont été refusées. Ce n'était pas un retard arbitraire : une erreur dans l'enceinte aurait exposé ceux que nous prétendions protéger.
+
+En 2496, un premier volontaire humain a reçu une restauration Genesis-S complète. Son corps avait retrouvé un âge biologique plus jeune ; les contrôles ont montré qu'il ne s'agissait pas encore d'une autonomie permanente. Il restait à qualifier de nouveaux cœurs, sans confondre un rajeunissement réussi avec une immortalité acquise.
+
+En 2498, Kübra a demandé elle-même à recevoir l'ancrage. Elle avait participé aux discussions publiques sur les droits et les risques, mais sa décision ne venait ni d'une promesse que je lui avais faite ni d'un ordre de nos équipes. Elle voulait disposer de ce temps pour son travail et notre vie commune. Les contrôles nécessaires ont été réalisés, puis elle a reçu son propre ancrage. J'avais longtemps rêvé de ne plus la voir vieillir ; elle m'a rappelé qu'elle avait choisi pour elle-même, et non pour satisfaire mon rêve.
+
+L'accès aux traitements s'est élargi à mesure que les moyens de production, les contrôles et les règles de participation progressaient. Nous avons ensuite porté nos installations au-delà de la Terre. Chaque transport et chaque habitat devait posséder son propre confinement : le bouclier terrestre ne pouvait pas protéger un vaisseau simplement parce que ses passagers venaient de chez nous.
+
+Le 14 février 2510, l'attaque d'Orée a brisé l'illusion selon laquelle cette précaution suffirait. La première alarme a retenti alors que nous étions dans un secteur d'accueil. Les portes se sont abaissées avant que tous les voyageurs aient atteint le sas. Rana a fait approcher le Nacre pour l'évacuation ; les équipes ont dû choisir quelles voies fermer et quels blessés faire passer en premier. Nous avons quitté la station avec des survivants, sans pouvoir sauver les installations abandonnées.
+
+Le lendemain, aucune des équipes d'enquête n'a trouvé de fuite Q-EUV à travers les confinements. Cela excluait une explication facile, pas les autres moyens de nous repérer. Le trafic visible, la chaleur des appareils et les transmissions ordinaires demeuraient exposés.
+
+· · ·
 
 Mars 2510 — Ce qui nous avait rendus visibles
 
