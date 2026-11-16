@@ -1354,6 +1354,16 @@ Pour la première fois, un coin du visage d'Henri a bougé.
 
 Je n'ai pas osé rire.
 
+Henri a fini par nous laisser l'aider à dégager un passage sans toucher aux parcelles. Ce n'était pas l'autorisation de cultiver que j'espérais, mais Nicolas a préféré commencer ainsi. Deux jours plus tard, nous sommes revenus avec Marc et David pour consolider une petite serre dont la bâche s'était déchirée. Henri nous regardait travailler lorsqu'il a évoqué sa sœur.
+
+— Marianne habite à quatre kilomètres. Elle a travaillé dans la restauration collective. Si vous voulez organiser vos repas sans gaspiller, elle en sait davantage que moi.
+
+— Vous l'avez vue depuis la Rupture ? a demandé Kübra, qui avait rejoint l'équipe.
+
+Il a secoué la tête.
+
+Nous lui avons proposé de l'accompagner jusqu'à chez elle. Il a accepté après avoir refermé lui-même le portail du jardin. Nous avons pris le chemin indiqué, sans savoir si nous trouverions quelqu'un.
+
 · · ·
 
 La maison de Marianne était vide.
@@ -1436,7 +1446,9 @@ Puis il a replié le papier.
 
 Il a laissé échapper un rire bref, presque involontaire.
 
-Nous sommes repartis.
+Nous sommes repartis vers le petit local mentionné sur le mot. Marianne s'y trouvait, occupée à ranger des provisions et des outils de jardinage. Elle a d'abord demandé à Henri pourquoi il était venu avec autant de monde. Puis elle l'a serré dans ses bras assez longtemps pour qu'aucun de nous ne songe à parler.
+
+Nous avons expliqué notre refuge et les repas que nous essayions d'organiser. Elle a accepté de venir examiner nos réserves et de donner des conseils, mais pas de quitter sa maison sur une promesse de sécurité que nous ne pouvions pas tenir. Henri ne lui a pas demandé davantage.
 
 · · ·
 
@@ -2970,9 +2982,9 @@ Je n'en ai pas trouvé non plus.
 
 · · ·
 
-23 novembre 2026 — Après la lumière
+Début décembre 2026 — De nouveaux voisins
 
-Au début de décembre, les lumières du refuge avaient attiré deux voisins transis de froid : Maëlle et Gabriel. Nous leur avions ouvert la porte. Gabriel, ancien technicien du quartier, connaissait des passages oubliés sous nos bâtiments. Une alerte sur l'eau de la résurgence avait aussi rappelé la fragilité de notre équilibre.
+Depuis la mise sous tension du 23 novembre, nous gardions seulement quelques éclairages utiles et surveillions la batterie chaque jour. Cela suffisait pourtant pour attirer les regards. Au début de décembre, deux voisins transis de froid s'étaient présentés au refuge : Maëlle et Gabriel. Nous leur avions ouvert la porte. Gabriel, ancien technicien du quartier, connaissait des passages oubliés sous nos bâtiments. Une alerte sur l'eau de la résurgence avait aussi rappelé la fragilité de notre équilibre.
 
 23 décembre — Une fête à préparer
 
@@ -6706,7 +6718,7 @@ Mais, pour la première fois depuis des mois, il savait où revenir chercher une
 
 19 avril 2027 — La troisième place
 
-Le lendemain du bulletin radio, j'ai trouvé une troisième tasse sur la table.
+Les bulletins étaient devenus réguliers, même lorsque le matériel imposait une émission plus courte. Le lendemain de l'un d'eux, j'ai trouvé une troisième tasse sur la table.
 
 C'était un petit récipient blanc, avec une fêlure près de l'anse. Nous l'avions récupéré dans un appartement du bâtiment B. Il ne servait presque jamais parce que l'émail s'écaillait au bord et que Kübra préférait ne pas l'utiliser pour boire.
 
@@ -13788,7 +13800,7 @@ Ceux qui avaient donné cette promesse venaient d'utiliser la réussite comme le
 
 · · ·
 
-Après la rupture du pacte et la disparition de l'ancre, le plateau avait basculé dans l'urgence. La nuit venue, une partie des équipes évacuait les blessés ; les autres transmettaient les derniers relevés pendant que des pannes sans cause locale se multipliaient.
+Après la violation du pacte et l'échec de la révocation des relais, le plateau avait basculé dans l'urgence. La nuit venue, une partie des équipes évacuait les blessés ; les autres transmettaient les derniers relevés pendant que des pannes sans cause locale se multipliaient.
 
 Les systèmes autonomes tenaient mieux que les réseaux liés aux premières dérives. Cela donnait du temps aux secours, pas une protection contre le changement de géométrie qui se préparait.
 
@@ -14438,7 +14450,7 @@ Le lendemain, aucune des équipes d'enquête n'a trouvé de fuite Q-EUV à trave
 
 Mars 2510 — Ce qui nous avait rendus visibles
 
-Orée avait subi une attaque qui nous avait forcés à évacuer, laissant derrière nous des vies et des installations. En mars 2510, l'enquête a pourtant confirmé que le bouclier terrestre tenait : les assaillants avaient trouvé la colonie autrement qu'en détectant une fuite Q-EUV.
+L'enquête ouverte après Orée a confirmé en mars 2510 que les confinements tenaient : les assaillants avaient trouvé la colonie autrement qu'en détectant une fuite Q-EUV.
 
 Une reconnaissance humaine a récupéré un élément d'observation endommagé près d'une route lunaire. Son stockage associait des images de trafic, des mesures thermiques et des fragments de transmissions ordinaires. Plusieurs séquences remontaient à des années avant l'attaque.
 
