@@ -2366,6 +2366,28 @@ Il m'a suffi de trois excuses pour trahir une promesse que j'avais pourtant fait
 
 J'ai refermé doucement la porte derrière moi.
 
+Dans la cour, l'air était plus froid que dans la chambre. J'ai passé le portail sans allumer ma lampe, puis suivi un chemin dont je connaissais les premiers mètres. Au-delà, chaque arbre en cachait un autre. Les bruits de la ville s'éteignaient derrière moi.
+
+J'avais fabriqué cet arc pour comprendre si nous pouvions nous défendre et chasser. Je ne l'avais jamais utilisé dans de telles conditions. À chaque craquement sous mes chaussures, je mesurais un peu mieux ce que signifiait partir sans personne pour me chercher. Je continuais pourtant.
+
+Une silhouette a bougé dans une clairière. J'ai d'abord cru voir une souche, puis une tête surmontée de bois. Un grand cerf avançait lentement entre les arbres. Il me paraissait énorme. J'ai attendu qu'il se rapproche, le cœur si bruyant que je ne savais plus si je respirais.
+
+L'arc a tremblé dans ma main. Je savais que son tir n'avait jamais été éprouvé sur un animal de cette taille. J'aurais pu rentrer. J'ai tiré.
+
+Le cerf a bondi et disparu. J'ai cru l'avoir manqué. Pendant de longues minutes, je suis resté immobile, incapable de décider s'il fallait le chercher ou le laisser. Puis j'ai suivi les marques qu'il avait laissées dans la terre humide. Je l'ai retrouvé couché entre deux jeunes arbres. Il ne bougeait plus.
+
+Je me suis agenouillé près de lui. La peur avait remplacé toute idée de victoire. Il était mort, et je ne pourrais même pas transporter seul cette masse jusqu'au village. J'ai repéré une pierre claire, un arbre déraciné et la direction de la pente pour retrouver l'endroit au jour. Ensuite seulement, j'ai repris le chemin du retour.
+
+Il était près de trois heures quand j'ai ouvert la porte de l'appartement. Kübra était éveillée, assise au bord du lit. Elle avait vu que mon arc avait disparu.
+
+— Tu es parti sans me le dire.
+
+Je lui ai raconté le cerf, le tir et l'endroit où je l'avais laissé. Elle m'a écouté jusqu'au bout.
+
+— Tu as peut-être trouvé de quoi nous nourrir, a-t-elle répondu. Mais tu m'as laissée dormir pour que je ne puisse pas te dire non.
+
+J'ai baissé les yeux. Je lui avais promis l'inverse deux semaines plus tôt. Nous n'avons pas trouvé les mots pour réparer cela avant l'aube.
+
 · · ·
 
 18 novembre 2026 — 6 h 30
@@ -2570,7 +2592,7 @@ Elle m'a embrassé.
 
 19 novembre 2026 — L'odeur de la fumée
 
-Deux nuits auparavant, au retour de l'expédition des villas, j'avais commis une faute que notre réserve de viande ne ferait pas disparaître. Je m'étais levé sans prévenir Kübra et étais parti seul dans la forêt avec un arc artisanal à peine éprouvé. J'avais abattu un cerf, trop lourd pour être ramené sans aide. Au petit matin, Kübra avait découvert mon absence et compris que j'avais trahi notre promesse de décider ensemble des risques. Le groupe était retourné récupérer l'animal, puis avait passé le 18 novembre à découper, cuire ou fumer ce qui pouvait être conservé sans attendre. Nous avions gagné de la nourriture et perdu une part de confiance. Kübra m'adressait toujours la parole, mais je ne pouvais pas prétendre que l'incident était clos.
+La veille, nous avions ramené le cerf, puis travaillé jusqu'à l'épuisement pour ne pas perdre la viande. Ce matin-là, l'odeur du fumoir me rappelait aussi que ma sortie solitaire avait laissé entre Kübra et moi une discussion encore inachevée.
 
 À mon réveil, le cerf avait cessé d'être un animal.
 
@@ -3276,7 +3298,13 @@ Il leur a donné une raison d'être.
 
 · · ·
 
-Après la réunion, nous avons déroulé la carte sur ma table de travail.
+Les jours qui ont suivi ont changé notre manière de parcourir la région. À Noël, une voiture électrique grise, longtemps immobilisée devant le bâtiment B, avait déjà repris la route après les vérifications de Mathieu, Bastien, Marc et David et la mise en service d'une recharge alimentée par nos panneaux. Son autonomie annoncée à l'écran restait une estimation, pas une promesse. Nous ne l'utilisions qu'après avoir préparé l'itinéraire et prévu le retour.
+
+Le 1er janvier, Marc avait repris une plateforme à deux roues pour la transformer en véritable auxiliaire de transport. Nous l'avions baptisée le Marc Express. Les premiers essais avaient eu lieu dans la cour, à la main et presque à vide. Il avait fallu ensuite reprendre les fixations, éprouver les charges, vérifier le comportement des roues et renoncer à plusieurs trajets que nous ne jugions pas encore sûrs. Les semaines suivantes, la remorque et le coffre de la voiture nous avaient permis quatre tournées de récupération : environ huit cents kilos de matériaux bruts au total, pas huit cents kilos de ressources immédiatement utilisables.
+
+Le 26 janvier, après la quatrième tournée, nous avions pu considérer l'ensemble de transport comme opérationnel, avec des limites de charge et d'entretien que Marc continuait de rappeler à tout le monde. L'atelier et les réserves avaient grandi ; nos échanges avec les communautés de l'ouest aussi. Il devenait possible d'envisager un déplacement plus long, à condition de ne pas confondre une route praticable avec une route sûre.
+
+Après la réunion de ce jour-là, nous avons déroulé la carte sur ma table de travail.
 
 David s'est placé à ma gauche. Nicolas regardait par-dessus mon épaule. Le papier portait maintenant tant d'annotations que certaines rues semblaient disparaître sous nos signes.
 
@@ -3374,9 +3402,13 @@ Il a ri. Sur la carte, pourtant, il restait un secteur dont nous ne connaissions
 
 27 janvier 2027 — Le départ
 
-Pour rencontrer les habitants de l'Est, nous avions préparé un chargement de cent kilos de planches. Nicolas et David m'accompagnaient ; Kübra avait fixé les conditions de l'échange avec le conseil.
+Pour rencontrer les habitants de l'Est, nous avions préparé un chargement de cent kilos de planches. Nicolas et David m'accompagnaient ; Kübra avait fixé les conditions de l'échange avec le conseil. Nous avions vérifié les fixations, la charge et la possibilité de rentrer sans dépendre d'une aide extérieure.
 
-La route nous a conduits jusqu'au village de l'Est, où Samuel nous attendait pour parler des cent kilos de planches. Ses premières offres ne correspondaient pas à nos besoins : il devait protéger les réserves des vingt-trois habitants dont il avait la charge.
+Le trajet nous a pris plus de temps que prévu. Il a fallu contourner des véhicules abandonnés, reconnaître un passage avant de risquer les roues de la remorque et nous arrêter deux fois pour comparer la route à notre carte. Nous ne savions pas encore si les gens de l'Est accepteraient seulement de nous parler.
+
+À l'entrée du village, nous avons annoncé notre présence et expliqué que nous venions proposer un échange. On nous a fait attendre à distance des réserves avant de nous présenter Samuel. Il a d'abord voulu savoir ce que nous apportions, puis qui nous avait autorisés à parler au nom des bâtiments B et C. Lorsque je lui ai montré les conditions écrites par notre conseil, il a accepté la discussion.
+
+Ses premières offres ne correspondaient pas à nos besoins : il devait protéger les réserves des vingt-trois habitants dont il avait la charge.
 
 Samuel pouvait céder des pommes de terre, mais il voulait conserver une réserve suffisante pour ses vingt-trois habitants. Il possédait quelques sacs de haricots secs qu'il avait reçus dans un échange précédent, sans savoir quand il pourrait les remplacer. Il était prêt à se séparer de matériel électrique inutilisé, mais seulement si David pouvait identifier les pièces et si personne ne promettait de les faire fonctionner immédiatement.
 
