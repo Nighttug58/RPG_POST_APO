@@ -3304,6 +3304,10 @@ Le 1er janvier, Marc avait repris une plateforme à deux roues pour la transform
 
 Le 26 janvier, après la quatrième tournée, nous avions pu considérer l'ensemble de transport comme opérationnel, avec des limites de charge et d'entretien que Marc continuait de rappeler à tout le monde. L'atelier et les réserves avaient grandi ; nos échanges avec les communautés de l'ouest aussi. Il devenait possible d'envisager un déplacement plus long, à condition de ne pas confondre une route praticable avec une route sûre.
 
+· · ·
+
+26 janvier 2027 — La prochaine route
+
 Après la réunion de ce jour-là, nous avons déroulé la carte sur ma table de travail.
 
 David s'est placé à ma gauche. Nicolas regardait par-dessus mon épaule. Le papier portait maintenant tant d'annotations que certaines rues semblaient disparaître sous nos signes.
@@ -4231,6 +4235,8 @@ Nous avons repris la discussion. Les colonnes sur la feuille avaient changé l�
 ## Chapitre 10 — Ce qui dort sous Lausanne
 
 4 février 2027 — Une invitation sans adresse
+
+Depuis notre premier entretien au pavillon, le conseil avait passé trois soirées à établir ce que nous pouvions révéler sans exposer les autres communautés. Sophie avait dressé la liste des informations partageables, Kübra celles des conditions de sortie. Isabelle avait accepté un second rendez-vous sans prétendre que ces précautions nous permettraient de connaître son réseau.
 
 La première chose que j'ai demandée à Isabelle n'a pas été où se trouvait son centre.
 
@@ -6436,6 +6442,8 @@ Rien n’effaçait la méfiance. La première machine attendrait les signatures 
 
 17 mars 2027 — Le bruit de personne
 
+L'accord sur l'emploi des machines n'avait pas effacé les tensions avec l'OCB. Nous pouvions maintenant déplacer certains équipements et réparer des ateliers, mais chaque chantier dépendait de personnes capables de se parler sans se rencontrer. Gabriel avait proposé de remettre en service un poste radio plutôt que de confier tous les messages à des voyageurs. David avait accepté de l'examiner ; l'atelier avait réservé une table pour ce nouvel essai.
+
 La première voix que nous avons cherchée ne nous a pas répondu.
 
 David avait déposé un ancien poste de radio sur la table de l'Atelier du Phénix. L'appareil portait des rayures profondes, un coin de boîtier fendu et une étiquette presque effacée. Une tige d'antenne dépassait de son dos, retenue par une fixation qui n'était pas d'origine.
@@ -6832,6 +6840,8 @@ Pendant quelques minutes, toute notre table a semblé respirer autrement.
 
 16 septembre 2027 — Mira
 
+Depuis le printemps, les travaux à Radio Lausanne et les tournées de ravitaillement continuaient, mais Kübra et moi comptions aussi le temps autrement. Les consultations avaient confirmé que la grossesse avançait ; nous avions organisé les trajets vers les soignants, préparé une chambre et demandé aux autres de ne pas traiter l'arrivée de notre enfant comme un événement collectif dont ils décideraient. Le réseau que nous bâtissions avait désormais une importance très concrète : pouvoir demander de l'aide quand il la faudrait.
+
 Les contractions avaient commencé la veille, et nous avions rejoint l'équipe de soins avec l'aide de Nicolas. Au matin, Mira est né. Kübra était épuisée ; je ne savais plus si j'avais regardé l'horloge une fois ou cent.
 
 Elle avait été courageuse, mais ce mot me semblait insuffisant. Elle avait eu mal. Elle avait eu peur. Elle avait posé des questions, demandé des pauses lorsque cela était possible et accepté l'aide des personnes présentes. Elle n'avait pas traversé tout cela pour devenir un symbole de force.
@@ -7147,6 +7157,8 @@ Il aurait le temps de l'apprendre.
 · · ·
 
 3 octobre 2030 — Le train qui attend
+
+Trois ans s'étaient écoulés depuis notre première reconnaissance des rails. Ils n'avaient pas été remplis de travaux triomphants. Certaines voies avaient dû être dégagées puis expertisées à nouveau ; les installations électriques exigeaient des protections, les pièces de rechange des ateliers capables de les produire, et chaque section des accords avec ceux qui y vivaient. Élodie avait fait avancer le chantier par tronçons, puis par essais limités. Entre Lausanne et Annecy, le trajet restait exceptionnel, pas une ligne rendue à la vie quotidienne. Cette première circulation annoncée était le résultat de toutes les fois où l'on avait choisi de ne pas lancer une rame trop tôt.
 
 Le matin du départ, la gare de Lausanne n'était pas pleine.
 
@@ -7742,6 +7754,8 @@ Cela me paraissait une victoire étrange.
 
 9 janvier 2033 — Le pain refusé
 
+L'accueil des nouveaux habitants avait changé la ville : les ateliers fabriquaient davantage, les transports reliaient plus de quartiers et les échanges ne pouvaient plus reposer sur la confiance personnelle entre quelques responsables. Les bons distribués localement avaient d'abord permis de remplacer le troc lorsque le Franc lémanique n'était pas encore partout accepté. À mesure que les communautés commerçaient entre elles, ces papiers étaient devenus un problème : un droit reconnu dans une rue cessait parfois de l'être quelques kilomètres plus loin.
+
 La femme devant moi avait trois bons dans la main.
 
 Un jaune, un bleu et un morceau de carton blanc portant un tampon à peine lisible. Elle les tenait entre deux doigts, avec la précaution de quelqu'un qui aurait voulu empêcher le papier de se déchirer.
@@ -8205,6 +8219,8 @@ J'ai fait tourner la roue neuve entre deux doigts. Elle ne sautait plus à chaqu
 · · ·
 
 6 janvier 2052 — Le fauteuil vide
+
+Dix-huit années s'étaient écoulées depuis la pièce usinée arrivée de Fribourg. Les échanges techniques avaient peu à peu retrouvé leur régularité ; les institutions régionales avaient dû se coordonner avec d'autres pays qui reconstruisaient, eux aussi, leurs réseaux et leurs règles. Notre famille avait traversé ce temps sans rester figée dans les premiers jours du Phénix. Mira avait grandi et choisi ses propres activités. Kübra avait continué à défendre la possibilité, pour les habitants, de contester ceux qui décidaient en leur nom. Quant à moi, j'avais appris à refuser certaines responsabilités, mais pas encore toutes les invitations.
 
 La première fois que j'ai envisagé sérieusement de diriger une organisation européenne, je cherchais une paire de chaussures.
 
@@ -8716,6 +8732,8 @@ Nous lui avons répondu sans lui demander de valider notre livre. Quelques jours
 
 18 février 2057 — Douze francs
 
+Le livre avait été publié, puis était parti plus loin que nous ne l'avions imaginé. Les rencontres et les lettres de lecteurs avaient prolongé notre histoire sans nous rendre à notre ancienne vie de dirigeants. Cette notoriété avait également attiré des propositions d'investissement ; nous en avions écarté beaucoup avant de demander à un conseiller de nous expliquer l'une d'elles. Pour une fois, le dossier ne concernait ni une machine à réparer ni un accord entre villages.
+
 La première fois que j'ai prononcé le mot PhenixCoin devant Kübra, elle a cru que je lui annonçais la création d'un nouveau projet.
 
 — Non, ai-je précisé. Cette fois, je n'ai rien inventé.
@@ -9117,6 +9135,8 @@ Pour comprendre ce qu'il nous avait appris de nos propres limites.
 ## Chapitre 18 — La lumière impossible
 
 15 janvier 2079 — Une porte qui ne promettait rien
+
+Neuf ans s'étaient écoulés depuis les premières discussions sur la fondation. Nous avions financé des projets utiles, refusé des promesses trop rapides et finalement consacré une part de nos moyens à un programme de recherche sur le vieillissement. Ce n'était ni une découverte achetée ni un laboratoire né de rien : Sofia Keller et d'autres équipes avaient déjà accumulé des résultats, des échecs et des protocoles que l'argent pouvait aider à poursuivre, mais pas remplacer. Lorsque la visite officielle avait enfin été fixée, Kübra avait demandé à rencontrer aussi les personnes chargées de contrôler les risques et les consentements.
 
 Le bâtiment ne ressemblait pas à l'endroit où l'on aurait dû découvrir comment vaincre le vieillissement.
 
@@ -9889,6 +9909,8 @@ Je savais seulement que, pour la première fois depuis longtemps, j'avais peur q
 ## Chapitre 19 — La jeunesse et l'ancre
 
 9 janvier 2081 — Le formulaire sur la table
+
+Depuis la validation des premières trajectoires biologiques en 2080, les chercheurs avaient multiplié les contrôles indépendants. La découverte ne signifiait pas qu'un humain pouvait aussitôt entrer dans une machine et en ressortir rajeuni : il fallait distinguer les résultats observés des effets durables et soumettre tout essai à des autorisations. Les questions sur le champ Qν avaient compliqué le dossier sans faire disparaître l'espoir. Ce janvier-là, la recherche est devenue pour nous une possibilité accompagnée d'un document à signer, ou à refuser.
 
 Le premier document qui annonçait la possibilité de retrouver vingt-cinq ans n'avait rien d'extraordinaire.
 
