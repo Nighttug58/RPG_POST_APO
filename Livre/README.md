@@ -1,4 +1,20 @@
-# RUPTURE — Roman
+# RUPTURE — Bibliothèque du roman
+
+## Édition principale — refonte intégrale du 16 novembre 2026
+
+**Lire le roman : [RUPTURE.md](RUPTURE.md).**
+
+Cette version de lecture est une **réécriture complète** : 30 chapitres en 6 parties, nouveaux enchaînements, nouvelles scènes, évolution remaniée des personnages et des révélations. Il s'agit d'un récit autonome, non d'un simple raccourcissement de la version antérieure. Le manuscrit complet est aussi conservé dans [editions/refonte_integrale_2026/RUPTURE_refonte_integrale.md](editions/refonte_integrale_2026/RUPTURE_refonte_integrale.md) et ses [six parties séparées](editions/refonte_integrale_2026/README.md).
+
+L'édition précédente de 27 chapitres reste accessible dans [editions/passe5/RUPTURE_edition_revisee_passe5.md](editions/passe5/RUPTURE_edition_revisee_passe5.md). Les **50 chapitres de rédaction historique** restent dans [chapitres/](chapitres/).
+
+**Important :** les anciens fichiers Word et PDF concernent les éditions antérieures, pas cette nouvelle refonte. Pour une première lecture sans révélations anticipées, ouvrir directement le manuscrit principal, sans lire les documents de continuité.
+
+---
+
+## Documentation historique de la première rédaction (archive)
+
+Les indications ci-dessous étaient celles du manuscrit original de 50 chapitres. Elles ne définissent plus la structure ni les événements de la nouvelle édition.
 
 **Projet :** adaptation littéraire de la campagne RPG_POST_APO.  
 **Auteur et narrateur :** Tugay (récit à la première personne).  
